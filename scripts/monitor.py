@@ -196,14 +196,14 @@ def fetch_rating(token, offer_id):
             return None
 
     avg = None
-    for k in ("averageRating", "average", "avg", "value", "score", "rating"):
+    for k in ("averageScore", "averageRating", "average", "avg", "value", "score", "rating"):
         avg = _num(j.get(k))
         if avg is not None:
             break
 
     dist = {str(k): 0 for k in range(1, 6)}
-    raw_dist = (j.get("ratingCountDistribution") or j.get("distribution")
-                or j.get("ratings") or j.get("stars") or [])
+    raw_dist = (j.get("scoreDistribution") or j.get("ratingCountDistribution")
+                or j.get("distribution") or j.get("ratings") or j.get("stars") or [])
     if isinstance(raw_dist, dict):
         for star, cnt in raw_dist.items():
             s = str(star)
@@ -213,7 +213,7 @@ def fetch_rating(token, offer_id):
         for d in raw_dist:
             if not isinstance(d, dict):
                 continue
-            star = str(d.get("rating") or d.get("value") or d.get("star") or "")
+            star = str(d.get("name") or d.get("rating") or d.get("value") or d.get("star") or "")
             cnt = d.get("count")
             if cnt is None:
                 cnt = d.get("quantity")
@@ -223,7 +223,7 @@ def fetch_rating(token, offer_id):
                 dist[star] = int(_num(cnt) or 0)
 
     total = None
-    for k in ("ratingCount", "ratingsCount", "totalCount", "count", "total", "opinionsCount", "reviewsCount", "size"):
+    for k in ("totalResponses", "ratingCount", "ratingsCount", "totalCount", "count", "total", "opinionsCount", "reviewsCount", "size"):
         total = _num(j.get(k))
         if total is not None:
             break
