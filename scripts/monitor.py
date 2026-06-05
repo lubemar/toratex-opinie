@@ -372,25 +372,42 @@ def extract_offer_id(item):
 
 
 def normalize_review(item, offer_lookup):
+    """Schemat aktora e-commerce/allegro-reviews-scraper (zweryfikowany 06.2026):
+    id, author{name}, opinion, rating{label,percentage}, pros, cons, createdAt,
+    productTitle, url, seller{login}. Parsowanie pozostaje defensywne na wypadek zmian."""
     oid = extract_offer_id(item)
+
     rating_raw = _pick(item, ["rating", "score", "stars", "ratingValue"])
+    if isinstance(rating_raw, dict):
+        rating_raw = (rating_raw.get("label") or rating_raw.get("value")
+                      or rating_raw.get("rating") or rating_raw.get("score"))
     try:
         rating = float(str(rating_raw).replace(",", ".")) if rating_raw is not None else None
-    except ValueError:
+    except (ValueError, TypeError):
         rating = None
-    content = _pick(item, ["content", "text", "comment", "review", "opinion", "description"]) or ""
-    author = _pick(item, ["author", "user", "username", "login", "reviewer", "buyer"]) or ""
-    date = _pick(item, ["date", "createdAt", "publishedAt", "creationDate", "reviewDate"]) or ""
-    pros = _pick(item, ["advantages", "pros", "positives"]) or ""
-    cons = _pick(item, ["disadvantages", "cons", "negatives"]) or ""
+
+    author_raw = _pick(item, ["author", "user", "username", "login", "reviewer", "buyer"]) or ""
+    if isinstance(author_raw, dict):
+        author_raw = author_raw.get("name") or author_raw.get("login") or ""
+
+    content = _pick(item, ["opinion", "content", "text", "comment", "review", "description"]) or ""
+    date = _pick(item, ["createdAt", "date", "publishedAt", "creationDate", "reviewDate"]) or ""
+    pros = _pick(item, ["pros", "advantages", "positives"]) or ""
+    cons = _pick(item, ["cons", "disadvantages", "negatives"]) or ""
+
     info = offer_lookup.get(oid, {})
-    rid = hashlib.sha1(f"{oid}|{author}|{date}|{content}".encode()).hexdigest()[:16]
+    name = info.get("name") or str(item.get("productTitle") or "")[:90]
+
+    rid = item.get("id")
+    if not rid:
+        rid = hashlib.sha1(f"{oid}|{author_raw}|{date}|{content}".encode()).hexdigest()[:16]
+
     return {
-        "id": rid, "offerId": oid,
-        "offerName": info.get("name", ""), "shop": info.get("shop", ""),
+        "id": str(rid), "offerId": oid,
+        "offerName": name, "shop": info.get("shop", ""),
         "url": info.get("url", f"https://allegro.pl/oferta/{oid}" if oid else ""),
         "rating": rating, "content": str(content).strip(),
-        "author": str(author), "date": str(date),
+        "author": str(author_raw), "date": str(date),
         "pros": str(pros), "cons": str(cons),
     }
 
