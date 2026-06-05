@@ -1,4 +1,5 @@
 {
  "__urlsKey": "startUrls",
- "__urlsFormat": "objects"
+ "__urlsFormat": "objects",
+ "maxReviewsPerProduct": 10
 }
