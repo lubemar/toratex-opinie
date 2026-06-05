@@ -18,6 +18,12 @@ from email.mime.text import MIMEText
 from pathlib import Path
 
 import requests
+from requests.adapters import HTTPAdapter, Retry
+
+SESSION = requests.Session()
+SESSION.mount("https://", HTTPAdapter(max_retries=Retry(
+    total=4, backoff_factor=2, status_forcelist=(429, 500, 502, 503, 504),
+    allowed_methods=("GET", "POST"))))
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"                # stan wewnętrzny
@@ -31,6 +37,7 @@ SHOPS = [
 ]
 
 NEGATIVE_THRESHOLD = 3
+_RATING_DEBUGGED = False
 ROTATION_WARN_DAYS = 75   # ostrzeżenie, gdy rotacja refresh tokena nie działa tyle dni
 APIFY_CREDIT_WARN = 0.80  # alert przy 80% zużycia miesięcznego kredytu
 
@@ -149,7 +156,7 @@ def fetch_offers(token):
     """Wszystkie aktywne oferty konta (paginacja)."""
     out, offset, limit = [], 0, 1000
     while True:
-        r = requests.get(
+        r = SESSION.get(
             "https://api.allegro.pl/sale/offers",
             headers=allegro_headers(token),
             params={"publication.status": "ACTIVE", "limit": limit, "offset": offset},
@@ -165,7 +172,7 @@ def fetch_offers(token):
 
 def fetch_rating(token, offer_id):
     """Rating oferty: liczba opinii, średnia, rozkład 1-5. Parsowanie defensywne."""
-    r = requests.get(
+    r = SESSION.get(
         f"https://api.allegro.pl/sale/offers/{offer_id}/rating",
         headers=allegro_headers(token), timeout=30,
     )
@@ -173,21 +180,56 @@ def fetch_rating(token, offer_id):
         return None
     r.raise_for_status()
     j = r.json()
-    avg = j.get("averageRating") or j.get("average") or 0
+    global _RATING_DEBUGGED
+    if not _RATING_DEBUGGED:
+        _RATING_DEBUGGED = True
+        log(f"RATING RAW (oferta {offer_id}): {json.dumps(j, ensure_ascii=False)[:500]}")
+
+    # niektore API zagniezdzaja dane pod kluczem "rating"
+    if isinstance(j.get("rating"), dict):
+        j = {**j, **j["rating"]}
+
+    def _num(v):
+        try:
+            return float(str(v).replace(",", "."))
+        except (ValueError, TypeError):
+            return None
+
+    avg = None
+    for k in ("averageRating", "average", "avg", "value", "score", "rating"):
+        avg = _num(j.get(k))
+        if avg is not None:
+            break
+
     dist = {str(k): 0 for k in range(1, 6)}
-    raw_dist = j.get("ratingCountDistribution") or j.get("distribution") or []
+    raw_dist = (j.get("ratingCountDistribution") or j.get("distribution")
+                or j.get("ratings") or j.get("stars") or [])
     if isinstance(raw_dist, dict):
         for star, cnt in raw_dist.items():
             s = str(star)
             if s in dist:
-                dist[s] = int(cnt or 0)
-    else:
+                dist[s] = int(_num(cnt) or 0)
+    elif isinstance(raw_dist, list):
         for d in raw_dist:
-            star = str(d.get("rating") or d.get("value") or "")
+            if not isinstance(d, dict):
+                continue
+            star = str(d.get("rating") or d.get("value") or d.get("star") or "")
+            cnt = d.get("count")
+            if cnt is None:
+                cnt = d.get("quantity")
+            if cnt is None:
+                cnt = d.get("amount")
             if star in dist:
-                dist[star] = int(d.get("count") or 0)
-    total = j.get("ratingCount") or j.get("totalCount") or sum(dist.values())
-    return {"avg": round(float(avg), 2), "total": int(total), "dist": dist}
+                dist[star] = int(_num(cnt) or 0)
+
+    total = None
+    for k in ("ratingCount", "ratingsCount", "totalCount", "count", "total", "opinionsCount", "reviewsCount", "size"):
+        total = _num(j.get(k))
+        if total is not None:
+            break
+    if total is None:
+        total = sum(dist.values())
+    return {"avg": round(avg or 0, 2), "total": int(total), "dist": dist}
 
 
 # ---------------------------------------------------------------- Tier 1: delta
@@ -222,7 +264,8 @@ def collect_current_state(meta, alerts):
             alerts.append(("token", shop["key"], str(e)))
     if ok_shops == 0:
         raise RuntimeError("Żadne konto Allegro nie działa — przerywam bez nadpisania stanu.")
-    return current
+    failed = [a[1] for a in alerts if a[0] == "token"]
+    return current, failed
 
 
 def diff_state(prev, curr):
@@ -469,8 +512,8 @@ def alert_token_failures(alerts):
     fails = [a for a in alerts if a[0] == "token"]
     for _, shop, err in fails:
         send_email(
-            f"[AWARIA] Token Allegro: {shop}",
-            f"<p>Odświeżenie tokena konta <b>{shop}</b> nie powiodło się:</p>"
+            f"[AWARIA] Konto Allegro: {shop}",
+            f"<p>Pobieranie danych konta <b>{shop}</b> nie powiodło się:</p>"
             f"<pre>{err}</pre>"
             f"<p>Jeśli błąd się powtórzy, wykonaj ponowną autoryzację: "
             f"uruchom lokalnie <code>python scripts/authorize.py</code>, zaloguj się na konto "
@@ -569,7 +612,15 @@ def main():
     meta["lastRun"] = iso()
 
     # --- Tier 1
-    current = collect_current_state(meta, alerts)
+    current, failed_shops = collect_current_state(meta, alerts)
+    if failed_shops:
+        kept = 0
+        for oid, s in prev_state.items():
+            if s.get("shop") in failed_shops and oid not in current:
+                current[oid] = s
+                kept += 1
+        log(f"Awaria sklepow {failed_shops}: zachowano {kept} ofert z poprzedniego stanu "
+            f"(unikamy falszywych delt i utraty danych)")
     deltas = diff_state(prev_state, current)
     log(f"Tier 1: {len(current)} ofert, {len(deltas)} z deltą"
         + (" (baseline — pierwszy przebieg)" if baseline else ""))
