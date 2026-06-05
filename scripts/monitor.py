@@ -323,11 +323,12 @@ def apify_usage(token):
         return None
 
 
-def run_actor(actor, token, payload, timeout_s=900):
-    """Odpala aktora Apify i zwraca itemy z datasetu."""
+def run_actor(actor, token, payload, timeout_s=1500, actor_timeout=600):
+    """Odpala aktora Apify i zwraca itemy z datasetu.
+    actor_timeout = limit czasu pojedynczego runu po stronie Apify (sekundy)."""
     r = requests.post(
         f"https://api.apify.com/v2/acts/{actor}/runs",
-        params={"token": token}, json=payload, timeout=60,
+        params={"token": token, "timeout": actor_timeout}, json=payload, timeout=60,
     )
     if r.status_code == 402:
         raise ApifyCreditError(f"Brak kredytu Apify (HTTP 402): {r.text[:200]}")
@@ -360,36 +361,70 @@ def run_actor(actor, token, payload, timeout_s=900):
     raise RuntimeError("Run Apify: przekroczono limit czasu oczekiwania")
 
 
-def apify_scrape(urls, alerts, full=False):
-    """Scrapuje opinie dla listy URL-i ofert. Fallback na drugi token przy braku kredytu.
+CHUNK_SIZE = 25  # ofert na jeden run aktora — Allegro blokuje masowe wejscia, wiec male paczki
 
-    full=True (backfill): bez limitu opinii na produkt - pobiera komplet.
-    full=False (codziennie): limit maxReviewsPerProduct z apify_input.json
-    ogranicza koszt (placimy za kazda pobrana opinie).
+def apify_scrape(urls, alerts, full=False):
+    """Scrapuje opinie partiami (CHUNK_SIZE ofert/run). Tolerancja czesciowych bledow:
+    jedna paczka padnie -> reszta leci dalej, zebrane opinie sie zapisuja.
+    Fallback na drugi token przy braku kredytu. Zwraca (items, liczba_nieudanych_paczek).
+
+    full=True (backfill): bez limitu opinii na produkt - komplet.
+    full=False (codziennie): limit maxReviewsPerProduct z apify_input.json.
     """
     actor = (ENV("APIFY_ACTOR_ID") or "e-commerce/allegro-reviews-scraper").replace("/", "~")
     template = load_json(ROOT / "apify_input.json", {})
     urls_key = template.pop("__urlsKey", "startUrls")
     urls_format = template.pop("__urlsFormat", "objects")
-    payload = dict(template)
+    base = dict(template)
     if full:
-        payload.pop("maxReviewsPerProduct", None)
-    payload[urls_key] = [{"url": u} for u in urls] if urls_format == "objects" else list(urls)
+        base.pop("maxReviewsPerProduct", None)
 
     tokens = apify_tokens()
     if not tokens:
         raise RuntimeError("Brak APIFY_TOKEN w sekretach")
-    last_err = None
-    for i, tok in enumerate(tokens, start=1):
-        try:
-            items = run_actor(actor, tok, payload)
-            log(f"Apify OK (token #{i}): {len(items)} itemów")
-            return items, i
-        except ApifyCreditError as e:
-            log(f"Token Apify #{i}: brak kredytu — {e}")
-            alerts.append(("apify_credit_exhausted", f"token #{i}", str(e)))
-            last_err = e
-    raise last_err
+
+    urls = list(urls)
+    chunks = [urls[i:i + CHUNK_SIZE] for i in range(0, len(urls), CHUNK_SIZE)]
+    all_items, failed = [], 0
+    credit_dead = set()  # tokeny bez kredytu — nie probujemy ich ponownie
+
+    for ci, chunk in enumerate(chunks, start=1):
+        payload = dict(base)
+        payload[urls_key] = ([{"url": u} for u in chunk] if urls_format == "objects"
+                             else list(chunk))
+        ok, last = False, None
+        for ti, tok in enumerate(tokens, start=1):
+            if ti in credit_dead:
+                continue
+            try:
+                items = run_actor(actor, tok, payload)
+                all_items.extend(items)
+                log(f"Apify paczka {ci}/{len(chunks)} OK (token #{ti}): "
+                    f"{len(items)} itemow [{len(chunk)} ofert]")
+                ok = True
+                break
+            except ApifyCreditError as e:
+                log(f"Token Apify #{ti}: brak kredytu — {e}")
+                alerts.append(("apify_credit_exhausted", f"token #{ti}", str(e)))
+                credit_dead.add(ti)
+                last = e
+            except Exception as e:
+                log(f"Apify paczka {ci}/{len(chunks)} BLAD (token #{ti}): {e}")
+                last = e
+                break  # blad nie-kredytowy: nie probuj innego tokena dla tej paczki
+        if not ok:
+            failed += 1
+        if len(credit_dead) == len(tokens):
+            log("Wszystkie tokeny Apify bez kredytu — przerywam dalsze paczki")
+            failed += len(chunks) - ci
+            break
+
+    if not all_items and failed:
+        raise RuntimeError(f"Apify: wszystkie {failed} paczek nieudane (ostatni blad: {last})")
+    if failed:
+        log(f"Apify: {failed}/{len(chunks)} paczek nieudanych, "
+            f"{len(all_items)} itemow zebranych mimo to")
+    return all_items, failed
 
 
 # ----------------------------------------------------- normalizacja opinii
@@ -640,9 +675,11 @@ def main():
     if to_scrape:
         urls = [c["url"] for c in to_scrape.values()]
         try:
-            items, token_used = apify_scrape(urls, alerts, full=backfill)
+            items, failed_chunks = apify_scrape(urls, alerts, full=backfill)
             stored, new_reviews = merge_reviews(stored, items, current, set(to_scrape.keys()))
-            log(f"Tier 2: {len(new_reviews)} nowych opinii (token #{token_used})")
+            log(f"Tier 2: {len(new_reviews)} nowych opinii"
+                + (f" ({failed_chunks} paczek nieudanych — sprobuje ponownie nastepnym razem)"
+                   if failed_chunks else ""))
         except Exception as e:
             scrape_failed = True
             log(f"BŁĄD Tier 2: {e}")
