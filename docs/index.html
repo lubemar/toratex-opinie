@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TORATEX — Opinie o produktach</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1a202c; --muted:#64748b; --line:#e2e8f0;
+          --green:#15803d; --green-bg:#dcfce7; --red:#b91c1c; --red-bg:#fee2e2;
+          --amber:#b45309; --amber-bg:#fef3c7; --accent:#0f766e; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family:system-ui,-apple-system,'Segoe UI',sans-serif; background:var(--bg); color:var(--text); }
+  .wrap { max-width:960px; margin:0 auto; padding:24px 16px 60px; }
+  h1 { font-size:22px; margin-bottom:4px; }
+  .sub { color:var(--muted); font-size:14px; margin-bottom:16px; }
+  .banner { padding:10px 14px; border-radius:8px; font-size:14px; margin-bottom:20px; font-weight:500; }
+  .banner.ok { background:var(--green-bg); color:var(--green); }
+  .banner.stale { background:var(--red-bg); color:var(--red); }
+  .banner.warn { background:var(--amber-bg); color:var(--amber); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:20px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; }
+  .card .v { font-size:26px; font-weight:600; }
+  .card .l { font-size:13px; color:var(--muted); }
+  .filters { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px;
+             display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:16px; font-size:14px; }
+  .filters select,.filters input[type=text] { padding:6px 8px; border:1px solid var(--line); border-radius:6px; font-size:14px; }
+  .filters label { display:flex; align-items:center; gap:5px; }
+  .review { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:10px; }
+  .review.neg { border-left:4px solid var(--red); border-radius:0 10px 10px 0; }
+  .rhead { display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:13px; color:var(--muted); margin-bottom:6px; }
+  .stars { color:#d97706; font-size:15px; letter-spacing:1px; }
+  .badge { padding:1px 8px; border-radius:99px; font-size:12px; font-weight:500; }
+  .badge.shop { background:#e0f2fe; color:#075985; }
+  .badge.new { background:var(--green-bg); color:var(--green); }
+  .badge.negb { background:var(--red-bg); color:var(--red); }
+  .oname { font-weight:600; font-size:14px; margin-bottom:6px; }
+  .oname a { color:var(--text); text-decoration:none; }
+  .oname a:hover { color:var(--accent); }
+  .content { font-size:15px; line-height:1.5; }
+  .proscons { font-size:13px; color:var(--muted); margin-top:6px; }
+  .pager { display:flex; gap:10px; align-items:center; justify-content:center; margin-top:18px; font-size:14px; }
+  .pager button { padding:6px 14px; border:1px solid var(--line); background:var(--card); border-radius:6px; cursor:pointer; }
+  .pager button:disabled { opacity:.4; cursor:default; }
+  .empty { text-align:center; color:var(--muted); padding:40px 0; }
+  footer { margin-top:30px; font-size:12px; color:var(--muted); text-align:center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Opinie o produktach — TORATEX</h1>
+  <div class="sub">Allegro · tora_official + toratex_pl · delta tracking + targeted scraping</div>
+  <div id="banner" class="banner warn">Ładowanie danych…</div>
+
+  <div class="cards">
+    <div class="card"><div class="v" id="stTotal">—</div><div class="l">Łącznie opinii</div></div>
+    <div class="card"><div class="v" id="stAvg">—</div><div class="l">Śr. ocena</div></div>
+    <div class="card"><div class="v" id="stNeg">—</div><div class="l">Negatywne (≤3★)</div></div>
+    <div class="card"><div class="v" id="stNew">—</div><div class="l">Nowe (7 dni)</div></div>
+  </div>
+
+  <div class="filters">
+    <select id="fShop">
+      <option value="">Wszystkie sklepy</option>
+      <option value="tora_official">tora_official</option>
+      <option value="toratex_pl">toratex_pl</option>
+    </select>
+    <select id="fRating">
+      <option value="">Każda ocena</option>
+      <option value="neg">Tylko negatywne (≤3★)</option>
+      <option value="5">5★</option><option value="4">4★</option>
+      <option value="3">3★</option><option value="2">2★</option><option value="1">1★</option>
+    </select>
+    <label><input type="checkbox" id="fContent"> z treścią</label>
+    <label><input type="checkbox" id="fNew"> nowe (7 dni)</label>
+    <input type="text" id="fSearch" placeholder="szukaj w treści / nazwie…">
+    <span id="count" style="margin-left:auto;color:var(--muted)"></span>
+  </div>
+
+  <div id="list"></div>
+  <div class="pager">
+    <button id="prev">‹ Poprzednia</button>
+    <span id="pageInfo"></span>
+    <button id="next">Następna ›</button>
+  </div>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const PER_PAGE = 20;
+let reviews = [], filtered = [], page = 1;
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function ageHours(isoStr) { return (Date.now() - new Date(isoStr).getTime()) / 36e5; }
+function fmtDate(s) {
+  if (!s) return '';
+  const d = new Date(s);
+  return isNaN(d) ? esc(s) : d.toLocaleDateString('pl-PL');
+}
+function isNew(r) { return r.firstSeen && ageHours(r.firstSeen) < 168; }
+function stars(n) { return n == null ? '' : '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
+
+async function init() {
+  try {
+    const bust = '?t=' + Date.now();
+    const [meta, data] = await Promise.all([
+      fetch('data/meta.json' + bust).then(r => r.json()),
+      fetch('data/reviews.json' + bust).then(r => r.json()),
+    ]);
+    reviews = data.reviews || [];
+    renderBanner(meta);
+    renderStats();
+    applyFilters();
+    $('foot').textContent = `Ostatnia aktualizacja danych: ${meta.lastSuccess ? new Date(meta.lastSuccess).toLocaleString('pl-PL') : 'brak'} · sprawdzonych ofert: ${meta.offersChecked ?? '—'}`;
+  } catch (e) {
+    $('banner').className = 'banner stale';
+    $('banner').textContent = 'Nie udało się wczytać danych: ' + e.message;
+  }
+}
+
+function renderBanner(meta) {
+  const b = $('banner');
+  if (!meta.lastSuccess) {
+    b.className = 'banner warn';
+    b.textContent = 'Brak udanego przebiegu — system czeka na pierwszy sync (baseline).';
+    return;
+  }
+  const h = ageHours(meta.lastSuccess);
+  const when = new Date(meta.lastSuccess).toLocaleString('pl-PL');
+  if (h <= 30) {
+    b.className = 'banner ok';
+    b.textContent = `✓ System działa. Ostatni udany sync: ${when} (${h.toFixed(0)} h temu)` +
+      (meta.lastDeltas ? ` · zmian: ${meta.lastDeltas}, nowych opinii: ${meta.lastNewReviews}` : ' · brak zmian w ostatnim przebiegu');
+  } else {
+    b.className = 'banner stale';
+    b.textContent = `⚠ UWAGA: ostatni udany sync ${when} — ponad ${h.toFixed(0)} h temu. Sprawdź GitHub Actions i skrzynkę (healthchecks).`;
+  }
+}
+
+function renderStats() {
+  const withRating = reviews.filter(r => r.rating != null);
+  $('stTotal').textContent = reviews.length;
+  $('stAvg').textContent = withRating.length
+    ? (withRating.reduce((a, r) => a + r.rating, 0) / withRating.length).toFixed(2) : '—';
+  $('stNeg').textContent = withRating.filter(r => r.rating <= 3).length;
+  $('stNew').textContent = reviews.filter(isNew).length;
+}
+
+function applyFilters() {
+  const shop = $('fShop').value, rating = $('fRating').value,
+        onlyContent = $('fContent').checked, onlyNew = $('fNew').checked,
+        q = $('fSearch').value.trim().toLowerCase();
+  filtered = reviews.filter(r => {
+    if (shop && r.shop !== shop) return false;
+    if (rating === 'neg') { if (r.rating == null || r.rating > 3) return false; }
+    else if (rating) { if (r.rating == null || Math.round(r.rating) !== +rating) return false; }
+    if (onlyContent && !(r.content && r.content.trim())) return false;
+    if (onlyNew && !isNew(r)) return false;
+    if (q && !((r.content || '') + ' ' + (r.offerName || '')).toLowerCase().includes(q)) return false;
+    return true;
+  });
+  page = 1;
+  renderList();
+}
+
+function renderList() {
+  const pages = Math.max(1, Math.ceil(filtered.length / PER_PAGE));
+  page = Math.min(page, pages);
+  const slice = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+  $('count').textContent = `${filtered.length} opinii`;
+  $('pageInfo').textContent = `Strona ${page} z ${pages}`;
+  $('prev').disabled = page <= 1;
+  $('next').disabled = page >= pages;
+  if (!slice.length) {
+    $('list').innerHTML = '<div class="empty">Brak opinii spełniających kryteria.</div>';
+    return;
+  }
+  $('list').innerHTML = slice.map(r => {
+    const neg = r.rating != null && r.rating <= 3;
+    return `<div class="review${neg ? ' neg' : ''}">
+      <div class="rhead">
+        <span class="stars">${stars(r.rating)}</span>
+        ${neg ? '<span class="badge negb">Negatywna</span>' : ''}
+        ${isNew(r) ? '<span class="badge new">Nowa</span>' : ''}
+        <span class="badge shop">${esc(r.shop || '?')}</span>
+        <span>${fmtDate(r.date)}</span>
+        <span>· ${esc(r.author || 'anonim')}</span>
+      </div>
+      <div class="oname"><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.offerName || 'Oferta ' + r.offerId)}</a></div>
+      ${r.content ? `<div class="content">„${esc(r.content)}”</div>` : '<div class="content" style="color:var(--muted)">(bez treści)</div>'}
+      ${(r.pros || r.cons) ? `<div class="proscons">${r.pros ? '➕ ' + esc(r.pros) : ''} ${r.cons ? ' ➖ ' + esc(r.cons) : ''}</div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+['fShop', 'fRating', 'fContent', 'fNew'].forEach(id => $(id).addEventListener('change', applyFilters));
+$('fSearch').addEventListener('input', () => { clearTimeout(window._t); window._t = setTimeout(applyFilters, 250); });
+$('prev').onclick = () => { page--; renderList(); window.scrollTo(0, 0); };
+$('next').onclick = () => { page++; renderList(); window.scrollTo(0, 0); };
+init();
+</script>
+</body>
+</html>
