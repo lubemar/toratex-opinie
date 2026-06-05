@@ -1,0 +1,72 @@
+name: Monitor opinii Allegro
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # ~06:00 czasu polskiego (lato), ~05:00 (zima)
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: 'Backfill: pobierz WSZYSTKIE opinie wszystkich ofert (jednorazowo, zuzywa kredyt Apify)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Zaleznosci
+        run: pip install requests
+
+      - name: Monitoring (Tier 1 + Tier 2 + alerty)
+        env:
+          ALLEGRO_CLIENT_ID: ${{ secrets.ALLEGRO_CLIENT_ID }}
+          ALLEGRO_CLIENT_SECRET: ${{ secrets.ALLEGRO_CLIENT_SECRET }}
+          ALLEGRO_REFRESH_TOKEN_TORA: ${{ secrets.ALLEGRO_REFRESH_TOKEN_TORA }}
+          ALLEGRO_REFRESH_TOKEN_TORATEX: ${{ secrets.ALLEGRO_REFRESH_TOKEN_TORATEX }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          APIFY_TOKEN_2: ${{ secrets.APIFY_TOKEN_2 }}
+          APIFY_ACTOR_ID: ${{ vars.APIFY_ACTOR_ID }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_REPO: ${{ github.repository }}
+          BACKFILL: ${{ inputs.backfill }}
+        run: python scripts/monitor.py
+
+      - name: Commit danych
+        if: always()
+        run: |
+          git config user.name "opinie-bot"
+          git config user.email "opinie-bot@users.noreply.github.com"
+          git add -A data docs/data
+          git diff --cached --quiet || git commit -m "sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Ping healthcheck (sukces)
+        if: success()
+        env:
+          HC: ${{ secrets.HEALTHCHECK_URL }}
+        run: |
+          if [ -n "$HC" ]; then curl -fsS --retry 3 -m 10 "$HC" > /dev/null; fi
+
+      - name: Ping healthcheck (porazka)
+        if: failure()
+        env:
+          HC: ${{ secrets.HEALTHCHECK_URL }}
+        run: |
+          if [ -n "$HC" ]; then curl -fsS --retry 3 -m 10 "$HC/fail" > /dev/null; fi
