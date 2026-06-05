@@ -317,13 +317,20 @@ def run_actor(actor, token, payload, timeout_s=900):
     raise RuntimeError("Run Apify: przekroczono limit czasu oczekiwania")
 
 
-def apify_scrape(urls, alerts):
-    """Scrapuje opinie dla listy URL-i ofert. Fallback na drugi token przy braku kredytu."""
-    actor = (ENV("APIFY_ACTOR_ID") or "tri_angle/allegro-reviews-scraper").replace("/", "~")
+def apify_scrape(urls, alerts, full=False):
+    """Scrapuje opinie dla listy URL-i ofert. Fallback na drugi token przy braku kredytu.
+
+    full=True (backfill): bez limitu opinii na produkt - pobiera komplet.
+    full=False (codziennie): limit maxReviewsPerProduct z apify_input.json
+    ogranicza koszt (placimy za kazda pobrana opinie).
+    """
+    actor = (ENV("APIFY_ACTOR_ID") or "e-commerce/allegro-reviews-scraper").replace("/", "~")
     template = load_json(ROOT / "apify_input.json", {})
     urls_key = template.pop("__urlsKey", "startUrls")
     urls_format = template.pop("__urlsFormat", "objects")
     payload = dict(template)
+    if full:
+        payload.pop("maxReviewsPerProduct", None)
     payload[urls_key] = [{"url": u} for u in urls] if urls_format == "objects" else list(urls)
 
     tokens = apify_tokens()
@@ -390,41 +397,31 @@ def normalize_review(item, offer_lookup):
 
 def merge_reviews(stored, scraped_items, offer_lookup, requested_ids):
     """
-    Dla ofert objętych scrapem: zastępuje komplet opinii (łapie też usunięte).
+    Dopisuje nowe opinie do istniejacych (dedupe po id). Nie usuwa starych -
+    codzienny scrape jest przyciety limitem maxReviewsPerProduct, wiec nie jest
+    kompletem. Usuniete na Allegro opinie zostaja w archiwum; pelne wyrownanie
+    robi backfill (full=True, bez limitu).
     Zwraca (nowa_lista, nowe_opinie).
     """
     normalized = [normalize_review(it, offer_lookup) for it in scraped_items]
     normalized = [n for n in normalized if n["offerId"]]
-    scraped_by_offer = {}
-    for n in normalized:
-        scraped_by_offer.setdefault(n["offerId"], []).append(n)
 
-    old_by_offer = {}
-    for rv in stored:
-        old_by_offer.setdefault(rv.get("offerId"), []).append(rv)
-
+    known_ids = {rv["id"] for rv in stored}
+    scraped_offers = {n["offerId"] for n in normalized}
     ts = iso()
-    result, new_reviews = [], []
+    new_reviews = []
+    result = list(stored)
+    for n in normalized:
+        if n["id"] in known_ids:
+            continue
+        known_ids.add(n["id"])
+        n["firstSeen"] = ts
+        new_reviews.append(n)
+        result.append(n)
 
-    replaced = set(scraped_by_offer.keys())
-    for oid, revs in old_by_offer.items():
-        if oid not in replaced:
-            result.extend(revs)
-    for oid, revs in scraped_by_offer.items():
-        for n in revs:
-            old_match = next((o for o in old_by_offer.get(oid, []) if o["id"] == n["id"]), None)
-            if old_match:
-                n["firstSeen"] = old_match.get("firstSeen", ts)
-            else:
-                n["firstSeen"] = ts
-                new_reviews.append(n)
-            result.append(n)
-
-    missing = requested_ids - replaced
+    missing = requested_ids - scraped_offers
     if missing:
-        log(f"UWAGA: aktor nie zwrócił opinii dla ofert: {sorted(missing)} — stare opinie zachowane")
-        for oid in missing:
-            result.extend(old_by_offer.get(oid, []))
+        log(f"UWAGA: aktor nie zwrocil opinii dla ofert: {sorted(missing)}")
 
     result.sort(key=lambda r: (r.get("date") or "", r.get("firstSeen") or ""), reverse=True)
     return result, new_reviews
@@ -575,7 +572,7 @@ def main():
     if to_scrape:
         urls = [c["url"] for c in to_scrape.values()]
         try:
-            items, token_used = apify_scrape(urls, alerts)
+            items, token_used = apify_scrape(urls, alerts, full=backfill)
             stored, new_reviews = merge_reviews(stored, items, current, set(to_scrape.keys()))
             log(f"Tier 2: {len(new_reviews)} nowych opinii (token #{token_used})")
         except Exception as e:
@@ -586,7 +583,7 @@ def main():
                 f"<p>Wykryto zmiany w {len(to_scrape)} ofertach, ale scrape nie zadziałał:</p>"
                 f"<pre>{e}</pre><p>Stan NIE został nadpisany — następny przebieg spróbuje ponownie. "
                 f"Sprawdź kredyt/token Apify oraz czy aktor "
-                f"<code>{ENV('APIFY_ACTOR_ID') or 'tri_angle/allegro-reviews-scraper'}</code> działa.</p>",
+                f"<code>{ENV('APIFY_ACTOR_ID') or 'e-commerce/allegro-reviews-scraper'}</code> działa.</p>",
             )
 
     # --- zapis stanu (przy porażce scrape'u zostawiamy stary stan => retry jutro)
