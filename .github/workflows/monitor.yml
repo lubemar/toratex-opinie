@@ -2,7 +2,7 @@ name: Monitor opinii Allegro
 
 on:
   schedule:
-    - cron: '0 4 * * *'   # ~06:00 czasu polskiego (lato), ~05:00 (zima)
+    - cron: '0 4-18 * * *'   # co godzine 06:00-20:00 CEST (lato) / 05:00-19:00 CET (zima)
   workflow_dispatch:
     inputs:
       backfill:
