@@ -1,6 +1,20 @@
 {
- "updated": "2026-06-11T12:40:30Z",
+ "updated": "2026-06-11T16:47:42Z",
  "reviews": [
+  {
+   "id": "6a2ae27db619d7fb09496dfa",
+   "offerId": "17649517391",
+   "offerName": "Poduszka 50x70 regulowana grubość i wysokość miękka puszysta komfort 1300g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "rating": 5.0,
+   "content": "Grube i solidne poduszki. Bardzo dobra jakość.",
+   "author": "b...a",
+   "date": "2026-06-11T16:29:49.465Z",
+   "pros": "",
+   "cons": "",
+   "firstSeen": "2026-06-11T16:47:42Z"
+  },
   {
    "id": "6a2a73cf5e60554201d5014d",
    "offerId": "18485608818",
@@ -126,6 +140,20 @@
    "pros": "",
    "cons": "",
    "firstSeen": "2026-06-06T00:00:31Z"
+  },
+  {
+   "id": "6a1fcec226e96c535aa62c8a",
+   "offerId": "17923269029",
+   "offerName": "Materac 90x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 premium TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17923269029",
+   "rating": 3.0,
+   "content": "Materac ma od 26 do 29 cm",
+   "author": "B...2",
+   "date": "2026-06-03T06:50:43.214Z",
+   "pros": "Ładny wygląd",
+   "cons": "Nie ma 30 cm, jest od 26 do 29 cm",
+   "firstSeen": "2026-06-11T16:47:42Z"
   },
   {
    "id": "6a1ef07f0d8339e2edba717d",
