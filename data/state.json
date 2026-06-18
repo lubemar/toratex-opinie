@@ -984,13 +984,13 @@
   "shop": "tora_official",
   "url": "https://allegro.pl/oferta/18256894763",
   "avg": 4.85,
-  "total": 26,
+  "total": 27,
   "dist": {
    "1": 0,
    "2": 1,
    "3": 0,
    "4": 1,
-   "5": 24
+   "5": 25
   }
  },
  "18256566314": {
@@ -2061,14 +2061,14 @@
   "name": "Kołdra 240x220 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/18502412451",
-  "avg": 0,
-  "total": 0,
+  "avg": 5.0,
+  "total": 1,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 0,
-   "5": 0
+   "5": 1
   }
  },
  "18500004422": {
@@ -5380,13 +5380,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17649575093",
   "avg": 4.85,
-  "total": 26,
+  "total": 27,
   "dist": {
    "1": 0,
    "2": 1,
    "3": 0,
    "4": 1,
-   "5": 24
+   "5": 25
   }
  },
  "17649560336": {
