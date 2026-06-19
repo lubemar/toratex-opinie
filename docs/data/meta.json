@@ -1,6 +1,6 @@
 {
- "lastSuccess": "2026-06-18T19:19:57Z",
- "lastRun": "2026-06-18T19:17:00Z",
+ "lastSuccess": "2026-06-19T09:00:51Z",
+ "lastRun": "2026-06-19T08:58:30Z",
  "offersChecked": 405,
  "lastDeltas": 1,
  "lastNewReviews": 0,
@@ -9,7 +9,7 @@
    "token": 1,
    "usedUsd": 2.07,
    "limitUsd": 5.0,
-   "pct": 41.4
+   "pct": 41.5
   }
  ]
 }
