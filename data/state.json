@@ -2468,13 +2468,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/18485608818",
   "avg": 5.0,
-  "total": 8,
+  "total": 9,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 0,
-   "5": 8
+   "5": 9
   }
  },
  "18466561803": {
@@ -5589,12 +5589,12 @@
   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L x2",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17616123601",
-  "avg": 4.86,
-  "total": 7,
+  "avg": 4.63,
+  "total": 8,
   "dist": {
    "1": 0,
    "2": 0,
-   "3": 0,
+   "3": 1,
    "4": 1,
    "5": 6
   }
