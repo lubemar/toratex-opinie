@@ -101,14 +101,14 @@
   "name": "Materac VELVET 90x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
   "shop": "tora_official",
   "url": "https://allegro.pl/oferta/18530008926",
-  "avg": 4.89,
-  "total": 9,
+  "avg": 4.9,
+  "total": 10,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 1,
-   "5": 8
+   "5": 9
   }
  },
  "18529995021": {
@@ -1123,6 +1123,20 @@
   "name": "Prześcieradło 150x220 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
   "shop": "tora_official",
   "url": "https://allegro.pl/oferta/18060331493",
+  "avg": 5.0,
+  "total": 1,
+  "dist": {
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "4": 0,
+   "5": 1
+  }
+ },
+ "18691280138": {
+  "name": "POŚCIEL komplet 140x200 + 2 POSZEWKI 70X80 jakość hotelowa TORA troczki",
+  "shop": "toratex_pl",
+  "url": "https://allegro.pl/oferta/18691280138",
   "avg": 5.0,
   "total": 1,
   "dist": {
@@ -4469,14 +4483,14 @@
   "name": "Materac 90x200 sprężynowo kieszeniowy DWUSTRONNY H4 i H5 Velvet",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17948396744",
-  "avg": 4.89,
-  "total": 9,
+  "avg": 4.9,
+  "total": 10,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 1,
-   "5": 8
+   "5": 9
   }
  },
  "17945784134": {
