@@ -60,13 +60,13 @@
   "shop": "tora_official",
   "url": "https://allegro.pl/oferta/18530098044",
   "avg": 5.0,
-  "total": 1,
+  "total": 2,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 0,
-   "5": 1
+   "5": 2
   }
  },
  "18530089504": {
@@ -619,14 +619,14 @@
   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
   "shop": "tora_official",
   "url": "https://allegro.pl/oferta/18358113183",
-  "avg": 4.8,
-  "total": 5,
+  "avg": 4.83,
+  "total": 6,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 1,
-   "5": 4
+   "5": 5
   }
  },
  "18358004973": {
@@ -4133,14 +4133,14 @@
   "name": "Materac 160x200 kieszeniowy z TOPEREM wytrzymały H3 wysokiej gęstości",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/18031565537",
-  "avg": 4.8,
-  "total": 5,
+  "avg": 4.83,
+  "total": 6,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 1,
-   "5": 4
+   "5": 5
   }
  },
  "18031483913": {
@@ -4428,13 +4428,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17955527193",
   "avg": 5.0,
-  "total": 1,
+  "total": 2,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 0,
-   "5": 1
+   "5": 2
   }
  },
  "17955486486": {
@@ -4480,7 +4480,7 @@
   }
  },
  "17945784134": {
-  "name": "Materac 180x200 kieszeniowy z TOPEREM wytrzymały H5 wysokiej gęstości",
+  "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17945784134",
   "avg": 5.0,
@@ -4568,13 +4568,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17931151326",
   "avg": 5.0,
-  "total": 2,
+  "total": 3,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 0,
-   "5": 2
+   "5": 3
   }
  },
  "17931116022": {
@@ -4582,13 +4582,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17931116022",
   "avg": 5.0,
-  "total": 17,
+  "total": 18,
   "dist": {
    "1": 0,
    "2": 0,
    "3": 0,
    "4": 0,
-   "5": 17
+   "5": 18
   }
  },
  "17930878341": {
@@ -4676,7 +4676,7 @@
   }
  },
  "17884281794": {
-  "name": "Materac 200x200 kieszeniowo sprężynowy z TOPEREM premium H5 TORA",
+  "name": "Materac 200x200cm Twardy H5 sprężynowo kieszeniowy z Topperem TORA 30cm TOP",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17884281794",
   "avg": 5.0,
@@ -5211,14 +5211,14 @@
   "name": "Kapcie klapki pantofle męskie miękkie przepuszczające powietrze 40-43 TORA",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17668996138",
-  "avg": 4.9,
-  "total": 62,
+  "avg": 4.91,
+  "total": 64,
   "dist": {
    "1": 0,
    "2": 1,
    "3": 0,
    "4": 3,
-   "5": 58
+   "5": 60
   }
  },
  "17668946883": {
@@ -5226,13 +5226,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17668946883",
   "avg": 4.91,
-  "total": 53,
+  "total": 55,
   "dist": {
    "1": 0,
    "2": 1,
    "3": 0,
    "4": 2,
-   "5": 50
+   "5": 52
   }
  },
  "17668561952": {
@@ -5506,13 +5506,13 @@
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17626543549",
   "avg": 4.91,
-  "total": 53,
+  "total": 55,
   "dist": {
    "1": 0,
    "2": 1,
    "3": 0,
    "4": 2,
-   "5": 50
+   "5": 52
   }
  },
  "17622515513": {
@@ -5547,14 +5547,14 @@
   "name": "Bambosze kapcie pantofle męskie twarda podeszwa wsuwane hotel certyfikowane",
   "shop": "toratex_pl",
   "url": "https://allegro.pl/oferta/17619126647",
-  "avg": 4.9,
-  "total": 62,
+  "avg": 4.91,
+  "total": 64,
   "dist": {
    "1": 0,
    "2": 1,
    "3": 0,
    "4": 3,
-   "5": 58
+   "5": 60
   }
  },
  "17616123601": {
