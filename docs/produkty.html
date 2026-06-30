@@ -62,7 +62,7 @@
   <div class="cards">
     <div class="card"><div class="v" id="cTotal">—</div><div class="l">Produktów</div></div>
     <div class="card warn"><div class="v" id="cZero">—</div><div class="l">Bez opinii (0)</div></div>
-    <div class="card warn"><div class="v" id="cFew">—</div><div class="l">Mało opinii (1–2)</div></div>
+    <div class="card warn"><div class="v" id="cFew">—</div><div class="l">Okazje (sprzedaż + ≤2 opinii)</div></div>
     <div class="card bad"><div class="v" id="cLow">—</div><div class="l">Ocena &lt; 4,7 (≥3 opinii)</div></div>
   </div>
 
@@ -83,6 +83,7 @@
       <option value="47-489">🟡 4,7–4,89</option>
       <option value="ge49">🟢 ≥ 4,9</option>
     </select>
+    <label style="display:flex;align-items:center;gap:5px;"><input type="checkbox" id="fSold"> tylko ze sprzedażą</label>
     <input type="text" id="fSearch" placeholder="szukaj: nazwa / LN / EAN…">
     <span class="count" id="count"></span>
   </div>
@@ -101,7 +102,7 @@
     </thead>
     <tbody id="rows"></tbody>
   </table>
-  <p class="legend">🟡 żółty wiersz = okazja na opinie (≤2 opinie). 🔴 czerwony = niska ocena (&lt;4,7 przy ≥3 opiniach). Kliknij nagłówek, by sortować. Kolumna „Sprzedaż" uzupełni się po podpięciu źródła.</p>
+  <p class="legend">🟡 żółty wiersz = okazja (sprzedaje się, ale ≤2 opinie → warto poprosić o opinię). 🔴 czerwony = niska ocena (&lt;4,7 przy ≥3 opiniach). Sprzedaż = liczba sprzedanych sztuk (Allegro API). Kliknij nagłówek, by sortować.</p>
   <footer id="foot"></footer>
 </div>
 
@@ -147,13 +148,13 @@ async function init() {
 function renderStats() {
   $('cTotal').textContent = offers.length;
   $('cZero').textContent = offers.filter(o => o.reviews === 0).length;
-  $('cFew').textContent = offers.filter(o => o.reviews >= 1 && o.reviews <= 2).length;
+  $('cFew').textContent = offers.filter(o => o.reviews <= 2 && o.sales > 0).length;
   $('cLow').textContent = offers.filter(o => o.reviews >= 3 && o.avg && o.avg < 4.7).length;
 }
 
 function apply() {
   const shop = $('fShop').value, fam = $('fFamily').value, rv = $('fReviews').value,
-        rt = $('fRating').value, q = $('fSearch').value.trim().toLowerCase();
+        rt = $('fRating').value, sold = $('fSold').checked, q = $('fSearch').value.trim().toLowerCase();
   view = offers.filter(o => {
     if (shop && o.shop !== shop) return false;
     if (fam && o.family !== fam) return false;
@@ -165,6 +166,7 @@ function apply() {
     if (rt === '4-469' && !(o.avg >= 4.0 && o.avg < 4.7)) return false;
     if (rt === '47-489' && !(o.avg >= 4.7 && o.avg < 4.9)) return false;
     if (rt === 'ge49' && !(o.avg >= 4.9)) return false;
+    if (sold && !(o.sales > 0)) return false;
     if (q && !((o.name||'') + ' ' + (o.sku||'') + ' ' + (o.ean||'')).toLowerCase().includes(q)) return false;
     return true;
   });
@@ -184,7 +186,7 @@ function render() {
   $('count').textContent = `${view.length} produktów`;
   if (!view.length) { $('rows').innerHTML = `<tr><td colspan="7" class="empty">Brak produktów dla tych kryteriów.</td></tr>`; return; }
   $('rows').innerHTML = view.map(o => {
-    const gap = o.reviews <= 2;
+    const gap = o.reviews <= 2 && (o.sales == null || o.sales > 0);
     const bad = o.reviews >= 3 && o.avg && o.avg < 4.7;
     const cls = bad ? 'bad' : (gap ? 'gap' : '');
     return `<tr class="${cls}">
@@ -207,7 +209,7 @@ document.querySelectorAll('th[data-k]').forEach(th => th.addEventListener('click
   th.insertAdjacentHTML('beforeend', ` <span class="ar">${sortDir > 0 ? '▲' : '▼'}</span>`);
   apply();
 }));
-['fShop','fFamily','fReviews','fRating'].forEach(id => $(id).addEventListener('change', apply));
+['fShop','fFamily','fReviews','fRating','fSold'].forEach(id => $(id).addEventListener('change', apply));
 $('fSearch').addEventListener('input', () => { clearTimeout(window._t); window._t = setTimeout(apply, 200); });
 init();
 </script>
