@@ -64,11 +64,7 @@
   </div>
 
   <div class="filters">
-    <select id="fShop">
-      <option value="">Wszystkie sklepy</option>
-      <option value="tora_official">tora_official</option>
-      <option value="toratex_pl">toratex_pl</option>
-    </select>
+    <select id="fShop"><option value="">Wszystkie sklepy</option></select>
     <select id="fRating">
       <option value="">Każda ocena</option>
       <option value="neg">Tylko negatywne (≤3★)</option>
@@ -117,6 +113,8 @@ async function init() {
       fetch('data/reviews.json' + bust).then(r => r.json()),
     ]);
     reviews = data.reviews || [];
+    const shops = [...new Set(reviews.map(r => r.shop).filter(Boolean))].sort();
+    document.getElementById('fShop').insertAdjacentHTML('beforeend', shops.map(sh => `<option value="${esc(sh)}">${esc(sh)}</option>`).join(''));
     renderBanner(meta);
     renderStats();
     applyFilters();
