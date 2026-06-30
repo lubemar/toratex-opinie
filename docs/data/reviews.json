@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T13:17:09Z",
+ "updated": "2026-06-30T13:55:01Z",
  "reviews": [
   {
    "id": "6a437df1a5375a75e6cd4652",
@@ -226,6 +226,38 @@
    "ean": ""
   },
   {
+   "id": "6a3e67c813ce74d5b991aa49",
+   "offerId": "17393327828",
+   "offerName": "KLAPKI KAPCIE HOTELOWE PREMIUM MĘSKIE KLAPKI 29 CM TWARDA PODESZWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17393327828",
+   "rating": 5.0,
+   "content": "świetne kapcie, właściwie można ich używać na stałe a nie jako jendorazowe",
+   "author": "P...6",
+   "date": "2026-06-26T11:51:36.539Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN126",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
+  },
+  {
+   "id": "6a3e67c4da5040add01f3fd4",
+   "offerId": "17393327828",
+   "offerName": "KLAPKI KAPCIE HOTELOWE PREMIUM MĘSKIE KLAPKI 29 CM TWARDA PODESZWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17393327828",
+   "rating": 5.0,
+   "content": "świetne kapcie, właściwie można ich używać na stałe a nie jako jendorazowe",
+   "author": "P...6",
+   "date": "2026-06-26T11:51:32.046Z",
+   "pros": "jakość, trwałośc",
+   "cons": "",
+   "sku": "LN126",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
+  },
+  {
    "id": "6a3e543d463278bad92310fb",
    "offerId": "18527282249",
    "offerName": "Ręcznik TORA 70x140 100% Bawełna GRUBY do ciała KĄPIELOWY 700GSM",
@@ -320,6 +352,22 @@
    "firstSeen": "2026-06-21T11:42:13Z",
    "sku": "LN105",
    "ean": ""
+  },
+  {
+   "id": "6a37b8e47e362c469a2088fd",
+   "offerId": "17503922152",
+   "offerName": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17503922152",
+   "rating": 5.0,
+   "content": "W odróżnieniu od \"super wygodnych\" poduszek wypchanych plastikiem te poduszki są na prawdę wygodne i zdrowe, a pierze nie ubija się po czasie jak wiskoza. Bardzo polecam wszystkim, którzy chcą się dobrze wyspać! :-)",
+   "author": "S...U",
+   "date": "2026-06-21T10:11:48.389Z",
+   "pros": "Wypełnienie pierzem i dobra poszewka",
+   "cons": "brak",
+   "sku": "ZEST-LN112",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
   },
   {
    "id": "6a36b20f2b1a2ae633ebf126",
@@ -4884,6 +4932,22 @@
    "ean": ""
   },
   {
+   "id": "69276bc4316c1bd9d85d3a31",
+   "offerId": "17333056182",
+   "offerName": "POSZWA NA KOŁDRĘ 180x200 BIAŁA 100% BAWEŁNA POŚCIEL HOTELOWA PREMIUM SUPREM",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17333056182",
+   "rating": 3.0,
+   "content": "50poliester 50 bawełna. A pisze 50 tkanina 50 bawełna .",
+   "author": "C...5",
+   "date": "2025-11-26T21:06:12.174Z",
+   "pros": "Nie cienka",
+   "cons": "",
+   "sku": "LN161",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
+  },
+  {
    "id": "6927519d316c1bd9d8f3785f",
    "offerId": "18615114100",
    "offerName": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
@@ -6020,6 +6084,22 @@
    "ean": ""
   },
   {
+   "id": "6880c03d1ca66b7201167025",
+   "offerId": "17220236808",
+   "offerName": "SZLAFROK DAMSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220236808",
+   "rating": 5.0,
+   "content": "Super jakość. Bardzo dobra, gruba tkanina. Bardzo solidne wykonanie. Serdecznie polecam",
+   "author": "r...1",
+   "date": "2025-07-23T10:58:05.577Z",
+   "pros": "Jakość",
+   "cons": "Brak",
+   "sku": "LN131",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
+  },
+  {
    "id": "6880b0a41ca66b72014f7964",
    "offerId": "17668996138",
    "offerName": "Kapcie klapki pantofle męskie miękkie przepuszczające powietrze 40-43 TORA",
@@ -6098,6 +6178,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN001KP",
    "ean": ""
+  },
+  {
+   "id": "68809a0f1ca66b72012e88fd",
+   "offerId": "17220236808",
+   "offerName": "SZLAFROK DAMSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220236808",
+   "rating": 5.0,
+   "content": "świetna jakość!",
+   "author": "P...0",
+   "date": "2025-07-23T08:15:11.349Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN131",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
   },
   {
    "id": "687212de1ca66b72018f5a08",
@@ -6674,6 +6770,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN034",
    "ean": ""
+  },
+  {
+   "id": "67545b3e70ffec31e8e01e35",
+   "offerId": "16179331733",
+   "offerName": "POŚCIEL 140x200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16179331733",
+   "rating": 5.0,
+   "content": "Polecam",
+   "author": "P...i",
+   "date": "2024-12-07T14:27:10.458Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN040",
+   "ean": "",
+   "firstSeen": "2026-06-30T13:55:01Z"
   },
   {
    "id": "6743b4bd70ffec31e8e2378e",
