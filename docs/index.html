@@ -38,6 +38,7 @@
   .oname a:hover { color:var(--accent); }
   .content { font-size:15px; line-height:1.5; }
   .proscons { font-size:13px; color:var(--muted); margin-top:6px; }
+  .skuline { font-size:12px; color:var(--muted); margin-top:6px; font-family:ui-monospace,monospace; }
   .pager { display:flex; gap:10px; align-items:center; justify-content:center; margin-top:18px; font-size:14px; }
   .pager button { padding:6px 14px; border:1px solid var(--line); background:var(--card); border-radius:6px; cursor:pointer; }
   .pager button:disabled { opacity:.4; cursor:default; }
@@ -49,6 +50,10 @@
 <div class="wrap">
   <h1>Opinie o produktach — TORATEX</h1>
   <div class="sub">Allegro · tora_official + toratex_pl · delta tracking + targeted scraping</div>
+  <div class="nav" style="display:flex;gap:8px;margin-bottom:16px;">
+    <a href="index.html" style="font-size:14px;text-decoration:none;padding:6px 12px;border-radius:8px;border:1px solid var(--line);background:var(--accent);color:#fff;">Opinie</a>
+    <a href="produkty.html" style="font-size:14px;text-decoration:none;padding:6px 12px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--text);">Produkty</a>
+  </div>
   <div id="banner" class="banner warn">Ładowanie danych…</div>
 
   <div class="cards">
@@ -72,7 +77,7 @@
     </select>
     <label><input type="checkbox" id="fContent"> z treścią</label>
     <label><input type="checkbox" id="fNew"> nowe (7 dni)</label>
-    <input type="text" id="fSearch" placeholder="szukaj w treści / nazwie…">
+    <input type="text" id="fSearch" placeholder="szukaj: treść / nazwa / SKU / EAN…">
     <span id="count" style="margin-left:auto;color:var(--muted)"></span>
   </div>
 
@@ -98,7 +103,10 @@ function fmtDate(s) {
   const d = new Date(s);
   return isNaN(d) ? esc(s) : d.toLocaleDateString('pl-PL');
 }
-function isNew(r) { return r.firstSeen && ageHours(r.firstSeen) < 168; }
+function isNew(r) {
+  const ref = (r.date && !isNaN(new Date(r.date))) ? r.date : r.firstSeen;
+  return ref && ageHours(ref) < 168;
+}
 function stars(n) { return n == null ? '' : '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)); }
 
 async function init() {
@@ -157,7 +165,7 @@ function applyFilters() {
     else if (rating) { if (r.rating == null || Math.round(r.rating) !== +rating) return false; }
     if (onlyContent && !(r.content && r.content.trim())) return false;
     if (onlyNew && !isNew(r)) return false;
-    if (q && !((r.content || '') + ' ' + (r.offerName || '')).toLowerCase().includes(q)) return false;
+    if (q && !((r.content || '') + ' ' + (r.offerName || '') + ' ' + (r.sku || '') + ' ' + (r.ean || '')).toLowerCase().includes(q)) return false;
     return true;
   });
   page = 1;
@@ -190,6 +198,7 @@ function renderList() {
       <div class="oname"><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.offerName || 'Oferta ' + r.offerId)}</a></div>
       ${r.content ? `<div class="content">„${esc(r.content)}”</div>` : '<div class="content" style="color:var(--muted)">(bez treści)</div>'}
       ${(r.pros || r.cons) ? `<div class="proscons">${r.pros ? '➕ ' + esc(r.pros) : ''} ${r.cons ? ' ➖ ' + esc(r.cons) : ''}</div>` : ''}
+      ${(r.sku || r.ean) ? `<div class="skuline">${r.sku ? 'SKU: <b>' + esc(r.sku) + '</b>' : ''}${r.ean ? (r.sku ? ' · ' : '') + 'EAN: <b>' + esc(r.ean) + '</b>' : ''}</div>` : ''}
     </div>`;
   }).join('');
 }
