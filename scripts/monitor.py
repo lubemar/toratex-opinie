@@ -252,19 +252,28 @@ def collect_current_state(meta, alerts):
                     continue
                 if not _OFFER_DEBUGGED:
                     _OFFER_DEBUGGED = True
-                    log(f"OFFER RAW: {json.dumps(off, ensure_ascii=False)[:700]}")
+                    log(f"OFFER KEYS: {sorted(off.keys())}")
+                    log(f"OFFER external: {json.dumps(off.get('external'), ensure_ascii=False)}")
+                    log(f"OFFER stock: {json.dumps(off.get('stock'), ensure_ascii=False)} "
+                        f"stats: {json.dumps(off.get('stats'), ensure_ascii=False)}")
                 rating = fetch_rating(token, oid)
                 if rating is None:
                     continue
                 ext = off.get("external") or {}
                 sku = (ext.get("id") if isinstance(ext, dict) else "") or ""
                 ean = (off.get("ean") or off.get("gtin") or off.get("eanCode") or "")
+                stock = off.get("stock") or {}
+                ostats = off.get("stats") or {}
                 current[oid] = {
                     "name": off.get("name", ""),
                     "shop": shop["key"],
                     "url": f"https://allegro.pl/oferta/{oid}",
                     "sku": sku,
                     "ean": ean,
+                    "sales": stock.get("sold"),
+                    "stockAvailable": stock.get("available"),
+                    "visits": ostats.get("visitsCount"),
+                    "watchers": ostats.get("watchersCount"),
                     **rating,
                 }
                 time.sleep(0.05)  # grzecznościowy odstęp; limit API to 9000/min
@@ -749,7 +758,7 @@ def main():
             "offerId": oid, "name": c.get("name", ""), "shop": c.get("shop", ""),
             "url": c.get("url", ""), "sku": c.get("sku", ""), "ean": c.get("ean", ""),
             "avg": c.get("avg", 0), "reviews": c.get("total", 0), "dist": c.get("dist", {}),
-            "sales": c.get("sales"),  # uzupelni sie, gdy podepniemy zrodlo sprzedazy
+            "sales": c.get("sales"), "visits": c.get("visits"), "watchers": c.get("watchers"),
         })
     offers_pub.sort(key=lambda o: (o["reviews"], o["avg"]))  # najpierw braki opinii / niskie oceny
     save_json(PUB / "offers.json", {"updated": iso(), "offers": offers_pub})
