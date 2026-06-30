@@ -38,6 +38,7 @@ SHOPS = [
 
 NEGATIVE_THRESHOLD = 3
 _RATING_DEBUGGED = False
+_OFFER_DEBUGGED = False
 ROTATION_WARN_DAYS = 75   # ostrzeżenie, gdy rotacja refresh tokena nie działa tyle dni
 APIFY_CREDIT_WARN = 0.80  # alert przy 80% zużycia miesięcznego kredytu
 
@@ -244,17 +245,26 @@ def collect_current_state(meta, alerts):
             token = refresh_allegro_token(shop, meta)
             offers = fetch_offers(token)
             log(f"{shop['key']}: {len(offers)} aktywnych ofert")
+            global _OFFER_DEBUGGED
             for off in offers:
                 oid = str(off.get("id"))
                 if oid in exclude:
                     continue
+                if not _OFFER_DEBUGGED:
+                    _OFFER_DEBUGGED = True
+                    log(f"OFFER RAW: {json.dumps(off, ensure_ascii=False)[:700]}")
                 rating = fetch_rating(token, oid)
                 if rating is None:
                     continue
+                ext = off.get("external") or {}
+                sku = (ext.get("id") if isinstance(ext, dict) else "") or ""
+                ean = (off.get("ean") or off.get("gtin") or off.get("eanCode") or "")
                 current[oid] = {
                     "name": off.get("name", ""),
                     "shop": shop["key"],
                     "url": f"https://allegro.pl/oferta/{oid}",
+                    "sku": sku,
+                    "ean": ean,
                     **rating,
                 }
                 time.sleep(0.05)  # grzecznościowy odstęp; limit API to 9000/min
@@ -487,6 +497,7 @@ def normalize_review(item, offer_lookup):
         "rating": rating, "content": str(content).strip(),
         "author": str(author_raw), "date": str(date),
         "pros": str(pros), "cons": str(cons),
+        "sku": info.get("sku", ""), "ean": info.get("ean", ""),
     }
 
 
@@ -694,6 +705,14 @@ def main():
     # --- zapis stanu (przy porażce scrape'u zostawiamy stary stan => retry jutro)
     if not scrape_failed:
         save_json(DATA / "state.json", current)
+    # wzbogacenie WSZYSTKICH opinii o SKU/EAN z aktualnych ofert (za darmo, bez scrapowania)
+    for rv in stored:
+        info = current.get(rv.get("offerId"))
+        if info:
+            if not rv.get("sku"):
+                rv["sku"] = info.get("sku", "")
+            if not rv.get("ean"):
+                rv["ean"] = info.get("ean", "")
     save_json(PUB / "reviews.json", {"updated": iso(), "reviews": stored})
 
     # --- alerty
@@ -722,6 +741,19 @@ def main():
     meta["lastDeltas"] = len(deltas)
     meta["lastNewReviews"] = len(new_reviews)
     save_json(DATA / "meta.json", meta)
+
+    # --- publiczna lista ofert (widok Produkty): ocena + liczba opinii + SKU/EAN per oferta
+    offers_pub = []
+    for oid, c in current.items():
+        offers_pub.append({
+            "offerId": oid, "name": c.get("name", ""), "shop": c.get("shop", ""),
+            "url": c.get("url", ""), "sku": c.get("sku", ""), "ean": c.get("ean", ""),
+            "avg": c.get("avg", 0), "reviews": c.get("total", 0), "dist": c.get("dist", {}),
+            "sales": c.get("sales"),  # uzupelni sie, gdy podepniemy zrodlo sprzedazy
+        })
+    offers_pub.sort(key=lambda o: (o["reviews"], o["avg"]))  # najpierw braki opinii / niskie oceny
+    save_json(PUB / "offers.json", {"updated": iso(), "offers": offers_pub})
+
     save_json(PUB / "meta.json", {
         "lastSuccess": meta.get("lastSuccess"), "lastRun": meta["lastRun"],
         "offersChecked": len(current), "lastDeltas": len(deltas),
