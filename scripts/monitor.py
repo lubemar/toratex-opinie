@@ -651,6 +651,59 @@ def monday_digest(meta, history):
     meta["digestSent"] = now().strftime("%Y-%m-%d")
 
 
+def sales_band(n):
+    """Anonimizacja sprzedazy do przedzialow (na publiczny dashboard)."""
+    n = n or 0
+    if n <= 0:
+        return "0"
+    if n < 10:
+        return "1-9"
+    if n < 50:
+        return "10-49"
+    if n < 100:
+        return "50-99"
+    return "100+"
+
+
+def weekly_call_list(meta, current):
+    """Poniedzialkowa lista do obdzwonki. DANE WRAZLIWE (sprzedaz, LN) — tylko mailem, nie na public."""
+    if now().weekday() != 0:
+        return
+    if meta.get("callListSent") == now().strftime("%Y-%m-%d"):
+        return
+    opps = [c for c in current.values() if (c.get("sales") or 0) > 0 and c.get("total", 0) <= 2]
+    opps.sort(key=lambda c: -(c.get("sales") or 0))
+    low = [c for c in current.values()
+           if c.get("total", 0) >= 3 and c.get("avg") and c["avg"] < 4.7]
+    low.sort(key=lambda c: c.get("avg") or 0)
+    if not opps and not low:
+        return
+    head = ("<tr><th>LN</th><th>Produkt</th><th>Sklep</th><th>Sprzedaz</th>"
+            "<th>Opinie</th><th>Ocena</th><th></th></tr>")
+
+    def rows(items):
+        out = ""
+        for c in items[:30]:
+            out += (f"<tr><td>{c.get('sku') or '-'}</td>"
+                    f"<td>{(c.get('name') or '')[:60]}</td>"
+                    f"<td>{c.get('shop', '')}</td>"
+                    f"<td align='right'>{c.get('sales') or 0}</td>"
+                    f"<td align='right'>{c.get('total', 0)}</td>"
+                    f"<td align='right'>{c.get('avg') or '-'}</td>"
+                    f"<td><a href=\"{c.get('url', '')}\">oferta</a></td></tr>")
+        return out
+
+    html = "<p>Lista do obdzwonki (dane wrazliwe — wysylane tylko mailem, nie na dashboard).</p>"
+    if opps:
+        html += (f"<h3>Okazje: sprzedaje sie, ale &le;2 opinie ({len(opps)})</h3>"
+                 f"<table border='1' cellpadding='4' cellspacing='0'>{head}{rows(opps)}</table>")
+    if low:
+        html += (f"<h3>Niska ocena (&lt;4,7 przy &ge;3 opiniach) ({len(low)})</h3>"
+                 f"<table border='1' cellpadding='4' cellspacing='0'>{head}{rows(low)}</table>")
+    send_email(f"[LISTA] Produkty do obdzwonki — {len(opps)} okazji, {len(low)} niskich ocen", html)
+    meta["callListSent"] = now().strftime("%Y-%m-%d")
+
+
 # ---------------------------------------------------------------- main
 
 def main():
@@ -713,15 +766,15 @@ def main():
 
     # --- zapis stanu (przy porażce scrape'u zostawiamy stary stan => retry jutro)
     if not scrape_failed:
-        save_json(DATA / "state.json", current)
-    # wzbogacenie WSZYSTKICH opinii o SKU/EAN z aktualnych ofert (za darmo, bez scrapowania)
+        slim_state = {oid: {"avg": c.get("avg", 0), "total": c.get("total", 0),
+                            "dist": c.get("dist", {}), "shop": c.get("shop", "")}
+                      for oid, c in current.items()}
+        save_json(DATA / "state.json", slim_state)
+    # LN zostaje (niskoryzykowne); wzbogacamy istniejace opinie o LN z aktualnych ofert (za darmo)
     for rv in stored:
         info = current.get(rv.get("offerId"))
-        if info:
-            if not rv.get("sku"):
-                rv["sku"] = info.get("sku", "")
-            if not rv.get("ean"):
-                rv["ean"] = info.get("ean", "")
+        if info and not rv.get("sku"):
+            rv["sku"] = info.get("sku", "")
     save_json(PUB / "reviews.json", {"updated": iso(), "reviews": stored})
 
     # --- alerty
@@ -756,9 +809,9 @@ def main():
     for oid, c in current.items():
         offers_pub.append({
             "offerId": oid, "name": c.get("name", ""), "shop": c.get("shop", ""),
-            "url": c.get("url", ""), "sku": c.get("sku", ""), "ean": c.get("ean", ""),
+            "url": c.get("url", ""), "sku": c.get("sku", ""),
             "avg": c.get("avg", 0), "reviews": c.get("total", 0), "dist": c.get("dist", {}),
-            "sales": c.get("sales"), "visits": c.get("visits"), "watchers": c.get("watchers"),
+            "salesBand": sales_band(c.get("sales")),
         })
     offers_pub.sort(key=lambda o: (o["reviews"], o["avg"]))  # najpierw braki opinii / niskie oceny
     save_json(PUB / "offers.json", {"updated": iso(), "offers": offers_pub})
