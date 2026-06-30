@@ -34,6 +34,7 @@ ENV = os.environ.get
 SHOPS = [
     {"key": "tora_official", "secret_name": "ALLEGRO_REFRESH_TOKEN_TORA"},
     {"key": "toratex_pl", "secret_name": "ALLEGRO_REFRESH_TOKEN_TORATEX"},
+    {"key": "TORATEX", "secret_name": "ALLEGRO_REFRESH_TOKEN_BIURO"},
 ]
 
 NEGATIVE_THRESHOLD = 3
