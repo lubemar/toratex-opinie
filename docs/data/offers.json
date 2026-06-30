@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T13:55:03Z",
+ "updated": "2026-06-30T16:23:48Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -427,23 +427,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18580906124",
-   "name": "Kosz na śmieci kwadratowy MIEJSKI 43L z popielnicą TORA wytrzymały PREMIUM",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18580906124",
-   "sku": "LN007KP",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18580877188",
    "name": "Kosz na śmieci podwójny MIEJSKI 120L z popielnicą TORA wytrzymały PREMIUM",
    "shop": "toratex_pl",
@@ -462,7 +445,7 @@
   },
   {
    "offerId": "18577839337",
-   "name": "Materac 200x220 H5 Twardy sprężynowo kieszeniowy 7strefowy PREMIUM 32cm TOP",
+   "name": "Materac 200x220cm H5 Sprężynowy kieszeniowy Topper ANTYALERGICZNY TORA 32cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18577839337",
    "sku": "MAT-DUB-200×220-H5",
@@ -731,23 +714,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18564172670",
-   "name": "Kosz na śmieci kwadratowy MIEJSKI 43L z popielnicą TORA wytrzymały PREMIUM",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18564172670",
-   "sku": "LN007KP",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18547508499",
@@ -4048,11 +4014,45 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18580906124",
+   "name": "Kosz na śmieci kwadratowy MIEJSKI 43L z popielnicą TORA wytrzymały PREMIUM",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18580906124",
+   "sku": "LN007KP",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18577789812",
    "name": "Materac 200x200 H3 średnio twardy antyalergiczny z TOPPEREM premium 32cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18577789812",
    "sku": "MAT-DOH-200-H3",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18564172670",
+   "name": "Kosz na śmieci kwadratowy MIEJSKI 43L z popielnicą TORA wytrzymały PREMIUM",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18564172670",
+   "sku": "LN007KP",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5813,7 +5813,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17943125982",
@@ -8278,7 +8278,7 @@
     "4": 0,
     "5": 18
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931116022",
