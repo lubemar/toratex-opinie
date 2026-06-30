@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T10:53:25Z",
+ "updated": "2026-06-30T12:32:42Z",
  "reviews": [
   {
    "id": "6a437df1a5375a75e6cd4652",
@@ -13,7 +13,9 @@
    "date": "2026-06-30T08:27:29.221Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-30T10:53:25Z"
+   "firstSeen": "2026-06-30T10:53:25Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "6a437bc20e6518073c61f220",
@@ -27,7 +29,9 @@
    "date": "2026-06-30T08:18:10.599Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-30T10:53:25Z"
+   "firstSeen": "2026-06-30T10:53:25Z",
+   "sku": "LN238M",
+   "ean": ""
   },
   {
    "id": "6a4273880e6518073c61bb04",
@@ -41,7 +45,9 @@
    "date": "2026-06-29T13:30:48.232Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-29T16:41:18Z"
+   "firstSeen": "2026-06-29T16:41:18Z",
+   "sku": "LN003B",
+   "ean": ""
   },
   {
    "id": "6a424862bd1eca5e278a2c6f",
@@ -55,7 +61,9 @@
    "date": "2026-06-29T10:26:42.161Z",
    "pros": "",
    "cons": "Za duża powierzchnia dekoracyjna",
-   "firstSeen": "2026-06-29T13:01:53Z"
+   "firstSeen": "2026-06-29T13:01:53Z",
+   "sku": "LN033-ZEST-BARB",
+   "ean": ""
   },
   {
    "id": "6a417f84463278bad923b5df",
@@ -69,7 +77,9 @@
    "date": "2026-06-28T20:09:40.832Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-29T08:52:33Z"
+   "firstSeen": "2026-06-29T08:52:33Z",
+   "sku": "LN104B",
+   "ean": ""
   },
   {
    "id": "6a3f92b981f4257b5ee436b6",
@@ -83,7 +93,9 @@
    "date": "2026-06-27T09:07:05.444Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-27T09:28:41Z"
+   "firstSeen": "2026-06-27T09:28:41Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "6a3ee42fda5040add01f643b",
@@ -97,7 +109,9 @@
    "date": "2026-06-26T20:42:23.600Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-29T08:52:33Z"
+   "firstSeen": "2026-06-29T08:52:33Z",
+   "sku": "LN104B",
+   "ean": ""
   },
   {
    "id": "6a3e7b8ce52324e9c29c48b7",
@@ -111,7 +125,9 @@
    "date": "2026-06-26T13:15:56.480Z",
    "pros": "Wysoka jakość wykonania",
    "cons": "Brak",
-   "firstSeen": "2026-06-29T16:41:18Z"
+   "firstSeen": "2026-06-29T16:41:18Z",
+   "sku": "MD2",
+   "ean": ""
   },
   {
    "id": "6a3e6e4f4ef4037ed3e0a613",
@@ -125,7 +141,9 @@
    "date": "2026-06-26T12:19:27.620Z",
    "pros": "Porządnie uszyty, wysoki, twardość idealna",
    "cons": "Brak",
-   "firstSeen": "2026-06-26T13:07:13Z"
+   "firstSeen": "2026-06-26T13:07:13Z",
+   "sku": "MV6",
+   "ean": ""
   },
   {
    "id": "6a3e6d1a314956e8702ad0db",
@@ -139,7 +157,9 @@
    "date": "2026-06-26T12:14:18.141Z",
    "pros": "Bardzo dobry materac",
    "cons": "",
-   "firstSeen": "2026-06-26T13:07:13Z"
+   "firstSeen": "2026-06-26T13:07:13Z",
+   "sku": "MSP4",
+   "ean": ""
   },
   {
    "id": "6a3e6819bd1eca5e27896d0c",
@@ -153,7 +173,9 @@
    "date": "2026-06-26T11:52:57.653Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-26T13:07:13Z"
+   "firstSeen": "2026-06-26T13:07:13Z",
+   "sku": "LN088",
+   "ean": ""
   },
   {
    "id": "6a3e6815da5040add01f3fe8",
@@ -167,7 +189,9 @@
    "date": "2026-06-26T11:52:53.693Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-27T13:13:21Z"
+   "firstSeen": "2026-06-27T13:13:21Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6a3e681213ce74d5b991aa66",
@@ -181,7 +205,9 @@
    "date": "2026-06-26T11:52:50.094Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-27T13:13:21Z"
+   "firstSeen": "2026-06-27T13:13:21Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6a3e67cdbd1eca5e27896cf4",
@@ -195,7 +221,9 @@
    "date": "2026-06-26T11:51:41.735Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-26T13:07:13Z"
+   "firstSeen": "2026-06-26T13:07:13Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "6a3e543d463278bad92310fb",
@@ -209,7 +237,9 @@
    "date": "2026-06-26T10:28:13.124Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-30T10:53:25Z"
+   "firstSeen": "2026-06-30T10:53:25Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "6a3e4a29463278bad9230d54",
@@ -223,7 +253,9 @@
    "date": "2026-06-26T09:45:13.631Z",
    "pros": "Dobrze wykonany jakościowo",
    "cons": "",
-   "firstSeen": "2026-06-26T13:07:13Z"
+   "firstSeen": "2026-06-26T13:07:13Z",
+   "sku": "MSP4",
+   "ean": ""
   },
   {
    "id": "6a3c3a0bbd1eca5e2788e17c",
@@ -237,7 +269,9 @@
    "date": "2026-06-24T20:11:55.596Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-27T09:28:41Z"
+   "firstSeen": "2026-06-27T09:28:41Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "6a3c02e74ef4037ed3e002f3",
@@ -251,7 +285,9 @@
    "date": "2026-06-24T16:16:39.251Z",
    "pros": "Czuć że bawełna",
    "cons": "Zostawia kłaki",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "6a3b8c56d7f66b307d35b554",
@@ -265,7 +301,9 @@
    "date": "2026-06-24T07:50:46.965Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-24T10:44:21Z"
+   "firstSeen": "2026-06-24T10:44:21Z",
+   "sku": "MS1",
+   "ean": ""
   },
   {
    "id": "6a37b947d7f66b307d34b88e",
@@ -279,7 +317,9 @@
    "date": "2026-06-21T10:13:27.509Z",
    "pros": "Dobry materiał i poszwa na zakładkę, bez zatrzasków, guziczków i tp",
    "cons": "",
-   "firstSeen": "2026-06-21T11:42:13Z"
+   "firstSeen": "2026-06-21T11:42:13Z",
+   "sku": "LN105",
+   "ean": ""
   },
   {
    "id": "6a36b20f2b1a2ae633ebf126",
@@ -293,7 +333,9 @@
    "date": "2026-06-20T15:30:23.774Z",
    "pros": "Wygląd ok.",
    "cons": "Bardzo małe wiaderko na śmieci - tylko 8l.",
-   "firstSeen": "2026-06-20T16:25:29Z"
+   "firstSeen": "2026-06-20T16:25:29Z",
+   "sku": "ZEST-LN001KP",
+   "ean": ""
   },
   {
    "id": "6a340fc26e8a4ff76556a8e9",
@@ -307,7 +349,9 @@
    "date": "2026-06-18T15:33:22.224Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-18T16:25:39Z"
+   "firstSeen": "2026-06-18T16:25:39Z",
+   "sku": "LN178Z",
+   "ean": ""
   },
   {
    "id": "6a340ee22479d7e2a1a2f56f",
@@ -321,7 +365,9 @@
    "date": "2026-06-18T15:29:38.814Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-18T16:25:39Z"
+   "firstSeen": "2026-06-18T16:25:39Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "6a32d730323707315220ed7e",
@@ -335,7 +381,9 @@
    "date": "2026-06-17T17:19:44.259Z",
    "pros": "Jest wysoki, stabilny izoluje ruchy podczas spania.",
    "cons": "Nie stwierdziłam wad.",
-   "firstSeen": "2026-06-17T19:20:36Z"
+   "firstSeen": "2026-06-17T19:20:36Z",
+   "sku": "MS4",
+   "ean": ""
   },
   {
    "id": "6a32b65d78bfe1031eccb17e",
@@ -349,7 +397,9 @@
    "date": "2026-06-17T14:59:41.868Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-17T16:35:09Z"
+   "firstSeen": "2026-06-17T16:35:09Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "6a31a9ac1067d8098c4696b9",
@@ -363,7 +413,9 @@
    "date": "2026-06-16T19:53:17.062Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-17T08:56:36Z"
+   "firstSeen": "2026-06-17T08:56:36Z",
+   "sku": "LN096",
+   "ean": ""
   },
   {
    "id": "6a2e694208af10cb7e2d9533",
@@ -377,7 +429,9 @@
    "date": "2026-06-14T08:41:38.774Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-14T11:26:38Z"
+   "firstSeen": "2026-06-14T11:26:38Z",
+   "sku": "LN238M",
+   "ean": ""
   },
   {
    "id": "6a2db04f632fbdbad2a90505",
@@ -391,7 +445,9 @@
    "date": "2026-06-13T19:32:31.255Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-14T08:11:17Z"
+   "firstSeen": "2026-06-14T08:11:17Z",
+   "sku": "LN238S",
+   "ean": ""
   },
   {
    "id": "6a2bd9192de5215b0371ef3d",
@@ -405,7 +461,9 @@
    "date": "2026-06-12T10:02:01.359Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-12T12:15:26Z"
+   "firstSeen": "2026-06-12T12:15:26Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "6a2b2704afa76fed2ed95820",
@@ -419,7 +477,9 @@
    "date": "2026-06-11T21:22:12.668Z",
    "pros": "wygodny, miły w dotyku, elegancki jak w hotelu, dwie strefy twardosci h4 h5",
    "cons": "",
-   "firstSeen": "2026-06-12T08:19:47Z"
+   "firstSeen": "2026-06-12T08:19:47Z",
+   "sku": "MV6",
+   "ean": ""
   },
   {
    "id": "6a2ae27db619d7fb09496dfa",
@@ -433,7 +493,9 @@
    "date": "2026-06-11T16:29:49.465Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-11T16:47:42Z"
+   "firstSeen": "2026-06-11T16:47:42Z",
+   "sku": "LN099",
+   "ean": ""
   },
   {
    "id": "6a2a73cf5e60554201d5014d",
@@ -447,7 +509,9 @@
    "date": "2026-06-11T08:37:36.072Z",
    "pros": "ręczniki miękkie i śnieżnobiałe, estetyczne",
    "cons": "nie znam",
-   "firstSeen": "2026-06-11T12:40:30Z"
+   "firstSeen": "2026-06-11T12:40:30Z",
+   "sku": "LN033B-zestaw",
+   "ean": ""
   },
   {
    "id": "6a29c1789433b9da5bf57f42",
@@ -461,7 +525,9 @@
    "date": "2026-06-10T19:56:40.432Z",
    "pros": "",
    "cons": "Nie ma",
-   "firstSeen": "2026-06-11T08:32:11Z"
+   "firstSeen": "2026-06-11T08:32:11Z",
+   "sku": "ZEST-LN001KP",
+   "ean": ""
   },
   {
    "id": "6a28fba1051a6dbbd214c71a",
@@ -475,7 +541,9 @@
    "date": "2026-06-10T05:52:33.479Z",
    "pros": "premium, wygoda, delikatny Cashmir otula ciało podczas snu",
    "cons": "Brak",
-   "firstSeen": "2026-06-10T08:03:26Z"
+   "firstSeen": "2026-06-10T08:03:26Z",
+   "sku": "MSP5",
+   "ean": ""
   },
   {
    "id": "6a28fb48051a6dbbd214c6f9",
@@ -489,7 +557,9 @@
    "date": "2026-06-10T05:51:04.411Z",
    "pros": "Miękki, pięknie wykonany",
    "cons": "Brak",
-   "firstSeen": "2026-06-10T08:03:26Z"
+   "firstSeen": "2026-06-10T08:03:26Z",
+   "sku": "LN239XL",
+   "ean": ""
   },
   {
    "id": "6a28faf34b0b9c1614409c7f",
@@ -503,7 +573,9 @@
    "date": "2026-06-10T05:49:39.667Z",
    "pros": "Miękki, dostosowany do materacy pow 25 cm",
    "cons": "Brak",
-   "firstSeen": "2026-06-10T08:03:26Z"
+   "firstSeen": "2026-06-10T08:03:26Z",
+   "sku": "LN239L",
+   "ean": ""
   },
   {
    "id": "6a26d7a3e6e32a585d6b3e31",
@@ -517,7 +589,9 @@
    "date": "2026-06-08T14:54:27.970Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-08T16:53:37Z"
+   "firstSeen": "2026-06-08T16:53:37Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "6a234a778eb6aede94b8123f",
@@ -531,7 +605,9 @@
    "date": "2026-06-05T22:15:19.780Z",
    "pros": "Super",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "6a2190d802c22d49a42428c5",
@@ -545,7 +621,9 @@
    "date": "2026-06-04T14:51:04.562Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN024B",
+   "ean": ""
   },
   {
    "id": "6a20119d02c22d49a423c39f",
@@ -559,7 +637,9 @@
    "date": "2026-06-03T11:35:57.224Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MTP5",
+   "ean": ""
   },
   {
    "id": "6a1fcec226e96c535aa62c8a",
@@ -573,7 +653,9 @@
    "date": "2026-06-03T06:50:43.214Z",
    "pros": "Ładny wygląd",
    "cons": "Nie ma 30 cm, jest od 26 do 29 cm",
-   "firstSeen": "2026-06-11T16:47:42Z"
+   "firstSeen": "2026-06-11T16:47:42Z",
+   "sku": "MD1",
+   "ean": ""
   },
   {
    "id": "6a1ef07f0d8339e2edba717d",
@@ -587,7 +669,9 @@
    "date": "2026-06-02T15:02:23.824Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "6a1ed1f73e813bc009adcbd1",
@@ -601,7 +685,9 @@
    "date": "2026-06-02T12:52:07.781Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "6a1d10003e813bc009ad4c0a",
@@ -615,7 +701,9 @@
    "date": "2026-06-01T04:52:16.216Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-11T08:32:11Z"
+   "firstSeen": "2026-06-11T08:32:11Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "6a1cb9f0a5d89f99385217c8",
@@ -629,7 +717,9 @@
    "date": "2026-05-31T22:45:04.535Z",
    "pros": "wysoka gęstość tkania (TC 300), równo obszyte brzegi, certyfikat OEKO TEX",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN133",
+   "ean": ""
   },
   {
    "id": "6a1acaec0d8339e2edb96e56",
@@ -643,7 +733,9 @@
    "date": "2026-05-30T11:33:00.178Z",
    "pros": "Wypełnienie sprężyste",
    "cons": "Niewygodna, za mało wypełnienia.",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "6a1a441c0d8339e2edb95324",
@@ -657,7 +749,9 @@
    "date": "2026-05-30T01:57:48.849Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6a1a441a625b633a26f3af8a",
@@ -671,7 +765,9 @@
    "date": "2026-05-30T01:57:46.217Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "6a19ceba3e813bc009aca6c3",
@@ -685,7 +781,9 @@
    "date": "2026-05-29T17:36:58.648Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "6a19b0c6c1c38d01e20b5a1e",
@@ -699,7 +797,9 @@
    "date": "2026-05-29T15:29:10.690Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MC1",
+   "ean": ""
   },
   {
    "id": "6a194713a5d89f993851469b",
@@ -713,7 +813,9 @@
    "date": "2026-05-29T07:58:11.643Z",
    "pros": "",
    "cons": "Cienka, przy poruszaniu chalasuje jak plastik",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "6a192a4e1601d1ab35e24fa9",
@@ -727,7 +829,9 @@
    "date": "2026-05-29T05:55:26.543Z",
    "pros": "Bardzo miękkie, przyjemne w dotyku, wygodna zawieszka",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035L",
+   "ean": ""
   },
   {
    "id": "6a192533e3f86a055da61caf",
@@ -741,7 +845,9 @@
    "date": "2026-05-29T05:33:39.837Z",
    "pros": "ładny wygląd twardość materaca dobra",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT3",
+   "ean": ""
   },
   {
    "id": "6a18ad0b625b633a26f356ae",
@@ -755,7 +861,9 @@
    "date": "2026-05-28T21:00:59.501Z",
    "pros": "Wszystko co w opisie się zgadza.",
    "cons": "Brak wad",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MC1",
+   "ean": ""
   },
   {
    "id": "6a1881df3e813bc009ac50e1",
@@ -769,7 +877,9 @@
    "date": "2026-05-28T17:56:47.546Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN002",
+   "ean": ""
   },
   {
    "id": "6a1871ab1601d1ab35e22b52",
@@ -783,7 +893,9 @@
    "date": "2026-05-28T16:47:39.090Z",
    "pros": "Wysoka jakość.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN137",
+   "ean": ""
   },
   {
    "id": "6a1871400d8339e2edb8e22d",
@@ -797,7 +909,9 @@
    "date": "2026-05-28T16:45:52.060Z",
    "pros": "Wysoka jakość.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN106",
+   "ean": ""
   },
   {
    "id": "6a184fcc69bf4753490f5abb",
@@ -811,7 +925,9 @@
    "date": "2026-05-28T14:23:08.525Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035L",
+   "ean": ""
   },
   {
    "id": "6a184f1769bf4753490f5a7a",
@@ -825,7 +941,9 @@
    "date": "2026-05-28T14:20:07.174Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "6a184ef169bf4753490f5a64",
@@ -839,7 +957,9 @@
    "date": "2026-05-28T14:19:29.878Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-19T17:53:44Z"
+   "firstSeen": "2026-06-19T17:53:44Z",
+   "sku": "LN038",
+   "ean": ""
   },
   {
    "id": "6a182157fe6fa728d763182c",
@@ -853,7 +973,9 @@
    "date": "2026-05-28T11:04:55.290Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN024B",
+   "ean": ""
   },
   {
    "id": "6a1813f14c49f48ed5935e08",
@@ -881,7 +1003,9 @@
    "date": "2026-05-28T10:06:36.808Z",
    "pros": "Wysoka jakość bawełny, świetnie wykończona, pięknie zapakowana",
    "cons": "ciężko się prasuje (nie lubię prasować)",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN193",
+   "ean": ""
   },
   {
    "id": "6a18057244755a060ad5391c",
@@ -895,7 +1019,9 @@
    "date": "2026-05-28T09:05:54.057Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN193",
+   "ean": ""
   },
   {
    "id": "6a18054dac18010b7585348c",
@@ -909,7 +1035,9 @@
    "date": "2026-05-28T09:05:17.846Z",
    "pros": "Jakość i materiał",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN193",
+   "ean": ""
   },
   {
    "id": "6a18035744755a060ad53840",
@@ -923,7 +1051,9 @@
    "date": "2026-05-28T08:56:55.316Z",
    "pros": "Dobrej jakości materiał.",
    "cons": "Nie jest tania, ale jednak jakość musi kosztować.",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN193",
+   "ean": ""
   },
   {
    "id": "6a17fc3afe6fa728d76307bf",
@@ -937,7 +1067,9 @@
    "date": "2026-05-28T08:26:34.344Z",
    "pros": "Jakość, lekkość",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN024B",
+   "ean": ""
   },
   {
    "id": "6a17fbd5fe6fa728d763078c",
@@ -951,7 +1083,9 @@
    "date": "2026-05-28T08:24:53.355Z",
    "pros": "Jakość materiału",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN216",
+   "ean": ""
   },
   {
    "id": "6a17fb739f8bea65d8c54105",
@@ -965,7 +1099,9 @@
    "date": "2026-05-28T08:23:15.774Z",
    "pros": "Jakość, miękkość materiału",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN191",
+   "ean": ""
   },
   {
    "id": "6a17398a733032cfd7a70ad3",
@@ -979,7 +1115,9 @@
    "date": "2026-05-27T18:35:54.828Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN104",
+   "ean": ""
   },
   {
    "id": "6a17396efe6fa728d762dab2",
@@ -993,7 +1131,9 @@
    "date": "2026-05-27T18:35:26.705Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN096",
+   "ean": ""
   },
   {
    "id": "6a146efa44755a060ad42a69",
@@ -1007,7 +1147,9 @@
    "date": "2026-05-25T15:47:06.206Z",
    "pros": "Jó nagy",
    "cons": "Nyáron túl meleg lesz",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "6a14682e0df6be4ff58a5190",
@@ -1021,7 +1163,9 @@
    "date": "2026-05-25T15:18:06.595Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "6a141405733032cfd7a60cb1",
@@ -1035,7 +1179,9 @@
    "date": "2026-05-25T09:19:01.862Z",
    "pros": "Wielkość i wypełnienie akurat",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a1339e3ac18010b7583db1b",
@@ -1049,7 +1195,9 @@
    "date": "2026-05-24T17:48:19.889Z",
    "pros": "Twardy, wygodny na ból kręgosłupa idealny 😊",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "6a12a5eb4c49f48ed591d35d",
@@ -1063,7 +1211,9 @@
    "date": "2026-05-24T07:16:59.102Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033B-zestaw",
+   "ean": ""
   },
   {
    "id": "6a11a10ca27256fbdb6f0b2d",
@@ -1077,7 +1227,9 @@
    "date": "2026-05-23T12:43:56.270Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6a0f665aa27256fbdb6e8972",
@@ -1091,7 +1243,9 @@
    "date": "2026-05-21T20:08:58.729Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033B-zestaw",
+   "ean": ""
   },
   {
    "id": "6a0f664b44755a060ad3094a",
@@ -1105,7 +1259,9 @@
    "date": "2026-05-21T20:08:43.271Z",
    "pros": "Bardzo przyjemny materiał, idealny do twarzy",
    "cons": "Brak",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "6a0f29880df6be4ff5891884",
@@ -1119,7 +1275,9 @@
    "date": "2026-05-21T15:49:28.458Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-11T08:32:11Z"
+   "firstSeen": "2026-06-11T08:32:11Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "6a0f289fa27256fbdb6e6f04",
@@ -1133,7 +1291,9 @@
    "date": "2026-05-21T15:45:35.308Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "ZEST-LN001KP",
+   "ean": ""
   },
   {
    "id": "6a0f1e8944755a060ad2eb0f",
@@ -1147,7 +1307,9 @@
    "date": "2026-05-21T15:02:33.556Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033B-zestaw",
+   "ean": ""
   },
   {
    "id": "6a0ec73eac18010b7582c8fc",
@@ -1161,7 +1323,9 @@
    "date": "2026-05-21T08:50:06.496Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "6a0dc10ffe6fa728d7604b24",
@@ -1175,7 +1339,9 @@
    "date": "2026-05-20T14:11:27.722Z",
    "pros": "Bardzo dobra jakoś wykonania, bardzo wygodny",
    "cons": "Jak na razie nie ma żadnych",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "6a0dbff6fe6fa728d7604ac0",
@@ -1189,7 +1355,9 @@
    "date": "2026-05-20T14:06:46.725Z",
    "pros": "Jest taki jak w opisie nie odkształca się jak inne",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "6a0db70f733032cfd7a47c5b",
@@ -1203,7 +1371,9 @@
    "date": "2026-05-20T13:28:47.155Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT3",
+   "ean": ""
   },
   {
    "id": "6a0d986dfe6fa728d7603a5f",
@@ -1217,7 +1387,9 @@
    "date": "2026-05-20T11:18:05.179Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "6a0cf8af4c49f48ed59062e9",
@@ -1231,7 +1403,9 @@
    "date": "2026-05-19T23:56:31.786Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-16T18:56:18Z"
+   "firstSeen": "2026-06-16T18:56:18Z",
+   "sku": "LN237L",
+   "ean": ""
   },
   {
    "id": "6a0cad0c0df6be4ff5884dc4",
@@ -1245,7 +1419,9 @@
    "date": "2026-05-19T18:33:48.626Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "6a0bda395d5d5abb8f5031dc",
@@ -1273,7 +1449,9 @@
    "date": "2026-05-18T08:24:30.349Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "6a0acca6ac18010b758182ef",
@@ -1287,7 +1465,9 @@
    "date": "2026-05-18T08:24:06.922Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "6a062454a27256fbdb6bda2f",
@@ -1301,7 +1481,9 @@
    "date": "2026-05-14T19:36:52.860Z",
    "pros": "Bardzo dobry materiał, super się układa i tak świeżo wygląda.",
    "cons": "Zadnych nie widzę",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN104",
+   "ean": ""
   },
   {
    "id": "6a05c584a27256fbdb6bad7a",
@@ -1315,7 +1497,9 @@
    "date": "2026-05-14T12:52:20.212Z",
    "pros": "Ok",
    "cons": "Ok",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN238",
+   "ean": ""
   },
   {
    "id": "6a0493ed0df6be4ff585f564",
@@ -1329,7 +1513,9 @@
    "date": "2026-05-13T15:08:29.675Z",
    "pros": "Lekka, przewiewna, świetnie wykonana",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN025",
+   "ean": ""
   },
   {
    "id": "6a0492e8fe6fa728d75d95ed",
@@ -1343,7 +1529,9 @@
    "date": "2026-05-13T15:04:08.992Z",
    "pros": "Solidnie uszyte, miekkie, bez zamka czy guzików",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN105",
+   "ean": ""
   },
   {
    "id": "6a04189c0df6be4ff585b8a8",
@@ -1357,7 +1545,9 @@
    "date": "2026-05-13T06:22:20.900Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a03fec9fe6fa728d75d4df3",
@@ -1371,7 +1561,9 @@
    "date": "2026-05-13T04:32:09.733Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a032a3144755a060acf3674",
@@ -1385,7 +1577,9 @@
    "date": "2026-05-12T13:25:05.997Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a0327dea27256fbdb6ab239",
@@ -1399,7 +1593,9 @@
    "date": "2026-05-12T13:15:11.032Z",
    "pros": "Jakość, odpowiednia twardość/sprężystość",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a032565a27256fbdb6ab122",
@@ -1413,7 +1609,9 @@
    "date": "2026-05-12T13:04:38.086Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a0313724c49f48ed58d5b9a",
@@ -1427,7 +1625,9 @@
    "date": "2026-05-12T11:48:02.302Z",
    "pros": "Cena, wygoda",
    "cons": "Póki co brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6a023619733032cfd7a0f6b3",
@@ -1441,7 +1641,9 @@
    "date": "2026-05-11T20:03:37.861Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "6a0235f5fe6fa728d75cc3d4",
@@ -1455,7 +1657,9 @@
    "date": "2026-05-11T20:03:01.414Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035B",
+   "ean": ""
   },
   {
    "id": "6a0235dbfe6fa728d75cc3c6",
@@ -1469,7 +1673,9 @@
    "date": "2026-05-11T20:02:35.751Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-16T18:56:18Z"
+   "firstSeen": "2026-06-16T18:56:18Z",
+   "sku": "LN237L",
+   "ean": ""
   },
   {
    "id": "6a0235af44755a060acef55b",
@@ -1483,7 +1689,9 @@
    "date": "2026-05-11T20:01:51.547Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-14T08:11:17Z"
+   "firstSeen": "2026-06-14T08:11:17Z",
+   "sku": "LN238S",
+   "ean": ""
   },
   {
    "id": "6a0235a6a27256fbdb6a72ea",
@@ -1497,7 +1705,9 @@
    "date": "2026-05-11T20:01:42.274Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-14T08:11:17Z"
+   "firstSeen": "2026-06-14T08:11:17Z",
+   "sku": "LN238S",
+   "ean": ""
   },
   {
    "id": "6a02354044755a060acef53c",
@@ -1511,7 +1721,9 @@
    "date": "2026-05-11T20:00:00.906Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-19T17:53:44Z"
+   "firstSeen": "2026-06-19T17:53:44Z",
+   "sku": "LN038",
+   "ean": ""
   },
   {
    "id": "6a01bbd70df6be4ff584fa0f",
@@ -1525,7 +1737,9 @@
    "date": "2026-05-11T11:21:59.919Z",
    "pros": "Miękki, gruba ykanina",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "6a001190733032cfd7a04e13",
@@ -1539,7 +1753,9 @@
    "date": "2026-05-10T05:03:12.636Z",
    "pros": "",
    "cons": "niema",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "69ff8ef944755a060ace4000",
@@ -1567,7 +1783,9 @@
    "date": "2026-05-09T14:23:36.990Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-20T07:47:05Z"
+   "firstSeen": "2026-06-20T07:47:05Z",
+   "sku": "LN033-ZEST-BARB",
+   "ean": ""
   },
   {
    "id": "69fda495733032cfd79fb9de",
@@ -1581,7 +1799,9 @@
    "date": "2026-05-08T08:53:41.619Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "69fda46ba27256fbdb693472",
@@ -1595,7 +1815,9 @@
    "date": "2026-05-08T08:52:59.197Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "69fd05d1733032cfd79f9d78",
@@ -1609,7 +1831,9 @@
    "date": "2026-05-07T21:36:17.807Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033B-zestaw",
+   "ean": ""
   },
   {
    "id": "69fd056fac18010b757db048",
@@ -1623,7 +1847,9 @@
    "date": "2026-05-07T21:34:39.710Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-16T18:56:18Z"
+   "firstSeen": "2026-06-16T18:56:18Z",
+   "sku": "LN237L",
+   "ean": ""
   },
   {
    "id": "69fcb1ae733032cfd79f774e",
@@ -1637,7 +1863,9 @@
    "date": "2026-05-07T15:37:18.519Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69fca6e3fe6fa728d75b3d90",
@@ -1651,7 +1879,9 @@
    "date": "2026-05-07T14:51:15.959Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-14T08:11:17Z"
+   "firstSeen": "2026-06-14T08:11:17Z",
+   "sku": "LN238S",
+   "ean": ""
   },
   {
    "id": "69fca621ac18010b757d84db",
@@ -1665,7 +1895,9 @@
    "date": "2026-05-07T14:48:01.838Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN128",
+   "ean": ""
   },
   {
    "id": "69fca2ffa27256fbdb68ea34",
@@ -1679,7 +1911,9 @@
    "date": "2026-05-07T14:34:39.479Z",
    "pros": "Materiał miękki i odpowiedniej grubości.",
    "cons": "Brak",
-   "firstSeen": "2026-06-14T08:11:17Z"
+   "firstSeen": "2026-06-14T08:11:17Z",
+   "sku": "LN238S",
+   "ean": ""
   },
   {
    "id": "69fca267ac18010b757d82de",
@@ -1693,7 +1927,9 @@
    "date": "2026-05-07T14:32:07.862Z",
    "pros": "Same zalety :)",
    "cons": "Brak",
-   "firstSeen": "2026-06-16T18:56:18Z"
+   "firstSeen": "2026-06-16T18:56:18Z",
+   "sku": "LN237L",
+   "ean": ""
   },
   {
    "id": "69fc9aecac18010b757d7faf",
@@ -1707,7 +1943,9 @@
    "date": "2026-05-07T14:00:12.202Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-16T18:56:18Z"
+   "firstSeen": "2026-06-16T18:56:18Z",
+   "sku": "LN237L",
+   "ean": ""
   },
   {
    "id": "69fc9ae15d5d5abb8f4be622",
@@ -1721,7 +1959,9 @@
    "date": "2026-05-07T14:00:01.792Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "69fc8934a27256fbdb68de2a",
@@ -1749,7 +1989,9 @@
    "date": "2026-05-07T12:35:10.461Z",
    "pros": "Milutkie w dotyku",
    "cons": "Brak",
-   "firstSeen": "2026-06-16T18:56:18Z"
+   "firstSeen": "2026-06-16T18:56:18Z",
+   "sku": "LN237L",
+   "ean": ""
   },
   {
    "id": "69fc7e3d0df6be4ff5839e34",
@@ -1763,7 +2005,9 @@
    "date": "2026-05-07T11:57:49.969Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "69fc7e2d5d5d5abb8f4bd9af",
@@ -1777,7 +2021,9 @@
    "date": "2026-05-07T11:57:33.888Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "69fc7d560df6be4ff5839dd6",
@@ -1791,7 +2037,9 @@
    "date": "2026-05-07T11:53:58.996Z",
    "pros": "Jakość",
    "cons": "Brak",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "69fc6e6a8af7fcaaa22a79b0",
@@ -1819,7 +2067,9 @@
    "date": "2026-05-06T17:58:06.507Z",
    "pros": "Bardzo mięka i wygodna",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN092",
+   "ean": ""
   },
   {
    "id": "69f7547b990aedbaf2374d1b",
@@ -1833,7 +2083,9 @@
    "date": "2026-05-03T13:58:19.245Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "69f0cc347232cc018c28d4e3",
@@ -1847,7 +2099,9 @@
    "date": "2026-04-28T15:03:16.982Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "69edfcd1cdbc4675d576e87b",
@@ -1861,7 +2115,9 @@
    "date": "2026-04-26T11:53:53.370Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-11T08:32:11Z"
+   "firstSeen": "2026-06-11T08:32:11Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "69edb317bd43ed60d697bc6a",
@@ -1875,7 +2131,9 @@
    "date": "2026-04-26T06:39:19.418Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69ed1bc0bd43ed60d697af72",
@@ -1889,7 +2147,9 @@
    "date": "2026-04-25T19:53:36.575Z",
    "pros": "Wygląd",
    "cons": "koło kratowego na popielnicy luźne",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69ebddb3aafd35de1e05b2f8",
@@ -1903,7 +2163,9 @@
    "date": "2026-04-24T21:16:35.434Z",
    "pros": "Wykonanie, cena, wygoda",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP4",
+   "ean": ""
   },
   {
    "id": "69ebb2f7ae0459b0842061fc",
@@ -1917,7 +2179,9 @@
    "date": "2026-04-24T18:14:15.438Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR5",
+   "ean": ""
   },
   {
    "id": "69ea5e21225edfcbd8dbdf4a",
@@ -1931,7 +2195,9 @@
    "date": "2026-04-23T18:00:01.907Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035B",
+   "ean": ""
   },
   {
    "id": "69ea5e0e225edfcbd8dbdf43",
@@ -1945,7 +2211,9 @@
    "date": "2026-04-23T17:59:42.294Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "69e9fcc169accb7052a8df83",
@@ -1959,7 +2227,9 @@
    "date": "2026-04-23T11:04:33.256Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "69e8c564225edfcbd8db554b",
@@ -1973,7 +2243,9 @@
    "date": "2026-04-22T12:56:04.418Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-11T08:32:11Z"
+   "firstSeen": "2026-06-11T08:32:11Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "69e5cd71315d2e3fd5b3be30",
@@ -1987,7 +2259,9 @@
    "date": "2026-04-20T06:53:37.469Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "69e1062e35f15676ae2b06e9",
@@ -2001,7 +2275,9 @@
    "date": "2026-04-16T15:54:22.750Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037L",
+   "ean": ""
   },
   {
    "id": "69e0d08b6eb32cd5cfb6f9cd",
@@ -2015,7 +2291,9 @@
    "date": "2026-04-16T12:05:32Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "69e0d08031f60ce196b6049f",
@@ -2029,7 +2307,9 @@
    "date": "2026-04-16T12:05:20.573Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN095",
+   "ean": ""
   },
   {
    "id": "69e0c48835f15676ae2aec16",
@@ -2043,7 +2323,9 @@
    "date": "2026-04-16T11:14:16.778Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN028",
+   "ean": ""
   },
   {
    "id": "69df3a9d6eb32cd5cfb668d5",
@@ -2057,7 +2339,9 @@
    "date": "2026-04-15T07:13:33.247Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN095",
+   "ean": ""
   },
   {
    "id": "69de9c5bea7b991cffdf7fc0",
@@ -2071,7 +2355,9 @@
    "date": "2026-04-14T19:58:19.951Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69de5e9b6eb32cd5cfb62594",
@@ -2085,7 +2371,9 @@
    "date": "2026-04-14T15:34:51.822Z",
    "pros": "Ładne",
    "cons": "Za małe",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "69de5e4a567497a2879407ca",
@@ -2099,7 +2387,9 @@
    "date": "2026-04-14T15:33:30.228Z",
    "pros": "Ładne",
    "cons": "Za małe",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "69de0bf035f15676ae29f8b4",
@@ -2113,7 +2403,9 @@
    "date": "2026-04-14T09:42:08.657Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "69dcfecbc61e82adfeaa1f54",
@@ -2127,7 +2419,9 @@
    "date": "2026-04-13T14:33:47.748Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "69d9edb935f15676ae28e8b7",
@@ -2141,7 +2435,9 @@
    "date": "2026-04-11T06:44:09.499Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN099",
+   "ean": ""
   },
   {
    "id": "69d9ed97ea7b991cffde25bd",
@@ -2155,7 +2451,9 @@
    "date": "2026-04-11T06:43:35.988Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN095",
+   "ean": ""
   },
   {
    "id": "69d90e38c61e82adfea92284",
@@ -2169,7 +2467,9 @@
    "date": "2026-04-10T14:50:32.798Z",
    "pros": "Solidny zamek  w poszwie na kołdrę",
    "cons": "Za małe zakładki w powleczeniu na poduszkę",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN045",
+   "ean": ""
   },
   {
    "id": "69d8cf94567497a287928818",
@@ -2183,7 +2483,9 @@
    "date": "2026-04-10T10:23:16.789Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "69d89bb814c9e5ad4b1ab16c",
@@ -2197,7 +2499,9 @@
    "date": "2026-04-10T06:42:00.430Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN106",
+   "ean": ""
   },
   {
    "id": "69d81615315d2e3fd5b0125f",
@@ -2211,7 +2515,9 @@
    "date": "2026-04-09T21:11:49.280Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN092",
+   "ean": ""
   },
   {
    "id": "69d7e4fdea7b991cffdda137",
@@ -2225,7 +2531,9 @@
    "date": "2026-04-09T17:42:21.729Z",
    "pros": "Duża, miękka, elastyczna.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN018",
+   "ean": ""
   },
   {
    "id": "69d7a1dac61e82adfea8ac12",
@@ -2239,7 +2547,9 @@
    "date": "2026-04-09T12:55:54.832Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN106",
+   "ean": ""
   },
   {
    "id": "69d7a1aec61e82adfea8abfd",
@@ -2253,7 +2563,9 @@
    "date": "2026-04-09T12:55:10.661Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN024",
+   "ean": ""
   },
   {
    "id": "69d7a17cea7b991cffdd813b",
@@ -2267,7 +2579,9 @@
    "date": "2026-04-09T12:54:20.113Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN018",
+   "ean": ""
   },
   {
    "id": "69d69f84b73e09dfdb20d938",
@@ -2281,7 +2595,9 @@
    "date": "2026-04-08T18:33:40.307Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "69d5fd6fe3ade2e77ac1e2c6",
@@ -2295,7 +2611,9 @@
    "date": "2026-04-08T07:02:07.287Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-10T12:18:38Z"
+   "firstSeen": "2026-06-10T12:18:38Z",
+   "sku": "LN196",
+   "ean": ""
   },
   {
    "id": "69cccdaae3ade2e77a9cf760",
@@ -2309,7 +2627,9 @@
    "date": "2026-04-01T07:47:54.666Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN028",
+   "ean": ""
   },
   {
    "id": "69cbd339068d3d5c747ec0a3",
@@ -2323,7 +2643,9 @@
    "date": "2026-03-31T13:59:21.178Z",
    "pros": "Wysoka jakość, Przyjemny w dotyku, Dobry materiał",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "69c965109bb0980077b45a1a",
@@ -2337,7 +2659,9 @@
    "date": "2026-03-29T17:44:48.027Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-20T07:47:05Z"
+   "firstSeen": "2026-06-20T07:47:05Z",
+   "sku": "LN033-ZEST-BARB",
+   "ean": ""
   },
   {
    "id": "69c94dc19bb0980077415dc9",
@@ -2351,7 +2675,9 @@
    "date": "2026-03-29T16:05:21.681Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN186",
+   "ean": ""
   },
   {
    "id": "69c7d1019bb0980077be3f24",
@@ -2365,7 +2691,9 @@
    "date": "2026-03-28T13:00:49.431Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN104",
+   "ean": ""
   },
   {
    "id": "69c7bf899bb0980077c9cd36",
@@ -2379,7 +2707,9 @@
    "date": "2026-03-28T11:46:17.099Z",
    "pros": "same",
    "cons": "żadnych",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV1",
+   "ean": ""
   },
   {
    "id": "69c6ac389bb098007773f9c7",
@@ -2393,7 +2723,9 @@
    "date": "2026-03-27T16:11:36.897Z",
    "pros": "Wygodny, efektowny, komfortowy",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "69c695459bb098007750298c",
@@ -2407,7 +2739,9 @@
    "date": "2026-03-27T14:33:41.303Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "69c694f69bb09800774bfe12",
@@ -2421,7 +2755,9 @@
    "date": "2026-03-27T14:32:22.599Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "69c59b669bb098007761344d",
@@ -2435,7 +2771,9 @@
    "date": "2026-03-26T20:47:34.779Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-10T12:18:38Z"
+   "firstSeen": "2026-06-10T12:18:38Z",
+   "sku": "LN196",
+   "ean": ""
   },
   {
    "id": "69c3b3c198db2e8215a64b4b",
@@ -2449,7 +2787,9 @@
    "date": "2026-03-25T10:06:57.619Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-20T07:47:05Z"
+   "firstSeen": "2026-06-20T07:47:05Z",
+   "sku": "LN033-ZEST-BARB",
+   "ean": ""
   },
   {
    "id": "69c2e5f29bb0980077daa7f5",
@@ -2463,7 +2803,9 @@
    "date": "2026-03-24T19:28:50.374Z",
    "pros": "Prawdziwe h5",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR1",
+   "ean": ""
   },
   {
    "id": "69c22dba98db2e8215328a9e",
@@ -2477,7 +2819,9 @@
    "date": "2026-03-24T06:22:50.525Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "69c03ff198db2e82157d14b8",
@@ -2491,7 +2835,9 @@
    "date": "2026-03-22T19:16:01.288Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "69be6e7c98db2e8215958122",
@@ -2505,7 +2851,9 @@
    "date": "2026-03-21T10:10:04.089Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN105",
+   "ean": ""
   },
   {
    "id": "69be303d98db2e821592ad82",
@@ -2519,7 +2867,9 @@
    "date": "2026-03-21T05:44:29.958Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN018",
+   "ean": ""
   },
   {
    "id": "69bcfd6098db2e8215d064d2",
@@ -2533,7 +2883,9 @@
    "date": "2026-03-20T07:55:12.137Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "69bc42e098db2e8215c0dea4",
@@ -2547,7 +2899,9 @@
    "date": "2026-03-19T18:39:28.280Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN011",
+   "ean": ""
   },
   {
    "id": "69bc42c098db2e8215be8413",
@@ -2561,7 +2915,9 @@
    "date": "2026-03-19T18:38:56.138Z",
    "pros": "Trwałość i jakość",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN191",
+   "ean": ""
   },
   {
    "id": "69bc29ea98db2e821532cddb",
@@ -2575,7 +2931,9 @@
    "date": "2026-03-19T16:52:58.359Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT0",
+   "ean": ""
   },
   {
    "id": "69ba3c4698db2e8215a00192",
@@ -2589,7 +2947,9 @@
    "date": "2026-03-18T05:46:46.055Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "69b7d89e98db2e8215d98b0b",
@@ -2603,7 +2963,9 @@
    "date": "2026-03-16T10:17:01.770Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT1",
+   "ean": ""
   },
   {
    "id": "69b17f3bf6e69346a21e520a",
@@ -2617,7 +2979,9 @@
    "date": "2026-03-11T14:42:03.245Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN080",
+   "ean": ""
   },
   {
    "id": "69b17f22f6e69346a21cb1b7",
@@ -2631,7 +2995,9 @@
    "date": "2026-03-11T14:41:38.944Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN098",
+   "ean": ""
   },
   {
    "id": "69add317f6e69346a262ce2f",
@@ -2645,7 +3011,9 @@
    "date": "2026-03-08T19:50:47.380Z",
    "pros": "Materiał jest dobrej jakości.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "69ad5dc3f6e69346a25c13bc",
@@ -2659,7 +3027,9 @@
    "date": "2026-03-08T11:30:11.217Z",
    "pros": "",
    "cons": "Słabo chłonie wodę",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN036",
+   "ean": ""
   },
   {
    "id": "69a9b7b98bd48e7401efcff3",
@@ -2673,7 +3043,9 @@
    "date": "2026-03-05T17:04:57.601Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "69a9b7b38bd48e7401ef882b",
@@ -2687,7 +3059,9 @@
    "date": "2026-03-05T17:04:51.169Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "69a99b658bd48e740182c9cc",
@@ -2701,7 +3075,9 @@
    "date": "2026-03-05T15:04:05.353Z",
    "pros": "Wygląd",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "69a7f2328bd48e7401e0f0af",
@@ -2715,7 +3091,9 @@
    "date": "2026-03-04T08:49:54.822Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "69a737fc8bd48e7401c17484",
@@ -2729,7 +3107,9 @@
    "date": "2026-03-03T19:35:24.219Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69a3eeca8bd48e74013f2631",
@@ -2743,7 +3123,9 @@
    "date": "2026-03-01T07:46:18.341Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT3",
+   "ean": ""
   },
   {
    "id": "69a3c8028bd48e7401ecea5f",
@@ -2757,7 +3139,9 @@
    "date": "2026-03-01T05:00:50.739Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "69a202788bd48e740110e548",
@@ -2771,7 +3155,9 @@
    "date": "2026-02-27T20:45:44.233Z",
    "pros": "Delikatny dla skóry",
    "cons": "",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "69a202288bd48e74010cb769",
@@ -2785,7 +3171,9 @@
    "date": "2026-02-27T20:44:24.242Z",
    "pros": "Bardzo dobre szycie",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "699e06218bd48e74011f8a56",
@@ -2799,7 +3187,9 @@
    "date": "2026-02-24T20:12:17.395Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "699d6e428bd48e7401450cc2",
@@ -2813,7 +3203,9 @@
    "date": "2026-02-24T09:24:18.133Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN018",
+   "ean": ""
   },
   {
    "id": "699d6e188bd48e7401424322",
@@ -2827,7 +3219,9 @@
    "date": "2026-02-24T09:23:36.346Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "699cc84a8bd48e7401eb1922",
@@ -2841,7 +3235,9 @@
    "date": "2026-02-23T21:36:09.947Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN104",
+   "ean": ""
   },
   {
    "id": "69971b5a8bd48e740150d697",
@@ -2855,7 +3251,9 @@
    "date": "2026-02-19T14:16:58.142Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN092",
+   "ean": ""
   },
   {
    "id": "6996f95a8bd48e74018dd708",
@@ -2869,7 +3267,9 @@
    "date": "2026-02-19T11:51:54.717Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN023",
+   "ean": ""
   },
   {
    "id": "699642fc8bd48e7401371c93",
@@ -2883,7 +3283,9 @@
    "date": "2026-02-18T22:53:48.322Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "6995bb358bd48e7401438d75",
@@ -2897,7 +3299,9 @@
    "date": "2026-02-18T13:14:29.880Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "699576b68bd48e7401beb3e3",
@@ -2911,7 +3315,9 @@
    "date": "2026-02-18T08:22:14.454Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN099",
+   "ean": ""
   },
   {
    "id": "69940f2b8bd48e7401347b30",
@@ -2939,7 +3345,9 @@
    "date": "2026-02-17T06:48:02.292Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "69905a778bd48e74019d8c30",
@@ -2967,7 +3375,9 @@
    "date": "2026-02-14T08:12:51.169Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN095",
+   "ean": ""
   },
   {
    "id": "699029ca8bd48e7401eff8cc",
@@ -2981,7 +3391,9 @@
    "date": "2026-02-14T07:52:42.235Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "698f68698bd48e74013f93cd",
@@ -2995,7 +3407,9 @@
    "date": "2026-02-13T18:07:37.904Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "698ef43a8bd48e7401e500b6",
@@ -3009,7 +3423,9 @@
    "date": "2026-02-13T09:51:54.062Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "698ef4128bd48e7401e25ee9",
@@ -3023,7 +3439,9 @@
    "date": "2026-02-13T09:51:14.033Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "698ef3fb8bd48e7401e0b5d3",
@@ -3037,7 +3455,9 @@
    "date": "2026-02-13T09:50:51.705Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "698e30a18bd48e7401b3f88c",
@@ -3051,7 +3471,9 @@
    "date": "2026-02-12T19:57:20.974Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN105",
+   "ean": ""
   },
   {
    "id": "698cf0468bd48e7401a3e446",
@@ -3065,7 +3487,9 @@
    "date": "2026-02-11T21:10:30.584Z",
    "pros": "Mękkie, wygodne, ciepłe.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "698ceff78bd48e7401a0587c",
@@ -3079,7 +3503,9 @@
    "date": "2026-02-11T21:09:10.990Z",
    "pros": "Mękkie, wygodne, ciepłe.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "698cefee8bd48e74019ffabb",
@@ -3093,7 +3519,9 @@
    "date": "2026-02-11T21:09:02.596Z",
    "pros": "Mękkie, wygodne, ciepłe.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "698cb54a8bd48e74010e4768",
@@ -3107,7 +3535,9 @@
    "date": "2026-02-11T16:58:50.090Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "698c98838bd48e740137ec82",
@@ -3121,7 +3551,9 @@
    "date": "2026-02-11T14:56:03.684Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "698c8fd48bd48e7401a3a33b",
@@ -3135,7 +3567,9 @@
    "date": "2026-02-11T14:19:00.052Z",
    "pros": "",
    "cons": "Szkoda że w ofercie tylko białe ale to nie wada",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "ZEST-LN126-10",
+   "ean": ""
   },
   {
    "id": "698c8f348bd48e74019975c7",
@@ -3149,7 +3583,9 @@
    "date": "2026-02-11T14:16:20.301Z",
    "pros": "",
    "cons": "Szkoda że tylko białe ale to nie wada",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN089",
+   "ean": ""
   },
   {
    "id": "6984f90d8bd48e740163dff0",
@@ -3163,7 +3599,9 @@
    "date": "2026-02-05T20:09:49.178Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN128",
+   "ean": ""
   },
   {
    "id": "6984a8968bd48e7401e076c3",
@@ -3177,7 +3615,9 @@
    "date": "2026-02-05T14:26:29.940Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "698395348bd48e7401b54683",
@@ -3191,7 +3631,9 @@
    "date": "2026-02-04T18:51:32.857Z",
    "pros": "suoer",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN104",
+   "ean": ""
   },
   {
    "id": "698394fd8bd48e7401b15273",
@@ -3205,7 +3647,9 @@
    "date": "2026-02-04T18:50:37.208Z",
    "pros": "same",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "698312c88bd48e740158515b",
@@ -3219,7 +3663,9 @@
    "date": "2026-02-04T09:35:04.049Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "69825a288bd48e74019c4ed6",
@@ -3233,7 +3679,9 @@
    "date": "2026-02-03T20:27:20.188Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MS4",
+   "ean": ""
   },
   {
    "id": "6980a5568bd48e7401b60c23",
@@ -3247,7 +3695,9 @@
    "date": "2026-02-02T13:23:34.372Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6980a5548bd48e7401b5c8cf",
@@ -3261,7 +3711,9 @@
    "date": "2026-02-02T13:23:32.251Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "697f2f258bd48e740151a431",
@@ -3275,7 +3727,9 @@
    "date": "2026-02-01T10:47:01.661Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "697bc3a28bd48e740157d712",
@@ -3289,7 +3743,9 @@
    "date": "2026-01-29T20:31:30.477Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "697b01e48bd48e7401f5ff9e",
@@ -3303,7 +3759,9 @@
    "date": "2026-01-29T06:44:52.885Z",
    "pros": "Kołdra bardzo mięciutka, przyjemna w dotyku, aż miło spac pod taka kołderką",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "6978d1f05f8038a07db9f7c9",
@@ -3317,7 +3775,9 @@
    "date": "2026-01-27T14:55:44.707Z",
    "pros": "Ok",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "6975ff0c5f8038a07df2805a",
@@ -3331,7 +3791,9 @@
    "date": "2026-01-25T11:31:24.344Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "697498695f8038a07d27d200",
@@ -3345,7 +3807,9 @@
    "date": "2026-01-24T10:01:13.014Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "6972e7965f8038a07d709e0f",
@@ -3359,7 +3823,9 @@
    "date": "2026-01-23T03:14:29.980Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "69706ced5f8038a07d3277a6",
@@ -3373,7 +3839,9 @@
    "date": "2026-01-21T06:06:37.226Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "696fa4685f8038a07d186a1e",
@@ -3387,7 +3855,9 @@
    "date": "2026-01-20T15:51:04.114Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "696f4e875f8038a07d4f52df",
@@ -3401,7 +3871,9 @@
    "date": "2026-01-20T09:44:39.808Z",
    "pros": "Cienka",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "696e23545f8038a07dc3f8b6",
@@ -3415,7 +3887,9 @@
    "date": "2026-01-19T12:28:04.149Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN179",
+   "ean": ""
   },
   {
    "id": "6969608d316c1bd9d8087a88",
@@ -3429,7 +3903,9 @@
    "date": "2026-01-15T21:47:57.540Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "6967d5c8316c1bd9d8906320",
@@ -3443,7 +3919,9 @@
    "date": "2026-01-14T17:43:36.959Z",
    "pros": "Bardzo wygodny, nie odkształca się.",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MCP4",
+   "ean": ""
   },
   {
    "id": "696691c2316c1bd9d80b7a7a",
@@ -3457,7 +3935,9 @@
    "date": "2026-01-13T18:41:06.750Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN039",
+   "ean": ""
   },
   {
    "id": "696691b6316c1bd9d80ab525",
@@ -3471,7 +3951,9 @@
    "date": "2026-01-13T18:40:54.554Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-20T07:47:05Z"
+   "firstSeen": "2026-06-20T07:47:05Z",
+   "sku": "LN033-ZEST-BARB",
+   "ean": ""
   },
   {
    "id": "69664204316c1bd9d82f1fd2",
@@ -3485,7 +3967,9 @@
    "date": "2026-01-13T13:00:52.583Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "6963e633316c1bd9d8952aff",
@@ -3499,7 +3983,9 @@
    "date": "2026-01-11T18:04:35.834Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "696260ff316c1bd9d89c3827",
@@ -3513,7 +3999,9 @@
    "date": "2026-01-10T14:23:59.039Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MS1",
+   "ean": ""
   },
   {
    "id": "6962336e316c1bd9d8b28266",
@@ -3527,7 +4015,9 @@
    "date": "2026-01-10T11:09:34.272Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN178",
+   "ean": ""
   },
   {
    "id": "69615350316c1bd9d880593d",
@@ -3541,7 +4031,9 @@
    "date": "2026-01-09T19:13:20.366Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MCP4",
+   "ean": ""
   },
   {
    "id": "6960b25a316c1bd9d88ddf15",
@@ -3555,7 +4047,9 @@
    "date": "2026-01-09T07:46:34.798Z",
    "pros": "30 cm wysokości",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP2",
+   "ean": ""
   },
   {
    "id": "696006a8316c1bd9d807484e",
@@ -3569,7 +4063,9 @@
    "date": "2026-01-08T19:34:00.921Z",
    "pros": "Dosyć twardy, wygodny",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MCP4",
+   "ean": ""
   },
   {
    "id": "695fb26d316c1bd9d8306680",
@@ -3583,7 +4079,9 @@
    "date": "2026-01-08T13:34:37.014Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP2",
+   "ean": ""
   },
   {
    "id": "695faa69316c1bd9d89d33c0",
@@ -3597,7 +4095,9 @@
    "date": "2026-01-08T13:00:25.501Z",
    "pros": "Świetna jakość materiału, ładne szycie, kolor czysta biel, fajnie zapakowany - przyda się w podróży",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN132",
+   "ean": ""
   },
   {
    "id": "695f90ce316c1bd9d8a1a102",
@@ -3611,7 +4111,9 @@
    "date": "2026-01-08T11:11:10.530Z",
    "pros": "Wygodny, nie śmierdzi, termoregulacja",
    "cons": "Jeszcze bardziej nie chce się wstawać do roboty",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MCP3",
+   "ean": ""
   },
   {
    "id": "695f8d46316c1bd9d85ea0c4",
@@ -3625,7 +4127,9 @@
    "date": "2026-01-08T10:56:06.200Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP2",
+   "ean": ""
   },
   {
    "id": "695f8c1e316c1bd9d84a2097",
@@ -3639,7 +4143,9 @@
    "date": "2026-01-08T10:51:10.060Z",
    "pros": "Jakość",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN092",
+   "ean": ""
   },
   {
    "id": "695da796316c1bd9d812c047",
@@ -3653,7 +4159,9 @@
    "date": "2026-01-07T00:23:50.655Z",
    "pros": "Miękki materiał",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN164",
+   "ean": ""
   },
   {
    "id": "695c2987316c1bd9d8ae5799",
@@ -3667,7 +4175,9 @@
    "date": "2026-01-05T21:13:43.913Z",
    "pros": "Super, polecam",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP3",
+   "ean": ""
   },
   {
    "id": "6957ca8f316c1bd9d89a43bf",
@@ -3681,7 +4191,9 @@
    "date": "2026-01-02T13:39:27.091Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "695766f0316c1bd9d8a75589",
@@ -3695,7 +4207,9 @@
    "date": "2026-01-02T06:34:24.721Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "69566c8d316c1bd9d8163ce8",
@@ -3709,7 +4223,9 @@
    "date": "2026-01-01T12:46:05.666Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69556d39316c1bd9d8cef763",
@@ -3723,7 +4239,9 @@
    "date": "2025-12-31T18:36:41.850Z",
    "pros": "Wygoda, piękny wygląd, wysokość, topper",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP4",
+   "ean": ""
   },
   {
    "id": "6954f1a8316c1bd9d8d9ec1b",
@@ -3737,7 +4255,9 @@
    "date": "2025-12-31T09:49:28.291Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN092",
+   "ean": ""
   },
   {
    "id": "6953f69e316c1bd9d8de5274",
@@ -3751,7 +4271,9 @@
    "date": "2025-12-30T15:58:22.013Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-11T08:32:11Z"
+   "firstSeen": "2026-06-11T08:32:11Z",
+   "sku": "LN093",
+   "ean": ""
   },
   {
    "id": "69513bb4316c1bd9d8969ef3",
@@ -3765,7 +4287,9 @@
    "date": "2025-12-28T14:16:20.844Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MTP1",
+   "ean": ""
   },
   {
    "id": "69513b6f316c1bd9d892fba9",
@@ -3779,7 +4303,9 @@
    "date": "2025-12-28T14:15:11.614Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN098",
+   "ean": ""
   },
   {
    "id": "69513b46316c1bd9d890ccb0",
@@ -3793,7 +4319,9 @@
    "date": "2025-12-28T14:14:30.529Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "69513b20316c1bd9d88eb9d0",
@@ -3807,7 +4335,9 @@
    "date": "2025-12-28T14:13:52.428Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN023",
+   "ean": ""
   },
   {
    "id": "694ffa00316c1bd9d8bea679",
@@ -3821,7 +4351,9 @@
    "date": "2025-12-27T15:23:44.128Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "694e2ecd316c1bd9d8b2c330",
@@ -3835,7 +4367,9 @@
    "date": "2025-12-26T06:44:29.602Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN023",
+   "ean": ""
   },
   {
    "id": "694d1609316c1bd9d8a68e7d",
@@ -3849,7 +4383,9 @@
    "date": "2025-12-25T10:46:33.428Z",
    "pros": "Twardy, ładny, nie faluje",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT4",
+   "ean": ""
   },
   {
    "id": "694c5958316c1bd9d8bc5e02",
@@ -3863,7 +4399,9 @@
    "date": "2025-12-24T21:21:28.447Z",
    "pros": "Twardość",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT1",
+   "ean": ""
   },
   {
    "id": "694c0437316c1bd9d8f100f0",
@@ -3877,7 +4415,9 @@
    "date": "2025-12-24T15:18:15.372Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP4",
+   "ean": ""
   },
   {
    "id": "69464f1b316c1bd9d8334d8d",
@@ -3891,7 +4431,9 @@
    "date": "2025-12-20T07:24:11.150Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT4",
+   "ean": ""
   },
   {
    "id": "694525a3316c1bd9d82fa699",
@@ -3905,7 +4447,9 @@
    "date": "2025-12-19T10:14:59.467Z",
    "pros": "Idealny",
    "cons": "Nie ma",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MD4",
+   "ean": ""
   },
   {
    "id": "69419e2a316c1bd9d8028614",
@@ -3919,7 +4463,9 @@
    "date": "2025-12-16T18:00:10.381Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MS4",
+   "ean": ""
   },
   {
    "id": "69406064316c1bd9d8bf0739",
@@ -3933,7 +4479,9 @@
    "date": "2025-12-15T19:24:20.278Z",
    "pros": "",
    "cons": "Bezead",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MTP4",
+   "ean": ""
   },
   {
    "id": "69403478316c1bd9d88ad3c2",
@@ -3947,7 +4495,9 @@
    "date": "2025-12-15T16:16:56.237Z",
    "pros": "Jedna strona twarda, odpowiednia",
    "cons": "druga stron sprężyny",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MTP3",
+   "ean": ""
   },
   {
    "id": "693f9920316c1bd9d8d7dc49",
@@ -3961,7 +4511,9 @@
    "date": "2025-12-15T05:14:08.419Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN179",
+   "ean": ""
   },
   {
    "id": "693d70d0316c1bd9d856bdc1",
@@ -3975,7 +4527,9 @@
    "date": "2025-12-13T13:57:36.137Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN018",
+   "ean": ""
   },
   {
    "id": "693d67f2316c1bd9d8b965b1",
@@ -3989,7 +4543,9 @@
    "date": "2025-12-13T13:19:46.761Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN179",
+   "ean": ""
   },
   {
    "id": "693d2742316c1bd9d830280d",
@@ -4003,7 +4559,9 @@
    "date": "2025-12-13T08:43:46.398Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "693c0fc7316c1bd9d874161e",
@@ -4017,7 +4575,9 @@
    "date": "2025-12-12T12:51:19.353Z",
    "pros": "",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MTP1",
+   "ean": ""
   },
   {
    "id": "693bdc5d316c1bd9d816be9d",
@@ -4031,7 +4591,9 @@
    "date": "2025-12-12T09:11:57.478Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP1",
+   "ean": ""
   },
   {
    "id": "693bdb2b316c1bd9d8f2a36e",
@@ -4045,7 +4607,9 @@
    "date": "2025-12-12T09:06:51.268Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP6",
+   "ean": ""
   },
   {
    "id": "693bdb15316c1bd9d8efe14c",
@@ -4059,7 +4623,9 @@
    "date": "2025-12-12T09:06:29.156Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP0",
+   "ean": ""
   },
   {
    "id": "693834ff316c1bd9d801be0c",
@@ -4073,7 +4639,9 @@
    "date": "2025-12-09T14:41:03.161Z",
    "pros": "Dobrze uszyty, zgodnie z opisem twardy",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT1",
+   "ean": ""
   },
   {
    "id": "69382eec316c1bd9d88b032f",
@@ -4087,7 +4655,9 @@
    "date": "2025-12-09T14:15:08.008Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "69380854316c1bd9d890d526",
@@ -4101,7 +4671,9 @@
    "date": "2025-12-09T11:30:28.169Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "693738f6316c1bd9d86d8f87",
@@ -4115,7 +4687,9 @@
    "date": "2025-12-08T20:45:42.617Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MS1",
+   "ean": ""
   },
   {
    "id": "6936e1cb316c1bd9d8ebb97b",
@@ -4129,7 +4703,9 @@
    "date": "2025-12-08T14:33:47.176Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "69353005316c1bd9d885de05",
@@ -4143,7 +4719,9 @@
    "date": "2025-12-07T07:43:01.493Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "ZEST-LN125-10",
+   "ean": ""
   },
   {
    "id": "69352fe0316c1bd9d8832006",
@@ -4157,7 +4735,9 @@
    "date": "2025-12-07T07:42:24.728Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "ZEST-LN126-10",
+   "ean": ""
   },
   {
    "id": "6933f409316c1bd9d82673a8",
@@ -4171,7 +4751,9 @@
    "date": "2025-12-06T09:14:48.940Z",
    "pros": "Bardzo dobre chłonne wodę i bardzo delikatne",
    "cons": "Brak",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "6932c758316c1bd9d8398a3f",
@@ -4185,7 +4767,9 @@
    "date": "2025-12-05T11:51:52.679Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "ZEST-LN126-10",
+   "ean": ""
   },
   {
    "id": "6931d7d1316c1bd9d8a89666",
@@ -4199,7 +4783,9 @@
    "date": "2025-12-04T18:49:53.047Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "69316a47316c1bd9d82fa648",
@@ -4213,7 +4799,9 @@
    "date": "2025-12-04T11:02:31.738Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN023",
+   "ean": ""
   },
   {
    "id": "69309d52316c1bd9d8723c7a",
@@ -4227,7 +4815,9 @@
    "date": "2025-12-03T20:28:02.365Z",
    "pros": "W miarę cienka, lecz bardzo ciepła kołdra, lekka. Miło szeleści :)",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN178",
+   "ean": ""
   },
   {
    "id": "693073f2316c1bd9d8be88fe",
@@ -4241,7 +4831,9 @@
    "date": "2025-12-03T17:31:30.753Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN024",
+   "ean": ""
   },
   {
    "id": "692e1fa9316c1bd9d8babd61",
@@ -4255,7 +4847,9 @@
    "date": "2025-12-01T23:07:21.421Z",
    "pros": "Jakość wykonania, termoregulacja",
    "cons": "Trochę, chrupie, , jak się pod nią śpi (nie przeszkadza)",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN023",
+   "ean": ""
   },
   {
    "id": "692d849f316c1bd9d832716c",
@@ -4269,7 +4863,9 @@
    "date": "2025-12-01T12:05:51.776Z",
    "pros": "Spełniają swoje zadania",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6927a28f316c1bd9d8f65eb9",
@@ -4283,7 +4879,9 @@
    "date": "2025-11-27T00:59:59.444Z",
    "pros": "twardy ale wygodny",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "6927519d316c1bd9d8f3785f",
@@ -4297,7 +4895,9 @@
    "date": "2025-11-26T19:14:37.564Z",
    "pros": "Miękka, miła w dotyku",
    "cons": "Żadnych",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN179",
+   "ean": ""
   },
   {
    "id": "69272d18316c1bd9d8bc50fb",
@@ -4311,7 +4911,9 @@
    "date": "2025-11-26T16:38:48.386Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "69270583316c1bd9d89291d2",
@@ -4325,7 +4927,9 @@
    "date": "2025-11-26T13:49:55.481Z",
    "pros": "Ciepła, duża, wygodna",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN179",
+   "ean": ""
   },
   {
    "id": "6926fb3f316c1bd9d8c3412d",
@@ -4339,7 +4943,9 @@
    "date": "2025-11-26T13:06:07.376Z",
    "pros": "Lekka",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN179",
+   "ean": ""
   },
   {
    "id": "692698bc316c1bd9d82ac440",
@@ -4353,7 +4959,9 @@
    "date": "2025-11-26T06:05:47.991Z",
    "pros": "Jakość, wykonanie, bez zapachu, cena",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MS1",
+   "ean": ""
   },
   {
    "id": "69262c82316c1bd9d86f5d42",
@@ -4367,7 +4975,9 @@
    "date": "2025-11-25T22:24:02.949Z",
    "pros": "Tkanina, wypełnienie",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN112",
+   "ean": ""
   },
   {
    "id": "6925e594316c1bd9d83c72c0",
@@ -4381,7 +4991,9 @@
    "date": "2025-11-25T17:21:24.709Z",
    "pros": "Materac jest średnio twardy ibardzo wygodny",
    "cons": "Bez wad",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MP1",
+   "ean": ""
   },
   {
    "id": "6925d29b316c1bd9d87154a6",
@@ -4395,7 +5007,9 @@
    "date": "2025-11-25T16:00:27.473Z",
    "pros": "Wysokość, komfort spania, H5 to prawdziwa H5, jakość, wykonanie",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MTP0",
+   "ean": ""
   },
   {
    "id": "6925c7a3316c1bd9d8776581",
@@ -4409,7 +5023,9 @@
    "date": "2025-11-25T15:13:39.456Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MS1",
+   "ean": ""
   },
   {
    "id": "6925b063316c1bd9d88568a8",
@@ -4423,7 +5039,9 @@
    "date": "2025-11-25T13:34:27.280Z",
    "pros": "Wygoda, cena, jakość, design",
    "cons": "Nie ma",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MSP1",
+   "ean": ""
   },
   {
    "id": "6925af9a316c1bd9d8756a47",
@@ -4437,7 +5055,9 @@
    "date": "2025-11-25T13:31:06.375Z",
    "pros": "Wygoda, cena, użytkowanie",
    "cons": "Nie ma absolutnie żadnej wady",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MT1",
+   "ean": ""
   },
   {
    "id": "6922e420316c1bd9d87292c6",
@@ -4451,7 +5071,9 @@
    "date": "2025-11-23T10:38:24.434Z",
    "pros": "super biel, grube i miękkie",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "691fa0ed316c1bd9d8e49db3",
@@ -4465,7 +5087,9 @@
    "date": "2025-11-20T23:14:53.073Z",
    "pros": "Jakość!",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "ZEST-LN125-10",
+   "ean": ""
   },
   {
    "id": "691cefe1316c1bd9d8d5a35f",
@@ -4479,7 +5103,9 @@
    "date": "2025-11-18T22:14:57.152Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "691ca3d8316c1bd9d8f79821",
@@ -4493,7 +5119,9 @@
    "date": "2025-11-18T16:50:32.688Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "69172d6e316c1bd9d8d85a91",
@@ -4507,7 +5135,9 @@
    "date": "2025-11-14T13:23:58.330Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV1",
+   "ean": ""
   },
   {
    "id": "691628d3316c1bd9d8bda608",
@@ -4521,7 +5151,9 @@
    "date": "2025-11-13T18:52:03.505Z",
    "pros": "Komfortowo wyglądają i komfortowo się śpi.",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR1",
+   "ean": ""
   },
   {
    "id": "69160aa1316c1bd9d858d78a",
@@ -4535,7 +5167,9 @@
    "date": "2025-11-13T16:43:13.595Z",
    "pros": "Twardosc",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MP1",
+   "ean": ""
   },
   {
    "id": "6915ead2316c1bd9d8eab373",
@@ -4549,7 +5183,9 @@
    "date": "2025-11-13T14:27:30.711Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "6915d4b5316c1bd9d8f88a67",
@@ -4563,7 +5199,9 @@
    "date": "2025-11-13T12:53:08.936Z",
    "pros": "Perfekto, wszystko na s tak . Polecam i to bardzo",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV4",
+   "ean": ""
   },
   {
    "id": "6914b120316c1bd9d808e9fa",
@@ -4577,7 +5215,9 @@
    "date": "2025-11-12T16:09:04.583Z",
    "pros": "Wykonanie, obszycia, materiał",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR1",
+   "ean": ""
   },
   {
    "id": "690f03035f7edaec6acf57ed",
@@ -4591,7 +5231,9 @@
    "date": "2025-11-08T08:44:51.660Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "690f02ed5f7edaec6ace2985",
@@ -4605,7 +5247,9 @@
    "date": "2025-11-08T08:44:29.427Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "690cd30a5f7edaec6ad65572",
@@ -4619,7 +5263,9 @@
    "date": "2025-11-06T16:55:38.826Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "690ba7635f7edaec6a817882",
@@ -4633,7 +5279,9 @@
    "date": "2025-11-05T19:37:07.690Z",
    "pros": "zgodny z opisem, komfortowe spanie jak w hotelu",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV1",
+   "ean": ""
   },
   {
    "id": "690b76ff5f7edaec6ae285cc",
@@ -4647,7 +5295,9 @@
    "date": "2025-11-05T16:10:39.135Z",
    "pros": "Bardzo wygodny materac .",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MR4",
+   "ean": ""
   },
   {
    "id": "690b31af5f7edaec6af22d4b",
@@ -4661,7 +5311,9 @@
    "date": "2025-11-05T11:14:55.765Z",
    "pros": "Dwie twardości materaca",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV1",
+   "ean": ""
   },
   {
    "id": "690a1f245f7edaec6a431706",
@@ -4675,7 +5327,9 @@
    "date": "2025-11-04T15:43:32.641Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "690a1f1f5f7edaec6a42ab40",
@@ -4689,7 +5343,9 @@
    "date": "2025-11-04T15:43:27.227Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "6900d3915f7edaec6ae6f27c",
@@ -4703,7 +5359,9 @@
    "date": "2025-10-28T14:30:41.023Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "68fb8ebe5f7edaec6adf9b47",
@@ -4717,7 +5375,9 @@
    "date": "2025-10-24T14:35:42.587Z",
    "pros": "Miękki, śnieżno biały  dobrze uszyty",
    "cons": "Nie ma wad",
-   "firstSeen": "2026-06-10T12:18:38Z"
+   "firstSeen": "2026-06-10T12:18:38Z",
+   "sku": "LN196",
+   "ean": ""
   },
   {
    "id": "68fa73cd5f7edaec6ae97ef4",
@@ -4731,7 +5391,9 @@
    "date": "2025-10-23T18:28:29.717Z",
    "pros": "Jakość",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "68f51f16e4c7d063dbc09b37",
@@ -4745,7 +5407,9 @@
    "date": "2025-10-19T17:25:41.984Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "68f28905e4c7d063db05e9f2",
@@ -4759,7 +5423,9 @@
    "date": "2025-10-17T18:20:53.617Z",
    "pros": "Trwały, lekki",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "68f09dabe4c7d063db92b4c5",
@@ -4773,7 +5439,9 @@
    "date": "2025-10-16T07:24:27.467Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "MV1",
+   "ean": ""
   },
   {
    "id": "68ef70d5e4c7d063db01093e",
@@ -4787,7 +5455,9 @@
    "date": "2025-10-15T10:00:53.436Z",
    "pros": "",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "68ef5f0be4c7d063db901578",
@@ -4801,7 +5471,9 @@
    "date": "2025-10-15T08:44:59.341Z",
    "pros": "",
    "cons": "Brak wad",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "68e8bbd4e4c7d063db5e6b1d",
@@ -4815,7 +5487,9 @@
    "date": "2025-10-10T07:54:59.982Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "68e8bbc8e4c7d063db5dd799",
@@ -4829,7 +5503,9 @@
    "date": "2025-10-10T07:54:48.899Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "68e005efe4c7d063dbab0191",
@@ -4843,7 +5519,9 @@
    "date": "2025-10-03T17:20:47.861Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "68deb712e4c7d063db899071",
@@ -4857,7 +5535,9 @@
    "date": "2025-10-02T17:32:02.510Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN098",
+   "ean": ""
   },
   {
    "id": "68dd6cf1e4c7d063db61c71b",
@@ -4871,7 +5551,9 @@
    "date": "2025-10-01T18:03:29.304Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN094",
+   "ean": ""
   },
   {
    "id": "68dd6cc3e4c7d063db5e679f",
@@ -4885,7 +5567,9 @@
    "date": "2025-10-01T18:02:43.342Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN026",
+   "ean": ""
   },
   {
    "id": "68daa902e4c7d063dbd0ac78",
@@ -4899,7 +5583,9 @@
    "date": "2025-09-29T15:42:57.948Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-10T12:18:38Z"
+   "firstSeen": "2026-06-10T12:18:38Z",
+   "sku": "LN196",
+   "ean": ""
   },
   {
    "id": "68da4ded54aafa706a40a02f",
@@ -4913,7 +5599,9 @@
    "date": "2025-09-29T09:14:21.940Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "68da4dd554aafa706a3c168a",
@@ -4927,7 +5615,9 @@
    "date": "2025-09-29T09:13:57.796Z",
    "pros": "Dobra jakość i cena",
    "cons": "",
-   "firstSeen": "2026-06-24T18:31:08Z"
+   "firstSeen": "2026-06-24T18:31:08Z",
+   "sku": "LN032",
+   "ean": ""
   },
   {
    "id": "68d3eefe54aafa706ac5f8ba",
@@ -4941,7 +5631,9 @@
    "date": "2025-09-24T13:15:41.828Z",
    "pros": "Duża, stabilna",
    "cons": "Wgniecenie",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68c7aafbb8f1555fc4577a3a",
@@ -4955,7 +5647,9 @@
    "date": "2025-09-15T05:58:19.302Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68c68200b8f1555fc4872846",
@@ -4969,7 +5663,9 @@
    "date": "2025-09-14T08:51:12.571Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN195",
+   "ean": ""
   },
   {
    "id": "68c484fbb8f1555fc42d58ac",
@@ -4983,7 +5679,9 @@
    "date": "2025-09-12T20:39:22.971Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "68b89ec84b4549a6c57b7cd6",
@@ -4997,7 +5695,9 @@
    "date": "2025-09-03T20:02:16.913Z",
    "pros": "Mięciutkie",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "68b7e3844b4549a6c598299e",
@@ -5011,7 +5711,9 @@
    "date": "2025-09-03T06:43:16.372Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "68b7e3824b4549a6c597f6a8",
@@ -5025,7 +5727,9 @@
    "date": "2025-09-03T06:43:14.183Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "68addf174b4549a6c522af41",
@@ -5039,7 +5743,9 @@
    "date": "2025-08-26T16:21:43.197Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "68addede4b4549a6c51d85e2",
@@ -5053,7 +5759,9 @@
    "date": "2025-08-26T16:20:46.879Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "68aaf1b14b4549a6c580e658",
@@ -5067,7 +5775,9 @@
    "date": "2025-08-24T11:04:17.014Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "68a82ecb4b4549a6c55a9fe5",
@@ -5081,7 +5791,9 @@
    "date": "2025-08-22T08:48:11.043Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "68a2b6524b4549a6c5120a7a",
@@ -5095,7 +5807,9 @@
    "date": "2025-08-18T05:12:50.513Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "689a45b44b4549a6c570816d",
@@ -5109,7 +5823,9 @@
    "date": "2025-08-11T19:34:12.122Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "6896fe1c4b4549a6c548355e",
@@ -5123,7 +5839,9 @@
    "date": "2025-08-09T07:51:56.002Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN009",
+   "ean": ""
   },
   {
    "id": "689212474b4549a6c5898fda",
@@ -5137,7 +5855,9 @@
    "date": "2025-08-05T14:16:39.594Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN067",
+   "ean": ""
   },
   {
    "id": "68836af21ca66b7201b37bd5",
@@ -5151,7 +5871,9 @@
    "date": "2025-07-25T11:30:58.571Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68829d021ca66b7201249af5",
@@ -5165,7 +5887,9 @@
    "date": "2025-07-24T20:52:18.159Z",
    "pros": "Ładny krój, materiał wysokiej jakości.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN132",
+   "ean": ""
   },
   {
    "id": "6882659d1ca66b72018866ce",
@@ -5179,7 +5903,9 @@
    "date": "2025-07-24T16:55:57.694Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "6882655e1ca66b720185ce43",
@@ -5193,7 +5919,9 @@
    "date": "2025-07-24T16:54:54.009Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "688264f91ca66b720181bccb",
@@ -5207,7 +5935,9 @@
    "date": "2025-07-24T16:53:13.136Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "688207d51ca66b7201f0d529",
@@ -5221,7 +5951,9 @@
    "date": "2025-07-24T10:15:49.464Z",
    "pros": "Miękki, Chłonny, idealnie biały, mięsisty",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "6882079a1ca66b7201edc1df",
@@ -5235,7 +5967,9 @@
    "date": "2025-07-24T10:14:50.646Z",
    "pros": "Jakość, biel, gładkość, grubość, stosunek jakości do ceny",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001",
+   "ean": ""
   },
   {
    "id": "68814ed71ca66b72019e200b",
@@ -5249,7 +5983,9 @@
    "date": "2025-07-23T21:06:31.131Z",
    "pros": "Matowe wykończenie, pojemność, ładny design",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "6880fcfc1ca66b7201f06531",
@@ -5263,7 +5999,9 @@
    "date": "2025-07-23T15:17:16.612Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN132",
+   "ean": ""
   },
   {
    "id": "6880f1c31ca66b72016ef3ba",
@@ -5277,7 +6015,9 @@
    "date": "2025-07-23T14:29:23.063Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN028",
+   "ean": ""
   },
   {
    "id": "6880b0a41ca66b72014f7964",
@@ -5291,7 +6031,9 @@
    "date": "2025-07-23T09:51:32.154Z",
    "pros": "\"Przyjazne dla skóry\", dobre wykończenie produktu.",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "6880b0631ca66b72014ba618",
@@ -5305,7 +6047,9 @@
    "date": "2025-07-23T09:50:27.254Z",
    "pros": "Rozmiar zgodny z rozmiarem mojej stopy 37.",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "6880a3771ca66b7201a39dfc",
@@ -5319,7 +6063,9 @@
    "date": "2025-07-23T08:55:19.075Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68809f881ca66b7201737c9c",
@@ -5333,7 +6079,9 @@
    "date": "2025-07-23T08:38:32.204Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68809f2d1ca66b72016f0ab7",
@@ -5347,7 +6095,9 @@
    "date": "2025-07-23T08:37:01.237Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "687212de1ca66b72018f5a08",
@@ -5361,7 +6111,9 @@
    "date": "2025-07-12T07:46:38.284Z",
    "pros": "Dobrze wsiąka wodę",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "686913531ca66b7201316737",
@@ -5375,7 +6127,9 @@
    "date": "2025-07-05T11:58:11.258Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68662cd81ca66b72016925f1",
@@ -5389,7 +6143,9 @@
    "date": "2025-07-03T07:10:16.116Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "68646bfd1ca66b7201c18920",
@@ -5403,7 +6159,9 @@
    "date": "2025-07-01T23:15:09.232Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "685e59a51ca66b7201acee96",
@@ -5417,7 +6175,9 @@
    "date": "2025-06-27T08:43:17.127Z",
    "pros": "Elegancka",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "685139edb917b284c1ef4cc7",
@@ -5431,7 +6191,9 @@
    "date": "2025-06-17T09:48:29.106Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN101",
+   "ean": ""
   },
   {
    "id": "684c2e89b917b284c1961c1e",
@@ -5445,7 +6207,9 @@
    "date": "2025-06-13T13:58:33.650Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "6847197dc1d79345dceae2b4",
@@ -5459,7 +6223,9 @@
    "date": "2025-06-09T17:27:25.727Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN002",
+   "ean": ""
   },
   {
    "id": "6840666f7909e03b8ba68690",
@@ -5473,7 +6239,9 @@
    "date": "2025-06-04T15:29:51.478Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN028",
+   "ean": ""
   },
   {
    "id": "683d545a7909e03b8b104ba2",
@@ -5487,7 +6255,9 @@
    "date": "2025-06-02T07:35:54.349Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "6839fe377909e03b8b4b28ab",
@@ -5501,7 +6271,9 @@
    "date": "2025-05-30T18:51:35.413Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN132",
+   "ean": ""
   },
   {
    "id": "682491667a0da07b77bd1a4b",
@@ -5515,7 +6287,9 @@
    "date": "2025-05-14T12:49:42.333Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "6822db4be0287a99499fb070",
@@ -5529,7 +6303,9 @@
    "date": "2025-05-13T05:40:27.182Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "682059c2e0287a9949d6236f",
@@ -5543,7 +6319,9 @@
    "date": "2025-05-11T08:03:14.143Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "681e8bdee0287a99492431c3",
@@ -5557,7 +6335,9 @@
    "date": "2025-05-09T23:12:30.770Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "681cc418e0287a994931d888",
@@ -5571,7 +6351,9 @@
    "date": "2025-05-08T14:47:52.465Z",
    "pros": "Duży, sztywny, wyjmowany kosz",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "681cbe26e0287a9949e52350",
@@ -5585,7 +6367,9 @@
    "date": "2025-05-08T14:22:30.805Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "681c9299e0287a99497d959f",
@@ -5599,7 +6383,9 @@
    "date": "2025-05-08T11:16:41.381Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN001KP",
+   "ean": ""
   },
   {
    "id": "681119c4837eac6394b46d42",
@@ -5613,7 +6399,9 @@
    "date": "2025-04-29T18:26:12.758Z",
    "pros": "Biel",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "68111963837eac6394afc7cb",
@@ -5627,7 +6415,9 @@
    "date": "2025-04-29T18:24:35.859Z",
    "pros": "Miękkie, biały puszek",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN125",
+   "ean": ""
   },
   {
    "id": "67f6394d4a325037ded54f75",
@@ -5641,7 +6431,9 @@
    "date": "2025-04-09T09:09:33.067Z",
    "pros": "Grube",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "67f22c304a325037deda9bcc",
@@ -5655,7 +6447,9 @@
    "date": "2025-04-06T07:24:32.760Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "67e990fe4a325037de9abfa9",
@@ -5669,7 +6463,9 @@
    "date": "2025-03-30T18:44:14.389Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN019",
+   "ean": ""
   },
   {
    "id": "67e326794a325037de363fbb",
@@ -5683,7 +6479,9 @@
    "date": "2025-03-25T21:56:09.197Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "67e2ab844a325037de53e25e",
@@ -5697,7 +6495,9 @@
    "date": "2025-03-25T13:11:32.429Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN132",
+   "ean": ""
   },
   {
    "id": "67dd41074a325037de8f0298",
@@ -5711,7 +6511,9 @@
    "date": "2025-03-21T10:35:51.498Z",
    "pros": "Miękki, przyjemny w dotyku",
    "cons": "Brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN127",
+   "ean": ""
   },
   {
    "id": "67d90737dc008fa04e552736",
@@ -5725,7 +6527,9 @@
    "date": "2025-03-18T05:40:07.777Z",
    "pros": "Jakość, 100% bawełna",
    "cons": "Brak.",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN042",
+   "ean": ""
   },
   {
    "id": "67d9067cdc008fa04e4cec92",
@@ -5739,7 +6543,9 @@
    "date": "2025-03-18T05:37:00.145Z",
    "pros": "100% bawełna, kołdra przepuszczająca powietrze, jakość po prostu rewelacja",
    "cons": "Dla mnie brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN103",
+   "ean": ""
   },
   {
    "id": "67d7d24bdc008fa04e0848d6",
@@ -5753,7 +6559,9 @@
    "date": "2025-03-17T07:42:03.110Z",
    "pros": "miękkość, gęsty splor, piękna biel.",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "67d7d108dc008fa04ef7142e",
@@ -5767,7 +6575,9 @@
    "date": "2025-03-17T07:36:40.495Z",
    "pros": "piękny wygląd, miękkość.",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN039",
+   "ean": ""
   },
   {
    "id": "67d7cfe8dc008fa04ee748b1",
@@ -5781,7 +6591,9 @@
    "date": "2025-03-17T07:31:52.503Z",
    "pros": "miękkość, gęstość.",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "67c1c8807c14565f696bff6f",
@@ -5795,7 +6607,9 @@
    "date": "2025-02-28T14:30:24.819Z",
    "pros": "Grubsza podeszwa, miły materiał",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN126",
+   "ean": ""
   },
   {
    "id": "67a6623b7c14565f697f12d9",
@@ -5809,7 +6623,9 @@
    "date": "2025-02-07T19:42:51.291Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "67652a2e70ffec31e855424f",
@@ -5823,7 +6639,9 @@
    "date": "2024-12-20T08:26:22.448Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN018",
+   "ean": ""
   },
   {
    "id": "676170bf70ffec31e8772601",
@@ -5837,7 +6655,9 @@
    "date": "2024-12-17T12:38:23.309Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "676170b470ffec31e8766a9a",
@@ -5851,7 +6671,9 @@
    "date": "2024-12-17T12:38:12.591Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN034",
+   "ean": ""
   },
   {
    "id": "6743b4bd70ffec31e8e2378e",
@@ -5865,7 +6687,9 @@
    "date": "2024-11-24T23:20:29.345Z",
    "pros": "Wielkość, grubość, cena",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN037",
+   "ean": ""
   },
   {
    "id": "67158c6a88069744f774f2d2",
@@ -5879,7 +6703,9 @@
    "date": "2024-10-20T23:04:10.769Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN033",
+   "ean": ""
   },
   {
    "id": "6649b7a367d990465abbd7af",
@@ -5893,7 +6719,9 @@
    "date": "2024-05-19T08:26:11.011Z",
    "pros": "Gruby",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN035",
+   "ean": ""
   },
   {
    "id": "6644d4e267d990465abaf0bd",
@@ -5907,7 +6735,9 @@
    "date": "2024-05-15T15:29:38.963Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN036",
+   "ean": ""
   }
  ]
 }
