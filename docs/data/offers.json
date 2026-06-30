@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T16:23:48Z",
+ "updated": "2026-06-30T18:31:47Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5524,7 +5524,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18222666218",
@@ -6717,23 +6717,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17755988156",
-   "name": "Kołdra 160x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17755988156",
-   "sku": "LN024",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17666054578",
    "name": "Szlafrok unisex M oddychający chłonny hotelowy z kieszeniami wiązany długi",
    "shop": "toratex_pl",
@@ -6977,6 +6960,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17774211097",
    "sku": "ZEST-X2LN037-X2LN035-X4LN033",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17755988156",
+   "name": "Kołdra 160x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17755988156",
+   "sku": "LN024",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7615,7 +7615,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17770335698",
