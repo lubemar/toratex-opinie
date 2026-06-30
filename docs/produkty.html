@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TORATEX — Produkty (oceny i opinie)</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1a202c; --muted:#64748b; --line:#e2e8f0;
+          --green:#15803d; --green-bg:#dcfce7; --red:#b91c1c; --red-bg:#fee2e2;
+          --amber:#b45309; --amber-bg:#fef3c7; --accent:#0f766e; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family:system-ui,-apple-system,'Segoe UI',sans-serif; background:var(--bg); color:var(--text); }
+  .wrap { max-width:1100px; margin:0 auto; padding:24px 16px 60px; }
+  h1 { font-size:22px; margin-bottom:4px; }
+  .sub { color:var(--muted); font-size:14px; margin-bottom:12px; }
+  .nav { display:flex; gap:8px; margin-bottom:16px; }
+  .nav a { font-size:14px; text-decoration:none; padding:6px 12px; border-radius:8px; border:1px solid var(--line); color:var(--text); background:var(--card); }
+  .nav a.active { background:var(--accent); color:#fff; border-color:var(--accent); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-bottom:18px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; }
+  .card.warn { border-left:4px solid var(--amber); border-radius:0 10px 10px 0; }
+  .card.bad { border-left:4px solid var(--red); border-radius:0 10px 10px 0; }
+  .card .v { font-size:26px; font-weight:600; }
+  .card .l { font-size:13px; color:var(--muted); }
+  .filters { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px;
+             display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:14px; font-size:14px; }
+  .filters select,.filters input[type=text] { padding:6px 8px; border:1px solid var(--line); border-radius:6px; font-size:14px; }
+  .filters input[type=text] { min-width:220px; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; font-size:14px; }
+  th, td { padding:9px 10px; text-align:left; border-bottom:1px solid var(--line); }
+  th { background:#f1f3f6; font-weight:600; cursor:pointer; white-space:nowrap; user-select:none; }
+  th .ar { color:var(--muted); font-size:11px; }
+  tr.gap { background:#fffaf0; }
+  tr.bad { background:#fef5f5; }
+  td.num { text-align:right; font-variant-numeric:tabular-nums; }
+  .pname { font-weight:500; }
+  .pname a { color:var(--text); text-decoration:none; }
+  .pname a:hover { color:var(--accent); }
+  .sku { font-family:ui-monospace,monospace; font-size:12px; color:var(--muted); }
+  .stars { color:#d97706; letter-spacing:1px; }
+  .tag { padding:1px 7px; border-radius:99px; font-size:11px; font-weight:500; white-space:nowrap; }
+  .tag.shop { background:#e0f2fe; color:#075985; }
+  .tag.gap { background:var(--amber-bg); color:var(--amber); }
+  .tag.bad { background:var(--red-bg); color:var(--red); }
+  .tag.fam { background:#eef2ff; color:#3730a3; }
+  .empty { text-align:center; color:var(--muted); padding:40px 0; }
+  footer { margin-top:24px; font-size:12px; color:var(--muted); text-align:center; }
+  .legend { font-size:12px; color:var(--muted); margin:10px 0 0; }
+  .count { margin-left:auto; color:var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Produkty — oceny, opinie i okazje</h1>
+  <div class="sub">Wszystkie aktywne oferty z obu sklepów. Każdy produkt z liczbą opinii, oceną i LN — także te z oceną, ale bez napisanych opinii.</div>
+
+  <div class="nav">
+    <a href="index.html">Opinie</a>
+    <a href="produkty.html" class="active">Produkty</a>
+  </div>
+
+  <div class="cards">
+    <div class="card"><div class="v" id="cTotal">—</div><div class="l">Produktów</div></div>
+    <div class="card warn"><div class="v" id="cZero">—</div><div class="l">Bez opinii (0)</div></div>
+    <div class="card warn"><div class="v" id="cFew">—</div><div class="l">Mało opinii (1–2)</div></div>
+    <div class="card bad"><div class="v" id="cLow">—</div><div class="l">Ocena &lt; 4,7 (≥3 opinii)</div></div>
+  </div>
+
+  <div class="filters">
+    <select id="fShop"><option value="">Wszystkie sklepy</option><option value="tora_official">tora_official</option><option value="toratex_pl">toratex_pl</option></select>
+    <select id="fFamily"><option value="">Wszystkie rodziny</option></select>
+    <select id="fReviews">
+      <option value="">Opinie: dowolnie</option>
+      <option value="0">0 opinii</option>
+      <option value="1-2">1–2 opinie</option>
+      <option value="3+">3+ opinii</option>
+    </select>
+    <select id="fRating">
+      <option value="">Ocena: dowolnie</option>
+      <option value="none">brak oceny</option>
+      <option value="lt4">🔴 &lt; 4,0</option>
+      <option value="4-469">🟠 4,0–4,69</option>
+      <option value="47-489">🟡 4,7–4,89</option>
+      <option value="ge49">🟢 ≥ 4,9</option>
+    </select>
+    <input type="text" id="fSearch" placeholder="szukaj: nazwa / LN / EAN…">
+    <span class="count" id="count"></span>
+  </div>
+
+  <table id="tbl">
+    <thead>
+      <tr>
+        <th data-k="name">Produkt</th>
+        <th data-k="sku">LN / SKU</th>
+        <th data-k="family">Rodzina</th>
+        <th data-k="shop">Sklep</th>
+        <th data-k="reviews" class="num">Opinie</th>
+        <th data-k="avg" class="num">Ocena</th>
+        <th data-k="sales" class="num">Sprzedaż</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <p class="legend">🟡 żółty wiersz = okazja na opinie (≤2 opinie). 🔴 czerwony = niska ocena (&lt;4,7 przy ≥3 opiniach). Kliknij nagłówek, by sortować. Kolumna „Sprzedaż" uzupełni się po podpięciu źródła.</p>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+let offers = [], view = [], sortKey = 'reviews', sortDir = 1;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const stars = n => !n ? '' : '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n));
+
+const FAMILIES = [
+  ['Pościel (komplety)', /pościel|komplet poście|poszwa/],
+  ['Poszewki', /poszewk/],
+  ['Prześcieradła', /prześcieradł/],
+  ['Ręczniki', /ręcznik/],
+  ['Poduszki', /poduszk|jasiek/],
+  ['Kołdry', /kołdr/],
+  ['Materace', /materac/],
+  ['Szlafroki', /szlafrok/],
+  ['Kapcie', /kapcie|bambosze|pantofle|klapki/],
+  ['Maty', /mata|dywanik/],
+  ['Koce', /\bkoc\b|narzut/],
+];
+function family(name) {
+  const n = (name || '').toLowerCase();
+  for (const [label, re] of FAMILIES) if (re.test(n)) return label;
+  return 'Inne';
+}
+
+async function init() {
+  try {
+    const data = await fetch('data/offers.json?t=' + Date.now()).then(r => r.json());
+    offers = (data.offers || []).map(o => ({ ...o, family: family(o.name) }));
+    const fams = [...new Set(offers.map(o => o.family))].sort();
+    $('fFamily').insertAdjacentHTML('beforeend', fams.map(f => `<option value="${esc(f)}">${esc(f)}</option>`).join(''));
+    renderStats();
+    apply();
+    $('foot').textContent = `Dane: ${data.updated ? new Date(data.updated).toLocaleString('pl-PL') : 'brak'} · ${offers.length} ofert`;
+  } catch (e) {
+    $('rows').innerHTML = `<tr><td colspan="7" class="empty">Brak danych. Uruchom workflow po wgraniu nowej wersji — wtedy powstanie offers.json.</td></tr>`;
+  }
+}
+
+function renderStats() {
+  $('cTotal').textContent = offers.length;
+  $('cZero').textContent = offers.filter(o => o.reviews === 0).length;
+  $('cFew').textContent = offers.filter(o => o.reviews >= 1 && o.reviews <= 2).length;
+  $('cLow').textContent = offers.filter(o => o.reviews >= 3 && o.avg && o.avg < 4.7).length;
+}
+
+function apply() {
+  const shop = $('fShop').value, fam = $('fFamily').value, rv = $('fReviews').value,
+        rt = $('fRating').value, q = $('fSearch').value.trim().toLowerCase();
+  view = offers.filter(o => {
+    if (shop && o.shop !== shop) return false;
+    if (fam && o.family !== fam) return false;
+    if (rv === '0' && o.reviews !== 0) return false;
+    if (rv === '1-2' && !(o.reviews >= 1 && o.reviews <= 2)) return false;
+    if (rv === '3+' && o.reviews < 3) return false;
+    if (rt === 'none' && o.reviews > 0) return false;
+    if (rt === 'lt4' && !(o.reviews > 0 && o.avg < 4.0)) return false;
+    if (rt === '4-469' && !(o.avg >= 4.0 && o.avg < 4.7)) return false;
+    if (rt === '47-489' && !(o.avg >= 4.7 && o.avg < 4.9)) return false;
+    if (rt === 'ge49' && !(o.avg >= 4.9)) return false;
+    if (q && !((o.name||'') + ' ' + (o.sku||'') + ' ' + (o.ean||'')).toLowerCase().includes(q)) return false;
+    return true;
+  });
+  view.sort((a, b) => {
+    let x = a[sortKey], y = b[sortKey];
+    if (sortKey === 'name' || sortKey === 'sku' || sortKey === 'family' || sortKey === 'shop') {
+      x = (x||'').toString().toLowerCase(); y = (y||'').toString().toLowerCase();
+      return x < y ? -sortDir : x > y ? sortDir : 0;
+    }
+    x = x ?? -1; y = y ?? -1;
+    return (x - y) * sortDir;
+  });
+  render();
+}
+
+function render() {
+  $('count').textContent = `${view.length} produktów`;
+  if (!view.length) { $('rows').innerHTML = `<tr><td colspan="7" class="empty">Brak produktów dla tych kryteriów.</td></tr>`; return; }
+  $('rows').innerHTML = view.map(o => {
+    const gap = o.reviews <= 2;
+    const bad = o.reviews >= 3 && o.avg && o.avg < 4.7;
+    const cls = bad ? 'bad' : (gap ? 'gap' : '');
+    return `<tr class="${cls}">
+      <td class="pname"><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.name || ('Oferta ' + o.offerId))}</a>
+        ${gap ? '<span class="tag gap">okazja</span>' : ''}${bad ? '<span class="tag bad">niska ocena</span>' : ''}</td>
+      <td class="sku">${esc(o.sku || '—')}</td>
+      <td><span class="tag fam">${esc(o.family)}</span></td>
+      <td><span class="tag shop">${esc(o.shop)}</span></td>
+      <td class="num">${o.reviews}</td>
+      <td class="num">${o.avg ? o.avg.toFixed(2) + ' <span class="stars">' + stars(o.avg) + '</span>' : '—'}</td>
+      <td class="num">${o.sales == null ? '—' : o.sales}</td>
+    </tr>`;
+  }).join('');
+}
+
+document.querySelectorAll('th[data-k]').forEach(th => th.addEventListener('click', () => {
+  const k = th.dataset.k;
+  if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = (k === 'name' || k === 'sku' || k === 'family' || k === 'shop') ? 1 : 1; }
+  document.querySelectorAll('th .ar').forEach(a => a.remove());
+  th.insertAdjacentHTML('beforeend', ` <span class="ar">${sortDir > 0 ? '▲' : '▼'}</span>`);
+  apply();
+}));
+['fShop','fFamily','fReviews','fRating'].forEach(id => $(id).addEventListener('change', apply));
+$('fSearch').addEventListener('input', () => { clearTimeout(window._t); window._t = setTimeout(apply, 200); });
+init();
+</script>
+</body>
+</html>
