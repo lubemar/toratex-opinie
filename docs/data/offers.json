@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T14:12:32Z",
+ "updated": "2026-07-01T17:09:03Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5731,23 +5731,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18093892606",
-   "name": "Prześcieradło 200x260 tradycyjne białe hotelowe WYTRZYMAŁE 100% bawełna",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18093892606",
-   "sku": "LN135",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18075691511",
    "name": "Prześcieradło 200x200 z gumką 100% bawełna solidne trwałe hotelowe",
    "shop": "toratex_pl",
@@ -6173,23 +6156,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17189498153",
-   "name": "PRZEŚCIERADŁO 200x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17189498153",
-   "sku": "LN135",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17189209371",
    "name": "KOŁDRA 180x200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -6411,6 +6377,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18093892606",
+   "name": "Prześcieradło 200x260 tradycyjne białe hotelowe WYTRZYMAŁE 100% bawełna",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18093892606",
+   "sku": "LN135",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18091150199",
    "name": "Prześcieradło 220x250 tradycyjne hotelowe białe wysoka 100% bawełna",
    "shop": "toratex_pl",
@@ -6613,6 +6596,23 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17189498153",
+   "name": "PRZEŚCIERADŁO 200x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17189498153",
+   "sku": "LN135",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "16333775682",
@@ -7839,23 +7839,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18527105244",
-   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527105244",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18615114100",
    "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -7871,23 +7854,6 @@
     "5": 11
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18485802417",
-   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485802417",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "17993397850",
@@ -7973,6 +7939,40 @@
     "5": 11
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18527105244",
+   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527105244",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17668561952",
@@ -8400,23 +8400,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17931116022",
-   "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17931116022",
-   "sku": "LN089",
-   "avg": 5.0,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17817794007",
    "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
    "shop": "toratex_pl",
@@ -8466,6 +8449,23 @@
     "5": 18
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17931116022",
+   "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17931116022",
+   "sku": "LN089",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18699913720",
