@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T11:54:46Z",
+ "updated": "2026-07-01T14:12:32Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -398,6 +398,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18723828816",
    "sku": "LN248",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18690994684",
+   "name": "Usługa Wykonania Haftu",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18690994684",
+   "sku": "",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2689,7 +2706,7 @@
   },
   {
    "offerId": "17955397827",
-   "name": "Materac 120x200 sprężynowo kieszeniowy DWUSTRONNY H4 i H5 z topperem TORA",
+   "name": "Materac 120x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17955397827",
    "sku": "MV2",
@@ -2706,7 +2723,7 @@
   },
   {
    "offerId": "17930878341",
-   "name": "Materac 200x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 premium",
+   "name": "Materac 200x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17930878341",
    "sku": "MD6",
@@ -4018,7 +4035,7 @@
    "name": "Materac 180x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18718015124",
-   "sku": "MD2",
+   "sku": "MD5",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5813,7 +5830,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034611177",
@@ -5868,7 +5885,7 @@
   },
   {
    "offerId": "17955527193",
-   "name": "Materac 200x200 sprężynowo kieszeniowy DWUSTRONNY H4 i H5 z topperem TORA",
+   "name": "Materac 200x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17955527193",
    "sku": "MV6",
@@ -5953,7 +5970,7 @@
   },
   {
    "offerId": "17930818614",
-   "name": "Materac 160x200 cm Twardy H4 H3 Dwustronny Kieszeniowy Antyalergiczny 30 cm",
+   "name": "Materac 160x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17930818614",
    "sku": "MD4",
@@ -6972,6 +6989,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18724257399",
+   "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18724257399",
+   "sku": "LN037",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18587705200",
    "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
    "shop": "toratex_pl",
@@ -7517,7 +7551,7 @@
   },
   {
    "offerId": "17955486486",
-   "name": "Materac 160 x 200 Sprężynowy kieszeniowy Twardy H4 H5 Dwustronny TORA 30 cm",
+   "name": "Materac 160x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17955486486",
    "sku": "MV4",
@@ -7653,7 +7687,7 @@
   },
   {
    "offerId": "17948396744",
-   "name": "Materac 90x200 sprężynowy DWUSTRONNY H4 H5 twardy z topperem TORA 30cm",
+   "name": "Materac 90x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17948396744",
    "sku": "MV1",
@@ -7733,23 +7767,6 @@
     "3": 0,
     "4": 0,
     "5": 10
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18489039850",
-   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel L SPA premium",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489039850",
-   "sku": "LN238L",
-   "avg": 4.82,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 9
    },
    "salesBand": "10-49"
   },
@@ -8298,23 +8315,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18260334434",
-   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18260334434",
-   "sku": "LN018",
-   "avg": 4.94,
-   "reviews": 17,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 16
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18457325725",
    "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
    "shop": "toratex_pl",
@@ -8332,19 +8332,36 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18260334434",
+   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18260334434",
+   "sku": "LN018",
+   "avg": 4.94,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 17
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17702908317",
    "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
    "avg": 4.94,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 16
+    "5": 17
    },
    "salesBand": "10-49"
   },
@@ -8355,13 +8372,13 @@
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
    "avg": 4.94,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 16
+    "5": 17
    },
    "salesBand": "1-9"
   },
