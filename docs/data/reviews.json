@@ -1,6 +1,38 @@
 {
- "updated": "2026-07-01T08:06:48Z",
+ "updated": "2026-07-01T11:54:46Z",
  "reviews": [
+  {
+   "id": "6a44eefde1e12f40d93fdbe3",
+   "offerId": "18658367981",
+   "offerName": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "rating": 5.0,
+   "content": "Super szybkie ładowanie.",
+   "author": "C...3",
+   "date": "2026-07-01T10:42:05.237Z",
+   "pros": "Usb 2.0 i usb3",
+   "cons": "Brak.",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-07-01T11:54:46Z"
+  },
+  {
+   "id": "6a44d5de6da4b58a0d5c1694",
+   "offerId": "18093990578",
+   "offerName": "Prześcieradło 260x260 tradycyjne białe hotelowe WYTRZYMAŁE 100% bawełna",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18093990578",
+   "rating": 5.0,
+   "content": "Świetne prześcieradło. Bardzo dobra tkanina, super szycie. Eleganckie",
+   "author": "a...z",
+   "date": "2026-07-01T08:54:54.415Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN141",
+   "ean": "",
+   "firstSeen": "2026-07-01T11:54:46Z"
+  },
   {
    "id": "6a4429fbf250fc61efb27a34",
    "offerId": "18488887868",
@@ -1710,6 +1742,22 @@
    "ean": ""
   },
   {
+   "id": "6a02b5dd0df6be4ff58536e0",
+   "offerId": "18658367981",
+   "offerName": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "rating": 5.0,
+   "content": "Dobrze, szybko ładuje. Pasuje do gniazda, brak luzów.",
+   "author": "2...4",
+   "date": "2026-05-12T05:08:45.895Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-07-01T11:54:46Z"
+  },
+  {
    "id": "6a023619733032cfd7a0f6b3",
    "offerId": "18527282249",
    "offerName": "Ręcznik TORA 70x140 100% Bawełna GRUBY do ciała KĄPIELOWY 700GSM",
@@ -2344,6 +2392,22 @@
    "ean": ""
   },
   {
+   "id": "69e491106eb32cd5cfb7e061",
+   "offerId": "18658367981",
+   "offerName": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "rating": 5.0,
+   "content": "Dobra, oryginalna ładowarka samochodowa z możliwością ładowania 45W oraz 15W. Trudno znaleźć w ofercie ładowarkę Samsung (EP-L5300XBEGEU) z tymi parametrami.",
+   "author": "k...s",
+   "date": "2026-04-19T08:23:44.147Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-07-01T11:54:46Z"
+  },
+  {
    "id": "69e1062e35f15676ae2b06e9",
    "offerId": "18527282249",
    "offerName": "Ręcznik TORA 70x140 100% Bawełna GRUBY do ciała KĄPIELOWY 700GSM",
@@ -2840,6 +2904,22 @@
    "ean": ""
   },
   {
+   "id": "69c65ffa9bb098007765b353",
+   "offerId": "18141905984",
+   "offerName": "Pościel bawełniana komplet 140X200CM + 2 POSZEWKI 50X70CM hotelowa troczki",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18141905984",
+   "rating": 5.0,
+   "content": "Super produkt Polecam w 100%",
+   "author": "l...7",
+   "date": "2026-03-27T10:46:18.225Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN072",
+   "ean": "",
+   "firstSeen": "2026-07-01T11:54:46Z"
+  },
+  {
    "id": "69c59b669bb098007761344d",
    "offerId": "17817853435",
    "offerName": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
@@ -2998,6 +3078,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN191",
    "ean": ""
+  },
+  {
+   "id": "69bc315098db2e8215b94e00",
+   "offerId": "18658367981",
+   "offerName": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "rating": 5.0,
+   "content": "POLECAM WSZYSTKIM",
+   "author": "k...8",
+   "date": "2026-03-19T17:24:32.200Z",
+   "pros": "ORYGINALNE",
+   "cons": "BRAK",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-07-01T11:54:46Z"
   },
   {
    "id": "69bc29ea98db2e821532cddb",

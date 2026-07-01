@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T08:06:48Z",
+ "updated": "2026-07-01T11:54:46Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -313,6 +313,91 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18724093975",
+   "name": "Poszwa 200x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18724093975",
+   "sku": "LN251",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18724002626",
+   "name": "Poszwa 180x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18724002626",
+   "sku": "LN250",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18723968575",
+   "name": "Komplet pościeli 200X200CM + 2 poszewki 50X70CM hotelowa 100% BAWEŁNA TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18723968575",
+   "sku": "LN075",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18723884337",
+   "name": "Komplet pościeli 160X200CM + 2 poszewki 50X70CM 100% BAWEŁNA troczki TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18723884337",
+   "sku": "LN073",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18723828816",
+   "name": "Poszwa 140x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18723828816",
+   "sku": "LN248",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2246,23 +2331,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18093990578",
-   "name": "Prześcieradło 260x260 tradycyjne białe hotelowe WYTRZYMAŁE 100% bawełna",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18093990578",
-   "sku": "LN141",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18093783178",
    "name": "Prześcieradło HOTELOWE 250x220 tradycyjne klasyczne mikrofibra białe",
    "shop": "toratex_pl",
@@ -3118,23 +3186,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17189577832",
    "sku": "LN140",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17189577724",
-   "name": "PRZEŚCIERADŁO 260x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17189577724",
-   "sku": "LN141",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4405,6 +4456,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18093990578",
+   "name": "Prześcieradło 260x260 tradycyjne białe hotelowe WYTRZYMAŁE 100% bawełna",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18093990578",
+   "sku": "LN141",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18075807993",
    "name": "Prześcieradło 150x220 tradycyjne hotelowe białe wysoka 100% bawełna",
    "shop": "toratex_pl",
@@ -5051,6 +5119,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17189577724",
+   "name": "PRZEŚCIERADŁO 260x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17189577724",
+   "sku": "LN141",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17189528560",
    "name": "PRZEŚCIERADŁO 200x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SIMPLE",
    "shop": "TORATEX",
@@ -5610,6 +5695,23 @@
     "5": 2
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18141905984",
+   "name": "Pościel bawełniana komplet 140X200CM + 2 POSZEWKI 50X70CM hotelowa troczki",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18141905984",
+   "sku": "LN072",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18093892606",
@@ -6646,7 +6748,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18075547708",
@@ -6901,7 +7003,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18459736436",
@@ -7125,23 +7227,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18658367981",
-   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18658367981",
-   "sku": "",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "16179331733",
    "name": "POŚCIEL 140x200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -7361,6 +7446,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18658367981",
+   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "sku": "",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215773602",
@@ -7640,14 +7742,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18489039850",
    "sku": "LN238L",
-   "avg": 4.73,
+   "avg": 4.82,
    "reviews": 11,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 3,
-    "5": 8
+    "4": 2,
+    "5": 9
    },
    "salesBand": "10-49"
   },
@@ -7657,14 +7759,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18489030107",
    "sku": "LN238M",
-   "avg": 4.73,
+   "avg": 4.82,
    "reviews": 11,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 3,
-    "5": 8
+    "4": 2,
+    "5": 9
    },
    "salesBand": "10-49"
   },
@@ -7674,14 +7776,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488951909",
    "sku": "LN238S",
-   "avg": 4.73,
+   "avg": 4.82,
    "reviews": 11,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 3,
-    "5": 8
+    "4": 2,
+    "5": 9
    },
    "salesBand": "10-49"
   },
@@ -8669,7 +8771,7 @@
     "4": 2,
     "5": 53
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668996138",
