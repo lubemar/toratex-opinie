@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T08:15:42Z",
+ "updated": "2026-07-02T10:31:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2804,7 +2804,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17770590243",
@@ -4283,7 +4283,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18445304695",
@@ -4657,7 +4657,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18031915979",
@@ -6646,7 +6646,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18357689701",
@@ -8383,23 +8383,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18188079725",
-   "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Miękki SPA Hotelowy",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18188079725",
-   "sku": "LN035",
-   "avg": 5.0,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17817794007",
    "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
    "shop": "toratex_pl",
@@ -8417,38 +8400,21 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "17615651795",
-   "name": "Ręcznik kąpielowy 50x100 plażowy 100% BAWEŁNA mega gruby MIĘKKI trwały SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17615651795",
+   "offerId": "18188079725",
+   "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Miękki SPA Hotelowy",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18188079725",
    "sku": "LN035",
    "avg": 5.0,
-   "reviews": 18,
+   "reviews": 19,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 18
+    "5": 19
    },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17533193438",
-   "name": "RĘCZNIK 50x100 KĄPIELOWY MIĘKKI DUŻY 100% BAWEŁNA SPA HOTELOWY 610GSM",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17533193438",
-   "sku": "ZEST-LN035-2",
-   "avg": 5.0,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931116022",
@@ -8466,6 +8432,40 @@
     "5": 19
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "17615651795",
+   "name": "Ręcznik kąpielowy 50x100 plażowy 100% BAWEŁNA mega gruby MIĘKKI trwały SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17615651795",
+   "sku": "LN035",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17533193438",
+   "name": "RĘCZNIK 50x100 KĄPIELOWY MIĘKKI DUŻY 100% BAWEŁNA SPA HOTELOWY 610GSM",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17533193438",
+   "sku": "ZEST-LN035-2",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18699913720",
