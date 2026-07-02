@@ -513,34 +513,42 @@ def normalize_review(item, offer_lookup):
 
 def merge_reviews(stored, scraped_items, offer_lookup, requested_ids):
     """
-    Dopisuje nowe opinie do istniejacych (dedupe po id). Nie usuwa starych -
-    codzienny scrape jest przyciety limitem maxReviewsPerProduct, wiec nie jest
-    kompletem. Usuniete na Allegro opinie zostaja w archiwum; pelne wyrownanie
-    robi backfill (full=True, bez limitu).
-    Zwraca (nowa_lista, nowe_opinie).
+    Dopisuje nowe opinie ORAZ aktualizuje edytowane (ta sama id, zmieniona ocena/tresc).
+    Nie usuwa starych - codzienny scrape jest przyciety limitem maxReviewsPerProduct.
+    Zwraca (nowa_lista, nowe_opinie, spadly_do_negatywnej).
     """
     normalized = [normalize_review(it, offer_lookup) for it in scraped_items]
     normalized = [n for n in normalized if n["offerId"]]
 
-    known_ids = {rv["id"] for rv in stored}
+    by_id = {rv["id"]: rv for rv in stored}
     scraped_offers = {n["offerId"] for n in normalized}
     ts = iso()
-    new_reviews = []
-    result = list(stored)
+    new_reviews, updated, newly_negative = [], 0, []
     for n in normalized:
-        if n["id"] in known_ids:
-            continue
-        known_ids.add(n["id"])
-        n["firstSeen"] = ts
-        new_reviews.append(n)
-        result.append(n)
+        old = by_id.get(n["id"])
+        if old is None:
+            n["firstSeen"] = ts
+            by_id[n["id"]] = n
+            new_reviews.append(n)
+        elif (old.get("rating") != n["rating"] or old.get("content") != n["content"]
+              or old.get("pros") != n["pros"] or old.get("cons") != n["cons"]):
+            n["firstSeen"] = old.get("firstSeen", ts)
+            n["updatedAt"] = ts
+            orat, nrat = old.get("rating"), n.get("rating")
+            if nrat is not None and nrat <= NEGATIVE_THRESHOLD and (orat is None or orat > NEGATIVE_THRESHOLD):
+                newly_negative.append(n)
+            by_id[n["id"]] = n
+            updated += 1
 
     missing = requested_ids - scraped_offers
     if missing:
         log(f"UWAGA: aktor nie zwrocil opinii dla ofert: {sorted(missing)}")
+    if updated:
+        log(f"Zaktualizowano {updated} edytowanych opinii")
 
+    result = list(by_id.values())
     result.sort(key=lambda r: (r.get("date") or "", r.get("firstSeen") or ""), reverse=True)
-    return result, new_reviews
+    return result, new_reviews, newly_negative
 
 
 # ---------------------------------------------------------------- alerty
@@ -745,13 +753,14 @@ def main():
         to_scrape = {d["offerId"]: current[d["offerId"]] for d in deltas}
 
     new_reviews = []
+    newly_negative = []
     scrape_failed = False
     if to_scrape:
         urls = [c["url"] for c in to_scrape.values()]
         try:
             items, failed_chunks = apify_scrape(urls, alerts, full=backfill)
-            stored, new_reviews = merge_reviews(stored, items, current, set(to_scrape.keys()))
-            log(f"Tier 2: {len(new_reviews)} nowych opinii"
+            stored, new_reviews, newly_negative = merge_reviews(stored, items, current, set(to_scrape.keys()))
+            log(f"Tier 2: {len(new_reviews)} nowych opinii, {len(newly_negative)} spadlo do negatywnej"
                 + (f" ({failed_chunks} paczek nieudanych — sprobuje ponownie nastepnym razem)"
                    if failed_chunks else ""))
         except Exception as e:
@@ -779,7 +788,7 @@ def main():
     save_json(PUB / "reviews.json", {"updated": iso(), "reviews": stored})
 
     # --- alerty
-    alert_negative_reviews(new_reviews)
+    alert_negative_reviews(new_reviews + newly_negative)
     alert_token_failures(alerts)
     check_rotation_age(meta)
     check_apify_credit(meta)
