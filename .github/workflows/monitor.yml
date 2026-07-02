@@ -9,6 +9,10 @@ on:
         description: 'Backfill: pobierz WSZYSTKIE opinie wszystkich ofert (jednorazowo, zuzywa kredyt Apify)'
         type: boolean
         default: false
+      force_lns:
+        description: 'Wymus re-scrape ofert po LN/ID (przecinki), np. LN238M,LN013'
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -47,6 +51,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
           GH_REPO: ${{ github.repository }}
           BACKFILL: ${{ inputs.backfill }}
+          FORCE_LNS: ${{ inputs.force_lns }}
         run: python scripts/monitor.py
 
       - name: Commit danych
