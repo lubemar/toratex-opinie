@@ -724,6 +724,7 @@ def main():
                (DATA / "history.jsonl").read_text(encoding="utf-8").splitlines()
                ] if (DATA / "history.jsonl").exists() else []
     backfill = (ENV("BACKFILL") or "").lower() == "true"
+    force_lns = set(x.strip().upper() for x in (ENV("FORCE_LNS") or "").split(",") if x.strip())
     baseline = not prev_state
 
     meta["lastRun"] = iso()
@@ -752,13 +753,20 @@ def main():
     else:
         to_scrape = {d["offerId"]: current[d["offerId"]] for d in deltas}
 
+    if force_lns:
+        forced = {oid: c for oid, c in current.items()
+                  if ((c.get("sku") or "").upper() in force_lns) or (oid in force_lns)}
+        for oid, c in forced.items():
+            to_scrape[oid] = c
+        log(f"FORCE: dodano {len(forced)} ofert do scrape wg LN/ID {sorted(force_lns)}")
+
     new_reviews = []
     newly_negative = []
     scrape_failed = False
     if to_scrape:
         urls = [c["url"] for c in to_scrape.values()]
         try:
-            items, failed_chunks = apify_scrape(urls, alerts, full=backfill)
+            items, failed_chunks = apify_scrape(urls, alerts, full=(backfill or bool(force_lns)))
             stored, new_reviews, newly_negative = merge_reviews(stored, items, current, set(to_scrape.keys()))
             log(f"Tier 2: {len(new_reviews)} nowych opinii, {len(newly_negative)} spadlo do negatywnej"
                 + (f" ({failed_chunks} paczek nieudanych — sprobuje ponownie nastepnym razem)"
