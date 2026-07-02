@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T15:10:17Z",
+ "updated": "2026-07-02T17:29:54Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1053,7 +1053,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521696309",
@@ -6786,7 +6786,7 @@
   },
   {
    "offerId": "18032002215",
-   "name": "Materac 160x200 średnio twardy SPRĘŻYNOWOKIESZENIOWY 7 stref ANTYALERGICZNY",
+   "name": "Materac 160x200 Średnio twardy H3 Sprężynowy Kieszeniowy Bawełna TORA 20 cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18032002215",
    "sku": "MS4",
@@ -7177,7 +7177,7 @@
   },
   {
    "offerId": "18031565537",
-   "name": "Materac 160x200 kieszeniowy z TOPEREM wytrzymały H3 wysokiej gęstości",
+   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18031565537",
    "sku": "MSP4",
