@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T19:11:39Z",
+ "updated": "2026-07-03T06:55:50Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4130,7 +4130,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18564135822",
@@ -4232,7 +4232,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18486556980",
@@ -4283,7 +4283,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18445304695",
@@ -7275,7 +7275,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16003556744",
@@ -7767,23 +7767,6 @@
     "3": 0,
     "4": 0,
     "5": 10
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18489039850",
-   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel L SPA premium",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489039850",
-   "sku": "LN238L",
-   "avg": 4.82,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 9
    },
    "salesBand": "10-49"
   },
@@ -8907,7 +8890,7 @@
     "4": 3,
     "5": 66
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17898747895",
