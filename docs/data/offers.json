@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T13:02:55Z",
+ "updated": "2026-07-04T15:00:40Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1479,23 +1479,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18488925598",
-   "name": "Prześcieradło 200x220 gumka 4 rogi 100% bawełna hotelowe 200TC",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488925598",
-   "sku": "LN006B",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18488902095",
@@ -4223,6 +4206,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18489156027",
    "sku": "LN214",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18488925598",
+   "name": "Prześcieradło 200x220 gumka 4 rogi 100% bawełna hotelowe 200TC",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488925598",
+   "sku": "LN006B",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -8451,23 +8451,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17931116022",
-   "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17931116022",
-   "sku": "LN089",
-   "avg": 5.0,
-   "reviews": 20,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 20
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18699913720",
    "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
    "shop": "toratex_pl",
@@ -8500,6 +8483,23 @@
     "5": 19
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17931116022",
+   "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17931116022",
+   "sku": "LN089",
+   "avg": 5.0,
+   "reviews": 21,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 21
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17739542007",
@@ -8788,7 +8788,7 @@
     "4": 2,
     "5": 55
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17668996138",
