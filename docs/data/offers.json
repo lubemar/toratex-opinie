@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T06:45:28Z",
+ "updated": "2026-07-04T09:17:05Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8247,57 +8247,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256405995",
-   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256405995",
-   "sku": "LN093",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17649306642",
-   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649306642",
-   "sku": "LN093",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17215776241",
-   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215776241",
-   "sku": "LN093",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527282249",
    "name": "Ręcznik TORA 70x140 100% Bawełna GRUBY do ciała KĄPIELOWY 700GSM",
    "shop": "tora_official",
@@ -8330,6 +8279,57 @@
     "5": 16
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18256405995",
+   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256405995",
+   "sku": "LN093",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17649306642",
+   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "sku": "LN093",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17215776241",
+   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215776241",
+   "sku": "LN093",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18260334434",
@@ -8890,7 +8890,7 @@
     "4": 3,
     "5": 66
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17898747895",
