@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T19:03:50Z",
+ "updated": "2026-07-05T07:05:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4895,7 +4895,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17736819859",
@@ -7771,40 +7771,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18489030107",
-   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel M SPA premium",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489030107",
-   "sku": "LN238M",
-   "avg": 4.82,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 9
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18488951909",
-   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel S SPA premium",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488951909",
-   "sku": "LN238S",
-   "avg": 4.82,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 9
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17817853435",
    "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
    "shop": "toratex_pl",
@@ -7888,6 +7854,40 @@
     "5": 11
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18489030107",
+   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel M SPA premium",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489030107",
+   "sku": "LN238M",
+   "avg": 4.83,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 10
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18488951909",
+   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel S SPA premium",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488951909",
+   "sku": "LN238S",
+   "avg": 4.83,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 10
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17615601541",
