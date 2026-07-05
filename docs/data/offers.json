@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T15:07:45Z",
+ "updated": "2026-07-05T16:59:09Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7159,40 +7159,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18358113183",
-   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358113183",
-   "sku": "MSP4",
-   "avg": 4.83,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18031565537",
-   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18031565537",
-   "sku": "MSP4",
-   "avg": 4.83,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18364264225",
    "name": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki Hotelowy",
    "shop": "tora_official",
@@ -7346,6 +7312,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18358113183",
+   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358113183",
+   "sku": "MSP4",
+   "avg": 4.86,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18357646068",
    "name": "Materac 90x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 stref ANTYALERGICZNY",
    "shop": "tora_official",
@@ -7368,6 +7351,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18071341442",
    "sku": "MS1",
+   "avg": 4.86,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 6
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18031565537",
+   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031565537",
+   "sku": "MSP4",
    "avg": 4.86,
    "reviews": 7,
    "dist": {
