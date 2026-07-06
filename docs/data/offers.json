@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T16:15:51Z",
+ "updated": "2026-07-06T18:55:19Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2892,6 +2892,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18738855360",
+   "name": "Materac 180x200 H3 ŚREDNIO TWARDY Sprężynowy Kieszeniowy z TOPPEREM 32 cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738855360",
+   "sku": "MAT-DOH-180-H3 - Bartek Szkic",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18738513414",
    "name": "Materac 180x200 H3 ŚREDNIO TWARDY Sprężynowy Kieszeniowy JEDSNOSTRONNY 20cm",
    "shop": "TORATEX",
@@ -5005,6 +5022,40 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17706281284",
    "sku": "LN025",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18738917440",
+   "name": "Materac 180x200 Dwustronny H3 H4 Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738917440",
+   "sku": "MD5",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18738520264",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738520264",
+   "sku": "MTP5",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
