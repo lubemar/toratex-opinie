@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T12:41:49Z",
+ "updated": "2026-07-06T16:15:51Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1396,23 +1396,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18499961986",
-   "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18499961986",
-   "sku": "LN103Z",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18499943307",
    "name": "Kołdra 160x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -2603,23 +2586,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18006796139",
-   "name": "POŚCIEL 180x200 KOMPLET + 2 POSZEWKI 70X80 SUPER JAKOŚĆ HOTELOWA zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18006796139",
-   "sku": "LN046",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18006733528",
    "name": "POŚCIEL 140x200 KOMPLET + 2 POSZEWKI 70X80 SUPER JAKOŚĆ HOTELOWA zamek",
    "shop": "toratex_pl",
@@ -2924,6 +2890,23 @@
     "5": 0
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18738513414",
+   "name": "Materac 180x200 H3 ŚREDNIO TWARDY Sprężynowy Kieszeniowy JEDSNOSTRONNY 20cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738513414",
+   "sku": "MS5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18670493532",
@@ -4218,6 +4201,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18499961986",
+   "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499961986",
+   "sku": "LN103Z",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18489186187",
    "name": "Prześcieradło TORA 200x200x30 z gumką 100% BAWEŁNA białe HOTELOWE trwałe",
    "shop": "toratex_pl",
@@ -4743,6 +4743,23 @@
     "5": 1
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18006796139",
+   "name": "POŚCIEL 180x200 KOMPLET + 2 POSZEWKI 70X80 SUPER JAKOŚĆ HOTELOWA zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18006796139",
+   "sku": "LN046",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18006650301",
@@ -5544,23 +5561,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18529989637",
-   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529989637",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527316505",
    "name": "Ręcznik TORA 50x100 100% Bawełna GRUBY do rąk SPA premium 700GSM",
    "shop": "tora_official",
@@ -5651,23 +5651,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18222666218",
    "sku": "LN034",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18521689941",
-   "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521689941",
-   "sku": "LN239XL",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5906,23 +5889,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17955527193",
    "sku": "MV6",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17945784134",
-   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17945784134",
-   "sku": "MR5",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -6292,6 +6258,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18529989637",
+   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529989637",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18518115919",
    "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -6382,6 +6365,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18524167685",
    "sku": "LN024B",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18521689941",
+   "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521689941",
+   "sku": "LN239XL",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -6535,6 +6535,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17988728367",
    "sku": "LN178",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17945784134",
+   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17945784134",
+   "sku": "MR5",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7431,23 +7448,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18253512780",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18253512780",
-   "sku": "LN095",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18056960447",
    "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
    "shop": "toratex_pl",
@@ -7480,23 +7480,6 @@
     "5": 7
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649347245",
-   "name": "Jasiek 40x40 poduszka mała miękka GRUBA wygodna ODDYCHAJĄCA naturalna 500g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649347245",
-   "sku": "LN095",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "17626682772",
@@ -7533,23 +7516,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17215773602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PRESTIGE HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215773602",
-   "sku": "LN095",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18530089504",
    "name": "Materac VELVET 160x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
    "shop": "tora_official",
@@ -7565,6 +7531,23 @@
     "5": 8
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18253512780",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18253512780",
+   "sku": "LN095",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18154623891",
@@ -7618,11 +7601,45 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17649347245",
+   "name": "Jasiek 40x40 poduszka mała miękka GRUBA wygodna ODDYCHAJĄCA naturalna 500g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649347245",
+   "sku": "LN095",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17220235700",
    "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17220235700",
    "sku": "LN132",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17215773602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PRESTIGE HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215773602",
+   "sku": "LN095",
    "avg": 5.0,
    "reviews": 8,
    "dist": {
@@ -8536,23 +8553,6 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "17739542007",
-   "name": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17739542007",
-   "sku": "LN009",
-   "avg": 4.88,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 22
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "16179377397",
    "name": "POKROWIEC NA MATERAC 90X200 NAKŁADKA OCHRANIACZ WODOODPORNY OSŁONA BIAŁA",
    "shop": "TORATEX",
@@ -8568,6 +8568,23 @@
     "5": 24
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17739542007",
+   "name": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17739542007",
+   "sku": "LN009",
+   "avg": 4.88,
+   "reviews": 26,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 23
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256894763",
