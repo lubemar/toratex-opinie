@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T08:12:24Z",
+ "updated": "2026-07-06T12:41:49Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -313,6 +313,40 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18737942885",
+   "name": "Koszo popielnica na ŚMIECI odpady CZARNY stal nierdzewna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18737942885",
+   "sku": "K2",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18737560186",
+   "name": "Koszo popielnica na ŚMIECI odpady stal nierdzewna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18737560186",
+   "sku": "K1",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -5779,7 +5813,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034883741",
@@ -7258,7 +7292,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "15608258485",
@@ -8712,13 +8746,13 @@
    "url": "https://allegro.pl/oferta/17668946883",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 59,
+   "reviews": 60,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 56
+    "5": 57
    },
    "salesBand": "1-9"
   },
@@ -8729,13 +8763,13 @@
    "url": "https://allegro.pl/oferta/17626543549",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 59,
+   "reviews": 60,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 56
+    "5": 57
    },
    "salesBand": "50-99"
   },
@@ -8746,13 +8780,13 @@
    "url": "https://allegro.pl/oferta/17532987937",
    "sku": "ZEST-LN125-10",
    "avg": 4.92,
-   "reviews": 59,
+   "reviews": 60,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 56
+    "5": 57
    },
    "salesBand": "10-49"
   },
@@ -8763,13 +8797,13 @@
    "url": "https://allegro.pl/oferta/17508413425",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 59,
+   "reviews": 60,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 56
+    "5": 57
    },
    "salesBand": "1-9"
   },
@@ -8780,13 +8814,13 @@
    "url": "https://allegro.pl/oferta/17235708456",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 59,
+   "reviews": 60,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 56
+    "5": 57
    },
    "salesBand": "0"
   },
@@ -8797,13 +8831,13 @@
    "url": "https://allegro.pl/oferta/17668996138",
    "sku": "LN126",
    "avg": 4.91,
-   "reviews": 64,
+   "reviews": 65,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 3,
-    "5": 60
+    "5": 61
    },
    "salesBand": "10-49"
   },
@@ -8814,13 +8848,13 @@
    "url": "https://allegro.pl/oferta/17619126647",
    "sku": "LN126",
    "avg": 4.91,
-   "reviews": 64,
+   "reviews": 65,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 3,
-    "5": 60
+    "5": 61
    },
    "salesBand": "10-49"
   },
@@ -8831,13 +8865,13 @@
    "url": "https://allegro.pl/oferta/17533061215",
    "sku": "ZEST-LN126-10",
    "avg": 4.91,
-   "reviews": 64,
+   "reviews": 65,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 3,
-    "5": 60
+    "5": 61
    },
    "salesBand": "10-49"
   },
@@ -8848,13 +8882,13 @@
    "url": "https://allegro.pl/oferta/17393327828",
    "sku": "LN126",
    "avg": 4.91,
-   "reviews": 64,
+   "reviews": 65,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 3,
-    "5": 60
+    "5": 61
    },
    "salesBand": "0"
   },
@@ -8865,13 +8899,13 @@
    "url": "https://allegro.pl/oferta/17235708662",
    "sku": "LN126",
    "avg": 4.91,
-   "reviews": 64,
+   "reviews": 65,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 3,
-    "5": 60
+    "5": 61
    },
    "salesBand": "0"
   },
@@ -8890,7 +8924,7 @@
     "4": 3,
     "5": 66
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17898747895",
