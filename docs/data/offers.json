@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T07:32:57Z",
+ "updated": "2026-07-07T10:47:56Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -313,6 +313,40 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18740825414",
+   "name": "Kosz popielnica klasyczny srebrny na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18740825414",
+   "sku": "K4",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18737969280",
+   "name": "Kosz klasyczny biały na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18737969280",
+   "sku": "K3",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4589,7 +4623,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18059522362",
@@ -4861,7 +4895,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17988539895",
@@ -4963,7 +4997,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17773739832",
@@ -5974,23 +6008,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17955527193",
    "sku": "MV6",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17943126441",
-   "name": "Materac 140x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17943126441",
-   "sku": "MP3",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -8091,7 +8108,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18485802417",
@@ -8414,7 +8431,7 @@
     "4": 1,
     "5": 16
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
@@ -9026,7 +9043,7 @@
     "4": 3,
     "5": 66
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17898747895",
