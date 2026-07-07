@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T10:47:56Z",
+ "updated": "2026-07-07T13:13:25Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -313,6 +313,108 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18741096955",
+   "name": "Kosz popielnica biała klasyczna na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741096955",
+   "sku": "K10",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18741070878",
+   "name": "Kosz popielnica klasyczny na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741070878",
+   "sku": "K9",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18741028727",
+   "name": "Kosz popielnica klasyczny czarny na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741028727",
+   "sku": "K8",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18740916869",
+   "name": "Kosz popielnica klasyczna biała na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18740916869",
+   "sku": "K7",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18740899468",
+   "name": "Kosz klasyczny czarny na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18740899468",
+   "sku": "K6",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18740858580",
+   "name": "Popielnica klasyczna czarna do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18740858580",
+   "sku": "K5",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -8822,7 +8924,7 @@
     "4": 2,
     "5": 40
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668277180",
