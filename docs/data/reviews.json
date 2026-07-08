@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T17:28:49Z",
+ "updated": "2026-07-08T19:11:42Z",
  "reviews": [
   {
    "id": "6a4bcb13e1e12f40d9418fd9",
@@ -561,6 +561,22 @@
    "firstSeen": "2026-06-27T09:28:41Z",
    "sku": "MR4",
    "ean": ""
+  },
+  {
+   "id": "6a3c02fe81f4257b5ee35c4e",
+   "offerId": "17615562738",
+   "offerName": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna SPA hotelowy grubyTRWAŁY",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17615562738",
+   "rating": 4.0,
+   "content": "Podczas pierwszego użycia na ciele zostają kłaki",
+   "author": "I...9",
+   "date": "2026-06-24T16:17:02.463Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN037",
+   "ean": "",
+   "firstSeen": "2026-07-08T19:11:42Z"
   },
   {
    "id": "6a3c02e74ef4037ed3e002f3",
