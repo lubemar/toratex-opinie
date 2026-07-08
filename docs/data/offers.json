@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T09:24:34Z",
+ "updated": "2026-07-08T11:45:47Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1583,23 +1583,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18489142922",
-   "name": "Prześcieradło TORA 140x200x30 z gumką 100% BAWEŁNA białe HOTELOWE trwałe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489142922",
-   "sku": "LN213",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18489136387",
    "name": "Prześcieradło TORA 120x200x30 z gumką 100% BAWEŁNA białe HOTELOWE trwałe",
    "shop": "toratex_pl",
@@ -1648,7 +1631,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488893245",
@@ -1733,7 +1716,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18485863722",
@@ -4439,6 +4422,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18489142922",
+   "name": "Prześcieradło TORA 140x200x30 z gumką 100% BAWEŁNA białe HOTELOWE trwałe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489142922",
+   "sku": "LN213",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18488925598",
    "name": "Prześcieradło 200x220 gumka 4 rogi 100% bawełna hotelowe 200TC",
    "shop": "toratex_pl",
@@ -5882,6 +5882,23 @@
     "5": 2
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18743965988",
+   "name": "Ręcznik 50x100 do rąk 100% bawełna chłonny 500 GSM dla hoteli zestaw 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18743965988",
+   "sku": "LN034",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18488887868",
@@ -8145,6 +8162,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18744074975",
+   "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna ZESTAW hotelowy 10 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18744074975",
+   "sku": "LN036",
+   "avg": 4.92,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 11
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17615601541",
    "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna TRWAŁY SPA hotelowy 500",
    "shop": "toratex_pl",
@@ -8482,7 +8516,7 @@
     "4": 0,
     "5": 16
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17220075486",
@@ -8533,7 +8567,7 @@
     "4": 1,
     "5": 16
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18256405995",
@@ -8619,6 +8653,23 @@
     "5": 19
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18744050657",
+   "name": "Ręcznik 50x100 do rąk 100% BAWEŁNA 600 GSM miękki zestaw dla hoteli 10 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18744050657",
+   "sku": "LN035",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17615651795",
