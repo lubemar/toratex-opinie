@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T19:11:42Z",
+ "updated": "2026-07-09T07:39:31Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5068,23 +5068,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17811861924",
-   "name": "Pościel 140x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17811861924",
-   "sku": "LN190",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17773739832",
    "name": "Poszwa na kołdrę 160x200 oddychająca hotelowa bawełna antyalergiczna zamek",
    "shop": "toratex_pl",
@@ -5966,7 +5949,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18141905984",
@@ -6190,6 +6173,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17811861924",
+   "name": "Pościel 140x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17811861924",
+   "sku": "LN190",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17780718452",
    "name": "Pokrowiec na materac 90x200 ochraniacz WODOODPORNY nakładka pikowana",
    "shop": "toratex_pl",
@@ -6255,7 +6255,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668190356",
@@ -6663,7 +6663,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18075645076",
@@ -9009,7 +9009,7 @@
     "4": 2,
     "5": 40
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18741577949",
