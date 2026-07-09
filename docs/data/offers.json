@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T07:39:31Z",
+ "updated": "2026-07-09T10:54:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5235,7 +5235,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17346757025",
@@ -7176,45 +7176,11 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18618183841",
-   "name": "Poduszka Hotelowa 50x70 1300g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18618183841",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527563402",
    "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18527563402",
    "sku": "LN033L-zestaw",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18527475001",
-   "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527475001",
-   "sku": "LN035B",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7278,23 +7244,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18466527307",
    "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
    "shop": "toratex_pl",
@@ -7327,23 +7276,6 @@
     "5": 5
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18457156099",
-   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18457156099",
-   "sku": "LN035B",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17814933003",
@@ -7431,6 +7363,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18527475001",
+   "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527475001",
+   "sku": "LN035B",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18364264225",
    "name": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki Hotelowy",
    "shop": "tora_official",
@@ -7463,6 +7412,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18457156099",
+   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18457156099",
+   "sku": "LN035B",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18118559909",
@@ -8128,6 +8094,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18489039850",
+   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel L SPA premium",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489039850",
+   "sku": "LN238L",
+   "avg": 4.83,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 10
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18489030107",
    "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel M SPA premium",
    "shop": "toratex_pl",
@@ -8298,23 +8281,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18056986170",
-   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18056986170",
-   "sku": "LN104",
-   "avg": 5.0,
-   "reviews": 15,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17736860426",
    "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
    "shop": "toratex_pl",
@@ -8329,24 +8295,7 @@
     "4": 0,
     "5": 15
    },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17346737989",
-   "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346737989",
-   "sku": "LN104",
-   "avg": 5.0,
-   "reviews": 15,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18187585355",
@@ -8434,6 +8383,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18056986170",
+   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18056986170",
+   "sku": "LN104",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17668561952",
    "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
    "shop": "toratex_pl",
@@ -8517,6 +8483,23 @@
     "5": 16
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17346737989",
+   "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346737989",
+   "sku": "LN104",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17220075486",
@@ -8949,13 +8932,13 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17615562738",
    "sku": "LN037",
-   "avg": 4.95,
-   "reviews": 38,
+   "avg": 4.92,
+   "reviews": 39,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 2,
+    "4": 3,
     "5": 36
    },
    "salesBand": "10-49"
@@ -9060,7 +9043,7 @@
     "4": 2,
     "5": 57
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17532987937",
