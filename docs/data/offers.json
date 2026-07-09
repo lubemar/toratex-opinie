@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T16:24:53Z",
+ "updated": "2026-07-09T18:49:30Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6224,23 +6224,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17698345947",
-   "name": "Kołdra 140x200 LETNIA antyalergiczna oddychająca SUPER jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17698345947",
-   "sku": "LN026",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17668236910",
    "name": "Szlafrok męski L długi elegancki miękki hotelowy wiązany ozdobny pasek",
    "shop": "toratex_pl",
@@ -6382,23 +6365,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17189209371",
    "sku": "LN103",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "16179378133",
-   "name": "KOŁDRA 140X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16179378133",
-   "sku": "LN026 SIMPLE",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -6836,6 +6802,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17698345947",
+   "name": "Kołdra 140x200 LETNIA antyalergiczna oddychająca SUPER jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17698345947",
+   "sku": "LN026",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18466285425",
    "name": "PRZEŚCIERADŁO 220x250 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
    "shop": "TORATEX",
@@ -6875,6 +6858,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16333775682",
    "sku": "LN002 SUPREME",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "16179378133",
+   "name": "KOŁDRA 140X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SIMPLE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16179378133",
+   "sku": "LN026 SIMPLE",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7873,40 +7873,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17700847628",
-   "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17700847628",
-   "sku": "LN028",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "16440523108",
-   "name": "KOŁDRA 200X200 BAWEŁNIANA CAŁOROCZNA ODDYCHAJĄCA ANTYALERGICZNA HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16440523108",
-   "sku": "LN028 SIMPLE",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18530008926",
    "name": "Materac VELVET 90x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
    "shop": "tora_official",
@@ -7975,23 +7941,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18485608818",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485608818",
-   "sku": "LN033B-zestaw",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17770335698",
    "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
    "shop": "toratex_pl",
@@ -8007,6 +7956,40 @@
     "5": 10
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17700847628",
+   "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17700847628",
+   "sku": "LN028",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "16440523108",
+   "name": "KOŁDRA 200X200 BAWEŁNIANA CAŁOROCZNA ODDYCHAJĄCA ANTYALERGICZNA HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16440523108",
+   "sku": "LN028 SIMPLE",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17817853435",
@@ -8058,6 +8041,23 @@
     "5": 11
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18485608818",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485608818",
+   "sku": "LN033B-zestaw",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17993397850",
