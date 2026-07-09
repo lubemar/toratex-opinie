@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T10:54:20Z",
+ "updated": "2026-07-09T13:46:32Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1295,7 +1295,7 @@
   },
   {
    "offerId": "18505634333",
-   "name": "Prześcieradło TORA 290x310 tradycyjne 100% BAWEŁNA 200TC hotelowe",
+   "name": "Prześcieradło bez gumki 200x220 tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505634333",
    "sku": "LN229B",
@@ -1312,7 +1312,7 @@
   },
   {
    "offerId": "18505544190",
-   "name": "Prześcieradło TORA 290x290 tradycyjne 100% BAWEŁNA 200TC hotelowe",
+   "name": "Prześcieradło bez gumki 200x200 tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505544190",
    "sku": "LN228B",
@@ -1329,7 +1329,7 @@
   },
   {
    "offerId": "18505515663",
-   "name": "Prześcieradło TORA 250x290 tradycyjne 100% BAWEŁNA 200TC hotelowe",
+   "name": "Prześcieradło bez gumki 180x200 tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505515663",
    "sku": "LN226B",
@@ -1346,7 +1346,7 @@
   },
   {
    "offerId": "18505490905",
-   "name": "Prześcieradło TORA 230x290 tradycyjne 100% BAWEŁNA 200TC hotelowe",
+   "name": "Prześcieradło bez gumki 160x200 tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505490905",
    "sku": "LN225B",
@@ -2468,7 +2468,7 @@
   },
   {
    "offerId": "18093783178",
-   "name": "Prześcieradło HOTELOWE 250x220 tradycyjne klasyczne mikrofibra białe",
+   "name": "Prześcieradło bez gumki 160x200 HOTELOWE tradycyjne klasyczne TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18093783178",
    "sku": "LN015",
@@ -2485,7 +2485,7 @@
   },
   {
    "offerId": "18091256661",
-   "name": "Prześcieradło 250x260 tradycyjne hotelowe białe wysoka 100% bawełna",
+   "name": "Prześcieradło bez gumki 180x200 tradycyjne HOTELOWE białe 100% bawełna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18091256661",
    "sku": "LN013",
@@ -4695,7 +4695,7 @@
   },
   {
    "offerId": "18075807993",
-   "name": "Prześcieradło 150x220 tradycyjne hotelowe białe wysoka 100% bawełna",
+   "name": "Prześcieradło bez gumki 90x200 tradycyjne hotelowe BIAŁE 100% bawełna",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075807993",
    "sku": "LN011",
@@ -5086,7 +5086,7 @@
   },
   {
    "offerId": "17737134291",
-   "name": "Prześcieradło 250x260 tradycyjne białe wytrzymałe odporne na ścieranie",
+   "name": "Prześcieradło bez gumki 180x200 HOTELOWE tradycyjne białe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17737134291",
    "sku": "LN016",
@@ -6650,7 +6650,7 @@
   },
   {
    "offerId": "18091150199",
-   "name": "Prześcieradło 220x250 tradycyjne hotelowe białe wysoka 100% bawełna",
+   "name": "Prześcieradło bez gumki 160x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18091150199",
    "sku": "LN012",
@@ -6820,7 +6820,7 @@
   },
   {
    "offerId": "17737134155",
-   "name": "Prześcieradło 150x220 tradycyjne hotelowe białe wysoka jakość odporne grube",
+   "name": "Prześcieradło bez gumki 90x200 tradycyjne hotelowe białe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17737134155",
    "sku": "LN014",
@@ -7074,23 +7074,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17931151326",
-   "name": "Kapcie pantofle domowe twarda podeszwa odporna na ścieranie 40-43",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17931151326",
-   "sku": "LN088",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17811949361",
    "name": "Komplet pościeli 160x200 50x70 x2 zestaw adamaszek paski bawełna hotelowa",
    "shop": "toratex_pl",
@@ -7171,6 +7154,23 @@
     "2": 0,
     "3": 0,
     "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17931151326",
+   "name": "Kapcie pantofle domowe twarda podeszwa odporna na ścieranie 40-43",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17931151326",
+   "sku": "LN088",
+   "avg": 4.8,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
     "5": 4
    },
    "salesBand": "10-49"
@@ -7853,7 +7853,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17626812160",
@@ -8142,7 +8142,7 @@
     "4": 2,
     "5": 10
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18744074975",
@@ -8779,13 +8779,13 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17931116022",
    "sku": "LN089",
-   "avg": 5.0,
-   "reviews": 22,
+   "avg": 4.96,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 0,
+    "4": 1,
     "5": 22
    },
    "salesBand": "50-99"
@@ -9018,13 +9018,13 @@
    "url": "https://allegro.pl/oferta/17668946883",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 60,
+   "reviews": 61,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 57
+    "5": 58
    },
    "salesBand": "1-9"
   },
@@ -9035,13 +9035,13 @@
    "url": "https://allegro.pl/oferta/17626543549",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 60,
+   "reviews": 61,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 57
+    "5": 58
    },
    "salesBand": "10-49"
   },
@@ -9052,13 +9052,13 @@
    "url": "https://allegro.pl/oferta/17532987937",
    "sku": "ZEST-LN125-10",
    "avg": 4.92,
-   "reviews": 60,
+   "reviews": 61,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 57
+    "5": 58
    },
    "salesBand": "10-49"
   },
@@ -9069,13 +9069,13 @@
    "url": "https://allegro.pl/oferta/17508413425",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 60,
+   "reviews": 61,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 57
+    "5": 58
    },
    "salesBand": "1-9"
   },
@@ -9086,13 +9086,13 @@
    "url": "https://allegro.pl/oferta/17235708456",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 60,
+   "reviews": 61,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 57
+    "5": 58
    },
    "salesBand": "0"
   },
@@ -9102,14 +9102,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17668996138",
    "sku": "LN126",
-   "avg": 4.91,
-   "reviews": 65,
+   "avg": 4.9,
+   "reviews": 67,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
-    "4": 3,
-    "5": 61
+    "4": 4,
+    "5": 62
    },
    "salesBand": "10-49"
   },
@@ -9119,14 +9119,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17619126647",
    "sku": "LN126",
-   "avg": 4.91,
-   "reviews": 65,
+   "avg": 4.9,
+   "reviews": 67,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
-    "4": 3,
-    "5": 61
+    "4": 4,
+    "5": 62
    },
    "salesBand": "10-49"
   },
@@ -9136,14 +9136,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17533061215",
    "sku": "ZEST-LN126-10",
-   "avg": 4.91,
-   "reviews": 65,
+   "avg": 4.9,
+   "reviews": 67,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
-    "4": 3,
-    "5": 61
+    "4": 4,
+    "5": 62
    },
    "salesBand": "10-49"
   },
@@ -9153,14 +9153,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17393327828",
    "sku": "LN126",
-   "avg": 4.91,
-   "reviews": 65,
+   "avg": 4.9,
+   "reviews": 67,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
-    "4": 3,
-    "5": 61
+    "4": 4,
+    "5": 62
    },
    "salesBand": "0"
   },
@@ -9170,14 +9170,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17235708662",
    "sku": "LN126",
-   "avg": 4.91,
-   "reviews": 65,
+   "avg": 4.9,
+   "reviews": 67,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
-    "4": 3,
-    "5": 61
+    "4": 4,
+    "5": 62
    },
    "salesBand": "0"
   },
