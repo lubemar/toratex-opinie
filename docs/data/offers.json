@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T07:29:13Z",
+ "updated": "2026-07-10T10:48:03Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2434,7 +2434,7 @@
   },
   {
    "offerId": "18094351815",
-   "name": "Prześcieradło HOTELOWE 260x260 tradycyjne klasyczne mikrofibra",
+   "name": "Prześcieradło bez gumki 200x200 HOTELOWE tradycyjne klasyczne TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18094351815",
    "sku": "LN142",
@@ -2451,7 +2451,7 @@
   },
   {
    "offerId": "18094172359",
-   "name": "Prześcieradło HOTELOWE 150x260 tradycyjne klasyczne mikrofibra",
+   "name": "Prześcieradło bez gumki 90x200 HOTELOWE tradycyjne klasyczne TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18094172359",
    "sku": "LN134",
@@ -2910,7 +2910,7 @@
   },
   {
    "offerId": "17770590243",
-   "name": "Prześcieradło 240x260 tradycyjne solidne trwałe niezawodne hotelowe białe",
+   "name": "Prześcieradło bez gumki 180x200 tradycyjne HOTELOWE białe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17770590243",
    "sku": "LN140",
@@ -2927,7 +2927,7 @@
   },
   {
    "offerId": "17770569647",
-   "name": "Prześcieradło 220x260 wysoka jakość hotelowa grube odporne grubo tkane TORA",
+   "name": "Prześcieradło bez gumki 160x200 HOTELOWE klasyczne białe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17770569647",
    "sku": "LN138",
@@ -4283,7 +4283,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18564172670",
@@ -4661,7 +4661,7 @@
   },
   {
    "offerId": "18094275920",
-   "name": "Prześcieradło HOTELOWE 200x260 tradycyjne klasyczne mikrofibra",
+   "name": "Prześcieradło bez gumki 140x200 HOTELOWE tradycyjne klasyczne TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18094275920",
    "sku": "LN136",
@@ -4678,7 +4678,7 @@
   },
   {
    "offerId": "18093990578",
-   "name": "Prześcieradło 260x260 tradycyjne białe hotelowe WYTRZYMAŁE 100% bawełna",
+   "name": "Prześcieradło bez gumki 200x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18093990578",
    "sku": "LN141",
@@ -7244,23 +7244,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18459736436",
    "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
    "shop": "toratex_pl",
@@ -7412,6 +7395,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18457156099",
@@ -8043,23 +8043,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18485608818",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485608818",
-   "sku": "LN033B-zestaw",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17993397850",
    "name": "Kołdra 240x260 letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -8245,6 +8228,23 @@
     "5": 12
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18485608818",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485608818",
+   "sku": "LN033B-zestaw",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17700905931",
@@ -8745,14 +8745,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18699913720",
    "sku": "LN032",
-   "avg": 4.9,
-   "reviews": 21,
+   "avg": 4.91,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 19
+    "5": 20
    },
    "salesBand": "1-9"
   },
@@ -8762,14 +8762,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17607027219",
    "sku": "LN032",
-   "avg": 4.9,
-   "reviews": 21,
+   "avg": 4.91,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 19
+    "5": 20
    },
    "salesBand": "100+"
   },
@@ -9111,7 +9111,7 @@
     "4": 4,
     "5": 62
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17619126647",
