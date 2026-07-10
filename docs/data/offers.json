@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T13:07:04Z",
+ "updated": "2026-07-10T16:16:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -410,23 +410,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18740858580",
-   "name": "Popielnica klasyczna czarna do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18740858580",
-   "sku": "K5",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18740825414",
    "name": "Kosz popielnica klasyczny srebrny na ŚMIECI odpady do domu biura TORA",
    "shop": "toratex_pl",
@@ -449,23 +432,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18737969280",
    "sku": "K3",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18737942885",
-   "name": "Koszo popielnica na ŚMIECI odpady CZARNY stal nierdzewna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18737942885",
-   "sku": "K2",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1427,7 +1393,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18505423253",
