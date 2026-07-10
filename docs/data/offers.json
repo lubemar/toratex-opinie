@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T10:48:03Z",
+ "updated": "2026-07-10T13:07:04Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4215,7 +4215,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18691280138",
@@ -5762,7 +5762,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358201565",
@@ -8740,6 +8740,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.95,
+   "reviews": 21,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 20
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18699913720",
    "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
    "shop": "toratex_pl",
@@ -9009,7 +9026,7 @@
     "4": 1,
     "5": 56
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17668946883",
