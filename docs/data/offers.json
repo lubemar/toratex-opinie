@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T08:44:33Z",
+ "updated": "2026-07-11T10:12:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5697,23 +5697,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18530098044",
-   "name": "Materac VELVET 200x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18530098044",
-   "sku": "MV6",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527316505",
    "name": "Ręcznik TORA 50x100 100% Bawełna GRUBY do rąk SPA premium 700GSM",
    "shop": "tora_official",
@@ -6071,23 +6054,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17955527193",
-   "name": "Materac 200x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17955527193",
-   "sku": "MV6",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17943125982",
    "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
    "shop": "toratex_pl",
@@ -6411,6 +6377,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18530098044",
+   "name": "Materac VELVET 200x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18530098044",
+   "sku": "MV6",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18529989637",
    "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -6688,6 +6671,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17988728367",
    "sku": "LN178",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17955527193",
+   "name": "Materac 200x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17955527193",
+   "sku": "MV6",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7224,7 +7224,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17814933003",
@@ -8159,7 +8159,7 @@
     "4": 1,
     "5": 11
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18527105244",
@@ -8984,13 +8984,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.88,
-   "reviews": 59,
+   "reviews": 60,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 56
+    "5": 57
    },
    "salesBand": "50-99"
   },
