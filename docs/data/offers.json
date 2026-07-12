@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T06:28:08Z",
+ "updated": "2026-07-12T09:01:09Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7652,23 +7652,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18658367981",
-   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18658367981",
-   "sku": "",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18530089504",
    "name": "Materac VELVET 160x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
    "shop": "tora_official",
@@ -7759,6 +7742,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649347245",
    "sku": "LN095",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18658367981",
+   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "sku": "",
    "avg": 5.0,
    "reviews": 8,
    "dist": {
