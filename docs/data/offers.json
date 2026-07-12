@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T11:55:04Z",
+ "updated": "2026-07-12T13:00:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7873,23 +7873,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17755357163",
-   "name": "Kołdra 140x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17755357163",
-   "sku": "LN023",
-   "avg": 4.9,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18256566314",
    "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
    "shop": "tora_official",
@@ -7973,6 +7956,23 @@
     "5": 10
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17755357163",
+   "name": "Kołdra 140x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17755357163",
+   "sku": "LN023",
+   "avg": 4.91,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 10
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18529976226",
