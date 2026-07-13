@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T18:53:52Z",
+ "updated": "2026-07-13T06:50:40Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5850,23 +5850,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18486017245",
-   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18486017245",
-   "sku": "LN038B",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18485739957",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
    "shop": "toratex_pl",
@@ -6530,6 +6513,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18486017245",
+   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18486017245",
+   "sku": "LN038B",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18118354963",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
    "shop": "toratex_pl",
@@ -7040,23 +7040,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17811949361",
-   "name": "Komplet pościeli 160x200 50x70 x2 zestaw adamaszek paski bawełna hotelowa",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17811949361",
-   "sku": "LN191",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17666054578",
    "name": "Szlafrok unisex M oddychający chłonny hotelowy z kieszeniami wiązany długi",
    "shop": "toratex_pl",
@@ -7244,11 +7227,11 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17774211097",
-   "name": "Ręczniki BAWEŁNIANE do kąpieli i do rąk ZESTAW 600GSM chłonne GRUBE miękkie",
+   "offerId": "17811949361",
+   "name": "Komplet pościeli 160x200 50x70 x2 zestaw adamaszek paski bawełna hotelowa",
    "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17774211097",
-   "sku": "ZEST-X2LN037-X2LN035-X4LN033",
+   "url": "https://allegro.pl/oferta/17811949361",
+   "sku": "LN191",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7261,11 +7244,11 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17755988156",
-   "name": "Kołdra 160x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
+   "offerId": "17774211097",
+   "name": "Ręczniki BAWEŁNIANE do kąpieli i do rąk ZESTAW 600GSM chłonne GRUBE miękkie",
    "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17755988156",
-   "sku": "LN024",
+   "url": "https://allegro.pl/oferta/17774211097",
+   "sku": "ZEST-X2LN037-X2LN035-X4LN033",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7419,6 +7402,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034680307",
    "sku": "MT3",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17755988156",
+   "name": "Kołdra 160x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17755988156",
+   "sku": "LN024",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
@@ -8706,23 +8706,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.95,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 20
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18699913720",
    "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
    "shop": "toratex_pl",
@@ -8755,6 +8738,23 @@
     "5": 20
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.95,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 21
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17931116022",
