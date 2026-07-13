@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T13:17:09Z",
+ "updated": "2026-07-13T16:24:21Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2940,7 +2940,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17666240436",
@@ -8193,7 +8193,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17871717400",
@@ -8245,23 +8245,6 @@
     "5": 14
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17736860426",
-   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736860426",
-   "sku": "LN106",
-   "avg": 5.0,
-   "reviews": 15,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18187585355",
@@ -8354,6 +8337,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18056986170",
    "sku": "LN104",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17736860426",
+   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736860426",
+   "sku": "LN106",
    "avg": 5.0,
    "reviews": 16,
    "dist": {
