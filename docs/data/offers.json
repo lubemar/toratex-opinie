@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T10:18:11Z",
+ "updated": "2026-07-13T13:17:09Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6972,23 +6972,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18521675712",
-   "name": "Pokrowiec OCHRANIACZ na materac 160x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521675712",
-   "sku": "LN239L",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18075547708",
    "name": "Prześcieradło 90x200 z gumką 100% bawełna solidne trwałe hotelowe",
    "shop": "toratex_pl",
@@ -7191,6 +7174,23 @@
     "5": 5
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18521675712",
+   "name": "Pokrowiec OCHRANIACZ na materac 160x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521675712",
+   "sku": "LN239L",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18459736436",
@@ -7975,23 +7975,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18529976226",
-   "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529976226",
-   "sku": "MR4",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18615114100",
    "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -8024,23 +8007,6 @@
     "5": 11
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17871717400",
-   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17871717400",
-   "sku": "MR4",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18489039850",
@@ -8162,6 +8128,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18529976226",
+   "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529976226",
+   "sku": "MR4",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18527105244",
    "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
    "shop": "tora_official",
@@ -8211,6 +8194,23 @@
     "5": 12
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17871717400",
+   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17871717400",
+   "sku": "MR4",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17700905931",
