@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T06:07:52Z",
+ "updated": "2026-07-14T09:01:55Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6496,23 +6496,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18486017245",
-   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18486017245",
-   "sku": "LN038B",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18118354963",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
    "shop": "toratex_pl",
@@ -6943,6 +6926,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18587623655",
    "sku": "LN021",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18486017245",
+   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18486017245",
+   "sku": "LN038B",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7751,7 +7751,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17220235700",
@@ -8176,7 +8176,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17871717400",
@@ -9060,7 +9060,7 @@
     "4": 2,
     "5": 58
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668996138",
