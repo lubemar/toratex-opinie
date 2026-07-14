@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T09:01:55Z",
+ "updated": "2026-07-14T10:51:57Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1346,7 +1346,7 @@
   },
   {
    "offerId": "18505439489",
-   "name": "Prześcieradło TORA 270x270 tradycyjne 100% BAWEŁNA 200TC hotelowe",
+   "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505439489",
    "sku": "LN222B",
@@ -1682,7 +1682,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18466331206",
@@ -7329,23 +7329,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18457156099",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
    "shop": "toratex_pl",
@@ -7584,6 +7567,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "50-99"
+  },
+  {
    "offerId": "18056960447",
    "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
    "shop": "toratex_pl",
@@ -7751,7 +7751,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17220235700",
@@ -8502,57 +8502,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18256405995",
-   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256405995",
-   "sku": "LN093",
-   "avg": 4.78,
-   "reviews": 18,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 17
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17649306642",
-   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649306642",
-   "sku": "LN093",
-   "avg": 4.78,
-   "reviews": 18,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 17
-   },
-   "salesBand": "50-99"
-  },
-  {
-   "offerId": "17215776241",
-   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215776241",
-   "sku": "LN093",
-   "avg": 4.78,
-   "reviews": 18,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 17
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17817794007",
    "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
    "shop": "toratex_pl",
@@ -8568,6 +8517,57 @@
     "5": 18
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "18256405995",
+   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256405995",
+   "sku": "LN093",
+   "avg": 4.79,
+   "reviews": 19,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 18
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17649306642",
+   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "sku": "LN093",
+   "avg": 4.79,
+   "reviews": 19,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 18
+   },
+   "salesBand": "50-99"
+  },
+  {
+   "offerId": "17215776241",
+   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215776241",
+   "sku": "LN093",
+   "avg": 4.79,
+   "reviews": 19,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 18
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18188079725",
