@@ -1,9 +1,9 @@
 {
- "lastSuccess": "2026-07-14T14:45:06Z",
- "lastRun": "2026-07-14T14:42:21Z",
+ "lastSuccess": "2026-07-14T16:10:59Z",
+ "lastRun": "2026-07-14T16:07:59Z",
  "offersChecked": 543,
- "lastDeltas": 2,
- "lastNewReviews": 0,
+ "lastDeltas": 1,
+ "lastNewReviews": 1,
  "apifyUsage": [
   {
    "token": 1,
