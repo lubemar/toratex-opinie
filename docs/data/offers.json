@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T18:28:48Z",
+ "updated": "2026-07-14T06:07:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3912,23 +3912,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18527078837",
-   "name": "Prześcieradło 150x260 Białe Hotelowe 100% Bawełna 300TC Tradycyjne TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527078837",
-   "sku": "LN133",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18521546582",
    "name": "Materac 80x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -4504,7 +4487,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18207507352",
@@ -5051,23 +5034,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17736819859",
-   "name": "Prześcieradło bez gumki 90x200 tradycyjne białe hotelowe 100% bawełna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736819859",
-   "sku": "LN133",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17736747631",
    "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
    "shop": "toratex_pl",
@@ -5175,23 +5141,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/18521765968",
    "sku": "LN003Kp",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17346757025",
-   "name": "PRZEŚCIERADŁO 150x260 TRADYCYJNE KLASYCZNE GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346757025",
-   "sku": "LN133",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5697,6 +5646,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18527078837",
+   "name": "Prześcieradło 150x260 Białe Hotelowe 100% Bawełna 300TC Tradycyjne TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527078837",
+   "sku": "LN133",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18358201565",
    "name": "Materac 120x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
@@ -6105,6 +6071,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17736819859",
+   "name": "Prześcieradło bez gumki 90x200 tradycyjne białe hotelowe 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736819859",
+   "sku": "LN133",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17700930382",
    "name": "Kołdra 180x200 LETNIA hotelowa biała 100% BAWEŁNA miękka lekka SUBTELNA",
    "shop": "toratex_pl",
@@ -6188,6 +6171,23 @@
     "5": 2
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17346757025",
+   "name": "PRZEŚCIERADŁO 150x260 TRADYCYJNE KLASYCZNE GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346757025",
+   "sku": "LN133",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17314982520",
@@ -8176,7 +8176,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17871717400",
@@ -8644,13 +8644,13 @@
    "url": "https://allegro.pl/oferta/18260334434",
    "sku": "LN018",
    "avg": 4.95,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 19
+    "5": 20
    },
    "salesBand": "10-49"
   },
@@ -8661,13 +8661,13 @@
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
    "avg": 4.95,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 19
+    "5": 20
    },
    "salesBand": "10-49"
   },
@@ -8678,13 +8678,13 @@
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
    "avg": 4.95,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 19
+    "5": 20
    },
    "salesBand": "1-9"
   },
