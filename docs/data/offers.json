@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T06:09:20Z",
+ "updated": "2026-07-15T09:08:17Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8961,23 +8961,6 @@
    "salesBand": "100+"
   },
   {
-   "offerId": "18741577949",
-   "name": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18741577949",
-   "sku": "",
-   "avg": 4.89,
-   "reviews": 61,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 1,
-    "4": 1,
-    "5": 58
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17668946883",
    "name": "Kapcie pantofle damskie domowe twarda podeszwa odporna na ścieranie 35-38",
    "shop": "toratex_pl",
@@ -9061,6 +9044,23 @@
     "5": 58
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18741577949",
+   "name": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741577949",
+   "sku": "",
+   "avg": 4.89,
+   "reviews": 63,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 60
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17668996138",
