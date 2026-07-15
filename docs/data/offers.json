@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T11:25:00Z",
+ "updated": "2026-07-15T13:16:07Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2396,7 +2396,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18094172359",
@@ -6714,7 +6714,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17737134155",
@@ -7564,7 +7564,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18056960447",
@@ -7737,23 +7737,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18658367981",
-   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18658367981",
-   "sku": "",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17220235700",
    "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
    "shop": "TORATEX",
@@ -7820,6 +7803,23 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18658367981",
+   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "sku": "",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18530008926",
