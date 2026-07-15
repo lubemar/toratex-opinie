@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T09:08:17Z",
+ "updated": "2026-07-15T11:25:00Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7190,7 +7190,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17814933003",
@@ -7550,23 +7550,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18354950161",
-   "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18354950161",
-   "sku": "MT1",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18466527307",
    "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
    "shop": "toratex_pl",
@@ -7589,23 +7572,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18056960447",
    "sku": "LN105",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034882348",
-   "name": "Materac 90x200 cm TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034882348",
-   "sku": "MT1",
    "avg": 5.0,
    "reviews": 7,
    "dist": {
@@ -7652,6 +7618,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18354950161",
+   "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18354950161",
+   "sku": "MT1",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18253512780",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
    "shop": "tora_official",
@@ -7674,6 +7657,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18154623891",
    "sku": "LN033-ZEST-BARB",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034882348",
+   "name": "Materac 90x200 cm TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034882348",
+   "sku": "MT1",
    "avg": 5.0,
    "reviews": 8,
    "dist": {
@@ -8006,7 +8006,7 @@
     "4": 2,
     "5": 10
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18489030107",
