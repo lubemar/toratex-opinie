@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T18:57:25Z",
+ "updated": "2026-07-16T06:13:00Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3028,23 +3028,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18590917407",
    "name": "Kosz na śmieci podwójny MIEJSKI 120L z popielnicą TORA wytrzymały PREMIUM",
    "shop": "TORATEX",
@@ -4980,7 +4963,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17884281794",
@@ -5117,6 +5100,23 @@
     "5": 1
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18590873797",
@@ -7190,7 +7190,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17814933003",
@@ -7346,23 +7346,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18118559909",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18118559909",
-   "sku": "LN038",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18034680307",
    "name": "Materac 140x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 20cm",
    "shop": "toratex_pl",
@@ -7419,23 +7402,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16003556744",
    "sku": "LN032 SIMPLE ",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "15608258485",
-   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/15608258485",
-   "sku": "LN038  ",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
@@ -7564,7 +7530,24 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
+  },
+  {
+   "offerId": "18118559909",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18118559909",
+   "sku": "LN038",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18056960447",
@@ -7599,6 +7582,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "15608258485",
+   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/15608258485",
+   "sku": "LN038  ",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18530089504",
@@ -8502,23 +8502,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18256405995",
    "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
    "shop": "tora_official",
@@ -8602,6 +8585,23 @@
     "5": 19
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17615651795",
