@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T09:10:06Z",
+ "updated": "2026-07-16T11:29:26Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5850,23 +5850,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18075691511",
-   "name": "Prześcieradło z gumką 200x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18075691511",
-   "sku": "LN186",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18059476620",
    "name": "Poszwa 140x200 na kołdrę biała jakość hotelowa 100% bawełna na zamek",
    "shop": "toratex_pl",
@@ -6545,6 +6528,23 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18075691511",
+   "name": "Prześcieradło z gumką 200x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075691511",
+   "sku": "LN186",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18075645076",
@@ -7445,7 +7445,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18358113183",
