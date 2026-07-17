@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T06:11:37Z",
+ "updated": "2026-07-17T09:05:30Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3181,23 +3181,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17525629962",
-   "name": "POPIELNICA POPIELNICZKA WYSOKA OGRODOWA STAL NIERDZEWNA PALARNIA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17525629962",
-   "sku": "K1",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17352323310",
    "name": "POŚCIEL 200x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA",
    "shop": "TORATEX",
@@ -6034,7 +6017,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17736819859",
@@ -6918,7 +6901,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18486017245",
@@ -7173,7 +7156,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17814933003",
@@ -8805,7 +8788,7 @@
     "4": 1,
     "5": 26
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17215773823",
