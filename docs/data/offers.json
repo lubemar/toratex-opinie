@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T13:09:54Z",
+ "updated": "2026-07-17T15:08:17Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4215,7 +4215,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18521487700",
@@ -7275,7 +7275,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18354899731",
@@ -8128,23 +8128,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18485608818",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485608818",
-   "sku": "LN033B-zestaw",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17871717400",
    "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
    "shop": "toratex_pl",
@@ -8160,6 +8143,23 @@
     "5": 12
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18485608818",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485608818",
+   "sku": "LN033B-zestaw",
+   "avg": 5.0,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17700905931",
