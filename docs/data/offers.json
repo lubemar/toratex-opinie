@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T11:16:51Z",
+ "updated": "2026-07-17T13:09:54Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6374,7 +6374,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18357289988",
@@ -7516,23 +7516,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18056960447",
-   "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18056960447",
-   "sku": "LN105",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17626682772",
    "name": "Kapcie damskie ZESTAW 10 szt. SPA 35–38 TRWAŁE pantofle z twardą podeszwą",
    "shop": "toratex_pl",
@@ -7633,6 +7616,23 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18056960447",
+   "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18056960447",
+   "sku": "LN105",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18034882348",
