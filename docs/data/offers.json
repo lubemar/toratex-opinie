@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T18:58:55Z",
+ "updated": "2026-07-17T06:11:37Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6292,23 +6292,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18618276010",
-   "name": "Kołdra LETNIA hotelowa KINGSIZE 240x220 antyalergiczna 100% bawełna TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18618276010",
-   "sku": "LN178",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18530098044",
    "name": "Materac VELVET 200x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
    "shop": "tora_official",
@@ -6615,23 +6598,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17988728367",
-   "name": "Kołdra 220x240 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17988728367",
-   "sku": "LN178",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17955527193",
    "name": "Materac 200x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
@@ -6851,6 +6817,40 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18618276010",
+   "name": "Kołdra LETNIA hotelowa KINGSIZE 240x220 antyalergiczna 100% bawełna TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18618276010",
+   "sku": "LN178",
+   "avg": 4.25,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17988728367",
+   "name": "Kołdra 220x240 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17988728367",
+   "sku": "LN178",
+   "avg": 4.25,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18618247638",
@@ -8992,7 +8992,7 @@
     "4": 2,
     "5": 58
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17508413425",
