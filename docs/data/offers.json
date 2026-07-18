@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T11:48:11Z",
+ "updated": "2026-07-18T12:56:04Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8363,7 +8363,7 @@
     "4": 0,
     "5": 16
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17622515513",
@@ -8745,14 +8745,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17739542007",
    "sku": "LN009",
-   "avg": 4.88,
-   "reviews": 26,
+   "avg": 4.89,
+   "reviews": 27,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 23
+    "5": 24
    },
    "salesBand": "10-49"
   },
