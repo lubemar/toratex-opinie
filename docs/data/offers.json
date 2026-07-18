@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T05:58:47Z",
+ "updated": "2026-07-18T07:43:43Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2243,7 +2243,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18142235304",
@@ -7584,23 +7584,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18253512780",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18253512780",
-   "sku": "LN095",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18154623891",
    "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
    "shop": "toratex_pl",
@@ -7686,45 +7669,11 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17649347245",
-   "name": "Jasiek 40x40 poduszka mała miękka GRUBA wygodna ODDYCHAJĄCA naturalna 500g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649347245",
-   "sku": "LN095",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17220235700",
    "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17220235700",
    "sku": "LN132",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17215773602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PRESTIGE HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215773602",
-   "sku": "LN095",
    "avg": 5.0,
    "reviews": 8,
    "dist": {
@@ -7752,6 +7701,57 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18253512780",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18253512780",
+   "sku": "LN095",
+   "avg": 4.78,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17649347245",
+   "name": "Jasiek 40x40 poduszka mała miękka GRUBA wygodna ODDYCHAJĄCA naturalna 500g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649347245",
+   "sku": "LN095",
+   "avg": 4.78,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17215773602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PRESTIGE HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215773602",
+   "sku": "LN095",
+   "avg": 4.78,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17626812160",
@@ -8584,7 +8584,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17533193438",
