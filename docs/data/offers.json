@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T06:25:58Z",
+ "updated": "2026-07-19T09:04:14Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7074,23 +7074,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1300g Antyalergiczna Gruba Wysoka Jakość",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256249740",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18724257399",
    "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
    "shop": "toratex_pl",
@@ -7210,40 +7193,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17649517391",
-   "name": "Poduszka 50x70 regulowana grubość i wysokość miękka puszysta komfort 1300g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649517391",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220034861",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527475001",
    "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
    "shop": "tora_official",
@@ -7295,6 +7244,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18256249740",
+   "name": "Poduszka Hotelowa 50x70 1300g Antyalergiczna Gruba Wysoka Jakość",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256249740",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18457156099",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
    "shop": "toratex_pl",
@@ -7334,6 +7300,40 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17755988156",
    "sku": "LN024",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17649517391",
+   "name": "Poduszka 50x70 regulowana grubość i wysokość miękka puszysta komfort 1300g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17220034861",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220034861",
+   "sku": "LN099",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
