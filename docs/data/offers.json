@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T14:24:10Z",
+ "updated": "2026-07-19T15:50:08Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6360,23 +6360,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18524167685",
-   "name": "Kołdra 160x200 LETNIA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18524167685",
-   "sku": "LN024B",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18521689941",
    "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -9035,13 +9018,13 @@
    "url": "https://allegro.pl/oferta/17668996138",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 67,
+   "reviews": 68,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 62
+    "5": 63
    },
    "salesBand": "10-49"
   },
@@ -9052,13 +9035,13 @@
    "url": "https://allegro.pl/oferta/17619126647",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 67,
+   "reviews": 68,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 62
+    "5": 63
    },
    "salesBand": "10-49"
   },
@@ -9069,13 +9052,13 @@
    "url": "https://allegro.pl/oferta/17533061215",
    "sku": "ZEST-LN126-10",
    "avg": 4.9,
-   "reviews": 67,
+   "reviews": 68,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 62
+    "5": 63
    },
    "salesBand": "10-49"
   },
@@ -9086,13 +9069,13 @@
    "url": "https://allegro.pl/oferta/17393327828",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 67,
+   "reviews": 68,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 62
+    "5": 63
    },
    "salesBand": "0"
   },
@@ -9103,13 +9086,13 @@
    "url": "https://allegro.pl/oferta/17235708662",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 67,
+   "reviews": 68,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 62
+    "5": 63
    },
    "salesBand": "0"
   },
