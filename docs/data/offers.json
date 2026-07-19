@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T18:49:59Z",
+ "updated": "2026-07-19T06:25:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5935,23 +5935,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17943125982",
-   "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17943125982",
-   "sku": "MP4",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17942947468",
    "name": "Materac 90x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
    "shop": "toratex_pl",
@@ -6615,6 +6598,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17943125982",
+   "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17943125982",
+   "sku": "MP4",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17863333792",
    "name": "Materac 90x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
    "shop": "toratex_pl",
@@ -6904,23 +6904,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18486017245",
-   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18486017245",
-   "sku": "LN038B",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18075547708",
    "name": "Prześcieradło z gumką 90x200x25 SOLIDNE100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -7130,6 +7113,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18521675712",
    "sku": "LN239L",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18486017245",
+   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18486017245",
+   "sku": "LN038B",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -8856,7 +8856,7 @@
     "4": 1,
     "5": 28
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17615562738",
