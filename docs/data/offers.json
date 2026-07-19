@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T12:58:09Z",
+ "updated": "2026-07-19T14:24:10Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6292,23 +6292,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18518115919",
-   "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18518115919",
-   "sku": "MR1",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18364501983",
    "name": "Prześcieradło 220x250 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -6615,23 +6598,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17863333792",
-   "name": "Materac 90x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17863333792",
-   "sku": "MR1",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17777505702",
    "name": "Poszwa na kołdrę 160x200 hotelowa jakość trwała komfortowa w użytkowaniu",
    "shop": "toratex_pl",
@@ -6853,6 +6819,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18518115919",
+   "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18518115919",
+   "sku": "MR1",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18358210515",
    "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
@@ -6943,6 +6926,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18032002215",
    "sku": "MS4",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17863333792",
+   "name": "Materac 90x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17863333792",
+   "sku": "MR1",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -8465,7 +8465,7 @@
     "4": 2,
     "5": 16
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
