@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T18:53:59Z",
+ "updated": "2026-07-20T06:40:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2838,7 +2838,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17770590243",
@@ -4215,7 +4215,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521487700",
@@ -8111,23 +8111,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18485608818",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485608818",
-   "sku": "LN033B-zestaw",
-   "avg": 5.0,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17700905931",
    "name": "Kołdra 200x220 letnia ODDYCHAJĄCA z cyrkulacją powietrza lekka TORA",
    "shop": "toratex_pl",
@@ -8281,91 +8264,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17668561952",
-   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668561952",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17629561930",
-   "name": "Poduszka 50x70 z gęsim pierzem puchowa gęsto tkana profilowana przciwbólowa",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17629561930",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17626892622",
-   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626892622",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17622515513",
-   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17622515513",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17503922152",
-   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17503922152",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17346737989",
    "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -8381,23 +8279,6 @@
     "5": 16
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220075486",
-   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220075486",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18527282249",
