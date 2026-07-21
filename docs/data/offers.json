@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T06:24:20Z",
+ "updated": "2026-07-21T09:25:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -160,23 +160,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18358187886",
    "sku": "MC5",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18358183145",
-   "name": "Materac 160x200 Kieszeniowy 20cm Średnio Twardy Kaszmirowy Komfort",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358183145",
-   "sku": "MC4",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2005,7 +1988,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18179191003",
@@ -2523,23 +2506,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034820231",
    "sku": "MTP6",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18034633986",
-   "name": "Materac 160x200 Twardy H4 Sprężynowy kieszeniowy Antyalergiczny TORA 20 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034633986",
-   "sku": "MC4",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3895,6 +3861,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18358183145",
+   "name": "Materac 160x200 Kieszeniowy 20cm Średnio Twardy Kaszmirowy Komfort",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358183145",
+   "sku": "MC4",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18358142176",
    "name": "Materac 200x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
    "shop": "tora_official",
@@ -4716,6 +4699,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034676623",
    "sku": "MT2",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18034633986",
+   "name": "Materac 160x200 Twardy H4 Sprężynowy kieszeniowy Antyalergiczny TORA 20 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034633986",
+   "sku": "MC4",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -6870,6 +6870,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18075755413",
+   "name": "Prześcieradło 160x200 z gumką bawełna solidne trwałe hotelowe gładkie",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075755413",
+   "sku": "LN007",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18075547708",
    "name": "Prześcieradło z gumką 90x200x25 SOLIDNE100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -8109,6 +8126,23 @@
     "5": 12
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18485608818",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485608818",
+   "sku": "LN033B-zestaw",
+   "avg": 5.0,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17700905931",

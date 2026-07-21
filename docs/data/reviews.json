@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T06:24:20Z",
+ "updated": "2026-07-21T09:25:52Z",
  "reviews": [
   {
    "id": "6a5cd661e7d6cf5237d6db52",
@@ -1646,7 +1646,8 @@
    "date": "2026-05-28T10:07:45.936Z",
    "pros": "Świetna gruba bawełna, przyjemna w dotyku",
    "cons": "brak",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN007"
   },
   {
    "id": "6a1813ac9f8bea65d8c54b8f",
@@ -4194,7 +4195,8 @@
    "date": "2026-02-14T11:20:23.369Z",
    "pros": "",
    "cons": "",
-   "firstSeen": "2026-06-06T00:00:31Z"
+   "firstSeen": "2026-06-06T00:00:31Z",
+   "sku": "LN007"
   },
   {
    "id": "69902e838bd48e7401260f66",
