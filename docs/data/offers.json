@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T19:28:07Z",
+ "updated": "2026-07-21T06:24:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5068,23 +5068,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18590873797",
    "name": "Kosz na śmieci kwadratowy MIEJSKI 59L z popielnicą TORA wytrzymały PREMIUM",
    "shop": "TORATEX",
@@ -6086,6 +6069,23 @@
     "5": 2
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17533267458",
@@ -7258,7 +7258,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18034680307",
@@ -8312,7 +8312,7 @@
     "4": 2,
     "5": 16
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
@@ -8329,7 +8329,7 @@
     "4": 0,
     "5": 18
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17649306642",
@@ -8516,7 +8516,7 @@
     "4": 2,
     "5": 20
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17607027219",
