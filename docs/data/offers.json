@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T11:44:40Z",
+ "updated": "2026-07-21T13:21:14Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4266,7 +4266,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18489156027",
@@ -8298,11 +8298,11 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17736860426",
-   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "offerId": "17622515513",
+   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
    "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736860426",
-   "sku": "LN106",
+   "url": "https://allegro.pl/oferta/17622515513",
+   "sku": "LN112",
    "avg": 5.0,
    "reviews": 16,
    "dist": {
@@ -8312,7 +8312,7 @@
     "4": 0,
     "5": 16
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17346737989",
@@ -8328,6 +8328,23 @@
     "3": 0,
     "4": 0,
     "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17736860426",
+   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736860426",
+   "sku": "LN106",
+   "avg": 5.0,
+   "reviews": 17,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
    },
    "salesBand": "1-9"
   },
