@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T15:32:20Z",
+ "updated": "2026-07-21T17:10:07Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1563,7 +1563,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488840499",
@@ -7431,23 +7431,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18358113183",
-   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358113183",
-   "sku": "MSP4",
-   "avg": 4.86,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18357646068",
    "name": "Materac 90x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 stref ANTYALERGICZNY",
    "shop": "tora_official",
@@ -7470,23 +7453,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18071341442",
    "sku": "MS1",
-   "avg": 4.86,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 6
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18031565537",
-   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18031565537",
-   "sku": "MSP4",
    "avg": 4.86,
    "reviews": 7,
    "dist": {
@@ -7565,6 +7531,40 @@
     "5": 7
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18358113183",
+   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358113183",
+   "sku": "MSP4",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18031565537",
+   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031565537",
+   "sku": "MSP4",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18530089504",
@@ -8057,7 +8057,7 @@
     "4": 1,
     "5": 11
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16003552687",
@@ -8621,40 +8621,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18699913720",
-   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18699913720",
-   "sku": "LN032",
-   "avg": 4.91,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 20
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17607027219",
-   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17607027219",
-   "sku": "LN032",
-   "avg": 4.91,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 20
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17705687515",
    "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
    "shop": "toratex_pl",
@@ -8670,6 +8636,40 @@
     "5": 21
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.91,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 21
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17607027219",
+   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17607027219",
+   "sku": "LN032",
+   "avg": 4.91,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 21
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17931116022",
@@ -8984,13 +8984,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.89,
-   "reviews": 65,
+   "reviews": 66,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 62
+    "5": 63
    },
    "salesBand": "50-99"
   },

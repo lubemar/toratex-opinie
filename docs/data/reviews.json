@@ -1,6 +1,22 @@
 {
- "updated": "2026-07-21T15:32:20Z",
+ "updated": "2026-07-21T17:10:07Z",
  "reviews": [
+  {
+   "id": "6a5f9b10eadf81519d0f2ef8",
+   "offerId": "18031565537",
+   "offerName": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031565537",
+   "rating": 5.0,
+   "content": "Bardzo dobry materac, precyzyjne szycie wygląda naprawdę bardzo profesjonalnie i elegancko. No i bardzo wygodny",
+   "author": "z...1",
+   "date": "2026-07-21T16:15:12.930Z",
+   "pros": "",
+   "cons": "",
+   "sku": "MSP4",
+   "ean": "",
+   "firstSeen": "2026-07-21T17:10:07Z"
+  },
   {
    "id": "6a5f6beb0bb6abae2ba0d972",
    "offerId": "17736860426",
@@ -288,6 +304,22 @@
    "sku": "LN033B-zestaw",
    "ean": "",
    "firstSeen": "2026-07-10T10:48:02Z"
+  },
+  {
+   "id": "6a50a0faf250fc61efb5c271",
+   "offerId": "18699913720",
+   "offerName": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "rating": 5.0,
+   "content": "Dobra jakość",
+   "author": "k...7",
+   "date": "2026-07-10T07:36:26.410Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN032",
+   "ean": "",
+   "firstSeen": "2026-07-21T17:10:07Z"
   },
   {
    "id": "6a4fd4a40bb6abae2b9cf4df",
