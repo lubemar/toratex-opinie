@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T09:25:52Z",
+ "updated": "2026-07-21T11:44:40Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3725,6 +3725,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17773474208",
+   "name": "Poszwa 180x200 na kołdrę biała jakość hotelowa 100% bawełna na zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17773474208",
+   "sku": "LN161",
+   "avg": 3.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17333056182",
    "name": "POSZWA NA KOŁDRĘ 180x200 BIAŁA 100% BAWEŁNA POŚCIEL HOTELOWA PREMIUM SUPREM",
    "shop": "TORATEX",
@@ -4878,7 +4895,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17960874210",
@@ -4997,7 +5014,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17736747034",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T09:25:52Z",
+ "updated": "2026-07-21T11:44:38Z",
  "reviews": [
   {
    "id": "6a5cd661e7d6cf5237d6db52",
@@ -5621,6 +5621,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN001KP",
    "ean": ""
+  },
+  {
+   "id": "6931d1a5316c1bd9d81e8bb5",
+   "offerId": "17773474208",
+   "offerName": "Poszwa 180x200 na kołdrę biała jakość hotelowa 100% bawełna na zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17773474208",
+   "rating": 3.0,
+   "content": "Pościel kupiona na prezent. Moim zdaniem całkiem dobra jakość. Może zbyt duża cena ale osobie która ją dostała całkiem się nie podobała. Ja bym ją zostawił. Decyzja nie należała do mnie więc została odesłana.",
+   "author": "C...0",
+   "date": "2025-12-04T18:23:33.811Z",
+   "pros": "Pościel jak pościel. Biała",
+   "cons": "Zbyt długi czas oczekiwania na zwrot pieniędzy.",
+   "sku": "LN161",
+   "ean": "",
+   "firstSeen": "2026-07-21T11:44:38Z"
   },
   {
    "id": "69316a47316c1bd9d82fa648",
