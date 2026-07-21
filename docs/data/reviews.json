@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T17:10:07Z",
+ "updated": "2026-07-21T19:07:11Z",
  "reviews": [
   {
    "id": "6a5f9b10eadf81519d0f2ef8",
@@ -32,6 +32,22 @@
    "sku": "LN106",
    "ean": "",
    "firstSeen": "2026-07-21T13:21:14Z"
+  },
+  {
+   "id": "6a5de5bdeadf81519d0eae6f",
+   "offerId": "18741577949",
+   "offerName": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741577949",
+   "rating": 5.0,
+   "content": "Świetna jakość dźwięku",
+   "author": "b...2",
+   "date": "2026-07-20T09:09:17.107Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-07-21T19:07:11Z"
   },
   {
    "id": "6a5cd661e7d6cf5237d6db52",

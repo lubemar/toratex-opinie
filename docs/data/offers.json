@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T17:10:07Z",
+ "updated": "2026-07-21T19:07:11Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6292,23 +6292,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18529989637",
-   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529989637",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18364501983",
    "name": "Prześcieradło 220x250 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -6564,23 +6547,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17945784134",
-   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17945784134",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17943125982",
    "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
    "shop": "toratex_pl",
@@ -6819,6 +6785,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18529989637",
+   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529989637",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18518115919",
    "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -6943,6 +6926,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18032002215",
    "sku": "MS4",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17945784134",
+   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17945784134",
+   "sku": "MR5",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -8332,23 +8332,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17622515513",
-   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17622515513",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17346737989",
    "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -8983,14 +8966,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
-   "avg": 4.89,
-   "reviews": 66,
+   "avg": 4.9,
+   "reviews": 68,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 63
+    "5": 65
    },
    "salesBand": "50-99"
   },
