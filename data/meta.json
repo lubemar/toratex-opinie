@@ -1,28 +1,28 @@
 {
- "lastRun": "2026-07-22T13:22:33Z",
+ "lastRun": "2026-07-22T15:25:59Z",
  "auth": {
   "tora_official": {
-   "lastRotation": "2026-07-22T13:22:34Z",
-   "lastRefreshOk": "2026-07-22T13:22:34Z"
+   "lastRotation": "2026-07-22T15:26:04Z",
+   "lastRefreshOk": "2026-07-22T15:26:04Z"
   },
   "toratex_pl": {
-   "lastRotation": "2026-07-22T13:22:51Z",
-   "lastRefreshOk": "2026-07-22T13:22:51Z"
+   "lastRotation": "2026-07-22T15:26:26Z",
+   "lastRefreshOk": "2026-07-22T15:26:26Z"
   },
   "TORATEX": {
-   "lastRotation": "2026-07-22T13:23:56Z",
-   "lastRefreshOk": "2026-07-22T13:23:56Z"
+   "lastRotation": "2026-07-22T15:27:49Z",
+   "lastRefreshOk": "2026-07-22T15:27:49Z"
   }
  },
  "apifyUsage": [
   {
    "token": 1,
-   "usedUsd": 1.33,
+   "usedUsd": 1.36,
    "limitUsd": 5.0,
-   "pct": 26.6
+   "pct": 27.2
   }
  ],
- "lastSuccess": "2026-07-22T13:25:00Z",
+ "lastSuccess": "2026-07-22T15:29:33Z",
  "offersChecked": 533,
  "lastDeltas": 1,
  "lastNewReviews": 0,
