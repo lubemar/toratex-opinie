@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T06:25:29Z",
+ "updated": "2026-07-23T09:22:06Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5490,7 +5490,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16005167544",
@@ -6442,7 +6442,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18075645076",
@@ -7465,23 +7465,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "18118559909",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
    "shop": "toratex_pl",
@@ -7599,6 +7582,23 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "18154623891",
@@ -8074,7 +8074,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485802417",
@@ -8502,23 +8502,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.95,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 21
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -8737,7 +8720,7 @@
     "4": 2,
     "5": 40
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17668277180",
