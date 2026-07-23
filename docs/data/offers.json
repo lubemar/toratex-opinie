@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T19:00:30Z",
+ "updated": "2026-07-23T06:25:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2668,7 +2668,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17988401796",
@@ -8111,23 +8111,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18485608818",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485608818",
-   "sku": "LN033B-zestaw",
-   "avg": 5.0,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17700905931",
    "name": "Kołdra 200x220 letnia ODDYCHAJĄCA z cyrkulacją powietrza lekka TORA",
    "shop": "toratex_pl",
@@ -8533,7 +8516,7 @@
     "4": 1,
     "5": 21
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931116022",
@@ -8720,7 +8703,7 @@
     "4": 1,
     "5": 28
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17615562738",
@@ -8771,7 +8754,7 @@
     "4": 2,
     "5": 40
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17602949491",
