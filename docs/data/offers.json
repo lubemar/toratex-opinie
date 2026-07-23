@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T09:22:06Z",
+ "updated": "2026-07-23T11:48:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7887,7 +7887,7 @@
     "4": 1,
     "5": 10
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17755357163",
@@ -8457,13 +8457,13 @@
    "url": "https://allegro.pl/oferta/18260334434",
    "sku": "LN018",
    "avg": 4.95,
-   "reviews": 21,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 20
+    "5": 21
    },
    "salesBand": "10-49"
   },
@@ -8474,13 +8474,13 @@
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
    "avg": 4.95,
-   "reviews": 21,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 20
+    "5": 21
    },
    "salesBand": "10-49"
   },
@@ -8491,13 +8491,13 @@
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
    "avg": 4.95,
-   "reviews": 21,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 20
+    "5": 21
    },
    "salesBand": "10-49"
   },
@@ -8927,23 +8927,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18741577949",
-   "name": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18741577949",
-   "sku": "",
-   "avg": 4.9,
-   "reviews": 71,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 1,
-    "4": 1,
-    "5": 68
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17898750810",
    "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
    "shop": "toratex_pl",
@@ -9027,6 +9010,23 @@
     "5": 68
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18741577949",
+   "name": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741577949",
+   "sku": "",
+   "avg": 4.9,
+   "reviews": 72,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 69
+   },
+   "salesBand": "50-99"
   }
  ]
 }
