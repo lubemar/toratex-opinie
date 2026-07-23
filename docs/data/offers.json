@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T13:26:59Z",
+ "updated": "2026-07-23T15:50:53Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1206,7 +1206,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18505634333",
@@ -6739,33 +6739,16 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18618276010",
    "sku": "LN178",
-   "avg": 4.25,
+   "avg": 5.0,
    "reviews": 4,
    "dist": {
     "1": 0,
-    "2": 1,
+    "2": 0,
     "3": 0,
     "4": 0,
-    "5": 3
+    "5": 4
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17988728367",
-   "name": "Kołdra 220x240 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17988728367",
-   "sku": "LN178",
-   "avg": 4.25,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 1,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18618247638",
@@ -6926,6 +6909,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18032002215",
    "sku": "MS4",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17988728367",
+   "name": "Kołdra 220x240 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17988728367",
+   "sku": "LN178",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -9018,13 +9018,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.9,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 69
+    "5": 70
    },
    "salesBand": "50-99"
   }
