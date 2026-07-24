@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T19:02:21Z",
+ "updated": "2026-07-24T06:21:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2668,7 +2668,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17988281424",
@@ -7003,7 +7003,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931151326",
@@ -7258,7 +7258,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521675712",
@@ -8145,91 +8145,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18187585355",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18187585355",
-   "sku": "LN092",
-   "avg": 4.75,
-   "reviews": 16,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649443987",
-   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649443987",
-   "sku": "LN092 SUPREME",
-   "avg": 4.75,
-   "reviews": 16,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17637712571",
-   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17637712571",
-   "sku": "LN092 SUPREME",
-   "avg": 4.75,
-   "reviews": 16,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17507401035",
-   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17507401035",
-   "sku": "ZEST-LN092",
-   "avg": 4.75,
-   "reviews": 16,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17346712602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346712602",
-   "sku": "LN092 SUPREME",
-   "avg": 4.75,
-   "reviews": 16,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 15
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18056986170",
    "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
    "shop": "toratex_pl",
@@ -8262,6 +8177,91 @@
     "5": 16
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18187585355",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18187585355",
+   "sku": "LN092",
+   "avg": 4.76,
+   "reviews": 17,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649443987",
+   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649443987",
+   "sku": "LN092 SUPREME",
+   "avg": 4.76,
+   "reviews": 17,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17637712571",
+   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17637712571",
+   "sku": "LN092 SUPREME",
+   "avg": 4.76,
+   "reviews": 17,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17507401035",
+   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17507401035",
+   "sku": "ZEST-LN092",
+   "avg": 4.76,
+   "reviews": 17,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17346712602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346712602",
+   "sku": "LN092 SUPREME",
+   "avg": 4.76,
+   "reviews": 17,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17736860426",
@@ -8570,23 +8570,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17739542007",
-   "name": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17739542007",
-   "sku": "LN009",
-   "avg": 4.89,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 24
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18256894763",
    "name": "Poduszka Hotelowa 70x80 1200g 100% Bawełna Antyalergiczna Komfortowa",
    "shop": "tora_official",
@@ -8638,19 +8621,36 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17739542007",
+   "name": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17739542007",
+   "sku": "LN009",
+   "avg": 4.89,
+   "reviews": 28,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 25
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18253741536",
    "name": "Poduszka hotelowa 40x40 jasiek dekoracyjna do spania 350g",
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18253741536",
    "sku": "LN019",
    "avg": 4.97,
-   "reviews": 29,
+   "reviews": 30,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 28
+    "5": 29
    },
    "salesBand": "0"
   },
@@ -8661,13 +8661,13 @@
    "url": "https://allegro.pl/oferta/17702945906",
    "sku": "LN019",
    "avg": 4.97,
-   "reviews": 29,
+   "reviews": 30,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 28
+    "5": 29
    },
    "salesBand": "10-49"
   },
@@ -8678,13 +8678,13 @@
    "url": "https://allegro.pl/oferta/16003245395",
    "sku": "LN019 CLASSIC",
    "avg": 4.97,
-   "reviews": 29,
+   "reviews": 30,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 28
+    "5": 29
    },
    "salesBand": "1-9"
   },
@@ -9026,7 +9026,7 @@
     "4": 1,
     "5": 71
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   }
  ]
 }
