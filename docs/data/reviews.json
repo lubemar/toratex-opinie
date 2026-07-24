@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T09:19:15Z",
+ "updated": "2026-07-24T11:33:27Z",
  "reviews": [
   {
    "id": "6a60eac1e7d6cf5237d8027b",
@@ -305,6 +305,22 @@
    "sku": "LN018 CLASSIC",
    "ean": "",
    "firstSeen": "2026-07-14T06:07:52Z"
+  },
+  {
+   "id": "6a5415706da4b58a0d600ef5",
+   "offerId": "17705687515",
+   "offerName": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "rating": 5.0,
+   "content": "Poduszka wysokiej jakości.Bardzo dobrze się śpi. Nie zbija się. Rzeczywiście znakomita jakość.",
+   "author": "h...6",
+   "date": "2026-07-12T22:30:08.271Z",
+   "pros": "Nie zbija się, trzyma kształt.",
+   "cons": "Brak",
+   "sku": "LN017",
+   "ean": "",
+   "firstSeen": "2026-07-24T11:33:27Z"
   },
   {
    "id": "6a5414dcdc32dfc6fa56122a",
@@ -2225,6 +2241,22 @@
    "firstSeen": "2026-06-06T00:00:31Z"
   },
   {
+   "id": "6a0b4a865d5d5abb8f501925",
+   "offerId": "18788505737",
+   "offerName": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788505737",
+   "rating": 5.0,
+   "content": "Narazie jest ok.Zobaczymy po dłuższym czasie używania.",
+   "author": "g...0",
+   "date": "2026-05-18T17:21:10.224Z",
+   "pros": "",
+   "cons": "Brak",
+   "sku": "LN100",
+   "ean": "",
+   "firstSeen": "2026-07-24T11:33:27Z"
+  },
+  {
    "id": "6a0accbeac18010b758182f9",
    "offerId": "17700905931",
    "offerName": "Kołdra 200x220 letnia ODDYCHAJĄCA z cyrkulacją powietrza lekka TORA",
@@ -3449,6 +3481,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN125",
    "ean": ""
+  },
+  {
+   "id": "69d65d496163a2412c22fea3",
+   "offerId": "18788505737",
+   "offerName": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788505737",
+   "rating": 5.0,
+   "content": "Jestem zadowolona.Dobrze się leży.",
+   "author": "K...i",
+   "date": "2026-04-08T13:51:05.798Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN100",
+   "ean": "",
+   "firstSeen": "2026-07-24T11:33:27Z"
   },
   {
    "id": "69d5fd6fe3ade2e77ac1e2c6",
@@ -7670,6 +7718,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN033",
    "ean": ""
+  },
+  {
+   "id": "67c986727c14565f6986dd97",
+   "offerId": "18788505737",
+   "offerName": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788505737",
+   "rating": 5.0,
+   "content": "Poduszka wykonana w wysokim standardzie. Idealnie układa się do ciała.",
+   "author": "C...4",
+   "date": "2025-03-06T11:26:42.741Z",
+   "pros": "Mięciutka, miła w dotyku",
+   "cons": "Brak",
+   "sku": "LN100",
+   "ean": "",
+   "firstSeen": "2026-07-24T11:33:27Z"
   },
   {
    "id": "67c1c8807c14565f696bff6f",

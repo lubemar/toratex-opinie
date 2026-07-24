@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T09:19:15Z",
+ "updated": "2026-07-24T11:33:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6360,6 +6360,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18524167685",
+   "name": "Kołdra 160x200 LETNIA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18524167685",
+   "sku": "LN024B",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18521689941",
    "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -6562,6 +6579,23 @@
     "5": 3
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17814959525",
+   "name": "Pościel 200x220 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17814959525",
+   "sku": "LN194",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17777505702",
@@ -6836,6 +6870,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18788505737",
+   "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788505737",
+   "sku": "LN100",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18587623655",
    "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
    "shop": "toratex_pl",
@@ -6867,7 +6918,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18075547708",
@@ -7054,7 +7105,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18518115919",
@@ -7921,7 +7972,7 @@
     "4": 1,
     "5": 10
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17755357163",
@@ -7939,6 +7990,23 @@
     "5": 10
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17702973302",
+   "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "sku": "LN022",
+   "avg": 4.91,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 10
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18615114100",
@@ -8568,6 +8636,23 @@
     "5": 21
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.95,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 21
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17702908317",
