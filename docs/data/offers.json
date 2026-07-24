@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T11:33:27Z",
+ "updated": "2026-07-24T13:21:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -296,6 +296,23 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18788951911",
+   "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788951911",
+   "sku": "LN003",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -6870,6 +6887,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18788977600",
+   "name": "Prześcieradło 180x200 z gumką HOTELOWE gładkie TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788977600",
+   "sku": "LN008",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18788505737",
    "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
    "shop": "toratex_pl",
@@ -8332,6 +8366,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "17503922152",
+   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17503922152",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17346737989",
    "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -8347,6 +8398,23 @@
     "5": 16
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220075486",
+   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220075486",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18187585355",
@@ -8430,6 +8498,23 @@
     "3": 0,
     "4": 0,
     "5": 16
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18789000876",
+   "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18789000876",
+   "sku": "LN097",
+   "avg": 5.0,
+   "reviews": 17,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
    },
    "salesBand": "0"
   },
