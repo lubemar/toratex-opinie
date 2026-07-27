@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T10:35:12Z",
+ "updated": "2026-07-27T13:35:16Z",
  "reviews": [
   {
    "id": "6a61bf34e1e12f40d9475f98",
@@ -433,6 +433,22 @@
    "sku": "LN028",
    "ean": "",
    "firstSeen": "2026-07-09T18:49:30Z"
+  },
+  {
+   "id": "6a4f7eecad80ffe263b0f231",
+   "offerId": "17508413425",
+   "offerName": "KAPCIE papcie BAMBOSZE klapki PREMIUM TWARDA podeszwa 35-38",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17508413425",
+   "rating": 5.0,
+   "content": "Bardzo solidne jak na tą cenę.",
+   "author": "C...5",
+   "date": "2026-07-09T10:58:52.457Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN125",
+   "ean": "",
+   "firstSeen": "2026-07-27T13:35:16Z"
   },
   {
    "id": "6a4f7618ad80ffe263b0ee8e",
