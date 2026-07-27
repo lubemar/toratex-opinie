@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T06:57:15Z",
+ "updated": "2026-07-27T10:35:13Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1444,7 +1444,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18499912149",
@@ -2549,7 +2549,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034341354",
@@ -7347,7 +7347,7 @@
   },
   {
    "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1300g Antyalergiczna Gruba Wysoka Jakość",
+   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256249740",
    "sku": "LN099",
@@ -7703,23 +7703,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "18154623891",
    "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
    "shop": "toratex_pl",
@@ -7837,6 +7820,23 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "18253512780",
@@ -8438,7 +8438,7 @@
    "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649443987",
-   "sku": "LN092 SUPREME",
+   "sku": "LN092",
    "avg": 4.76,
    "reviews": 17,
    "dist": {
@@ -8455,7 +8455,7 @@
    "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17637712571",
-   "sku": "LN092 SUPREME",
+   "sku": "LN092",
    "avg": 4.76,
    "reviews": 17,
    "dist": {
@@ -8941,7 +8941,7 @@
     "4": 1,
     "5": 29
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003245395",
