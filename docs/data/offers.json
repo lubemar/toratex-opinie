@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T13:43:09Z",
+ "updated": "2026-07-28T16:01:06Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2705,23 +2705,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17930878341",
-   "name": "Materac 200x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17930878341",
-   "sku": "MD6",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17871702301",
    "name": "Materac 120x200 cm Twardy H5 Sprężynowy kieszeniowy z Topperem TORA 30 cm",
    "shop": "toratex_pl",
@@ -4937,6 +4920,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17943063136",
    "sku": "MP2",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17930878341",
+   "name": "Materac 200x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17930878341",
+   "sku": "MD6",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -7805,23 +7805,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "18253512780",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
    "shop": "tora_official",
@@ -7922,6 +7905,23 @@
     "5": 10
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17770335698",
@@ -8380,7 +8380,7 @@
     "4": 0,
     "5": 16
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17220075486",
@@ -8553,57 +8553,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18256405995",
-   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256405995",
-   "sku": "LN093",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649306642",
-   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649306642",
-   "sku": "LN093",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "50-99"
-  },
-  {
-   "offerId": "17215776241",
-   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215776241",
-   "sku": "LN093",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18188079725",
    "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Miękki SPA Hotelowy",
    "shop": "tora_official",
@@ -8681,6 +8630,57 @@
    "reviews": 19,
    "dist": {
     "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18256405995",
+   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256405995",
+   "sku": "LN093",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649306642",
+   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "sku": "LN093",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "50-99"
+  },
+  {
+   "offerId": "17215776241",
+   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215776241",
+   "sku": "LN093",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
@@ -8975,7 +8975,7 @@
     "4": 2,
     "5": 40
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668277180",
@@ -9145,7 +9145,7 @@
     "4": 4,
     "5": 64
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17393327828",
