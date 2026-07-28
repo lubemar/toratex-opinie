@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T09:33:08Z",
+ "updated": "2026-07-28T11:52:37Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7669,23 +7669,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18530089504",
-   "name": "Materac VELVET 160x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18530089504",
-   "sku": "MV4",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18354950161",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -9213,7 +9196,7 @@
     "4": 3,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17898747895",
@@ -9290,13 +9273,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.91,
-   "reviews": 75,
+   "reviews": 76,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 72
+    "5": 73
    },
    "salesBand": "100+"
   }
