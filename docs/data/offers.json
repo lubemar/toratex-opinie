@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T11:52:37Z",
+ "updated": "2026-07-28T13:43:09Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6836,23 +6836,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18529989637",
-   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529989637",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18358210515",
    "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
@@ -7023,23 +7006,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17945784134",
-   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17945784134",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17666054578",
    "name": "Szlafrok unisex M oddychający chłonny hotelowy z kieszeniami wiązany długi",
    "shop": "toratex_pl",
@@ -7123,6 +7089,23 @@
     "5": 4
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18529989637",
+   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529989637",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18527563402",
@@ -7225,6 +7208,23 @@
     "5": 5
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17945784134",
+   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17945784134",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17863333792",
