@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T09:35:43Z",
+ "updated": "2026-07-29T11:56:16Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6292,23 +6292,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18530098044",
-   "name": "Materac VELVET 200x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18530098044",
-   "sku": "MV6",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18364501983",
    "name": "Prześcieradło 220x250 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -6562,23 +6545,6 @@
     "5": 3
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17955527193",
-   "name": "Materac 200x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17955527193",
-   "sku": "MV6",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17943125982",
