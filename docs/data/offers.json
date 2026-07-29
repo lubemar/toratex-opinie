@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T06:26:34Z",
+ "updated": "2026-07-29T09:35:43Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2617,7 +2617,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17994251488",
@@ -5116,7 +5116,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521765968",
@@ -7295,23 +7295,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18527475001",
-   "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527475001",
-   "sku": "LN035B",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18364264225",
    "name": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki Hotelowy",
    "shop": "tora_official",
@@ -7395,23 +7378,6 @@
     "5": 6
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18457156099",
-   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18457156099",
-   "sku": "LN035B",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18034680307",
@@ -7584,6 +7550,40 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18527475001",
+   "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527475001",
+   "sku": "LN035B",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18457156099",
+   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18457156099",
+   "sku": "LN035B",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18118559909",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
    "shop": "toratex_pl",
@@ -7598,7 +7598,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17626682772",
@@ -9060,7 +9060,7 @@
     "4": 2,
     "5": 59
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17508413425",
