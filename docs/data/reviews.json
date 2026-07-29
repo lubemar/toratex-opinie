@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T11:56:16Z",
+ "updated": "2026-07-29T13:48:58Z",
  "reviews": [
   {
    "id": "6a68bcb06bca205217d2fb54",
@@ -417,6 +417,22 @@
    "sku": "",
    "ean": "",
    "firstSeen": "2026-07-14T16:10:59Z"
+  },
+  {
+   "id": "6a5187fd6da4b58a0d5f8522",
+   "offerId": "18587705200",
+   "offerName": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "rating": 5.0,
+   "content": "Świetna poduszka, dobra gramatura. Kupowałem już poduszki do airbnb od 6 sprzedających na allegro i żadna nie równa się z tymi poduszkami.",
+   "author": "w...l",
+   "date": "2026-07-11T00:02:05.456Z",
+   "pros": "Gramatura",
+   "cons": "",
+   "sku": "LN096",
+   "ean": "",
+   "firstSeen": "2026-07-29T13:48:58Z"
   },
   {
    "id": "6a50a10aad80ffe263b1402c",

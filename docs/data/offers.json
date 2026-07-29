@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T11:56:16Z",
+ "updated": "2026-07-29T13:48:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7312,23 +7312,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18521675712",
    "name": "Pokrowiec OCHRANIACZ na materac 160x200x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -7531,6 +7514,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18457156099",
@@ -9154,13 +9154,13 @@
    "url": "https://allegro.pl/oferta/17898750810",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 71,
+   "reviews": 72,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 68
+    "5": 69
    },
    "salesBand": "50-99"
   },
@@ -9171,13 +9171,13 @@
    "url": "https://allegro.pl/oferta/17898747895",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 71,
+   "reviews": 72,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 68
+    "5": 69
    },
    "salesBand": "0"
   },
@@ -9188,13 +9188,13 @@
    "url": "https://allegro.pl/oferta/17899261156",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 71,
+   "reviews": 72,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 68
+    "5": 69
    },
    "salesBand": "1-9"
   },
@@ -9205,13 +9205,13 @@
    "url": "https://allegro.pl/oferta/17899259297",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 71,
+   "reviews": 72,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 68
+    "5": 69
    },
    "salesBand": "10-49"
   },
@@ -9222,13 +9222,13 @@
    "url": "https://allegro.pl/oferta/17899257378",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 71,
+   "reviews": 72,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 68
+    "5": 69
    },
    "salesBand": "0"
   },
