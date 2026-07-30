@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T15:46:48Z",
+ "updated": "2026-07-30T17:19:21Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3929,23 +3929,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357334870",
-   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357334870",
-   "sku": "MTP4",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18357323015",
    "name": "Materac 120x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -4631,23 +4614,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034867111",
    "sku": "MT0",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034816945",
-   "name": "Materac 160x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034816945",
-   "sku": "MTP4",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5680,6 +5646,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357334870",
+   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357334870",
+   "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18354920344",
    "name": "Materac 160x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -5865,6 +5848,23 @@
     "5": 2
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18034816945",
+   "name": "Materac 160x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034816945",
+   "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034685396",
