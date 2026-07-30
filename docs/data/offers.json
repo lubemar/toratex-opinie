@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T17:19:21Z",
+ "updated": "2026-07-30T19:11:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -466,23 +466,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18723884337",
    "sku": "LN073",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18723828816",
-   "name": "Poszwa 140x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18723828816",
-   "sku": "LN248",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -8754,7 +8737,7 @@
     "4": 2,
     "5": 22
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "16179377397",
