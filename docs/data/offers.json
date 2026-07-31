@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T19:11:52Z",
+ "updated": "2026-07-31T06:40:34Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5969,23 +5969,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17780718452",
-   "name": "Pokrowiec na materac 90x200 ochraniacz WODOODPORNY nakładka pikowana",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17780718452",
-   "sku": "LN173",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17736819859",
    "name": "Prześcieradło bez gumki 90x200 tradycyjne białe hotelowe 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -6547,6 +6530,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17780718452",
+   "name": "Pokrowiec na materac 90x200 ochraniacz WODOODPORNY nakładka pikowana",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17780718452",
+   "sku": "LN173",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17777505702",
    "name": "Poszwa na kołdrę 160x200 hotelowa jakość trwała komfortowa w użytkowaniu",
    "shop": "toratex_pl",
@@ -6782,7 +6782,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18357698062",
@@ -8601,7 +8601,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17215776241",
@@ -9205,13 +9205,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.91,
-   "reviews": 76,
+   "reviews": 77,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 73
+    "5": 74
    },
    "salesBand": "100+"
   }
