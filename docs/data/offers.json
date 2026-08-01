@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T19:10:25Z",
+ "updated": "2026-08-01T06:23:19Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7057,23 +7057,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18518115919",
-   "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18518115919",
-   "sku": "MR1",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18444718046",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -7159,23 +7142,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17863333792",
-   "name": "Materac 90x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17863333792",
-   "sku": "MR1",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17814933003",
    "name": "Pościel 200x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
    "shop": "toratex_pl",
@@ -7223,6 +7189,23 @@
     "3": 0,
     "4": 0,
     "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18518115919",
+   "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18518115919",
+   "sku": "MR1",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
    },
    "salesBand": "0"
   },
@@ -7293,6 +7276,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17863333792",
+   "name": "Materac 90x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17863333792",
+   "sku": "MR1",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17755988156",
@@ -8575,14 +8575,14 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256405995",
    "sku": "LN093",
-   "avg": 4.8,
-   "reviews": 20,
+   "avg": 4.81,
+   "reviews": 21,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 19
+    "5": 20
    },
    "salesBand": "1-9"
   },
@@ -8592,14 +8592,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649306642",
    "sku": "LN093",
-   "avg": 4.8,
-   "reviews": 20,
+   "avg": 4.81,
+   "reviews": 21,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 19
+    "5": 20
    },
    "salesBand": "50-99"
   },
@@ -8609,14 +8609,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17215776241",
    "sku": "LN093",
-   "avg": 4.8,
-   "reviews": 20,
+   "avg": 4.81,
+   "reviews": 21,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 19
+    "5": 20
    },
    "salesBand": "0"
   },
