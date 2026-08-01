@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T06:23:19Z",
+ "updated": "2026-08-01T09:02:19Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5099,7 +5099,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17332683214",
@@ -6263,23 +6263,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18358004973",
    "sku": "MSP3",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18357995866",
-   "name": "Materac 120x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357995866",
-   "sku": "MSP2",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -9077,7 +9060,7 @@
     "4": 4,
     "5": 64
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17393327828",
