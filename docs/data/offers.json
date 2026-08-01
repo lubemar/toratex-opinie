@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T11:57:35Z",
+ "updated": "2026-08-01T13:04:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6054,23 +6054,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17533267458",
    "name": "RĘCZNIK 50x100 KĄPIELOWY PREMIUM CHŁONNY DUŻY BAWEŁNA SPA HOTELOWY 510GSM",
    "shop": "TORATEX",
@@ -6698,6 +6681,23 @@
     "5": 3
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 4.0,
+   "reviews": 4,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18618276010",
