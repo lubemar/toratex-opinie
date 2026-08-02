@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T06:28:17Z",
+ "updated": "2026-08-02T09:07:50Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6360,23 +6360,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18075691511",
-   "name": "Prześcieradło z gumką 200x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18075691511",
-   "sku": "LN186",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18075645076",
    "name": "Prześcieradło z gumką 140x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -6841,6 +6824,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075755413",
    "sku": "LN007",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18075691511",
+   "name": "Prześcieradło z gumką 200x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075691511",
+   "sku": "LN186",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
