@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T10:36:43Z",
+ "updated": "2026-08-03T13:34:36Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -84,7 +84,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358219089",
@@ -296,6 +296,57 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18813609780",
+   "name": "Kołdra 160x200 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18813609780",
+   "sku": "LN01KPG",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18803958066",
+   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18803958066",
+   "sku": "LN101B",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18803864962",
+   "name": "Kołdra 200x200 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18803864962",
+   "sku": "LN025B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -5677,7 +5728,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18743965988",
@@ -7649,7 +7700,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17665514390",
