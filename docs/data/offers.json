@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T16:16:12Z",
+ "updated": "2026-08-03T18:45:46Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7448,40 +7448,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18357646068",
-   "name": "Materac 90x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 stref ANTYALERGICZNY",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357646068",
-   "sku": "MS1",
-   "avg": 4.86,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18071341442",
-   "name": "Materac 90x200 Średnio twardy H3 Sprężynowy Kieszeniowy Antyalergiczny 20cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18071341442",
-   "sku": "MS1",
-   "avg": 4.86,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18587705200",
    "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
    "shop": "toratex_pl",
@@ -7601,6 +7567,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357646068",
+   "name": "Materac 90x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 stref ANTYALERGICZNY",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357646068",
+   "sku": "MS1",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18457156099",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
    "shop": "toratex_pl",
@@ -7618,6 +7601,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18071341442",
+   "name": "Materac 90x200 Średnio twardy H3 Sprężynowy Kieszeniowy Antyalergiczny 20cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18071341442",
+   "sku": "MS1",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18031565537",
    "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
    "shop": "toratex_pl",
@@ -7631,23 +7631,6 @@
     "3": 0,
     "4": 1,
     "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18354950161",
-   "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18354950161",
-   "sku": "MT1",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
    },
    "salesBand": "1-9"
   },
@@ -7684,23 +7667,6 @@
     "5": 8
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18034882348",
-   "name": "Materac 90x200 cm TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034882348",
-   "sku": "MT1",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17665514390",
@@ -7767,6 +7733,40 @@
     "3": 0,
     "4": 1,
     "5": 8
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18354950161",
+   "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18354950161",
+   "sku": "MT1",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034882348",
+   "name": "Materac 90x200 cm TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034882348",
+   "sku": "MT1",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
    },
    "salesBand": "1-9"
   },
@@ -7941,23 +7941,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17817853435",
-   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817853435",
-   "sku": "LN196",
-   "avg": 4.91,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 10
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17755357163",
    "name": "Kołdra 140x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
    "shop": "toratex_pl",
@@ -8075,6 +8058,23 @@
     "5": 11
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17817853435",
+   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817853435",
+   "sku": "LN196",
+   "avg": 4.92,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 11
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17615601541",
@@ -8830,14 +8830,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17739542007",
    "sku": "LN009",
-   "avg": 4.89,
-   "reviews": 28,
+   "avg": 4.9,
+   "reviews": 29,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 25
+    "5": 26
    },
    "salesBand": "10-49"
   },
