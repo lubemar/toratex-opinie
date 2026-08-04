@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T16:12:09Z",
+ "updated": "2026-08-04T18:26:07Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7856,23 +7856,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17770335698",
    "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
    "shop": "toratex_pl",
@@ -8024,6 +8007,23 @@
     "5": 11
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17993397850",
@@ -8626,14 +8626,14 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256405995",
    "sku": "LN093",
-   "avg": 4.81,
-   "reviews": 21,
+   "avg": 4.82,
+   "reviews": 22,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "1-9"
   },
@@ -8643,14 +8643,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649306642",
    "sku": "LN093",
-   "avg": 4.81,
-   "reviews": 21,
+   "avg": 4.82,
+   "reviews": 22,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "50-99"
   },
@@ -8660,14 +8660,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17215776241",
    "sku": "LN093",
-   "avg": 4.81,
-   "reviews": 21,
+   "avg": 4.82,
+   "reviews": 22,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "1-9"
   },
