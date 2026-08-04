@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T09:35:31Z",
+ "updated": "2026-08-04T11:59:54Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -308,6 +308,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18816008438",
+   "name": "Kołdra 260x240 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18816008438",
+   "sku": "LN03KPG",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18815997717",
+   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18815997717",
+   "sku": "LN02KPG",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18815917342",
    "name": "Poszewka na poduszkę 40x40 100% bawełna ADAMASZEK jasiek paski 2 cm TORA",
    "shop": "toratex_pl",
@@ -594,7 +628,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18602647349",
@@ -4776,7 +4810,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18031586195",
@@ -5634,23 +5668,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18527078837",
    "sku": "LN133",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18358201565",
-   "name": "Materac 120x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358201565",
-   "sku": "MCP2",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -8125,7 +8142,7 @@
     "4": 1,
     "5": 11
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003552687",
@@ -8635,7 +8652,7 @@
     "4": 0,
     "5": 20
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17215776241",
@@ -8652,7 +8669,7 @@
     "4": 0,
     "5": 20
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18260334434",
@@ -9238,10 +9255,10 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
-   "avg": 4.91,
-   "reviews": 77,
+   "avg": 4.86,
+   "reviews": 78,
    "dist": {
-    "1": 1,
+    "1": 2,
     "2": 0,
     "3": 1,
     "4": 1,
