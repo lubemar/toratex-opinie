@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T06:22:14Z",
+ "updated": "2026-08-05T09:32:24Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4405,23 +4405,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18445304695",
    "name": "Koszo popielnica ZEWNĘTRZNA z granulatem STAL NIERDZEWNA 80L premium TORA",
    "shop": "toratex_pl",
@@ -5850,6 +5833,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18141905984",
    "name": "Pościel bawełniana komplet 140X200CM + 2 POSZEWKI 50X70CM hotelowa troczki",
    "shop": "toratex_pl",
@@ -6493,7 +6493,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18031483913",
@@ -8570,23 +8570,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 19,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17615651795",
    "name": "Ręcznik kąpielowy 50x100 plażowy 100% BAWEŁNA mega gruby MIĘKKI trwały SPA",
    "shop": "toratex_pl",
@@ -8619,6 +8602,23 @@
     "5": 19
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 20,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
