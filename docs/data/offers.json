@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T09:32:24Z",
+ "updated": "2026-08-05T11:53:43Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1376,7 +1376,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18505429968",
@@ -1716,7 +1716,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18444546798",
@@ -8094,23 +8094,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17817853435",
-   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817853435",
-   "sku": "LN196",
-   "avg": 4.92,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 11
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17615601541",
    "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna TRWAŁY SPA hotelowy 500",
    "shop": "toratex_pl",
@@ -8177,6 +8160,23 @@
     "5": 12
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17817853435",
+   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817853435",
+   "sku": "LN196",
+   "avg": 4.92,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 12
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18529976226",
@@ -8950,13 +8950,13 @@
    "url": "https://allegro.pl/oferta/18364435450",
    "sku": "LN033",
    "avg": 4.95,
-   "reviews": 42,
+   "reviews": 43,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 40
+    "5": 41
    },
    "salesBand": "10-49"
   },
@@ -8967,13 +8967,13 @@
    "url": "https://allegro.pl/oferta/17668277180",
    "sku": "LN033",
    "avg": 4.95,
-   "reviews": 42,
+   "reviews": 43,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 40
+    "5": 41
    },
    "salesBand": "1-9"
   },
@@ -8984,13 +8984,13 @@
    "url": "https://allegro.pl/oferta/17602949491",
    "sku": "LN033",
    "avg": 4.95,
-   "reviews": 42,
+   "reviews": 43,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 40
+    "5": 41
    },
    "salesBand": "100+"
   },
