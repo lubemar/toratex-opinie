@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T11:53:43Z",
+ "updated": "2026-08-05T13:46:46Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8043,6 +8043,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18489039850",
+   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel L SPA premium",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489039850",
+   "sku": "LN238L",
+   "avg": 4.83,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 10
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18489030107",
    "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel M SPA premium",
    "shop": "toratex_pl",
@@ -8907,7 +8924,7 @@
     "4": 1,
     "5": 29
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "16003245395",
@@ -9256,13 +9273,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.86,
-   "reviews": 78,
+   "reviews": 79,
    "dist": {
     "1": 2,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 74
+    "5": 75
    },
    "salesBand": "100+"
   }
