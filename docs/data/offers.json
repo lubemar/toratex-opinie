@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T19:19:17Z",
+ "updated": "2026-08-06T06:26:17Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7992,23 +7992,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18615114100",
-   "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18615114100",
-   "sku": "LN179",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18466527307",
    "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
    "shop": "toratex_pl",
@@ -8024,23 +8007,6 @@
     "5": 11
    },
    "salesBand": "100+"
-  },
-  {
-   "offerId": "17993397850",
-   "name": "Kołdra 240x260 letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17993397850",
-   "sku": "LN179",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18489030107",
@@ -8160,6 +8126,40 @@
     "5": 12
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18615114100",
+   "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18615114100",
+   "sku": "LN179",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17993397850",
+   "name": "Kołdra 240x260 letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17993397850",
+   "sku": "LN179",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17817853435",
@@ -9111,7 +9111,7 @@
     "4": 4,
     "5": 64
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17533061215",
