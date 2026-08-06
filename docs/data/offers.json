@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T11:59:09Z",
+ "updated": "2026-08-06T13:58:33Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7499,23 +7499,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18521675712",
-   "name": "Pokrowiec OCHRANIACZ na materac 160x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521675712",
-   "sku": "LN239L",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18118559909",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
    "shop": "toratex_pl",
@@ -7667,6 +7650,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18521675712",
+   "name": "Pokrowiec OCHRANIACZ na materac 160x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521675712",
+   "sku": "LN239L",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18154623891",
