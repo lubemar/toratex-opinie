@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T15:46:42Z",
+ "updated": "2026-08-07T16:44:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7411,7 +7411,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17755988156",
@@ -9239,13 +9239,13 @@
    "url": "https://allegro.pl/oferta/17898750810",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 69
+    "5": 70
    },
    "salesBand": "10-49"
   },
@@ -9256,13 +9256,13 @@
    "url": "https://allegro.pl/oferta/17898747895",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 69
+    "5": 70
    },
    "salesBand": "0"
   },
@@ -9273,13 +9273,13 @@
    "url": "https://allegro.pl/oferta/17899261156",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 69
+    "5": 70
    },
    "salesBand": "1-9"
   },
@@ -9290,13 +9290,13 @@
    "url": "https://allegro.pl/oferta/17899259297",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 69
+    "5": 70
    },
    "salesBand": "10-49"
   },
@@ -9307,13 +9307,13 @@
    "url": "https://allegro.pl/oferta/17899257378",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 69
+    "5": 70
    },
    "salesBand": "0"
   },

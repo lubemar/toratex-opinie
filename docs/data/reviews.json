@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T15:46:42Z",
+ "updated": "2026-08-07T16:44:38Z",
  "reviews": [
   {
    "id": "6a759c5ec43fb356434452fe",
@@ -192,6 +192,22 @@
    "sku": "MTP4",
    "ean": "",
    "firstSeen": "2026-07-30T17:19:21Z"
+  },
+  {
+   "id": "6a69fcc6584545a9356750a4",
+   "offerId": "17899261156",
+   "offerName": "KOSZO-POPIELNICA 30L KOSZ NA ŚMIECI POPIELNICA POPIELNICZKA Z WIADERKIEM",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17899261156",
+   "rating": 5.0,
+   "content": "solidne wykonanie, odpowiednie rozmiary, super",
+   "author": "i...h",
+   "date": "2026-07-29T13:14:46.473Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN001KP",
+   "ean": "",
+   "firstSeen": "2026-08-07T16:44:38Z"
   },
   {
    "id": "6a68bcb06bca205217d2fb54",
