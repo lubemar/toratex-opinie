@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T10:45:25Z",
+ "updated": "2026-08-07T11:41:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -296,6 +296,23 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18823861784",
+   "name": "Komplet pościeli 180x200 2x50x70 ZESTAW adamaszek 100% BAWEŁNA koperta TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18823861784",
+   "sku": "LN192",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1223,7 +1240,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18521494603",
@@ -3793,23 +3810,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18823861784",
-   "name": "Komplet pościeli 180x200 2x50x70 ZESTAW adamaszek 100% BAWEŁNA koperta TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18823861784",
-   "sku": "LN192",
-   "avg": 4.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17943185385",
    "name": "Materac 180x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 z topperem TORA",
    "shop": "toratex_pl",
@@ -6307,23 +6307,6 @@
     "5": 2
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "16360973112",
-   "name": "POŚCIEL 200X200 KOMPLET + 2 POSZEWKI 70X80 BAWEŁNIANA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16360973112",
-   "sku": "LN047 SUPREME",
-   "avg": 3.67,
-   "reviews": 3,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18006705428",
