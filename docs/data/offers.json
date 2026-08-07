@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T07:03:38Z",
+ "updated": "2026-08-07T08:49:07Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1316,23 +1316,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505455735",
    "sku": "LN223B",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18505439489",
-   "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18505439489",
-   "sku": "LN222B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4257,6 +4240,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18521487700",
    "sku": "MTP0",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18505439489",
+   "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18505439489",
+   "sku": "LN222B",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -8771,7 +8771,7 @@
     "4": 2,
     "5": 22
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "16179377397",
