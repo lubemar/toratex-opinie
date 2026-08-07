@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T11:41:27Z",
+ "updated": "2026-08-07T12:44:08Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -296,6 +296,40 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18824172660",
+   "name": "Komplet pościeli 200x220 2 x 50x70 100% bawełna HOTELOWA zamek TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18824172660",
+   "sku": "LN168",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18824131559",
+   "name": "Komplet pościeli 200x200+ 2 POSZEWKI 70X80 100% bawełna HOTELOWA zamek TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18824131559",
+   "sku": "LN047",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -8162,6 +8196,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17993397850",
    "name": "Kołdra 240x260 letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -9196,7 +9247,7 @@
     "4": 3,
     "5": 69
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17898747895",
