@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T14:24:54Z",
+ "updated": "2026-08-08T15:23:15Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7125,23 +7125,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18527563402",
-   "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527563402",
-   "sku": "LN033L-zestaw",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18444718046",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -7181,23 +7164,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18486017245",
    "sku": "LN038B",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18459736436",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18459736436",
-   "sku": "LN033L-zestaw",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7312,6 +7278,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18527563402",
+   "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527563402",
+   "sku": "LN033L-zestaw",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18518115919",
    "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -7378,6 +7361,23 @@
     "5": 6
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18459736436",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18459736436",
+   "sku": "LN033L-zestaw",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18034680307",
