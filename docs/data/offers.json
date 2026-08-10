@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T05:18:45Z",
+ "updated": "2026-08-10T07:15:47Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8689,23 +8689,6 @@
    "salesBand": "100+"
   },
   {
-   "offerId": "18260334434",
-   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18260334434",
-   "sku": "LN018",
-   "avg": 4.95,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 21
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17705687515",
    "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
    "shop": "toratex_pl",
@@ -8723,38 +8706,21 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17702908317",
-   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702908317",
+   "offerId": "18260334434",
+   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18260334434",
    "sku": "LN018",
-   "avg": 4.95,
-   "reviews": 22,
+   "avg": 4.96,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 21
+    "5": 22
    },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "16003362238",
-   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003362238",
-   "sku": "LN018 CLASSIC",
-   "avg": 4.95,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 21
-   },
-   "salesBand": "1-9"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17931116022",
@@ -8772,6 +8738,40 @@
     "5": 22
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17702908317",
+   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702908317",
+   "sku": "LN018",
+   "avg": 4.96,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 22
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "16003362238",
+   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003362238",
+   "sku": "LN018 CLASSIC",
+   "avg": 4.96,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 22
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18699913720",
