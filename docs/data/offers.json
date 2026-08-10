@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T17:50:08Z",
+ "updated": "2026-08-10T18:45:47Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6020,23 +6020,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18034359370",
-   "name": "Materac 120x200 średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034359370",
-   "sku": "MCP2",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17993906139",
    "name": "Pokrowiec na materac 180x200 ochraniacz nakładka wodoodporna pikowana",
    "shop": "toratex_pl",
@@ -6528,6 +6511,23 @@
     "5": 3
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034359370",
+   "name": "Materac 120x200 średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034359370",
+   "sku": "MCP2",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18031483913",
@@ -9298,7 +9298,7 @@
     "4": 3,
     "5": 70
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17899257378",
