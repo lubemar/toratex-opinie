@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T14:15:54Z",
+ "updated": "2026-08-10T15:53:45Z",
  "reviews": [
   {
    "id": "6a773d52966336885e4d67aa",
@@ -48,6 +48,22 @@
    "sku": "LN222B",
    "ean": "",
    "firstSeen": "2026-08-07T08:49:07Z"
+  },
+  {
+   "id": "6a731e96de680b4c7255baab",
+   "offerId": "17602949491",
+   "offerName": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA biały",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17602949491",
+   "rating": 5.0,
+   "content": "Ręczniczki są bardzo ładne, świetna jakość, mięsiste, idealny rozmiar do twarzy :)",
+   "author": "s...a",
+   "date": "2026-08-05T11:29:26.633Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN033",
+   "ean": "",
+   "firstSeen": "2026-08-10T15:53:45Z"
   },
   {
    "id": "6a730b1c99b88931cd3e40c2",
