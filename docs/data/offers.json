@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T06:51:41Z",
+ "updated": "2026-08-11T08:07:17Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -493,23 +493,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18788951911",
-   "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18788951911",
-   "sku": "LN003",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18741096955",
@@ -4116,6 +4099,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18788951911",
+   "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788951911",
+   "sku": "LN003",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18718015124",
    "name": "Materac 180x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
@@ -7207,7 +7207,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17811949361",
