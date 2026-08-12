@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T10:54:20Z",
+ "updated": "2026-08-12T11:42:34Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6003,23 +6003,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17993906139",
-   "name": "Pokrowiec na materac 180x200 ochraniacz nakładka wodoodporna pikowana",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17993906139",
-   "sku": "LN176",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17942947468",
    "name": "Materac 90x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
    "shop": "toratex_pl",
@@ -6545,6 +6528,23 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17993906139",
+   "name": "Pokrowiec na materac 180x200 ochraniacz nakładka wodoodporna pikowana",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17993906139",
+   "sku": "LN176",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17943125982",
@@ -7394,7 +7394,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17755988156",
@@ -8516,7 +8516,7 @@
     "4": 0,
     "5": 17
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17736860426",
