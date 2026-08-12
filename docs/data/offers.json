@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T18:50:49Z",
+ "updated": "2026-08-12T05:27:06Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1308,7 +1308,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18505544190",
@@ -7649,7 +7649,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18071341442",
@@ -7856,11 +7856,62 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18744074975",
+   "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna ZESTAW hotelowy 10 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18744074975",
+   "sku": "LN036",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17948396744",
    "name": "Materac 90x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17948396744",
    "sku": "MV1",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17615601541",
+   "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna TRWAŁY SPA hotelowy 500",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17615601541",
+   "sku": "LN036",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17533083897",
+   "name": "Ręcznik KĄPIELOWY duży RĘCZNIK plażowy 70x140 BAWEŁNA SPA HOTELOWY chłonny",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17533083897",
+   "sku": "ZEST-LN036-2",
    "avg": 4.9,
    "reviews": 10,
    "dist": {
@@ -8075,74 +8126,6 @@
     "5": 10
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18744074975",
-   "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna ZESTAW hotelowy 10 szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18744074975",
-   "sku": "LN036",
-   "avg": 4.92,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 11
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17615601541",
-   "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna TRWAŁY SPA hotelowy 500",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17615601541",
-   "sku": "LN036",
-   "avg": 4.92,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 11
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17533083897",
-   "name": "Ręcznik KĄPIELOWY duży RĘCZNIK plażowy 70x140 BAWEŁNA SPA HOTELOWY chłonny",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17533083897",
-   "sku": "ZEST-LN036-2",
-   "avg": 4.92,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 11
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "16003552687",
-   "name": "RĘCZNIK 70x140 KĄPIELOWY DUŻY PLAŻOWY BAWEŁNA SPA HOTELOWY SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003552687",
-   "sku": "LN036 SIMPLE ",
-   "avg": 4.92,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 11
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18527105244",
@@ -8686,7 +8669,7 @@
     "4": 1,
     "5": 21
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18260334434",
@@ -8840,23 +8823,6 @@
     "5": 24
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "16179377397",
-   "name": "POKROWIEC NA MATERAC 90X200 NAKŁADKA OCHRANIACZ WODOODPORNY OSŁONA BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16179377397",
-   "sku": "LN143",
-   "avg": 4.88,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 1,
-    "3": 0,
-    "4": 0,
-    "5": 24
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18256894763",
@@ -9111,7 +9077,7 @@
     "4": 2,
     "5": 59
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17235708456",
@@ -9307,13 +9273,13 @@
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
    "avg": 4.87,
-   "reviews": 82,
+   "reviews": 83,
    "dist": {
     "1": 2,
     "2": 0,
     "3": 1,
     "4": 1,
-    "5": 78
+    "5": 79
    },
    "salesBand": "100+"
   }
