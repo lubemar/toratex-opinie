@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T17:52:23Z",
+ "updated": "2026-08-13T18:52:18Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8162,23 +8162,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17993397850",
    "name": "Kołdra 240x260 letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -8228,6 +8211,23 @@
     "5": 13
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 5.0,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17871717400",
@@ -8652,7 +8652,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17705687515",
