@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T12:49:18Z",
+ "updated": "2026-08-13T14:18:15Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4861,7 +4861,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18013717234",
@@ -7057,23 +7057,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 4.2,
-   "reviews": 5,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17931151326",
    "name": "Kapcie pantofle domowe twarda podeszwa odporna na ścieranie 40-43",
    "shop": "toratex_pl",
@@ -7259,6 +7242,23 @@
     "5": 5
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 4.33,
+   "reviews": 6,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18527563402",
