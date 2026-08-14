@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T07:12:12Z",
+ "updated": "2026-08-14T09:01:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1241,23 +1241,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18521670335",
-   "name": "Pokrowiec OCHRANIACZ na materac 140x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521670335",
-   "sku": "LN239M",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18521494603",
@@ -4301,6 +4284,23 @@
     "5": 1
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18521670335",
+   "name": "Pokrowiec OCHRANIACZ na materac 140x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521670335",
+   "sku": "LN239M",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18521487700",
@@ -9267,21 +9267,21 @@
    "salesBand": "100+"
   },
   {
-   "offerId": "18819015512",
-   "name": "Ładowarka Apple ZASILACZ USB typ C do Apple 3000 mA 20W biały SZYBKA",
+   "offerId": "18841766554",
+   "name": "Słuchawki przewodowe douszne Apple EarPods (Lightning) białe MWTY3ZM/A",
    "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18819015512",
+   "url": "https://allegro.pl/oferta/18841766554",
    "sku": "",
-   "avg": 4.81,
-   "reviews": 3003,
+   "avg": 4.7,
+   "reviews": 771,
    "dist": {
-    "1": 96,
-    "2": 17,
-    "3": 27,
-    "4": 79,
-    "5": 2784
+    "1": 37,
+    "2": 6,
+    "3": 13,
+    "4": 41,
+    "5": 674
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   }
  ]
 }
