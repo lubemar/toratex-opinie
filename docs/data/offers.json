@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T17:46:21Z",
+ "updated": "2026-08-14T18:43:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5102,23 +5102,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17706281284",
-   "name": "Kołdra 200x200 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17706281284",
-   "sku": "LN025",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18738917440",
    "name": "Materac 180x200 Dwustronny H3 H4 Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "TORATEX",
@@ -5542,23 +5525,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "16179377956",
-   "name": "KOŁDRA 200X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16179377956",
-   "sku": "LN025",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "16005167544",
@@ -6071,6 +6037,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17706281284",
+   "name": "Kołdra 200x200 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17706281284",
+   "sku": "LN025",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17700930382",
    "name": "Kołdra 180x200 LETNIA hotelowa biała 100% BAWEŁNA miękka lekka SUBTELNA",
    "shop": "toratex_pl",
@@ -6239,6 +6222,23 @@
     "5": 2
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "16179377956",
+   "name": "KOŁDRA 200X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16179377956",
+   "sku": "LN025",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18057347746",
