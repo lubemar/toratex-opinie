@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T18:52:18Z",
+ "updated": "2026-08-14T05:27:54Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -390,7 +390,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18816008438",
@@ -2821,7 +2821,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17773637109",
@@ -4371,23 +4371,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18489156027",
-   "name": "Prześcieradło z gumką 160x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489156027",
-   "sku": "LN214",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18489142922",
    "name": "Prześcieradło z gumką 140x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
    "shop": "toratex_pl",
@@ -5814,6 +5797,23 @@
     "5": 2
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18489156027",
+   "name": "Prześcieradło z gumką 160x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489156027",
+   "sku": "LN214",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488887868",
@@ -7972,7 +7972,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16440523108",
@@ -8655,28 +8655,28 @@
    "salesBand": "100+"
   },
   {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.95,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 21
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17931116022",
    "sku": "LN089",
+   "avg": 4.96,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 22
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
    "avg": 4.96,
    "reviews": 23,
    "dist": {
