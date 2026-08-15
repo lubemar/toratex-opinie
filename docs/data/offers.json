@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T09:18:40Z",
+ "updated": "2026-08-15T10:17:01Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6836,23 +6836,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18357698062",
-   "name": "Materac 160x200 Kieszeniowy Sprężynowy Średnio Twardy Antyalergiczny",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357698062",
-   "sku": "MS4",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18788977600",
    "name": "Prześcieradło 180x200 z gumką HOTELOWE gładkie TORA",
    "shop": "toratex_pl",
@@ -6943,23 +6926,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034399556",
    "sku": "MCP4",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18032002215",
-   "name": "Materac 160x200 Średnio twardy H3 Sprężynowy Kieszeniowy Bawełna TORA 20 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18032002215",
-   "sku": "MS4",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7108,6 +7074,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18357698062",
+   "name": "Materac 160x200 Kieszeniowy Sprężynowy Średnio Twardy Antyalergiczny",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357698062",
+   "sku": "MS4",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18724257399",
    "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
    "shop": "toratex_pl",
@@ -7157,6 +7140,23 @@
     "5": 5
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18032002215",
+   "name": "Materac 160x200 Średnio twardy H3 Sprężynowy Kieszeniowy Bawełna TORA 20 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18032002215",
+   "sku": "MS4",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17945784134",
