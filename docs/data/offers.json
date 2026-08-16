@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T10:15:49Z",
+ "updated": "2026-08-16T11:13:59Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7924,40 +7924,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256566314",
-   "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256566314",
-   "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17770335698",
-   "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17770335698",
-   "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17700847628",
    "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
    "shop": "toratex_pl",
@@ -8075,6 +8041,40 @@
     "5": 10
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18256566314",
+   "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256566314",
+   "sku": "LN020",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17770335698",
+   "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17770335698",
+   "sku": "LN020",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18489030107",
