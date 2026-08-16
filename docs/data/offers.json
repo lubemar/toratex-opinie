@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T18:16:16Z",
+ "updated": "2026-08-16T04:28:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7329,23 +7329,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256249740",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18459736436",
    "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
    "shop": "toratex_pl",
@@ -7394,7 +7377,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17755988156",
@@ -7412,40 +7395,6 @@
     "5": 6
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649517391",
-   "name": "Poduszka 50x70 regulowana grubość i wysokość miękka puszysta komfort 1250g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649517391",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220034861",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "16179331733",
@@ -7516,6 +7465,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18256249740",
+   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256249740",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18587705200",
    "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
    "shop": "toratex_pl",
@@ -7550,6 +7516,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17649517391",
+   "name": "Poduszka 50x70 regulowana grubość i wysokość miękka puszysta komfort 1250g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17626682772",
    "name": "Kapcie damskie ZESTAW 10 szt. SPA 35–38 TRWAŁE pantofle z twardą podeszwą",
    "shop": "toratex_pl",
@@ -7565,6 +7548,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220034861",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220034861",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "15608258485",
@@ -8993,6 +8993,23 @@
     "5": 42
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "18845201115",
+   "name": "Słuchawki Apple LIGHTNING EarPods przewodowe z mikrofonem ORYGINALNE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18845201115",
+   "sku": "",
+   "avg": 4.74,
+   "reviews": 58,
+   "dist": {
+    "1": 3,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 53
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17668946883",
