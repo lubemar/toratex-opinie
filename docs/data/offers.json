@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T12:24:58Z",
+ "updated": "2026-08-17T13:35:48Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5881,7 +5881,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034887773",
@@ -8745,13 +8745,13 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256405995",
    "sku": "LN093",
-   "avg": 4.85,
-   "reviews": 26,
+   "avg": 4.81,
+   "reviews": 27,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
-    "4": 0,
+    "4": 1,
     "5": 25
    },
    "salesBand": "1-9"
@@ -8762,13 +8762,13 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649306642",
    "sku": "LN093",
-   "avg": 4.85,
-   "reviews": 26,
+   "avg": 4.81,
+   "reviews": 27,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
-    "4": 0,
+    "4": 1,
     "5": 25
    },
    "salesBand": "50-99"
@@ -8779,13 +8779,13 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17215776241",
    "sku": "LN093",
-   "avg": 4.85,
-   "reviews": 26,
+   "avg": 4.81,
+   "reviews": 27,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
-    "4": 0,
+    "4": 1,
     "5": 25
    },
    "salesBand": "1-9"
