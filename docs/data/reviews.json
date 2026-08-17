@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T06:36:00Z",
+ "updated": "2026-08-17T07:46:20Z",
  "reviews": [
   {
    "id": "6a819541c3795ed9522199ba",
@@ -866,6 +866,22 @@
    "sku": "LN125",
    "ean": "",
    "firstSeen": "2026-07-27T13:35:16Z"
+  },
+  {
+   "id": "6a4f7661e1e12f40d9429f0d",
+   "offerId": "17615562738",
+   "offerName": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna SPA hotelowy grubyTRWAŁY",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17615562738",
+   "rating": 4.0,
+   "content": "Miękki, puszysty, super wchłania wodę",
+   "author": "k...7",
+   "date": "2026-07-09T10:22:25.163Z",
+   "pros": "Miękki, puszysty",
+   "cons": "Po 10ciu praniach nadal kłaczy",
+   "sku": "LN037",
+   "ean": "",
+   "firstSeen": "2026-08-17T07:46:20Z"
   },
   {
    "id": "6a4f7618ad80ffe263b0ee8e",
