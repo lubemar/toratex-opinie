@@ -1,9 +1,9 @@
 {
- "lastRun": "2026-08-17T17:18:11Z",
+ "lastRun": "2026-08-17T18:24:04Z",
  "auth": {
   "tora_official": {
    "lastRotation": "2026-08-17T17:18:12Z",
-   "lastRefreshOk": "2026-08-17T17:18:12Z"
+   "lastRefreshOk": "2026-08-17T18:24:06Z"
   },
   "toratex_pl": {
    "lastRotation": "2026-08-17T16:16:00Z",
@@ -22,7 +22,7 @@
    "pct": 14.8
   }
  ],
- "lastSuccess": "2026-08-17T17:20:27Z",
+ "lastSuccess": "2026-08-17T18:24:31Z",
  "offersChecked": 545,
  "lastDeltas": 0,
  "lastNewReviews": 0,
