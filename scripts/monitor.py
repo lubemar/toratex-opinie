@@ -37,6 +37,7 @@ SHOPS = [
     {"key": "TORATEX", "secret_name": "ALLEGRO_REFRESH_TOKEN_BIURO"},
 ]
 
+PROJEKT = "OPINIE dashboard (Claude)"
 NEGATIVE_THRESHOLD = 3
 _RATING_DEBUGGED = False
 _OFFER_DEBUGGED = False
@@ -73,11 +74,23 @@ def log(msg):
 
 # ---------------------------------------------------------------- e-mail
 
-def send_email(subject, html):
+def send_email(subject, html, todo=None):
+    """todo = krotka instrukcja 'co masz zrobic' (HTML). Doklejana na koncu maila."""
+    subject = f"{PROJEKT} — {subject}"
     user, pwd, to = ENV("SMTP_USER"), ENV("SMTP_PASS"), ENV("ALERT_EMAIL")
     if not (user and pwd and to):
         log(f"MAIL POMINIĘTY (brak konfiguracji SMTP): {subject}")
         return False
+    repo = ENV("GH_REPO") or ENV("GITHUB_REPOSITORY") or "lubemar/toratex-opinie"
+    box = ("<div style=\"border:1px solid #e2e8f0;border-radius:8px;padding:12px;"
+           "margin-top:16px;background:#f8fafc;font-family:system-ui,sans-serif\">"
+           "<b>Co jest do zrobienia:</b><br>" + (todo or "Nic — to tylko informacja.") +
+           f"<div style='margin-top:10px;color:#64748b;font-size:12px'>"
+           f"Projekt: <b>{PROJEKT}</b> · monitoring opinii produktowych Allegro (3 sklepy).<br>"
+           f"Repo: https://github.com/{repo} · "
+           f"Uruchomienie ręczne: zakładka Actions → Monitor opinii Allegro → Run workflow."
+           f"</div></div>")
+    html = html + box
     msg = MIMEText(html, "html", "utf-8")
     msg["Subject"] = subject
     msg["From"] = user
@@ -109,23 +122,51 @@ def allegro_headers(token):
     }
 
 
-def rotate_secret(name, value):
-    """Zapisuje nowy refresh token jako sekret repo przez gh CLI (wymaga GH_PAT)."""
+def rotate_secret(name, value, shop_key=""):
+    """Zapisuje nowy refresh token jako sekret repo (gh CLI, wymaga GH_PAT).
+    KRYTYCZNE: Allegro uniewaznia stary token natychmiast po uzyciu. Jesli zapis
+    nowego zawiedzie, konto umiera przy nastepnym przebiegu. Dlatego: 3 proby,
+    a przy ostatecznej porazce - natychmiastowy alert mailowy."""
     repo = ENV("GH_REPO") or ENV("GITHUB_REPOSITORY") or ""
     if not ENV("GH_TOKEN"):
-        log(f"UWAGA: brak GH_PAT — nowy refresh token {name} NIE został zapisany. "
-            f"Rotacja nie działa, token umrze po ~3 miesiącach.")
+        log(f"UWAGA: brak GH_PAT — nowy refresh token {name} NIE został zapisany.")
+        send_email(
+            f"[KRYTYCZNE] Brak GH_PAT — rotacja tokenów nie działa ({shop_key})",
+            f"<p>Nowy refresh token dla konta <b>{shop_key}</b> nie mógł zostać zapisany, "
+            f"bo brakuje sekretu <code>GH_PAT</code>. Bez tego konto przestanie działać.</p>",
+            todo=(f"Dodaj sekret <code>GH_PAT</code> (GitHub → Settings → Secrets and variables "
+                  f"→ Actions). To Personal Access Token (classic) z uprawnieniem <b>repo</b>."))
         return False
-    try:
-        subprocess.run(
-            ["gh", "secret", "set", name, "--repo", repo, "--body", value],
-            check=True, capture_output=True, text=True, timeout=60,
-        )
-        log(f"Sekret zaktualizowany: {name}")
-        return True
-    except Exception as e:
-        log(f"UWAGA: aktualizacja sekretu {name} nie powiodła się: {e}")
-        return False
+    last_err = None
+    for attempt in range(1, 4):
+        try:
+            subprocess.run(
+                ["gh", "secret", "set", name, "--repo", repo, "--body", value],
+                check=True, capture_output=True, text=True, timeout=60,
+            )
+            log(f"Sekret zaktualizowany: {name}" + (f" (próba {attempt})" if attempt > 1 else ""))
+            return True
+        except Exception as e:
+            last_err = e
+            log(f"UWAGA: zapis sekretu {name} — próba {attempt}/3 nieudana: {e}")
+            if attempt < 3:
+                time.sleep(5 * attempt)
+    log(f"BŁĄD KRYTYCZNY: nie udało się zapisać sekretu {name} po 3 próbach.")
+    send_email(
+        f"[KRYTYCZNE] Nie zapisano nowego tokenu — konto {shop_key} padnie",
+        f"<p>Allegro wydało nowy refresh token dla konta <b>{shop_key}</b> i unieważniło stary, "
+        f"ale zapis nowego do sekretu <code>{name}</code> nie powiódł się (3 próby).</p>"
+        f"<pre>{last_err}</pre>"
+        f"<p><b>Skutek:</b> przy następnym przebiegu to konto zgłosi „Invalid refresh token”.</p>",
+        todo=(f"Wykonaj ponowną autoryzację tego konta:<br>"
+              f"1. Zaloguj się w przeglądarce na Allegro na konto <b>{shop_key}</b>.<br>"
+              f"2. W PowerShell: <code>cd C:\\Users\\lubem\\Desktop\\CLAUDIUSZ\\Kokpit_opinie</code> "
+              f"potem <code>python scripts\\authorize.py</code><br>"
+              f"3. Kliknij „Zezwól”, skopiuj refresh token.<br>"
+              f"4. GitHub → Settings → Secrets and variables → Actions → ołówek przy "
+              f"<code>{name}</code> → wklej → Update secret.<br>"
+              f"5. Actions → Run workflow (sprawdź, czy konto wraca)."))
+    return False
 
 
 def refresh_allegro_token(shop, meta):
@@ -146,7 +187,7 @@ def refresh_allegro_token(shop, meta):
     auth_meta = meta.setdefault("auth", {}).setdefault(shop["key"], {})
     new_rt = tok.get("refresh_token")
     if new_rt and new_rt != rt:
-        if rotate_secret(shop["secret_name"], new_rt):
+        if rotate_secret(shop["secret_name"], new_rt, shop["key"]):
             auth_meta["lastRotation"] = iso()
     else:
         auth_meta.setdefault("lastRotation", iso())
@@ -569,7 +610,8 @@ def alert_negative_reviews(new_reviews):
     send_email(
         f"[ALERT] Negatywna opinia na Allegro ({len(neg)})",
         f"<p>Nowe opinie z oceną ≤ {NEGATIVE_THRESHOLD}★:</p><ul>{rows}</ul>{dashboard_link()}",
-    )
+        todo=("Przeczytaj opinię i zdecyduj o reakcji (kontakt z klientem, poprawa opisu/produktu). "
+              "System nic więcej nie wymaga — to alert operacyjny, nie awaria."))
 
 
 def alert_token_failures(alerts):
@@ -578,11 +620,18 @@ def alert_token_failures(alerts):
         send_email(
             f"[AWARIA] Konto Allegro: {shop}",
             f"<p>Pobieranie danych konta <b>{shop}</b> nie powiodło się:</p>"
-            f"<pre>{err}</pre>"
-            f"<p>Jeśli błąd się powtórzy, wykonaj ponowną autoryzację: "
-            f"uruchom lokalnie <code>python scripts/authorize.py</code>, zaloguj się na konto "
-            f"<b>{shop}</b> i wklej nowy refresh token do sekretów repo (Settings → Secrets).</p>",
-        )
+            f"<pre>{str(err)[:300]}</pre>"
+            f"<p>Pozostałe konta działają dalej; dane tego konta są zamrożone do naprawy.</p>",
+            todo=("Jeśli w błędzie jest <b>Invalid refresh token</b> — wykonaj ponowną autoryzację:<br>"
+                  f"1. Zaloguj się w przeglądarce na Allegro na konto <b>{shop}</b>.<br>"
+                  "2. PowerShell: <code>cd C:\\Users\\lubem\\Desktop\\CLAUDIUSZ\\Kokpit_opinie</code>, "
+                  "potem <code>python scripts\\authorize.py</code><br>"
+                  "3. Kliknij „Zezwól”, skopiuj refresh token.<br>"
+                  "4. GitHub → Settings → Secrets and variables → Actions → ołówek przy właściwym "
+                  "<code>ALLEGRO_REFRESH_TOKEN_...</code> → wklej → Update secret.<br>"
+                  "5. Actions → Run workflow.<br><br>"
+                  "Jeśli to błąd sieci (Connection reset / timeout) — <b>nic nie rób</b>, "
+                  "system spróbuje ponownie przy kolejnym przebiegu."))
 
 
 def check_rotation_age(meta):
@@ -601,9 +650,11 @@ def check_rotation_age(meta):
                 f"[UWAGA] Token Allegro ({shop['key']}): rotacja nie działa od {age} dni",
                 f"<p>Refresh token konta <b>{shop['key']}</b> nie został zrotowany od <b>{age} dni</b>. "
                 f"Tokeny Allegro żyją ~3 miesiące — jeśli rotacja nie ruszy, system straci dostęp.</p>"
-                f"<p>Sprawdź: czy sekret GH_PAT jest ustawiony i ważny? "
-                f"W razie wątpliwości wykonaj ponowną autoryzację (scripts/authorize.py).</p>",
-            )
+                f"</p>",
+                todo=("1. Sprawdź sekret <code>GH_PAT</code> (GitHub → Settings → Developer settings "
+                      "→ Personal access tokens (classic)) — czy nie wygasł.<br>"
+                      f"2. Dla pewności wykonaj ponowną autoryzację konta <b>{shop['key']}</b> "
+                      "(<code>python scripts\\authorize.py</code>) i podmień sekret."))
             a["rotationWarnedAt"] = iso()
 
 
@@ -626,7 +677,9 @@ def check_apify_credit(meta):
                 f"<p>Zużycie: <b>${cur:.2f} / ${lim:.2f}</b>. Po wyczerpaniu kredytu "
                 f"system przełączy się na drugi token (jeśli ustawiony) albo Tier 2 stanie. "
                 f"Tier 1 (wykrywanie zmian) działa dalej niezależnie.</p>",
-            )
+                todo=("Nic pilnego. Kredyt resetuje się z początkiem miesiąca. "
+                      "Jeśli chcesz zapas: dodaj sekret <code>APIFY_TOKEN_2</code> "
+                      "(token z drugiego konta Apify) — system przełączy się automatycznie."))
             meta[key] = month
     meta["apifyUsage"] = usage_summary
 
@@ -656,7 +709,7 @@ def monday_digest(meta, history):
         f"{rows}</table>{dashboard_link()}"
         f"<p style='color:#888'>Ten mail przychodzi w każdy poniedziałek — również przy zerze zmian. "
         f"Jego brak oznacza, że system nie działa.</p>",
-    )
+        todo="Nic. To cotygodniowe potwierdzenie, że monitoring żyje.")
     meta["digestSent"] = now().strftime("%Y-%m-%d")
 
 
@@ -778,9 +831,12 @@ def main():
                 "[AWARIA] Scraping opinii (Apify) nie powiódł się",
                 f"<p>Wykryto zmiany w {len(to_scrape)} ofertach, ale scrape nie zadziałał:</p>"
                 f"<pre>{e}</pre><p>Stan NIE został nadpisany — następny przebieg spróbuje ponownie. "
-                f"Sprawdź kredyt/token Apify oraz czy aktor "
-                f"<code>{ENV('APIFY_ACTOR_ID') or 'e-commerce/allegro-reviews-scraper'}</code> działa.</p>",
-            )
+                f"</p>",
+                todo=("Zwykle <b>nic nie trzeba robić</b> — następny przebieg spróbuje ponownie. "
+                      "Jeśli błąd powtarza się przez kilka przebiegów: sprawdź kredyt na apify.com "
+                      "(Usage) oraz czy aktor "
+                      f"<code>{ENV('APIFY_ACTOR_ID') or 'e-commerce/allegro-reviews-scraper'}</code> "
+                      "nadal działa (Runs → ostatni run → Log)."))
 
     # --- zapis stanu (przy porażce scrape'u zostawiamy stary stan => retry jutro)
     if not scrape_failed:
