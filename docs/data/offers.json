@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T10:20:53Z",
+ "updated": "2026-08-18T11:19:14Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1461,7 +1461,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18500004422",
@@ -5711,7 +5711,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18354920344",
@@ -8672,40 +8672,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17702908317",
-   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702908317",
-   "sku": "LN018",
-   "avg": 4.96,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "16003362238",
-   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003362238",
-   "sku": "LN018 CLASSIC",
-   "avg": 4.96,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18699913720",
    "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
    "shop": "toratex_pl",
@@ -8738,6 +8704,40 @@
     "5": 22
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17702908317",
+   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702908317",
+   "sku": "LN018",
+   "avg": 4.96,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "16003362238",
+   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003362238",
+   "sku": "LN018 CLASSIC",
+   "avg": 4.96,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 23
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18256405995",
