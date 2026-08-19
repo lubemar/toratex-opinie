@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T06:28:59Z",
+ "updated": "2026-08-19T07:32:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7227,23 +7227,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 4.33,
-   "reviews": 6,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18527563402",
    "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
    "shop": "tora_official",
@@ -7412,6 +7395,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 4.43,
+   "reviews": 7,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18253571561",
@@ -7887,7 +7887,7 @@
     "4": 1,
     "5": 9
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17533083897",
@@ -8159,7 +8159,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17817853435",
@@ -8754,7 +8754,7 @@
     "4": 1,
     "5": 25
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17649306642",
