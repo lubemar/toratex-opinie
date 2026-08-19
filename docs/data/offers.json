@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T08:28:07Z",
+ "updated": "2026-08-19T09:26:12Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5765,23 +5765,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18488887868",
-   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488887868",
-   "sku": "LN003B",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18485739957",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
    "shop": "toratex_pl",
@@ -6331,6 +6314,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18521689941",
    "sku": "LN239XL",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18488887868",
+   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "sku": "LN003B",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7599,23 +7599,6 @@
     "5": 8
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18521675712",
-   "name": "Pokrowiec OCHRANIACZ na materac 160x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521675712",
-   "sku": "LN239L",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "50-99"
   },
   {
    "offerId": "18154623891",
