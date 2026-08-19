@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T09:26:12Z",
+ "updated": "2026-08-19T10:21:26Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6527,7 +6527,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17777505702",
@@ -6955,40 +6955,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17666054578",
-   "name": "Szlafrok unisex M oddychający chłonny hotelowy z kieszeniami wiązany długi",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17666054578",
-   "sku": "LN131",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220236808",
-   "name": "SZLAFROK DAMSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220236808",
-   "sku": "LN131",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "16352836828",
    "name": "PRZEŚCIERADŁO 160x200+25 CM Z GUMKĄ BAWEŁNA GŁADKIE SIMPLE",
    "shop": "TORATEX",
@@ -7208,6 +7174,40 @@
     "5": 5
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17666054578",
+   "name": "Szlafrok unisex M oddychający chłonny hotelowy z kieszeniami wiązany długi",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17666054578",
+   "sku": "LN131",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220236808",
+   "name": "SZLAFROK DAMSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220236808",
+   "sku": "LN131",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "16333838885",
