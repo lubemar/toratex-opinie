@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T17:19:54Z",
+ "updated": "2026-08-19T18:21:55Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3334,23 +3334,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "16409471160",
-   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA BIAŁA SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16409471160",
-   "sku": "LN081 SIMPLE",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "16388340673",
    "name": "POŚCIEL 180X200 KOMPLET + 2 POSZEWKI 70X80 BAWEŁNIANA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -3373,23 +3356,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16380219760",
    "sku": "LN074 SUPREME",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "16380017821",
-   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16380017821",
-   "sku": "LN073",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3526,23 +3492,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16370053519",
    "sku": "LN052",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "16369717755",
-   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16369717755",
-   "sku": "LN049 SUPREME",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -5357,6 +5306,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "16409471160",
+   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA BIAŁA SIMPLE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16409471160",
+   "sku": "LN081 SIMPLE",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "16380017821",
+   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16380017821",
+   "sku": "LN073",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "16371600149",
    "name": "POŚCIEL 200X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA BIAŁA SIMPLE",
    "shop": "TORATEX",
@@ -5396,6 +5379,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16371518276",
    "sku": "LN069",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "16369717755",
+   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16369717755",
+   "sku": "LN049 SUPREME",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -8638,23 +8638,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18699913720",
    "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
    "shop": "toratex_pl",
@@ -8687,6 +8670,23 @@
     "5": 22
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 23
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17702908317",
