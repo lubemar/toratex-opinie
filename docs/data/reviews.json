@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T07:32:52Z",
+ "updated": "2026-08-19T08:28:07Z",
  "reviews": [
   {
    "id": "6a8439d1d8a1edee72cd6325",
@@ -8537,6 +8537,22 @@
    "ean": ""
   },
   {
+   "id": "67ed2a3a4a325037de4296cf",
+   "offerId": "18364264225",
+   "offerName": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki Hotelowy",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18364264225",
+   "rating": 5.0,
+   "content": "",
+   "author": "C...4",
+   "date": "2025-04-02T12:14:49.974Z",
+   "pros": "",
+   "cons": "Brak pętelki do zawieszania a tak to idealne",
+   "sku": "LN032",
+   "ean": "",
+   "firstSeen": "2026-08-19T08:28:07Z"
+  },
+  {
    "id": "67e990fe4a325037de9abfa9",
    "offerId": "18253741536",
    "offerName": "Poduszka hotelowa 40x40 jasiek dekoracyjna do spania 350g",
@@ -8663,6 +8679,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN103",
    "ean": ""
+  },
+  {
+   "id": "67d7e217dc008fa04ef109ca",
+   "offerId": "18364264225",
+   "offerName": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki Hotelowy",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18364264225",
+   "rating": 5.0,
+   "content": "taki jakiego szukałam do twarzy. Nie podrażnia, a cera dobrze oczyszczona po demakijażu",
+   "author": "k...0",
+   "date": "2025-03-17T08:49:26.900Z",
+   "pros": "szybko schnie",
+   "cons": "brak",
+   "sku": "LN032",
+   "ean": "",
+   "firstSeen": "2026-08-19T08:28:07Z"
   },
   {
    "id": "67d7d24bdc008fa04e0848d6",
