@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T16:25:06Z",
+ "updated": "2026-08-20T17:22:25Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7346,23 +7346,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 4.43,
-   "reviews": 7,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18253571561",
    "name": "Poduszka hotelowa 40x40 jasiek dekoracyjna do spania 500g",
    "shop": "tora_official",
@@ -7718,6 +7701,23 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 4.11,
+   "reviews": 9,
+   "dist": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17616123601",
@@ -9162,7 +9162,7 @@
     "4": 3,
     "5": 70
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17899261156",
