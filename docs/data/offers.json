@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T06:31:00Z",
+ "updated": "2026-08-21T07:36:33Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2413,7 +2413,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18075748254",
@@ -7550,23 +7550,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18154623891",
    "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
    "shop": "toratex_pl",
@@ -7769,6 +7752,23 @@
     "5": 9
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18034882348",
