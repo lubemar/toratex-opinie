@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-20T18:25:46Z",
+ "updated": "2026-08-21T04:31:29Z",
  "reviews": [
+  {
+   "id": "6a87d388bb2611d425f87053",
+   "offerId": "17702973302",
+   "offerName": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "rating": 5.0,
+   "content": "Wysoka jakosc wykonania, bardzo wygodna",
+   "author": "C...5",
+   "date": "2026-08-21T04:26:48.220Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN022",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
+  },
+  {
+   "id": "6a876f185dd209d75790ad68",
+   "offerId": "18358210515",
+   "offerName": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358210515",
+   "rating": 5.0,
+   "content": "Materac bardzo wygodny.",
+   "author": "C...7",
+   "date": "2026-08-20T21:18:16.531Z",
+   "pros": "",
+   "cons": "",
+   "sku": "MCP4",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
+  },
+  {
+   "id": "6a87473e5dd209d75790a09d",
+   "offerId": "18505455735",
+   "offerName": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18505455735",
+   "rating": 4.0,
+   "content": "po praniu mocno wygniecione",
+   "author": "k...4",
+   "date": "2026-08-20T18:28:14.395Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN223B",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
+  },
   {
    "id": "6a8732fc834fe3df232831b6",
    "offerId": "18670493532",
@@ -5785,6 +5833,38 @@
    "firstSeen": "2026-08-16T04:28:45Z"
   },
   {
+   "id": "696c34455f8038a07da23e34",
+   "offerId": "17702973302",
+   "offerName": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "rating": 5.0,
+   "content": "Jak dla mnie poduszka jest za miękka ale inni domownicy ją chwalą.",
+   "author": "D...1",
+   "date": "2026-01-18T01:15:49.146Z",
+   "pros": "Miękka, dobra jakość wykonania.",
+   "cons": "Cena",
+   "sku": "LN022",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
+  },
+  {
+   "id": "696a679b5f8038a07dee7280",
+   "offerId": "17702973302",
+   "offerName": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "rating": 5.0,
+   "content": "Śliczne poduszeczki,miłym dodatkiem jest duża torba",
+   "author": "E...a",
+   "date": "2026-01-16T16:30:19.196Z",
+   "pros": "Fajne podusie, wypełnienia ani za dużo ani za mało, w sam raz",
+   "cons": "Brak",
+   "sku": "LN022",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
+  },
+  {
    "id": "6969608d316c1bd9d8087a88",
    "offerId": "17615562738",
    "offerName": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna SPA hotelowy grubyTRWAŁY",
@@ -5863,6 +5943,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN101",
    "ean": ""
+  },
+  {
+   "id": "6965fd77316c1bd9d8d29602",
+   "offerId": "17702973302",
+   "offerName": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "rating": 5.0,
+   "content": "Super poduszka. Syn bardzo zadowolony",
+   "author": "C...6",
+   "date": "2026-01-13T08:08:23.942Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN022",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
   },
   {
    "id": "6963e633316c1bd9d8952aff",
@@ -6105,6 +6201,22 @@
    "ean": ""
   },
   {
+   "id": "6957dc9f316c1bd9d819b37c",
+   "offerId": "17702973302",
+   "offerName": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "rating": 5.0,
+   "content": "Miłe w dotyku, przyjemne do spania.",
+   "author": "A...o",
+   "date": "2026-01-02T14:56:31.739Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN022",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
+  },
+  {
    "id": "6957ca8f316c1bd9d89a43bf",
    "offerId": "17739542007",
    "offerName": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu",
@@ -6135,6 +6247,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN195",
    "ean": ""
+  },
+  {
+   "id": "6956a70f316c1bd9d82d7cbc",
+   "offerId": "17702973302",
+   "offerName": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "rating": 5.0,
+   "content": "Produkt luksusowy.Idealnie wypełnione poduszki,zapakowane próżniowo, w pięknej torbie firmowej.",
+   "author": "C...3",
+   "date": "2026-01-01T16:55:43.645Z",
+   "pros": "biały, ładny materiał, poduszki lekkie i miękkie",
+   "cons": "-",
+   "sku": "LN022",
+   "ean": "",
+   "firstSeen": "2026-08-21T04:31:29Z"
   },
   {
    "id": "69566c8d316c1bd9d8163ce8",

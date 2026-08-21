@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T18:25:47Z",
+ "updated": "2026-08-21T04:31:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1333,23 +1333,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18505463192",
    "sku": "LN224B",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18505455735",
-   "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18505455735",
-   "sku": "LN223B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3725,6 +3708,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18505455735",
+   "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18505455735",
+   "sku": "LN223B",
+   "avg": 4.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17943185385",
    "name": "Materac 180x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 z topperem TORA",
    "shop": "toratex_pl",
@@ -5881,7 +5881,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034685396",
@@ -6785,23 +6785,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18358210515",
-   "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358210515",
-   "sku": "MCP4",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18788977600",
    "name": "Prześcieradło 180x200 z gumką HOTELOWE gładkie TORA",
    "shop": "toratex_pl",
@@ -6885,23 +6868,6 @@
     "5": 4
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034399556",
-   "name": "Materac 160x200 średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034399556",
-   "sku": "MCP4",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "17988728367",
@@ -7006,6 +6972,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18358210515",
+   "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358210515",
+   "sku": "MCP4",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18357698062",
    "name": "Materac 160x200 Kieszeniowy Sprężynowy Średnio Twardy Antyalergiczny",
    "shop": "tora_official",
@@ -7072,6 +7055,23 @@
     "5": 5
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034399556",
+   "name": "Materac 160x200 średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034399556",
+   "sku": "MCP4",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18032002215",
@@ -7924,23 +7924,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17702973302",
-   "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702973302",
-   "sku": "LN022",
-   "avg": 4.91,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 10
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18253512780",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
    "shop": "tora_official",
@@ -8024,6 +8007,23 @@
     "5": 11
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17702973302",
+   "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "sku": "LN022",
+   "avg": 4.92,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 11
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18256566314",
