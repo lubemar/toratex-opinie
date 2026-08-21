@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T08:29:52Z",
+ "updated": "2026-08-21T09:28:30Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5782,23 +5782,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18141905984",
    "name": "Pościel bawełniana komplet 140X200CM + 2 POSZEWKI 50X70CM hotelowa troczki",
    "shop": "toratex_pl",
@@ -6314,6 +6297,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488887868",
    "sku": "LN003B",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7564,7 +7564,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18118559909",
