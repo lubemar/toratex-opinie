@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T15:31:57Z",
+ "updated": "2026-08-24T16:28:18Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8315,91 +8315,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18187585355",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18187585355",
-   "sku": "LN092",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649443987",
-   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649443987",
-   "sku": "LN092",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17637712571",
-   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17637712571",
-   "sku": "LN092",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17507401035",
-   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17507401035",
-   "sku": "ZEST-LN092",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17346712602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346712602",
-   "sku": "LN092 SUPREME",
-   "avg": 4.76,
-   "reviews": 17,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18056986170",
    "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
    "shop": "toratex_pl",
@@ -8460,6 +8375,91 @@
    "reviews": 17,
    "dist": {
     "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18187585355",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18187585355",
+   "sku": "LN092",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649443987",
+   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649443987",
+   "sku": "LN092",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17637712571",
+   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17637712571",
+   "sku": "LN092",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17507401035",
+   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17507401035",
+   "sku": "ZEST-LN092",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 17
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17346712602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346712602",
+   "sku": "LN092 SUPREME",
+   "avg": 4.78,
+   "reviews": 18,
+   "dist": {
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
