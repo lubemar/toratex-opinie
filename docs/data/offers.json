@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:33:03Z",
+ "updated": "2026-08-25T09:27:31Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1563,7 +1563,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488893245",
@@ -4148,23 +4148,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18564135822",
-   "name": "Kosz na śmieci kwadratowy MIEJSKI 59L z popielnicą TORA wytrzymały PREMIUM",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18564135822",
-   "sku": "LN005KP",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18524523918",
@@ -7394,7 +7377,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18527475001",
