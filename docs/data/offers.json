@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T11:19:32Z",
+ "updated": "2026-08-25T12:35:17Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7397,23 +7397,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18358113183",
-   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358113183",
-   "sku": "MSP4",
-   "avg": 4.88,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 7
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18357646068",
    "name": "Materac 90x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 stref ANTYALERGICZNY",
    "shop": "tora_official",
@@ -7453,23 +7436,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18071341442",
    "sku": "MS1",
-   "avg": 4.88,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18031565537",
-   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18031565537",
-   "sku": "MSP4",
    "avg": 4.88,
    "reviews": 8,
    "dist": {
@@ -7650,6 +7616,40 @@
     "5": 7
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "18358113183",
+   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358113183",
+   "sku": "MSP4",
+   "avg": 4.44,
+   "reviews": 9,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18031565537",
+   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031565537",
+   "sku": "MSP4",
+   "avg": 4.44,
+   "reviews": 9,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17616123601",
