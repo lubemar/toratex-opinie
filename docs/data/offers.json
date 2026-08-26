@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T05:26:47Z",
+ "updated": "2026-08-26T06:33:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6887,23 +6887,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18529989637",
-   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529989637",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18444718046",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -7040,23 +7023,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17945784134",
-   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17945784134",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17814933003",
    "name": "Pościel 200x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
    "shop": "toratex_pl",
@@ -7159,6 +7125,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18529989637",
+   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529989637",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18527563402",
    "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
    "shop": "tora_official",
@@ -7242,6 +7225,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17945784134",
+   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17945784134",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17863333792",
