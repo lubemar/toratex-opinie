@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:33:52Z",
+ "updated": "2026-08-26T07:40:31Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -8060,23 +8060,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18529976226",
-   "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529976226",
-   "sku": "MR4",
-   "avg": 5.0,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527105244",
    "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
    "shop": "tora_official",
@@ -8111,21 +8094,21 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17871717400",
-   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17871717400",
+   "offerId": "18529976226",
+   "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529976226",
    "sku": "MR4",
    "avg": 5.0,
-   "reviews": 13,
+   "reviews": 14,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 13
+    "5": 14
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18466527307",
@@ -8143,6 +8126,23 @@
     "5": 14
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17871717400",
+   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17871717400",
+   "sku": "MR4",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17700905931",
