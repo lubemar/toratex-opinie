@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T18:27:00Z",
+ "updated": "2026-08-26T04:35:23Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7601,23 +7601,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 4.11,
-   "reviews": 9,
-   "dist": {
-    "1": 2,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18358113183",
    "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
    "shop": "tora_official",
@@ -7735,6 +7718,23 @@
     "5": 9
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 4.2,
+   "reviews": 10,
+   "dist": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18530008926",
@@ -8550,7 +8550,7 @@
     "4": 0,
     "5": 22
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17931116022",
@@ -8890,7 +8890,7 @@
     "4": 2,
     "5": 43
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18845201115",
@@ -8992,7 +8992,7 @@
     "4": 2,
     "5": 62
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17668996138",
