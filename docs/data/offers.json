@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T14:36:41Z",
+ "updated": "2026-08-26T16:13:39Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1564,23 +1564,6 @@
     "5": 0
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18488893245",
-   "name": "Prześcieradło gumka 4 rogi 180x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488893245",
-   "sku": "LN004B",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18488840499",
@@ -4320,6 +4303,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18488893245",
+   "name": "Prześcieradło gumka 4 rogi 180x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488893245",
+   "sku": "LN004B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18486556980",
    "name": "Szlafrok dziecięcy 100% BAWEŁNA hotelowy TRWAŁY wafel 5-10 lat SPA premium",
    "shop": "toratex_pl",
@@ -6224,23 +6224,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18521689941",
-   "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521689941",
-   "sku": "LN239XL",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18488887868",
    "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -6773,6 +6756,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18587623655",
    "sku": "LN021",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18521689941",
+   "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521689941",
+   "sku": "LN239XL",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -9170,10 +9170,10 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/18841766554",
    "sku": "",
-   "avg": 4.7,
-   "reviews": 773,
+   "avg": 4.69,
+   "reviews": 774,
    "dist": {
-    "1": 37,
+    "1": 38,
     "2": 6,
     "3": 13,
     "4": 41,
