@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T18:51:07Z",
+ "updated": "2026-08-27T14:55:15Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -636,40 +636,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18638233463",
    "sku": "LN032-ZEST-BARB",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18602651799",
-   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18602651799",
-   "sku": "LN001KP",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18602647349",
-   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18602647349",
-   "sku": "LN001KP",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2434,7 +2400,7 @@
   },
   {
    "offerId": "18034884946",
-   "name": "Materac 90x200 średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
+   "name": "Materac 90x200 średnio twardy H4 KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034884946",
    "sku": "MCP1",
@@ -4065,6 +4031,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18602651799",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18602651799",
+   "sku": "LN001KP",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18602647349",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18602647349",
+   "sku": "LN001KP",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18580906124",
    "name": "Kosz na śmieci kwadratowy MIEJSKI 43L z popielnicą TORA wytrzymały PREMIUM",
    "shop": "toratex_pl",
@@ -4267,23 +4267,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18489142922",
-   "name": "Prześcieradło z gumką 140x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489142922",
-   "sku": "LN213",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18488925598",
@@ -7258,7 +7241,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17755988156",
@@ -7397,6 +7380,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18358113183",
+   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358113183",
+   "sku": "MSP4",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18357646068",
    "name": "Materac 90x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 stref ANTYALERGICZNY",
    "shop": "tora_official",
@@ -7415,7 +7415,7 @@
   },
   {
    "offerId": "18457156099",
-   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 400GSM TRWAŁY spa TORA",
+   "name": "Ręcznik da rąk ciała 50x100 100% BAWEŁNA TRWAŁY HOTELOWY TORA 400GSM",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18457156099",
    "sku": "LN035B",
@@ -7436,6 +7436,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18071341442",
    "sku": "MS1",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18031565537",
+   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031565537",
+   "sku": "MSP4",
    "avg": 4.88,
    "reviews": 8,
    "dist": {
@@ -7581,7 +7598,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "15608258485",
@@ -7597,40 +7614,6 @@
     "3": 0,
     "4": 0,
     "5": 8
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18358113183",
-   "name": "Materac 160x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358113183",
-   "sku": "MSP4",
-   "avg": 4.44,
-   "reviews": 9,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 7
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18031565537",
-   "name": "Materac 160x200 H3 Średnio twardy Sprężynowy Kieszeniowy Topper TORA 25 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18031565537",
-   "sku": "MSP4",
-   "avg": 4.44,
-   "reviews": 9,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 7
    },
    "salesBand": "1-9"
   },
@@ -7700,7 +7683,7 @@
     "4": 0,
     "5": 9
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18034882348",
@@ -8452,7 +8435,7 @@
   },
   {
    "offerId": "18744050657",
-   "name": "Ręcznik 50x100 do rąk 100% BAWEŁNA 600 GSM miękki zestaw dla hoteli 10 szt",
+   "name": "Ręcznik do rąk HOTELOWY 50x100 BAWEŁNA 100% 600 GSM miękki 10 SZTUK",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18744050657",
    "sku": "LN035",
@@ -8550,7 +8533,7 @@
     "4": 0,
     "5": 22
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17931116022",
@@ -8890,7 +8873,7 @@
     "4": 2,
     "5": 43
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18845201115",
@@ -8907,7 +8890,7 @@
     "4": 1,
     "5": 56
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17668946883",
