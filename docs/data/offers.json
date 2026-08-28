@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T14:55:15Z",
+ "updated": "2026-08-28T00:12:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3790,7 +3790,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358183145",
@@ -3909,7 +3909,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18354937324",
@@ -6000,7 +6000,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17220149347",
@@ -7669,23 +7669,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "18034882348",
    "name": "Materac 90x200 cm TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20cm",
    "shop": "toratex_pl",
@@ -7803,6 +7786,23 @@
     "5": 9
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17700847628",
@@ -8533,7 +8533,7 @@
     "4": 0,
     "5": 22
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17931116022",
@@ -8551,40 +8551,6 @@
     "5": 22
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18699913720",
-   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18699913720",
-   "sku": "LN032",
-   "avg": 4.92,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17607027219",
-   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17607027219",
-   "sku": "LN032",
-   "avg": 4.92,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 22
-   },
-   "salesBand": "100+"
   },
   {
    "offerId": "17705687515",
@@ -8636,6 +8602,40 @@
     "5": 23
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.92,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17607027219",
+   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17607027219",
+   "sku": "LN032",
+   "avg": 4.92,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 23
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "18256405995",
