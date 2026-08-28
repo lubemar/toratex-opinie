@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T00:12:45Z",
+ "updated": "2026-08-28T15:54:35Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5783,7 +5783,7 @@
   },
   {
    "offerId": "18034816945",
-   "name": "Materac 160x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
+   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034816945",
    "sku": "MTP4",
@@ -6212,23 +6212,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488887868",
    "sku": "LN003B",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -6768,6 +6751,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18075755413",
    "name": "Prześcieradło 160x200 z gumką bawełna solidne trwałe hotelowe gładkie",
    "shop": "toratex_pl",
@@ -6870,23 +6870,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18444718046",
-   "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18444718046",
-   "sku": "LN037",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18358210515",
    "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
@@ -6919,23 +6902,6 @@
     "5": 5
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18724257399",
-   "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18724257399",
-   "sku": "LN037",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18486017245",
@@ -7028,23 +6994,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17811949361",
    "sku": "LN191",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17774211097",
-   "name": "Ręczniki BAWEŁNIANE do kąpieli i do rąk ZESTAW 600GSM chłonne GRUBE miękkie",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17774211097",
-   "sku": "ZEST-X2LN037-X2LN035-X4LN033",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7159,11 +7108,45 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18444718046",
+   "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18444718046",
+   "sku": "LN037",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18354899731",
    "name": "Materac 140x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354899731",
    "sku": "MT3",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18724257399",
+   "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18724257399",
+   "sku": "LN037",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
@@ -7232,6 +7215,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17863333792",
    "sku": "MR1",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17774211097",
+   "name": "Ręczniki BAWEŁNIANE do kąpieli i do rąk ZESTAW 600GSM chłonne GRUBE miękkie",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17774211097",
+   "sku": "ZEST-X2LN037-X2LN035-X4LN033",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
@@ -8043,40 +8043,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18527105244",
-   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527105244",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18485802417",
-   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485802417",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18529976226",
    "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -8092,6 +8058,40 @@
     "5": 14
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18527105244",
+   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527105244",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17871717400",
@@ -8150,14 +8150,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18466527307",
    "sku": "LN104B",
-   "avg": 4.87,
-   "reviews": 15,
+   "avg": 4.88,
+   "reviews": 16,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 1,
     "4": 0,
-    "5": 14
+    "5": 15
    },
    "salesBand": "100+"
   },
@@ -8490,13 +8490,13 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18527282249",
    "sku": "LN037L",
-   "avg": 4.9,
-   "reviews": 21,
+   "avg": 4.86,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 2,
+    "4": 3,
     "5": 19
    },
    "salesBand": "10-49"
@@ -8507,13 +8507,13 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18457325725",
    "sku": "LN037L",
-   "avg": 4.9,
-   "reviews": 21,
+   "avg": 4.86,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 2,
+    "4": 3,
     "5": 19
    },
    "salesBand": "10-49"
