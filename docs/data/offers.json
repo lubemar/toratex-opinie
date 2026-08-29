@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T15:25:46Z",
+ "updated": "2026-08-29T19:03:26Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5952,23 +5952,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17668190356",
-   "name": "Szlafrok damski M miękki puszysty długi lekki przepuszczający powietrze",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668190356",
-   "sku": "LN127",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17346757025",
    "name": "PRZEŚCIERADŁO 150x260 TRADYCYJNE KLASYCZNE GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
    "shop": "TORATEX",
@@ -6001,23 +5984,6 @@
     "5": 2
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220149347",
-   "name": "SZLAFROK DAMSKI Z PASKIEM PREMIUM HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220149347",
-   "sku": "LN127",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "17220148174",
@@ -6462,6 +6428,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17668190356",
+   "name": "Szlafrok damski M miękki puszysty długi lekki przepuszczający powietrze",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668190356",
+   "sku": "LN127",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17619514619",
    "name": "Ręcznik 50x100 do rąk 100% bawełna mega chłonny miękki trwały 300 prań",
    "shop": "toratex_pl",
@@ -6518,6 +6501,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17314982520",
    "sku": "LN034",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17220149347",
+   "name": "SZLAFROK DAMSKI Z PASKIEM PREMIUM HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220149347",
+   "sku": "LN127",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
