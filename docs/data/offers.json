@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T10:17:51Z",
+ "updated": "2026-08-31T17:49:01Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -339,7 +339,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18823817869",
@@ -551,23 +551,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18740825414",
    "sku": "K4",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18737969280",
-   "name": "Kosz klasyczny biały na ŚMIECI odpady do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18737969280",
-   "sku": "K3",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1206,7 +1189,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18520803483",
@@ -1486,23 +1469,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18489136387",
    "sku": "LN212",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18489115804",
-   "name": "Prześcieradło z gumką 90x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489115804",
-   "sku": "LN211",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -5864,7 +5830,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17736819859",
@@ -6153,7 +6119,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488887868",
@@ -7479,7 +7445,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18118559909",
@@ -8320,14 +8286,14 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18187585355",
    "sku": "LN092",
-   "avg": 4.78,
-   "reviews": 18,
+   "avg": 4.79,
+   "reviews": 19,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "1-9"
   },
@@ -8337,14 +8303,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649443987",
    "sku": "LN092",
-   "avg": 4.78,
-   "reviews": 18,
+   "avg": 4.79,
+   "reviews": 19,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "1-9"
   },
@@ -8354,14 +8320,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17637712571",
    "sku": "LN092",
-   "avg": 4.78,
-   "reviews": 18,
+   "avg": 4.79,
+   "reviews": 19,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "0"
   },
@@ -8371,14 +8337,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17507401035",
    "sku": "ZEST-LN092",
-   "avg": 4.78,
-   "reviews": 18,
+   "avg": 4.79,
+   "reviews": 19,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "1-9"
   },
@@ -8388,14 +8354,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17346712602",
    "sku": "LN092 SUPREME",
-   "avg": 4.78,
-   "reviews": 18,
+   "avg": 4.79,
+   "reviews": 19,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "1-9"
   },
@@ -8652,7 +8618,7 @@
     "4": 2,
     "5": 25
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17607027219",
