@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T18:18:45Z",
+ "updated": "2026-08-31T10:17:51Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5017,23 +5017,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18590873797",
-   "name": "Kosz na śmieci kwadratowy MIEJSKI 59L z popielnicą TORA wytrzymały PREMIUM",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18590873797",
-   "sku": "LN005KP",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18521765968",
    "name": "Kosz z popielnicą STAL NIERDZEWNA 80L z granulatem ZEWNĘTRZNY TORA",
    "shop": "TORATEX",
@@ -5082,7 +5065,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17332683214",
@@ -6221,7 +6204,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18091150199",
@@ -7887,7 +7870,7 @@
     "4": 2,
     "5": 10
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488951909",
@@ -8876,23 +8859,6 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "18845201115",
-   "name": "Słuchawki Apple LIGHTNING EarPods przewodowe z mikrofonem ORYGINALNE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18845201115",
-   "sku": "",
-   "avg": 4.75,
-   "reviews": 61,
-   "dist": {
-    "1": 3,
-    "2": 0,
-    "3": 1,
-    "4": 1,
-    "5": 56
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17668946883",
    "name": "Kapcie pantofle damskie domowe twarda podeszwa odporna na ścieranie 35-38",
    "shop": "toratex_pl",
@@ -9026,7 +8992,7 @@
     "4": 4,
     "5": 65
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17393327828",
@@ -9146,23 +9112,6 @@
     "5": 70
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18841766554",
-   "name": "Słuchawki przewodowe douszne Apple EarPods (Lightning) białe MWTY3ZM/A",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18841766554",
-   "sku": "",
-   "avg": 4.69,
-   "reviews": 776,
-   "dist": {
-    "1": 38,
-    "2": 6,
-    "3": 13,
-    "4": 41,
-    "5": 678
-   },
-   "salesBand": "10-49"
   }
  ]
 }
