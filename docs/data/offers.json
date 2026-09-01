@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T09:02:51Z",
+ "updated": "2026-09-01T14:25:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -483,74 +483,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18741096955",
    "sku": "K10",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18741028727",
-   "name": "Kosz popielnica klasyczny czarny na ŚMIECI odpady do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18741028727",
-   "sku": "K8",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18740916869",
-   "name": "Kosz popielnica klasyczna biała na ŚMIECI odpady do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18740916869",
-   "sku": "K7",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18740899468",
-   "name": "Kosz klasyczny czarny na ŚMIECI odpady do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18740899468",
-   "sku": "K6",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18740825414",
-   "name": "Kosz popielnica klasyczny srebrny na ŚMIECI odpady do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18740825414",
-   "sku": "K4",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4388,23 +4320,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18203771985",
-   "name": "Komplet pościeli 240x220 + 2 poszewki 50x70 100% bawełna hotelowa zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18203771985",
-   "sku": "LN247",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18158414308",
    "name": "POŚCIEL 160x200 KOMPLET + 2 POSZEWKI 70X80 SUPER JAKOŚĆ HOTELOWA zakładka",
    "shop": "toratex_pl",
@@ -4436,7 +4351,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18121151901",
@@ -4495,23 +4410,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075807993",
    "sku": "LN011",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18059522362",
-   "name": "Poszwa na kołdrę 140x200 hotelowa jakość trwała komfortowa w użytkowaniu",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18059522362",
-   "sku": "LN111",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -6122,23 +6020,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18118354963",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18118354963",
-   "sku": "LN039",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18093892606",
    "name": "Prześcieradło bez gumki 140x200 tradycyjne białe hotelowe 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -7429,40 +7310,6 @@
     "5": 8
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18118559909",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18118559909",
-   "sku": "LN038",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18056960447",
-   "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18056960447",
-   "sku": "LN105",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17665514390",
