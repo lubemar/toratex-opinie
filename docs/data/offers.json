@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T22:13:21Z",
+ "updated": "2026-09-01T09:02:51Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -322,7 +322,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18823861784",
@@ -4181,7 +4181,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18505439489",
@@ -4427,23 +4427,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18158327925",
    "sku": "LN060",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18142193403",
-   "name": "Pościel bawełniana komplet 140X200CM + 2 poszewki 70X80CM hotelowa troczki",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18142193403",
-   "sku": "LN076",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5660,7 +5643,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18141905984",
