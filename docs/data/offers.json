@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T18:05:12Z",
+ "updated": "2026-09-02T08:17:19Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7482,45 +7482,11 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "18530008926",
-   "name": "Materac VELVET 90x200 H4 H5 30cm + TOPPER kieszeniowy dwustronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18530008926",
-   "sku": "MV1",
-   "avg": 4.9,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18744074975",
    "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna ZESTAW hotelowy 10 szt",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18744074975",
    "sku": "LN036",
-   "avg": 4.9,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 9
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17948396744",
-   "name": "Materac 90x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17948396744",
-   "sku": "MV1",
    "avg": 4.9,
    "reviews": 10,
    "dist": {
@@ -8015,13 +7981,13 @@
    "url": "https://allegro.pl/oferta/17668561952",
    "sku": "ZEST-LN112",
    "avg": 5.0,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "10-49"
   },
@@ -8032,13 +7998,13 @@
    "url": "https://allegro.pl/oferta/17629561930",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "1-9"
   },
@@ -8049,13 +8015,13 @@
    "url": "https://allegro.pl/oferta/17626892622",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "1-9"
   },
@@ -8066,13 +8032,13 @@
    "url": "https://allegro.pl/oferta/17622515513",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "10-49"
   },
@@ -8083,13 +8049,13 @@
    "url": "https://allegro.pl/oferta/17503922152",
    "sku": "ZEST-LN112",
    "avg": 5.0,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "0"
   },
@@ -8100,13 +8066,13 @@
    "url": "https://allegro.pl/oferta/17220075486",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 17,
+   "reviews": 18,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 17
+    "5": 18
    },
    "salesBand": "0"
   },
@@ -8414,7 +8380,7 @@
     "4": 1,
     "5": 25
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215776241",
@@ -8432,40 +8398,6 @@
     "5": 25
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18699913720",
-   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18699913720",
-   "sku": "LN032",
-   "avg": 4.93,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 25
-   },
-   "salesBand": "50-99"
-  },
-  {
-   "offerId": "17607027219",
-   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17607027219",
-   "sku": "LN032",
-   "avg": 4.93,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 25
-   },
-   "salesBand": "100+"
   },
   {
    "offerId": "18256894763",
@@ -8517,6 +8449,40 @@
     "5": 26
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.93,
+   "reviews": 28,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 26
+   },
+   "salesBand": "50-99"
+  },
+  {
+   "offerId": "17607027219",
+   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17607027219",
+   "sku": "LN032",
+   "avg": 4.93,
+   "reviews": 28,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 26
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17739542007",
@@ -8652,7 +8618,7 @@
     "4": 2,
     "5": 43
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17668946883",
@@ -8661,13 +8627,13 @@
    "url": "https://allegro.pl/oferta/17668946883",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 65,
+   "reviews": 66,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 62
+    "5": 63
    },
    "salesBand": "1-9"
   },
@@ -8678,13 +8644,13 @@
    "url": "https://allegro.pl/oferta/17626543549",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 65,
+   "reviews": 66,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 62
+    "5": 63
    },
    "salesBand": "10-49"
   },
@@ -8695,13 +8661,13 @@
    "url": "https://allegro.pl/oferta/17532987937",
    "sku": "ZEST-LN125-10",
    "avg": 4.92,
-   "reviews": 65,
+   "reviews": 66,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 62
+    "5": 63
    },
    "salesBand": "1-9"
   },
@@ -8712,13 +8678,13 @@
    "url": "https://allegro.pl/oferta/17508413425",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 65,
+   "reviews": 66,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 62
+    "5": 63
    },
    "salesBand": "1-9"
   },
@@ -8729,13 +8695,13 @@
    "url": "https://allegro.pl/oferta/17235708456",
    "sku": "LN125",
    "avg": 4.92,
-   "reviews": 65,
+   "reviews": 66,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 2,
-    "5": 62
+    "5": 63
    },
    "salesBand": "0"
   },
