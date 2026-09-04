@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T08:21:18Z",
+ "updated": "2026-09-04T13:04:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1546,7 +1546,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18444546798",
@@ -2689,7 +2689,7 @@
   },
   {
    "offerId": "17666240436",
-   "name": "Szlafrok unisex L wytrzymały mocny z paskiem i wzorkiem miękki bawełna",
+   "name": "Szlafrok DAMSKI MĘSKI HOTELOWY SPA antyalergiczny oddychający BAWEŁNA L",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17666240436",
    "sku": "LN130",
@@ -2706,7 +2706,7 @@
   },
   {
    "offerId": "17666182540",
-   "name": "Szlafrok unisex M antyalergiczny hotelowy puszysty ze wzorkiem oddychający",
+   "name": "Szlafrok DAMSKI MĘSKI HOTELOWY SPA antyalergiczny puszysty oddychający M",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17666182540",
    "sku": "LN129",
@@ -5714,23 +5714,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17811861924",
-   "name": "Pościel 140x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17811861924",
-   "sku": "LN190",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17736819859",
    "name": "Prześcieradło bez gumki 90x200 tradycyjne białe hotelowe 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -5783,7 +5766,7 @@
   },
   {
    "offerId": "17668236910",
-   "name": "Szlafrok męski L długi elegancki miękki hotelowy wiązany ozdobny pasek",
+   "name": "Szlafrok MĘSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar L",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17668236910",
    "sku": "LN128",
@@ -6136,7 +6119,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034359370",
@@ -6224,6 +6207,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17811861924",
+   "name": "Pościel 140x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17811861924",
+   "sku": "LN190",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17777505702",
    "name": "Poszwa na kołdrę 160x200 hotelowa jakość trwała komfortowa w użytkowaniu",
    "shop": "toratex_pl",
@@ -6258,25 +6258,8 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17698345947",
-   "name": "Kołdra 140x200 LETNIA antyalergiczna oddychająca SUPER jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17698345947",
-   "sku": "LN026",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17668190356",
-   "name": "Szlafrok damski M miękki puszysty długi lekki przepuszczający powietrze",
+   "name": "Szlafrok DAMSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar M",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17668190356",
    "sku": "LN127",
@@ -6409,23 +6392,6 @@
     "5": 3
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "16179378133",
-   "name": "KOŁDRA 140X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16179378133",
-   "sku": "LN026 SIMPLE",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "16003584463",
@@ -6683,11 +6649,45 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17698345947",
+   "name": "Kołdra 140x200 LETNIA antyalergiczna oddychająca SUPER jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17698345947",
+   "sku": "LN026",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "16352836828",
    "name": "PRZEŚCIERADŁO 160x200+25 CM Z GUMKĄ BAWEŁNA GŁADKIE SIMPLE",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16352836828",
    "sku": "LN007 SIMPLE",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "16179378133",
+   "name": "KOŁDRA 140X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SIMPLE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16179378133",
+   "sku": "LN026 SIMPLE",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7601,25 +7601,8 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18253512780",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18253512780",
-   "sku": "LN095",
-   "avg": 4.83,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18489030107",
-   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel M SPA premium",
+   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar M",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18489030107",
    "sku": "LN238M",
@@ -7636,7 +7619,7 @@
   },
   {
    "offerId": "18488951909",
-   "name": "Szlafrok unisex 100% BAWEŁNA hotelowy TORA wafel S SPA premium",
+   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar S",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488951909",
    "sku": "LN238S",
@@ -7648,40 +7631,6 @@
     "3": 0,
     "4": 2,
     "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649347245",
-   "name": "Jasiek 40x40 poduszka mała miękka GRUBA wygodna ODDYCHAJĄCA naturalna 500g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649347245",
-   "sku": "LN095",
-   "avg": 4.83,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17215773602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PRESTIGE HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215773602",
-   "sku": "LN095",
-   "avg": 4.83,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 11
    },
    "salesBand": "1-9"
   },
@@ -7701,23 +7650,6 @@
     "5": 11
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18256566314",
-   "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256566314",
-   "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18615114100",
@@ -7771,21 +7703,55 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17770335698",
-   "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17770335698",
-   "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 12,
+   "offerId": "18253512780",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18253512780",
+   "sku": "LN095",
+   "avg": 4.85,
+   "reviews": 13,
    "dist": {
     "1": 0,
     "2": 0,
-    "3": 0,
+    "3": 1,
     "4": 0,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649347245",
+   "name": "Jasiek 40x40 poduszka mała miękka GRUBA wygodna ODDYCHAJĄCA naturalna 500g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649347245",
+   "sku": "LN095",
+   "avg": 4.85,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17215773602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PRESTIGE HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215773602",
+   "sku": "LN095",
+   "avg": 4.85,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17817853435",
@@ -7801,6 +7767,40 @@
     "3": 0,
     "4": 1,
     "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18256566314",
+   "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256566314",
+   "sku": "LN020",
+   "avg": 5.0,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17770335698",
+   "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17770335698",
+   "sku": "LN020",
+   "avg": 5.0,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
    },
    "salesBand": "10-49"
   },
@@ -8474,13 +8474,13 @@
    "url": "https://allegro.pl/oferta/18699913720",
    "sku": "LN032",
    "avg": 4.93,
-   "reviews": 28,
+   "reviews": 29,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 26
+    "5": 27
    },
    "salesBand": "50-99"
   },
@@ -8491,13 +8491,13 @@
    "url": "https://allegro.pl/oferta/17607027219",
    "sku": "LN032",
    "avg": 4.93,
-   "reviews": 28,
+   "reviews": 29,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 26
+    "5": 27
    },
    "salesBand": "100+"
   },
@@ -8525,13 +8525,13 @@
    "url": "https://allegro.pl/oferta/18253741536",
    "sku": "LN019",
    "avg": 4.97,
-   "reviews": 30,
+   "reviews": 31,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 29
+    "5": 30
    },
    "salesBand": "1-9"
   },
@@ -8542,13 +8542,13 @@
    "url": "https://allegro.pl/oferta/17702945906",
    "sku": "LN019",
    "avg": 4.97,
-   "reviews": 30,
+   "reviews": 31,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 29
+    "5": 30
    },
    "salesBand": "10-49"
   },
@@ -8559,13 +8559,13 @@
    "url": "https://allegro.pl/oferta/16003245395",
    "sku": "LN019 CLASSIC",
    "avg": 4.97,
-   "reviews": 30,
+   "reviews": 31,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 29
+    "5": 30
    },
    "salesBand": "1-9"
   },
