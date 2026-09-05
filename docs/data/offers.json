@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T20:04:04Z",
+ "updated": "2026-09-05T07:58:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1444,7 +1444,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18488840499",
@@ -3892,7 +3892,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18060331493",
@@ -4114,23 +4114,6 @@
     "5": 1
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18521670335",
-   "name": "Pokrowiec OCHRANIACZ na materac 140x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521670335",
-   "sku": "LN239M",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18521487700",
@@ -5508,6 +5491,23 @@
     "5": 2
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18521670335",
+   "name": "Pokrowiec OCHRANIACZ na materac 140x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521670335",
+   "sku": "LN239M",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18489186187",
@@ -7564,7 +7564,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16440523108",
@@ -8466,6 +8466,23 @@
     "5": 26
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.93,
+   "reviews": 29,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 27
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17607027219",
