@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T17:04:43Z",
+ "updated": "2026-09-05T19:45:40Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7567,23 +7567,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 4.27,
-   "reviews": 11,
-   "dist": {
-    "1": 2,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17755357163",
    "name": "Kołdra 140x200 LETNIA oddychająca ANTYALERGICZNA hotelowa jakość TORA",
    "shop": "toratex_pl",
@@ -7599,6 +7582,23 @@
     "5": 10
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18670493532",
+   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18670493532",
+   "sku": "",
+   "avg": 4.33,
+   "reviews": 12,
+   "dist": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18489030107",
@@ -7751,7 +7751,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17817853435",
@@ -8176,7 +8176,7 @@
     "4": 0,
     "5": 18
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18188079725",
@@ -8482,7 +8482,7 @@
     "4": 2,
     "5": 27
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17607027219",
