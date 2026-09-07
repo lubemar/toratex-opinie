@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T19:48:20Z",
+ "updated": "2026-09-07T08:46:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1971,7 +1971,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18158356363",
@@ -5498,23 +5498,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18521670335",
    "sku": "LN239M",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18489186187",
-   "name": "Prześcieradło z gumką 200x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489186187",
-   "sku": "LN216",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
