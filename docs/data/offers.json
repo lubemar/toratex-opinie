@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T18:57:21Z",
+ "updated": "2026-09-08T08:29:24Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4181,7 +4181,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18486556980",
@@ -7363,23 +7363,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17626812160",
-   "name": "Kapcie pantofle męskie twarda podeszwa oddychające wytrzymałe hotelowe x10",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626812160",
-   "sku": "ZEST-LN126-10",
-   "avg": 4.89,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 8
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18354950161",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -7429,6 +7412,23 @@
     "5": 9
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17626812160",
+   "name": "Kapcie pantofle męskie twarda podeszwa oddychające wytrzymałe hotelowe x10",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17626812160",
+   "sku": "ZEST-LN126-10",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17615601541",
@@ -7904,7 +7904,7 @@
     "4": 0,
     "5": 17
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18789000876",
