@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T13:13:45Z",
+ "updated": "2026-09-08T17:42:32Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7279,7 +7279,7 @@
   },
   {
    "offerId": "17649517391",
-   "name": "Poduszka 50x70 regulowana grubość i wysokość miękka puszysta komfort 1250g",
+   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649517391",
    "sku": "LN099",
@@ -7313,7 +7313,7 @@
   },
   {
    "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17220034861",
    "sku": "LN099",
@@ -7564,7 +7564,7 @@
     "4": 2,
     "5": 10
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17702973302",
@@ -8213,23 +8213,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -8296,6 +8279,23 @@
     "5": 23
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
@@ -8516,7 +8516,7 @@
     "4": 2,
     "5": 43
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668277180",
