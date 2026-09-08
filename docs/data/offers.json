@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T08:29:24Z",
+ "updated": "2026-09-08T13:13:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7346,23 +7346,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17616123601",
-   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L x2",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17616123601",
-   "sku": "ZEST-LN001KP",
-   "avg": 4.67,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 1,
-    "5": 7
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18354950161",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -7395,6 +7378,23 @@
     "5": 9
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17616123601",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L x2",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17616123601",
+   "sku": "ZEST-LN001KP",
+   "avg": 4.7,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 8
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18744074975",
@@ -7601,23 +7601,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17993397850",
    "name": "Kołdra 240x260 letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -7718,6 +7701,23 @@
     "5": 13
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17770335698",
@@ -7845,49 +7845,15 @@
    "url": "https://allegro.pl/oferta/18466527307",
    "sku": "LN104B",
    "avg": 4.88,
-   "reviews": 16,
+   "reviews": 17,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 1,
     "4": 0,
-    "5": 15
+    "5": 16
    },
    "salesBand": "100+"
-  },
-  {
-   "offerId": "18056986170",
-   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18056986170",
-   "sku": "LN104",
-   "avg": 4.94,
-   "reviews": 17,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 16
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17346737989",
-   "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346737989",
-   "sku": "LN104",
-   "avg": 4.94,
-   "reviews": 17,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 16
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "17736860426",
@@ -7902,6 +7868,40 @@
     "2": 0,
     "3": 0,
     "4": 0,
+    "5": 17
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18056986170",
+   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18056986170",
+   "sku": "LN104",
+   "avg": 4.94,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 17
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17346737989",
+   "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346737989",
+   "sku": "LN104",
+   "avg": 4.94,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
     "5": 17
    },
    "salesBand": "10-49"
@@ -8219,13 +8219,13 @@
    "url": "https://allegro.pl/oferta/17817794007",
    "sku": "LN195",
    "avg": 5.0,
-   "reviews": 22,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 22
+    "5": 23
    },
    "salesBand": "50-99"
   },
