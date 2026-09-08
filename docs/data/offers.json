@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T17:42:32Z",
+ "updated": "2026-09-08T20:32:50Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -475,7 +475,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18741096955",
@@ -1401,23 +1401,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18489136387",
    "sku": "LN212",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18488902095",
-   "name": "Prześcieradło gumka 4 rogi 200x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488902095",
-   "sku": "LN005B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3926,7 +3909,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18691280138",
@@ -4182,6 +4165,23 @@
     "5": 1
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18488902095",
+   "name": "Prześcieradło gumka 4 rogi 200x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488902095",
+   "sku": "LN005B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18486556980",
@@ -5272,23 +5272,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "16005167544",
-   "name": "PRZEŚCIERADŁO 150x220 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16005167544",
-   "sku": "LN011 SUPREME",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18530793466",
    "name": "Materac DUAL 90x200 H3 H4 Premium 30cm + TOPPER kieszeniowy dwustronny TORA",
    "shop": "tora_official",
@@ -5821,6 +5804,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16179377956",
    "sku": "LN025",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "16005167544",
+   "name": "PRZEŚCIERADŁO 150x220 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16005167544",
+   "sku": "LN011 SUPREME",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -6530,23 +6530,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18075691511",
    "name": "Prześcieradło z gumką 200x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -6688,6 +6671,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18486017245",
    "sku": "LN038B",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -7703,23 +7703,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17770335698",
    "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
    "shop": "toratex_pl",
@@ -7769,6 +7752,23 @@
     "5": 14
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "18485802417",
@@ -8244,7 +8244,7 @@
     "4": 1,
     "5": 23
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17702908317",

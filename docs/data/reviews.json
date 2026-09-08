@@ -1,6 +1,38 @@
 {
- "updated": "2026-09-08T17:42:32Z",
+ "updated": "2026-09-08T20:32:49Z",
  "reviews": [
+  {
+   "id": "6aa05fa1132ac343500f1882",
+   "offerId": "16005167544",
+   "offerName": "PRZEŚCIERADŁO 150x220 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16005167544",
+   "rating": 5.0,
+   "content": "Jest ok. Ale szkoda że kraj pochodzenia to Chiny...",
+   "author": "m...8",
+   "date": "2026-09-08T19:18:57.220Z",
+   "pros": "Gęste śliskie",
+   "cons": "Chiny",
+   "sku": "LN011 SUPREME",
+   "ean": "",
+   "firstSeen": "2026-09-08T20:32:49Z"
+  },
+  {
+   "id": "6a9fe34db6f53e6115f7e60d",
+   "offerId": "18587705200",
+   "offerName": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "rating": 5.0,
+   "content": "W końcu poduszka dobra do spania na boku",
+   "author": "w...k",
+   "date": "2026-09-08T10:28:29.549Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN096",
+   "ean": "",
+   "firstSeen": "2026-09-08T20:32:49Z"
+  },
   {
    "id": "6a9c28e94044f3a3e6082a07",
    "offerId": "18670493532",
