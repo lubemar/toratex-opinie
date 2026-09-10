@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T13:16:08Z",
+ "updated": "2026-09-10T17:29:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -211,23 +211,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18357752952",
    "sku": "MS5",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18357628250",
-   "name": "Materac 80x200 Kieszeniowy Sprężynowy Średnio Twardy 7 Stref Antyalergiczny",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357628250",
-   "sku": "MS0",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2365,23 +2348,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18034873119",
-   "name": "Materac 80x200 H3 ŚREDNIO TWARDY Kieszeniowy Bawełna Antyalergiczny 20 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034873119",
-   "sku": "MS0",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18034868883",
    "name": "Materac 80x200 TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20 cm",
    "shop": "toratex_pl",
@@ -3586,7 +3552,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358197962",
@@ -3849,6 +3815,23 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18357680841",
    "sku": "MS2",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18357628250",
+   "name": "Materac 80x200 Kieszeniowy Sprężynowy Średnio Twardy 7 Stref Antyalergiczny",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357628250",
+   "sku": "MS0",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -4524,6 +4507,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18034873119",
+   "name": "Materac 80x200 H3 ŚREDNIO TWARDY Kieszeniowy Bawełna Antyalergiczny 20 cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034873119",
+   "sku": "MS0",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18034867111",
    "name": "Materac 80x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY premium",
    "shop": "toratex_pl",
@@ -5150,7 +5150,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16380017821",
@@ -6901,7 +6901,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18529989637",
