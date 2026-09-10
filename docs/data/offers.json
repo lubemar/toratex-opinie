@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T20:15:19Z",
+ "updated": "2026-09-10T08:31:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -272,6 +272,23 @@
     "5": 0
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18915548810",
+   "name": "Zestaw KOŁDRA 160x200 + PODUSZKA 50x70 puch pierze gęsi 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915548810",
+   "sku": "LN113",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18893820451",
@@ -1087,7 +1104,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521702208",
@@ -3586,7 +3603,7 @@
     "4": 1,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18529995021",
