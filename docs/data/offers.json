@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T17:29:58Z",
+ "updated": "2026-09-10T20:16:32Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1359,7 +1359,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18502461517",
@@ -7292,7 +7292,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18071341442",
@@ -8286,12 +8286,12 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18527282249",
    "sku": "LN037L",
-   "avg": 4.86,
-   "reviews": 22,
+   "avg": 4.78,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
-    "3": 0,
+    "3": 1,
     "4": 3,
     "5": 19
    },
@@ -8303,12 +8303,12 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915846787",
    "sku": "ZEST-X2LN037L-X2LN035L",
-   "avg": 4.86,
-   "reviews": 22,
+   "avg": 4.78,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
-    "3": 0,
+    "3": 1,
     "4": 3,
     "5": 19
    },
@@ -8320,12 +8320,12 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18457325725",
    "sku": "LN037L",
-   "avg": 4.86,
-   "reviews": 22,
+   "avg": 4.78,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
-    "3": 0,
+    "3": 1,
     "4": 3,
     "5": 19
    },
