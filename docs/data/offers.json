@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T08:31:58Z",
+ "updated": "2026-09-10T13:16:08Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -272,6 +272,74 @@
     "5": 0
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18915765016",
+   "name": "Zestaw ręczników SIMPLE 500GSM hotelowa jakość 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915765016",
+   "sku": "LN117",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18915714999",
+   "name": "Zestaw ręczników SUPREME 600GSM hotelowa jakość 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915714999",
+   "sku": "LN116",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18915630651",
+   "name": "Zestaw KOŁDRA 260x240 + 2 PODUSZKI 50x70 puch pierze gęsi 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915630651",
+   "sku": "LN115",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18915603169",
+   "name": "Zestaw KOŁDRA 200x220 + 2xPODUSZKA 50x70 puch pierze gęsi 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915603169",
+   "sku": "LN114",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18915548810",
@@ -4198,7 +4266,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18486556980",
@@ -5762,7 +5830,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17247001143",
@@ -6921,11 +6989,28 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18915967200",
+   "name": "Zestaw ręczników SUPREME 600GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915967200",
+   "sku": "ZEST-X2LN037-X2LN035",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18724257399",
    "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18724257399",
-   "sku": "LN037",
+   "sku": "ZEST-X10LN037L",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
@@ -7751,7 +7836,7 @@
     "4": 0,
     "5": 14
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18527105244",
@@ -7904,7 +7989,7 @@
     "4": 1,
     "5": 17
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17346737989",
@@ -8149,7 +8234,7 @@
    "name": "Ręcznik do rąk Ręczniki kąpielowe 50x100 BAWEŁNA 100% 600GSM HOTELOWE 10 sz",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18744050657",
-   "sku": "LN035",
+   "sku": "ZEST-X10LN035",
    "avg": 5.0,
    "reviews": 19,
    "dist": {
@@ -8211,6 +8296,23 @@
     "5": 19
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18915846787",
+   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915846787",
+   "sku": "ZEST-X2LN037L-X2LN035L",
+   "avg": 4.86,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 19
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18457325725",
@@ -8703,7 +8805,7 @@
     "4": 4,
     "5": 65
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17393327828",
