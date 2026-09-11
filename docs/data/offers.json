@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T17:27:06Z",
+ "updated": "2026-09-11T20:18:02Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1418,23 +1418,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18499943307",
    "sku": "LN024Z",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18499912149",
-   "name": "Kołdra 140x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18499912149",
-   "sku": "LN026Z",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4206,6 +4189,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18499961986",
    "sku": "LN103Z",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18499912149",
+   "name": "Kołdra 140x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499912149",
+   "sku": "LN026Z",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -7652,23 +7652,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17702973302",
-   "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702973302",
-   "sku": "LN022",
-   "avg": 4.92,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 11
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18615114100",
    "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -7776,6 +7759,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17817853435",
    "sku": "LN196",
+   "avg": 4.92,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17702973302",
+   "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702973302",
+   "sku": "LN022",
    "avg": 4.92,
    "reviews": 13,
    "dist": {
@@ -8349,23 +8349,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 23
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17702908317",
    "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
    "shop": "toratex_pl",
@@ -8415,6 +8398,23 @@
     "5": 24
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
