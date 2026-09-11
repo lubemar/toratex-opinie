@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T20:16:32Z",
+ "updated": "2026-09-11T08:27:33Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1155,7 +1155,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18521702208",
@@ -7210,23 +7210,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17626682772",
-   "name": "Kapcie damskie ZESTAW 10 szt. SPA 35–38 TRWAŁE pantofle z twardą podeszwą",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626682772",
-   "sku": "ZEST-LN125-10",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18527475001",
    "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
    "shop": "tora_official",
@@ -7395,6 +7378,23 @@
     "5": 8
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17626682772",
+   "name": "Kapcie damskie ZESTAW 10 szt. SPA 35–38 TRWAŁE pantofle z twardą podeszwą",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17626682772",
+   "sku": "ZEST-LN125-10",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17220235700",
