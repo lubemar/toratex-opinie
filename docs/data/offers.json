@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T12:32:17Z",
+ "updated": "2026-09-12T15:58:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3130,23 +3130,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "16409505878",
-   "name": "POŚCIEL 180X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA BIAŁA SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16409505878",
-   "sku": "LN082",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "16388340673",
    "name": "POŚCIEL 180X200 KOMPLET + 2 POSZEWKI 70X80 BAWEŁNIANA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -4657,7 +4640,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18013717234",
@@ -8381,23 +8364,6 @@
     "5": 23
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 24
-   },
-   "salesBand": "100+"
   },
   {
    "offerId": "17817794007",
