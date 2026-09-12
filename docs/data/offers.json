@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T15:58:22Z",
+ "updated": "2026-09-12T18:04:57Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1469,23 +1469,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488840499",
    "sku": "LN002B",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18488792980",
-   "name": "Prześcieradło gumka 4 rogi 90x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488792980",
-   "sku": "LN001B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3130,6 +3113,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "16409505878",
+   "name": "POŚCIEL 180X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA BIAŁA SIMPLE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16409505878",
+   "sku": "LN082",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "16388340673",
    "name": "POŚCIEL 180X200 KOMPLET + 2 POSZEWKI 70X80 BAWEŁNIANA HOTELOWA SUPREME",
    "shop": "TORATEX",
@@ -4223,6 +4223,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488902095",
    "sku": "LN005B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18488792980",
+   "name": "Prześcieradło gumka 4 rogi 90x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488792980",
+   "sku": "LN001B",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -7445,7 +7462,7 @@
     "4": 0,
     "5": 9
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034882348",
