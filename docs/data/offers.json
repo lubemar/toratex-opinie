@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T20:02:56Z",
+ "updated": "2026-09-14T09:25:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1036,7 +1036,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18523890941",
@@ -2059,23 +2059,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18142319176",
-   "name": "Pościel komplet 180X200CM + 2 poszewki 50X70CM hotelowa troczki",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18142319176",
-   "sku": "LN082",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18142264350",
    "name": "Pościel komplet 160X200CM + 2 poszewki 70X80CM hotelowa troczki",
    "shop": "toratex_pl",
@@ -3094,23 +3077,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "16409505878",
-   "name": "POŚCIEL 180X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA BIAŁA SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16409505878",
-   "sku": "LN082",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "16388340673",
@@ -4249,7 +4215,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18486556980",
@@ -7207,7 +7173,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18527475001",
@@ -7326,7 +7292,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18154623891",
@@ -8332,23 +8298,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17931116022",
-   "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17931116022",
-   "sku": "LN089",
-   "avg": 4.96,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17702908317",
    "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
    "shop": "toratex_pl",
@@ -8379,6 +8328,23 @@
     "3": 0,
     "4": 1,
     "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17931116022",
+   "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17931116022",
+   "sku": "LN089",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
    },
    "salesBand": "10-49"
   },
