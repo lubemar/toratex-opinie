@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T16:07:27Z",
+ "updated": "2026-09-14T20:43:42Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1495,7 +1495,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485863722",
@@ -1988,7 +1988,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18155216623",
@@ -3776,23 +3776,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357323015",
-   "name": "Materac 120x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357323015",
-   "sku": "MTP2",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18354937324",
    "name": "Materac 200x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -4507,23 +4490,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18034807609",
-   "name": "Materac 120x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034807609",
-   "sku": "MTP2",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18034692104",
    "name": "Materac 200x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 20cm",
    "shop": "toratex_pl",
@@ -5099,7 +5065,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16409471160",
@@ -5459,6 +5425,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18357323015",
+   "name": "Materac 120x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357323015",
+   "sku": "MTP2",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18354920344",
    "name": "Materac 160x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -5583,6 +5566,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034816945",
    "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18034807609",
+   "name": "Materac 120x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034807609",
+   "sku": "MTP2",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -7633,23 +7633,6 @@
     "5": 12
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18670493532",
-   "name": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18670493532",
-   "sku": "",
-   "avg": 4.38,
-   "reviews": 13,
-   "dist": {
-    "1": 2,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "50-99"
   },
   {
    "offerId": "18253512780",
