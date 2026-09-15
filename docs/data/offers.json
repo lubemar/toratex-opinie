@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T09:07:05Z",
+ "updated": "2026-09-15T14:36:16Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3844,23 +3844,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18928291232",
-   "name": "Prześcieradło gumka 4 rogi 220x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18928291232",
-   "sku": "LN006B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18788951911",
    "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -4150,23 +4133,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18488925598",
-   "name": "Prześcieradło gumka 4 rogi 200x220x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488925598",
-   "sku": "LN006B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18488902095",
    "name": "Prześcieradło gumka 4 rogi 200x200x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -4436,7 +4402,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034874929",
@@ -5442,6 +5408,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18928291232",
+   "name": "Prześcieradło gumka 4 rogi 220x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18928291232",
+   "sku": "LN006B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18521670335",
    "name": "Pokrowiec OCHRANIACZ na materac 140x200x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -5457,6 +5440,23 @@
     "5": 2
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18488925598",
+   "name": "Prześcieradło gumka 4 rogi 200x220x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488925598",
+   "sku": "LN006B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485739957",
@@ -6037,23 +6037,6 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "18093892606",
-   "name": "Prześcieradło bez gumki 140x200 tradycyjne białe hotelowe 100% bawełna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18093892606",
-   "sku": "LN135",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18091150199",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -6360,23 +6343,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17189498153",
-   "name": "PRZEŚCIERADŁO 200x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17189498153",
-   "sku": "LN135",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "16333775682",
    "name": "PRZEŚCIERADŁO 140x200+25 CM Z GUMKĄ BAWEŁNA GŁADKIE SUPREME",
    "shop": "TORATEX",
@@ -6530,6 +6496,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18093892606",
+   "name": "Prześcieradło bez gumki 140x200 tradycyjne białe hotelowe 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18093892606",
+   "sku": "LN135",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18075691511",
    "name": "Prześcieradło z gumką 200x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -6586,6 +6569,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17698345947",
    "sku": "LN026",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17189498153",
+   "name": "PRZEŚCIERADŁO 200x260 TRADYCYJNE KLASYCZNE BAWEŁNA GŁADKIE SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17189498153",
+   "sku": "LN135",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7717,7 +7717,7 @@
     "4": 0,
     "5": 13
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17770335698",
@@ -8312,7 +8312,7 @@
     "4": 0,
     "5": 26
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
@@ -8516,7 +8516,7 @@
     "4": 3,
     "5": 38
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18364435450",
@@ -8534,6 +8534,40 @@
     "5": 44
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18929393968",
+   "name": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA 20szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18929393968",
+   "sku": "ZEST-X20LN033",
+   "avg": 4.96,
+   "reviews": 46,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 44
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18929392148",
+   "name": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18929392148",
+   "sku": "ZEST-X10LN033",
+   "avg": 4.96,
+   "reviews": 46,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 44
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17668277180",
