@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T18:38:44Z",
+ "updated": "2026-09-16T08:59:43Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3997,23 +3997,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18523941895",
-   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18523941895",
-   "sku": "LN208B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18521727361",
    "name": "Kołdra 140x200 CAŁOROCZNA 100% mikrofibra ANTYALERGICZNA hotelowa TORA",
    "shop": "toratex_pl",
@@ -5629,23 +5612,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17930818614",
-   "name": "Materac 160x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17930818614",
-   "sku": "MD4",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17736819859",
    "name": "Prześcieradło bez gumki 90x200 tradycyjne białe hotelowe 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -5915,7 +5881,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18357289988",
@@ -7530,7 +7496,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17755357163",
@@ -8281,6 +8247,40 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18931396451",
+   "name": "Pokrowiec OCHRANIACZ na materac WODOODPORNY 90x200 100% mikrofibra TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18931396451",
+   "sku": "LN143",
+   "avg": 4.88,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "16179377397",
+   "name": "POKROWIEC NA MATERAC 90X200 NAKŁADKA OCHRANIACZ WODOODPORNY OSŁONA BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16179377397",
+   "sku": "LN143",
+   "avg": 4.88,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -8312,7 +8312,7 @@
     "4": 0,
     "5": 26
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
@@ -8320,14 +8320,14 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256405995",
    "sku": "LN093",
-   "avg": 4.81,
-   "reviews": 27,
+   "avg": 4.82,
+   "reviews": 28,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 25
+    "5": 26
    },
    "salesBand": "10-49"
   },
@@ -8337,14 +8337,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649306642",
    "sku": "LN093",
-   "avg": 4.81,
-   "reviews": 27,
+   "avg": 4.82,
+   "reviews": 28,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 25
+    "5": 26
    },
    "salesBand": "10-49"
   },
@@ -8354,14 +8354,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17215776241",
    "sku": "LN093",
-   "avg": 4.81,
-   "reviews": 27,
+   "avg": 4.82,
+   "reviews": 28,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 25
+    "5": 26
    },
    "salesBand": "1-9"
   },
@@ -8397,7 +8397,7 @@
     "4": 1,
     "5": 26
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215773823",
