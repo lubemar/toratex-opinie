@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T18:00:34Z",
+ "updated": "2026-09-16T20:54:49Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2158,7 +2158,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18121281080",
@@ -4997,7 +4997,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16371600149",
@@ -6428,23 +6428,6 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "18521689941",
-   "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521689941",
-   "sku": "LN239XL",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18488893245",
    "name": "Prześcieradło gumka 4 rogi 180x200x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -7686,23 +7669,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18658367981",
-   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18658367981",
-   "sku": "",
-   "avg": 4.71,
-   "reviews": 14,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 13
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18529976226",
    "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -8618,7 +8584,7 @@
     "4": 2,
     "5": 44
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668277180",
