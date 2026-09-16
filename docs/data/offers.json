@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T14:00:39Z",
+ "updated": "2026-09-16T18:00:34Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3606,23 +3606,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18521546582",
-   "name": "Materac 80x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18521546582",
-   "sku": "MTP0",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18364098566",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -4031,23 +4014,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18521487700",
-   "name": "Materac 80x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521487700",
-   "sku": "MTP0",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18505439489",
    "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
@@ -4164,7 +4130,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18485667441",
@@ -5306,6 +5272,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18521546582",
+   "name": "Materac 80x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18521546582",
+   "sku": "MTP0",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18358165979",
    "name": "Materac 90x200 Kieszeniowy 20cm Średnio Twardy Kaszmirowy Komfort",
    "shop": "tora_official",
@@ -5423,6 +5406,23 @@
     "5": 2
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18521487700",
+   "name": "Materac 80x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521487700",
+   "sku": "MTP0",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18488925598",
@@ -8213,40 +8213,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17702908317",
-   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702908317",
-   "sku": "LN018",
-   "avg": 4.96,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "16003362238",
-   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003362238",
-   "sku": "LN018 CLASSIC",
-   "avg": 4.96,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18931396451",
    "name": "Pokrowiec OCHRANIACZ na materac WODOODPORNY 90x200 100% mikrofibra TORA",
    "shop": "toratex_pl",
@@ -8286,6 +8252,40 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17931116022",
    "sku": "LN089",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17702908317",
+   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702908317",
+   "sku": "LN018",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "16003362238",
+   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003362238",
+   "sku": "LN018 CLASSIC",
    "avg": 4.96,
    "reviews": 25,
    "dist": {
