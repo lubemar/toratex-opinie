@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T08:59:43Z",
+ "updated": "2026-09-16T14:00:39Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1172,7 +1172,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18520803483",
@@ -1427,7 +1427,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18489136387",
@@ -5490,7 +5490,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034887773",
@@ -6853,23 +6853,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18518115919",
-   "name": "Materac ROYAL 90x200 H5 Premium 30cm + TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18518115919",
-   "sku": "MR1",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18444718046",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -7701,6 +7684,23 @@
     "5": 13
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18658367981",
+   "name": "ŁADOWARKA Samsung SAMOCHODOWA mega SZYBKA 1X USB-A 1X USB-C 3 A",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18658367981",
+   "sku": "",
+   "avg": 4.71,
+   "reviews": 14,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 13
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18529976226",
@@ -8536,6 +8536,57 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18932156647",
+   "name": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA 50szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18932156647",
+   "sku": "ZEST-X50LN033",
+   "avg": 4.96,
+   "reviews": 46,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 44
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18932152363",
+   "name": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA 40szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18932152363",
+   "sku": "ZEST-X40LN033",
+   "avg": 4.96,
+   "reviews": 46,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 44
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18932141660",
+   "name": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA 30szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18932141660",
+   "sku": "ZEST-X30LN033",
+   "avg": 4.96,
+   "reviews": 46,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 44
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18929393968",
    "name": "Ręcznik 30x30 cm do rąk twarzy 100% bawełna chłonny GRUBY miękki SPA 20szt",
    "shop": "toratex_pl",
@@ -8857,6 +8908,40 @@
     "5": 71
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18932235606",
+   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18932235606",
+   "sku": "",
+   "avg": 4.72,
+   "reviews": 546,
+   "dist": {
+    "1": 27,
+    "2": 5,
+    "3": 7,
+    "4": 14,
+    "5": 493
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18819015512",
+   "name": "Ładowarka Apple ZASILACZ USB typ C do Apple 3000 mA 20W biały SZYBKA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18819015512",
+   "sku": "",
+   "avg": 4.81,
+   "reviews": 3040,
+   "dist": {
+    "1": 96,
+    "2": 19,
+    "3": 28,
+    "4": 84,
+    "5": 2813
+   },
+   "salesBand": "0"
   }
  ]
 }
