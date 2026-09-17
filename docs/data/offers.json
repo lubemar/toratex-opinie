@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T14:35:48Z",
+ "updated": "2026-09-17T18:43:40Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1376,7 +1376,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18500004422",
@@ -2549,7 +2549,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17780180598",
@@ -2702,7 +2702,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18738956159",
@@ -4252,23 +4252,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18203771985",
-   "name": "Komplet pościeli 240x220 + 2 poszewki 50x70 100% bawełna hotelowa zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18203771985",
-   "sku": "LN247",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18158414308",
    "name": "POŚCIEL 160x200 KOMPLET + 2 POSZEWKI 70X80 SUPER JAKOŚĆ HOTELOWA zakładka",
    "shop": "toratex_pl",
@@ -4359,23 +4342,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075807993",
    "sku": "LN011",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18059522362",
-   "name": "Poszwa na kołdrę 140x200 hotelowa jakość trwała komfortowa w użytkowaniu",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18059522362",
-   "sku": "LN111",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -4827,7 +4793,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18738520264",
@@ -6035,23 +6001,6 @@
     "5": 3
    },
    "salesBand": "50-99"
-  },
-  {
-   "offerId": "18118354963",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18118354963",
-   "sku": "LN039",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18091150199",
@@ -7312,40 +7261,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18118559909",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18118559909",
-   "sku": "LN038",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18056960447",
-   "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18056960447",
-   "sku": "LN105",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17665514390",
    "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
    "shop": "toratex_pl",
@@ -8465,7 +8380,7 @@
     "4": 1,
     "5": 26
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17215773823",
