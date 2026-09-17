@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-16T20:54:49Z",
+ "updated": "2026-09-17T09:04:49Z",
  "reviews": [
+  {
+   "id": "6aab11d8ac6d8c70a2605870",
+   "offerId": "17649306642",
+   "offerName": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "rating": 5.0,
+   "content": "Rewelacja , super poduszka",
+   "author": "b...A",
+   "date": "2026-09-16T22:02:00.492Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN093",
+   "ean": "",
+   "firstSeen": "2026-09-17T09:04:49Z"
+  },
   {
    "id": "6aa93fa15174705e7d2dfeab",
    "offerId": "18928291232",
@@ -384,6 +400,22 @@
    "sku": "MR5",
    "ean": "",
    "firstSeen": "2026-08-26T06:33:51Z"
+  },
+  {
+   "id": "6a8e6c156b24e8290db5350f",
+   "offerId": "18845201115",
+   "offerName": "Słuchawki Apple LIGHTNING EarPods przewodowe z mikrofonem ORYGINALNE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18845201115",
+   "rating": 5.0,
+   "content": "Ok!",
+   "author": "d...y",
+   "date": "2026-08-26T04:31:17.814Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-09-17T09:04:49Z"
   },
   {
    "id": "6a87f336ca6f65bd52f990ca",
@@ -2595,6 +2627,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "MTP5",
    "ean": ""
+  },
+  {
+   "id": "6a1fd5a71601d1ab35e3f68c",
+   "offerId": "18845201115",
+   "offerName": "Słuchawki Apple LIGHTNING EarPods przewodowe z mikrofonem ORYGINALNE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18845201115",
+   "rating": 1.0,
+   "content": "zdecydowanie nie polecam, bardzo słaby dźwięk, przy podłączeniu słuchawek na telefonie wyświetla się coś takiego (??), słuchawki mam jeden dzień a one już zaczęły wariować i same się przyciszają",
+   "author": "C...1",
+   "date": "2026-06-03T07:20:07.282Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-09-17T09:04:49Z"
   },
   {
    "id": "6a1fcec226e96c535aa62c8a",

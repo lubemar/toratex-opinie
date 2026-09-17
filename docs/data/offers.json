@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T20:54:49Z",
+ "updated": "2026-09-17T09:04:51Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -245,6 +245,23 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18915846787",
+   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915846787",
+   "sku": "ZEST-X2LN037L-X2LN035L",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -832,7 +849,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18577633214",
@@ -4728,6 +4745,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17736747631",
+   "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736747631",
+   "sku": "LN107 SIMPLE",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17736747034",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne białe HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -7020,7 +7054,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18253571561",
@@ -7089,6 +7123,23 @@
     "5": 7
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "16003556744",
+   "name": "RĘCZNIK 30X30 DO RĄK TWARZY BAWEŁNIANY CHŁONNY BIAŁY HOTELOWY",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003556744",
+   "sku": "LN032 SIMPLE ",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18527475001",
@@ -8145,23 +8196,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18915846787",
-   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915846787",
-   "sku": "ZEST-X2LN037L-X2LN035L",
-   "avg": 4.78,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 3,
-    "5": 19
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18457325725",
    "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
    "shop": "toratex_pl",
@@ -8213,6 +8247,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18260334434",
+   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18260334434",
+   "sku": "LN018",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -8228,6 +8279,23 @@
     "5": 24
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17702908317",
@@ -8270,66 +8338,15 @@
    "url": "https://allegro.pl/oferta/17817794007",
    "sku": "LN195",
    "avg": 5.0,
-   "reviews": 26,
+   "reviews": 27,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 26
+    "5": 27
    },
    "salesBand": "50-99"
-  },
-  {
-   "offerId": "18256405995",
-   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256405995",
-   "sku": "LN093",
-   "avg": 4.82,
-   "reviews": 28,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17649306642",
-   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649306642",
-   "sku": "LN093",
-   "avg": 4.82,
-   "reviews": 28,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17215776241",
-   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215776241",
-   "sku": "LN093",
-   "avg": 4.82,
-   "reviews": 28,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18256894763",
@@ -8381,6 +8398,57 @@
     "5": 26
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18256405995",
+   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256405995",
+   "sku": "LN093",
+   "avg": 4.83,
+   "reviews": 29,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 27
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17649306642",
+   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "sku": "LN093",
+   "avg": 4.83,
+   "reviews": 29,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 27
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17215776241",
+   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215776241",
+   "sku": "LN093",
+   "avg": 4.83,
+   "reviews": 29,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 27
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17739542007",
@@ -8619,6 +8687,23 @@
     "5": 44
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18845201115",
+   "name": "Słuchawki Apple LIGHTNING EarPods przewodowe z mikrofonem ORYGINALNE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18845201115",
+   "sku": "",
+   "avg": 4.69,
+   "reviews": 65,
+   "dist": {
+    "1": 4,
+    "2": 0,
+    "3": 1,
+    "4": 2,
+    "5": 58
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17668946883",
@@ -8876,6 +8961,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18741577949",
+   "name": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741577949",
+   "sku": "",
+   "avg": 4.82,
+   "reviews": 103,
+   "dist": {
+    "1": 4,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 97
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18932235606",
    "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
    "shop": "TORATEX",
@@ -8899,12 +9001,12 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3040,
+   "reviews": 3042,
    "dist": {
-    "1": 96,
+    "1": 97,
     "2": 19,
     "3": 28,
-    "4": 84,
+    "4": 85,
     "5": 2813
    },
    "salesBand": "0"
