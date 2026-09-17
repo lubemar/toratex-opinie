@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T09:04:49Z",
+ "updated": "2026-09-17T14:35:45Z",
  "reviews": [
   {
    "id": "6aab11d8ac6d8c70a2605870",
@@ -146,6 +146,22 @@
    "firstSeen": "2026-09-08T20:32:49Z"
   },
   {
+   "id": "6a9d6a7e5ec65ba7a7f1048b",
+   "offerId": "18741577949",
+   "offerName": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741577949",
+   "rating": 5.0,
+   "content": "Super. Jestem zadowolona z jakości.",
+   "author": "C...5",
+   "date": "2026-09-06T13:28:30.376Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-09-17T14:35:45Z"
+  },
+  {
    "id": "6a9c28e94044f3a3e6082a07",
    "offerId": "18670493532",
    "offerName": "Apple Przewód Kabel USB-C do ładowania 2m MEGA SZYBKI 240W oplot ORYGINALNY",
@@ -176,6 +192,22 @@
    "sku": "",
    "ean": "",
    "firstSeen": "2026-09-16T14:00:38Z"
+  },
+  {
+   "id": "6a9af5c2830da268c47e49ee",
+   "offerId": "18741577949",
+   "offerName": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18741577949",
+   "rating": 5.0,
+   "content": "Super wszystko ok",
+   "author": "C...5",
+   "date": "2026-09-04T16:45:54.458Z",
+   "pros": "",
+   "cons": "",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-09-17T14:35:45Z"
   },
   {
    "id": "6a9aa1bb830da268c47e2c2f",
@@ -2357,6 +2389,22 @@
    "ean": ""
   },
   {
+   "id": "6a3263ec6f7a2a063a919076",
+   "offerId": "18932235606",
+   "offerName": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18932235606",
+   "rating": 3.0,
+   "content": "Ładowarka sama w sobie jest dobra, niestety przewód do niej tragicznej jakości.  Plastikowe końcówki po tygodniu po prostu się rozsypały.  Nie miałam czasu tego reklamować,  więc kupiłam sobie nowy przewód,  ale postanowiłam przed tym ostrzec innych.",
+   "author": "a...2",
+   "date": "2026-06-17T09:07:56.205Z",
+   "pros": "Dobrze ładuje",
+   "cons": "Przewód!!!!",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-09-17T14:35:45Z"
+  },
+  {
    "id": "6a31a9ac1067d8098c4696b9",
    "offerId": "18618183841",
    "offerName": "Poduszka Hotelowa 50x70 1300g 100% Bawełna Antyalergiczna",
@@ -4362,6 +4410,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "MR5",
    "ean": ""
+  },
+  {
+   "id": "69eb209d225edfcbd8dc057c",
+   "offerId": "18203771985",
+   "offerName": "Komplet pościeli 240x220 + 2 poszewki 50x70 100% bawełna hotelowa zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18203771985",
+   "rating": 5.0,
+   "content": "Bardzo dobra jakość. Spi sie super",
+   "author": "m...y",
+   "date": "2026-04-24T07:49:49.616Z",
+   "pros": "Jakosc",
+   "cons": "",
+   "sku": "LN247",
+   "ean": "",
+   "firstSeen": "2026-09-17T14:35:45Z"
   },
   {
    "id": "69ea835a7094b1985f649624",
