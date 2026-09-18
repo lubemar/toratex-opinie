@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T18:43:40Z",
+ "updated": "2026-09-18T08:40:36Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3756,7 +3756,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18357340671",
@@ -4691,7 +4691,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17884281794",
@@ -4743,23 +4743,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17736747631",
-   "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736747631",
-   "sku": "LN107 SIMPLE",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17736747034",
@@ -6306,7 +6289,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003584463",
@@ -6935,7 +6918,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18459736436",
@@ -8567,7 +8550,7 @@
     "4": 2,
     "5": 44
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18932156647",
@@ -8720,7 +8703,7 @@
     "4": 2,
     "5": 63
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17626543549",
@@ -9001,15 +8984,15 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3042,
+   "reviews": 3040,
    "dist": {
     "1": 97,
     "2": 19,
     "3": 28,
-    "4": 85,
+    "4": 83,
     "5": 2813
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   }
  ]
 }
