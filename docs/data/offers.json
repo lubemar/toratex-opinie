@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T20:11:29Z",
+ "updated": "2026-09-19T08:26:13Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5969,23 +5969,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466561803",
-   "name": "Poszewka 70x80 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466561803",
-   "sku": "LN106B",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18091150199",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -6307,6 +6290,23 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466561803",
+   "name": "Poszewka 70x80 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466561803",
+   "sku": "LN106B",
+   "avg": 4.25,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18618276010",
@@ -6782,7 +6782,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17220236808",
@@ -8244,7 +8244,7 @@
     "4": 1,
     "5": 24
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931116022",
@@ -8672,23 +8672,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18845201115",
-   "name": "Słuchawki Apple LIGHTNING EarPods przewodowe z mikrofonem ORYGINALNE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18845201115",
-   "sku": "",
-   "avg": 4.69,
-   "reviews": 65,
-   "dist": {
-    "1": 4,
-    "2": 0,
-    "3": 1,
-    "4": 2,
-    "5": 58
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17668946883",
    "name": "Kapcie pantofle damskie domowe twarda podeszwa odporna na ścieranie 35-38",
    "shop": "toratex_pl",
@@ -8967,13 +8950,13 @@
    "url": "https://allegro.pl/oferta/18932235606",
    "sku": "",
    "avg": 4.72,
-   "reviews": 547,
+   "reviews": 548,
    "dist": {
     "1": 27,
     "2": 5,
     "3": 7,
     "4": 14,
-    "5": 494
+    "5": 495
    },
    "salesBand": "0"
   },
