@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T17:13:07Z",
+ "updated": "2026-09-20T20:02:01Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1818,7 +1818,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18207412720",
@@ -6884,7 +6884,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18915967200",
@@ -8230,23 +8230,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18260334434",
-   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18260334434",
-   "sku": "LN018",
-   "avg": 4.96,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 24
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -8281,19 +8264,36 @@
    "salesBand": "50-99"
   },
   {
+   "offerId": "18260334434",
+   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18260334434",
+   "sku": "LN018",
+   "avg": 4.96,
+   "reviews": 26,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 25
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17702908317",
    "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
    "avg": 4.96,
-   "reviews": 25,
+   "reviews": 26,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 24
+    "5": 25
    },
    "salesBand": "10-49"
   },
@@ -8304,13 +8304,13 @@
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
    "avg": 4.96,
-   "reviews": 25,
+   "reviews": 26,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 24
+    "5": 25
    },
    "salesBand": "10-49"
   },
@@ -8941,7 +8941,7 @@
     "4": 1,
     "5": 98
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18932235606",
@@ -8967,13 +8967,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3036,
+   "reviews": 3037,
    "dist": {
     "1": 96,
     "2": 18,
     "3": 27,
     "4": 83,
-    "5": 2812
+    "5": 2813
    },
    "salesBand": "1-9"
   }
