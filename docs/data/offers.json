@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T09:28:50Z",
+ "updated": "2026-09-21T16:10:33Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -560,7 +560,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18741096955",
@@ -1486,23 +1486,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18486120102",
    "sku": "LN152",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18485863722",
-   "name": "MATA łazienkowa DYWANIK stopka hotelowa kratka 50x60cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485863722",
-   "sku": "LN039B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3827,6 +3810,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18946565230",
+   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 400GSM MIĘKKI SPA balance 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18946565230",
+   "sku": "ZEST-X10LN037B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18946562153",
+   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 400GSM MIĘKKI SPA balance 5szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18946562153",
+   "sku": "ZEST-X5LN037B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18788951911",
    "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -4148,6 +4165,23 @@
     "5": 1
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18485863722",
+   "name": "MATA łazienkowa DYWANIK stopka hotelowa kratka 50x60cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485863722",
+   "sku": "LN039B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485667441",
@@ -6853,23 +6887,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18527563402",
-   "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527563402",
-   "sku": "LN033L-zestaw",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18444718046",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -6936,23 +6953,6 @@
     "5": 6
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18459736436",
-   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18459736436",
-   "sku": "LN033L-zestaw",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18034680307",
@@ -7091,6 +7091,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18527563402",
+   "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527563402",
+   "sku": "LN033L-zestaw",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18364264225",
    "name": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki Hotelowy",
    "shop": "tora_official",
@@ -7106,6 +7123,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18459736436",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18459736436",
+   "sku": "LN033L-zestaw",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17814933003",
@@ -7181,6 +7215,40 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18357646068",
    "sku": "MS1",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18946447573",
+   "name": "Ręcznik da rąk ciała 50x100 100% BAWEŁNA TRWAŁY HOTELOWY TORA 10 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18946447573",
+   "sku": "ZEST-X10LN035B",
+   "avg": 4.88,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18946435012",
+   "name": "Ręcznik do rąk ciała 50x100 100% BAWEŁNA TRWAŁY HOTELOWY TORA 400GSM 5 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18946435012",
+   "sku": "ZEST-X5LN035B",
    "avg": 4.88,
    "reviews": 8,
    "dist": {
@@ -7530,7 +7598,7 @@
     "4": 1,
     "5": 10
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18489030107",
@@ -8236,13 +8304,13 @@
    "url": "https://allegro.pl/oferta/18260334434",
    "sku": "LN018",
    "avg": 4.96,
-   "reviews": 26,
+   "reviews": 27,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 25
+    "5": 26
    },
    "salesBand": "1-9"
   },
@@ -8253,13 +8321,13 @@
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
    "avg": 4.96,
-   "reviews": 26,
+   "reviews": 27,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 25
+    "5": 26
    },
    "salesBand": "10-49"
   },
@@ -8270,13 +8338,13 @@
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
    "avg": 4.96,
-   "reviews": 26,
+   "reviews": 27,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 25
+    "5": 26
    },
    "salesBand": "10-49"
   },
@@ -8898,10 +8966,10 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18741577949",
    "sku": "",
-   "avg": 4.78,
-   "reviews": 105,
+   "avg": 4.75,
+   "reviews": 106,
    "dist": {
-    "1": 5,
+    "1": 6,
     "2": 0,
     "3": 1,
     "4": 1,
@@ -8933,13 +9001,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3021,
+   "reviews": 3023,
    "dist": {
-    "1": 95,
+    "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2802
+    "5": 2803
    },
    "salesBand": "1-9"
   }

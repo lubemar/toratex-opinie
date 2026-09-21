@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T09:28:50Z",
+ "updated": "2026-09-21T16:10:32Z",
  "reviews": [
   {
    "id": "6ab01507c2d5e2cf7d5a18ca",
@@ -881,6 +881,22 @@
    "sku": "MT1",
    "ean": "",
    "firstSeen": "2026-08-03T18:45:46Z"
+  },
+  {
+   "id": "6a7047c381692a19845ab726",
+   "offerId": "18946447573",
+   "offerName": "Ręcznik da rąk ciała 50x100 100% BAWEŁNA TRWAŁY HOTELOWY TORA 10 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18946447573",
+   "rating": 4.0,
+   "content": "Opakowanie i sam wygląd piękne .\nNiestety zakupiłem ręczniki z przeznaczeniem tylko do twarzy , niestety pozostawiają duża ilość małych białych kłaczków na twarzy , nie wspomnę gdy się jest nie ogolonym.\nCo prawda jeszcze nie były prane , ale jak już ktos wcześniej zaznaczył po kilku praniach dalej \"kłaczą\"",
+   "author": "1...9",
+   "date": "2026-08-03T07:48:19.787Z",
+   "pros": "Miłe w dotyku .",
+   "cons": "Pozostawiają dużą ilość małych kłaczków.",
+   "sku": "ZEST-X10LN035B",
+   "ean": "",
+   "firstSeen": "2026-09-21T16:10:32Z"
   },
   {
    "id": "6a6f4ec275815483d9a10df0",
