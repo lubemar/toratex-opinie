@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T20:02:01Z",
+ "updated": "2026-09-21T09:28:50Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1146,23 +1146,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18523737210",
    "sku": "LN108B",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18521702208",
-   "name": "Pokrowiec OCHRANIACZ na materac 200x220x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521702208",
-   "sku": "LN239XXXL",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4014,6 +3997,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18521702208",
+   "name": "Pokrowiec OCHRANIACZ na materac 200x220x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521702208",
+   "sku": "LN239XXXL",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18521696309",
    "name": "Pokrowiec OCHRANIACZ na materac 200x200x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -4980,7 +4980,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16409471160",
@@ -5473,7 +5473,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18141905984",
@@ -6330,7 +6330,7 @@
    "name": "Poduszka Hotelowa 70x80 1600g 100% MIKROFIBRA Antyalergiczna Komfortowa",
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18618221033",
-   "sku": "LN100",
+   "sku": "LN100 CLASSIC",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6364,7 +6364,7 @@
    "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18788505737",
-   "sku": "LN100",
+   "sku": "LN100 CLASSIC",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6392,6 +6392,23 @@
     "5": 4
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18521689941",
+   "name": "Pokrowiec OCHRANIACZ na materac 180x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521689941",
+   "sku": "LN239XL",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488893245",
@@ -6561,7 +6578,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16179378133",
@@ -7856,40 +7873,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18056986170",
-   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18056986170",
-   "sku": "LN104",
-   "avg": 4.94,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 17
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17346737989",
-   "name": "POSZEWKA 50x70 NA PODUSZKĘ PREMIUM 100% BAWEŁNA HOTELOWA SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346737989",
-   "sku": "LN104",
-   "avg": 4.94,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 17
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18187585355",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
    "shop": "tora_official",
@@ -8040,7 +8023,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17533193438",
@@ -8245,23 +8228,6 @@
     "5": 24
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 24
-   },
-   "salesBand": "50-99"
   },
   {
    "offerId": "18260334434",
@@ -8754,7 +8720,7 @@
     "4": 2,
     "5": 64
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17668996138",
@@ -8967,13 +8933,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3037,
+   "reviews": 3021,
    "dist": {
-    "1": 96,
+    "1": 95,
     "2": 18,
-    "3": 27,
-    "4": 83,
-    "5": 2813
+    "3": 26,
+    "4": 80,
+    "5": 2802
    },
    "salesBand": "1-9"
   }
