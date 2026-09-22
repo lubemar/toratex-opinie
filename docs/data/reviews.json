@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-22T08:59:11Z",
+ "updated": "2026-09-22T13:49:32Z",
  "reviews": [
+  {
+   "id": "6ab27abf913b6df1b99eedd0",
+   "offerId": "17649575093",
+   "offerName": "Poduszka 70x80 100% bawełna wygodna profilowana regulowana wysokość 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649575093",
+   "rating": 3.0,
+   "content": "Niestety po miesiącu użytkowania już zaczęła tracić kształt. Myślałam,że będzie się na niej wygodnie spać, ale niestety nie jest dla mnie. Codziennie bóle głowy i karku po przebudzeniu.",
+   "author": "M...1",
+   "date": "2026-09-22T12:55:27.821Z",
+   "pros": "Wygląd, materiały",
+   "cons": "Zbyt mało wypełniena, niewygodna",
+   "sku": "LN094",
+   "ean": "",
+   "firstSeen": "2026-09-22T13:49:32Z"
+  },
   {
    "id": "6ab01507c2d5e2cf7d5a18ca",
    "offerId": "16003362238",
@@ -1842,6 +1858,22 @@
    "sku": "LN089",
    "ean": "",
    "firstSeen": "2026-07-04T15:00:40Z"
+  },
+  {
+   "id": "6a47f00e0bb6abae2b9ae8d2",
+   "offerId": "17649575093",
+   "offerName": "Poduszka 70x80 100% bawełna wygodna profilowana regulowana wysokość 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649575093",
+   "rating": 5.0,
+   "content": "Lepsza od mojej poprzedniej wywłoki. Po 2 miesiącach dalej spi się spoko",
+   "author": "g...6",
+   "date": "2026-07-03T17:23:26.924Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN094",
+   "ean": "",
+   "firstSeen": "2026-09-22T13:49:32Z"
   },
   {
    "id": "6a4626e4ad80ffe263ae7dee",
