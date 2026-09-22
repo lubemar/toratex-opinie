@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T20:45:09Z",
+ "updated": "2026-09-22T08:59:11Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -968,7 +968,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18547508499",
@@ -4388,6 +4388,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18059522362",
+   "name": "Poszwa na kołdrę 140x200 hotelowa jakość trwała komfortowa w użytkowaniu",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18059522362",
+   "sku": "LN111",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18057303557",
    "name": "Poszwa 140x200 na kołdrę 100% BAWEŁNA certyfikowana hotelowa zakładka",
    "shop": "toratex_pl",
@@ -4767,6 +4784,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17737134291",
    "sku": "LN016",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17736747631",
+   "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736747631",
+   "sku": "LN107 SIMPLE",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -6001,6 +6035,23 @@
     "5": 3
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18118354963",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18118354963",
+   "sku": "LN039",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18091150199",
@@ -7329,6 +7380,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18118559909",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18118559909",
+   "sku": "LN038",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18056960447",
+   "name": "Poszewka 50x70 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18056960447",
+   "sku": "LN105",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17665514390",
    "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
    "shop": "toratex_pl",
@@ -7941,6 +8026,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18056986170",
+   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18056986170",
+   "sku": "LN104",
+   "avg": 4.94,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 17
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18187585355",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
    "shop": "tora_official",
@@ -8142,7 +8244,7 @@
     "4": 0,
     "5": 20
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17626892622",
@@ -8363,7 +8465,7 @@
     "4": 0,
     "5": 27
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18256894763",
