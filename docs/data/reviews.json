@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T13:49:32Z",
+ "updated": "2026-09-22T17:53:25Z",
  "reviews": [
   {
    "id": "6ab27abf913b6df1b99eedd0",
@@ -32,6 +32,22 @@
    "sku": "LN018 CLASSIC",
    "ean": "",
    "firstSeen": "2026-09-20T20:02:01Z"
+  },
+  {
+   "id": "6aafe95635876eba9ead914c",
+   "offerId": "17899259297",
+   "offerName": "POPIELNICA ZEWNĘTRZNA STOJĄCA KOSZ ŚMIETNIK METALOWY OGRODOWY 30L 2W1",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17899259297",
+   "rating": 5.0,
+   "content": "solidny",
+   "author": "m...9",
+   "date": "2026-09-20T14:10:30.182Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN001KP",
+   "ean": "",
+   "firstSeen": "2026-09-22T17:53:25Z"
   },
   {
    "id": "6aae3d79ac6d8c70a2611bfd",
