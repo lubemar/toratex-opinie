@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T08:58:50Z",
+ "updated": "2026-09-23T14:03:51Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -245,23 +245,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18915846787",
-   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915846787",
-   "sku": "ZEST-X2LN037L-X2LN035L",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -611,7 +594,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18690994684",
@@ -3351,6 +3334,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18915846787",
+   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915846787",
+   "sku": "ZEST-X2LN037L-X2LN035L",
+   "avg": 1.0,
+   "reviews": 1,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18207398086",
    "name": "Komplet pościeli 260x240 + 2 poszewki 70x80 100% bawełna hotelowa zakładka",
    "shop": "toratex_pl",
@@ -3793,6 +3793,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18952606211",
+   "name": "Poszewka 70x80 na poduszkę HOTELOWA bawełna/mikrofibra TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952606211",
+   "sku": "LN107 ",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18949799334",
    "name": "Poszwa na kołdrę 140x200 HOTELOWA bawełna/mikrofibra TORA",
    "shop": "toratex_pl",
@@ -3926,7 +3943,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18577789812",
@@ -5969,6 +5986,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18952598357",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952598357",
+   "sku": "LN039",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18524167685",
    "name": "Kołdra 160x200 LETNIA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
    "shop": "toratex_pl",
@@ -7295,6 +7329,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18952602394",
+   "name": "Poszewka 50x70 na poduszkę HOTELOWA bawełna/mikrofibra TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952602394",
+   "sku": "LN105",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18952596143",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952596143",
+   "sku": "LN038",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17665514390",
    "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
    "shop": "toratex_pl",
@@ -7771,57 +7839,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18527105244",
-   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527105244",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "100+"
-  },
-  {
-   "offerId": "18485802417",
-   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485802417",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17871717400",
    "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
    "shop": "toratex_pl",
@@ -7837,6 +7854,40 @@
     "5": 14
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18527105244",
+   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527105244",
+   "sku": "LN237L",
+   "avg": 4.73,
+   "reviews": 15,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 4.73,
+   "reviews": 15,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17700905931",
@@ -7905,6 +7956,23 @@
     "5": 17
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18952633104",
+   "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA 100% bawełna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952633104",
+   "sku": "LN104",
+   "avg": 4.94,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 17
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18187585355",
@@ -8278,7 +8346,7 @@
     "4": 0,
     "5": 27
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18260334434",
@@ -8805,7 +8873,7 @@
     "4": 4,
     "5": 65
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17393327828",
