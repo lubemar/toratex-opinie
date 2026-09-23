@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T14:03:51Z",
+ "updated": "2026-09-23T18:47:14Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1325,7 +1325,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18500004422",
@@ -2209,7 +2209,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18059669773",
@@ -2499,23 +2499,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17773637109",
-   "name": "Poszwa na kołdrę 200x200 pościel bawełniana biała hotelowa 300TC zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17773637109",
-   "sku": "LN162",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17770590243",
@@ -4762,6 +4745,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17773637109",
+   "name": "Poszwa na kołdrę 200x200 pościel bawełniana biała hotelowa 300TC zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17773637109",
+   "sku": "LN162",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17737134291",
    "name": "Prześcieradło bez gumki 180x200 HOTELOWE tradycyjne białe TORA",
    "shop": "toratex_pl",
@@ -5456,7 +5456,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521487700",
@@ -7768,7 +7768,7 @@
     "4": 1,
     "5": 12
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17702973302",
@@ -7802,7 +7802,7 @@
     "4": 0,
     "5": 13
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17770335698",
@@ -8346,7 +8346,7 @@
     "4": 0,
     "5": 27
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18260334434",
@@ -8873,7 +8873,7 @@
     "4": 4,
     "5": 65
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17393327828",
