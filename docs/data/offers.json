@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T20:42:37Z",
+ "updated": "2026-09-23T08:58:50Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -747,7 +747,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18577824597",
@@ -4116,23 +4116,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18488902095",
-   "name": "Prześcieradło gumka 4 rogi 200x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488902095",
-   "sku": "LN005B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18488792980",
    "name": "Prześcieradło gumka 4 rogi 90x200x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -4198,7 +4181,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18445304695",
@@ -5493,6 +5476,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18488902095",
+   "name": "Prześcieradło gumka 4 rogi 200x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488902095",
+   "sku": "LN005B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18485739957",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
    "shop": "toratex_pl",
@@ -6059,23 +6059,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034801370",
    "sku": "MTP1",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034359370",
-   "name": "Materac 120x200 średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034359370",
-   "sku": "MCP2",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7394,7 +7377,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "15608258485",
@@ -7802,7 +7785,7 @@
     "4": 0,
     "5": 14
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18587705200",
@@ -8737,7 +8720,7 @@
     "4": 2,
     "5": 64
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17508413425",
@@ -8944,36 +8927,19 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18741577949",
-   "name": "Słuchawki Apple USB-C EarPods przewodowe z mikrofonem ORYGINALNE MYQY3ZM/A",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18741577949",
-   "sku": "",
-   "avg": 4.75,
-   "reviews": 106,
-   "dist": {
-    "1": 6,
-    "2": 0,
-    "3": 1,
-    "4": 1,
-    "5": 98
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18932235606",
    "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/18932235606",
    "sku": "",
-   "avg": 4.72,
-   "reviews": 549,
+   "avg": 4.73,
+   "reviews": 550,
    "dist": {
     "1": 27,
     "2": 5,
     "3": 7,
     "4": 14,
-    "5": 496
+    "5": 497
    },
    "salesBand": "0"
   },
@@ -8984,13 +8950,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3025,
+   "reviews": 3026,
    "dist": {
     "1": 97,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2804
+    "5": 2805
    },
    "salesBand": "1-9"
   }
