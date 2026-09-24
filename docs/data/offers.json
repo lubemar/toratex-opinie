@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T13:57:38Z",
+ "updated": "2026-09-24T18:07:25Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4232,7 +4232,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18316135328",
@@ -6173,23 +6173,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17943125982",
-   "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17943125982",
-   "sku": "MP4",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17814959525",
    "name": "Pościel 200x220 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
    "shop": "toratex_pl",
@@ -6535,6 +6518,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17988728367",
    "sku": "LN178",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17943125982",
+   "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17943125982",
+   "sku": "MP4",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
