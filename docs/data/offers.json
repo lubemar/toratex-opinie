@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:54:55Z",
+ "updated": "2026-09-24T13:57:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -245,6 +245,57 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18918691518",
+   "name": "Szlafrok MĘSKI DAMSKI Bawełniany 100% Hotelowy SPA antyalergiczny UNISEX L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18918691518",
+   "sku": "LN130 ",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18916376346",
+   "name": "Szlafrok DAMSKI MĘSKI Bawełniany 100% Hotelowy SPA antyalergiczny UNISEX M",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18916376346",
+   "sku": "LN129 ",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18915846787",
+   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915846787",
+   "sku": "ZEST-X2LN037L-X2LN035L",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3315,23 +3366,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18915846787",
-   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915846787",
-   "sku": "ZEST-X2LN037L-X2LN035L",
-   "avg": 1.0,
-   "reviews": 1,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18207398086",
@@ -7839,6 +7873,40 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18527105244",
+   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527105244",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17871717400",
    "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
    "shop": "toratex_pl",
@@ -7854,40 +7922,6 @@
     "5": 14
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18527105244",
-   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527105244",
-   "sku": "LN237L",
-   "avg": 4.73,
-   "reviews": 15,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18485802417",
-   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485802417",
-   "sku": "LN237L",
-   "avg": 4.73,
-   "reviews": 15,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "17700905931",
@@ -9018,13 +9052,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3027,
+   "reviews": 3028,
    "dist": {
     "1": 97,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2806
+    "5": 2807
    },
    "salesBand": "1-9"
   }
