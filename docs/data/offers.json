@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T09:17:17Z",
+ "updated": "2026-09-25T14:55:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6666,23 +6666,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18618247638",
-   "name": "Poduszka Hotelowa 70x80 900g 100% Mikrofibra Antyalergiczna Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18618247638",
-   "sku": "LN021",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18358210515",
    "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
@@ -6715,23 +6698,6 @@
     "5": 5
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18587623655",
-   "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587623655",
-   "sku": "LN021",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18486017245",
@@ -6887,6 +6853,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18618247638",
+   "name": "Poduszka Hotelowa 70x80 900g 100% Mikrofibra Antyalergiczna Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18618247638",
+   "sku": "LN021",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18529989637",
    "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
    "shop": "tora_official",
@@ -6970,6 +6953,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18587623655",
+   "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587623655",
+   "sku": "LN021",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18034680307",
