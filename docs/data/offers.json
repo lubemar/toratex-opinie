@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T20:25:11Z",
+ "updated": "2026-09-27T09:43:07Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1291,7 +1291,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18505429968",
@@ -1360,23 +1360,6 @@
     "5": 0
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18502461517",
-   "name": "Kołdra 260x240 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18502461517",
-   "sku": "LN179Z",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18500004422",
@@ -2413,7 +2396,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17994251488",
@@ -4099,6 +4082,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18502461517",
+   "name": "Kołdra 260x240 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18502461517",
+   "sku": "LN179Z",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18502412451",
    "name": "Kołdra 240x220 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -5439,7 +5439,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18354920344",
@@ -7326,7 +7326,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18952602394",
@@ -9018,13 +9018,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3029,
+   "reviews": 3030,
    "dist": {
     "1": 97,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2808
+    "5": 2809
    },
    "salesBand": "1-9"
   }
