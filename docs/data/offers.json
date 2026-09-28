@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T10:21:47Z",
+ "updated": "2026-09-28T18:21:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4249,7 +4249,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18225371983",
@@ -6870,23 +6870,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18529989637",
-   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529989637",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18444718046",
    "name": "Ręcznik kąpielowy 70x140 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -6989,23 +6972,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17945784134",
-   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17945784134",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17774211097",
    "name": "Ręcznik do kąpieli Ręczniki GRUBE BAWEŁNA 600GSM 3 ROZMIARY 8 SZT",
    "shop": "toratex_pl",
@@ -7091,6 +7057,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18529989637",
+   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18529989637",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18527563402",
    "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
    "shop": "tora_official",
@@ -7140,6 +7123,23 @@
     "5": 7
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17945784134",
+   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17945784134",
+   "sku": "MR5",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17814933003",
@@ -9018,13 +9018,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3030,
+   "reviews": 3032,
    "dist": {
     "1": 97,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2809
+    "5": 2811
    },
    "salesBand": "1-9"
   }
