@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T18:47:56Z",
+ "updated": "2026-09-28T10:21:47Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -492,7 +492,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18815997717",
@@ -4014,23 +4014,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18521727361",
-   "name": "Kołdra 140x200 CAŁOROCZNA 100% mikrofibra ANTYALERGICZNA hotelowa TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18521727361",
-   "sku": "LN026B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18521702208",
    "name": "Pokrowiec OCHRANIACZ na materac 200x220x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -5476,6 +5459,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18521727361",
+   "name": "Kołdra 140x200 CAŁOROCZNA 100% mikrofibra ANTYALERGICZNA hotelowa TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18521727361",
+   "sku": "LN026B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18521670335",
    "name": "Pokrowiec OCHRANIACZ na materac 140x200x30 WODOODPORNY pikowany TORA",
    "shop": "toratex_pl",
@@ -6377,23 +6377,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18618276010",
-   "name": "Kołdra LETNIA hotelowa KINGSIZE 240x220 antyalergiczna 100% bawełna TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18618276010",
-   "sku": "LN178",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18788977600",
    "name": "Prześcieradło 180x200 z gumką HOTELOWE gładkie TORA",
    "shop": "toratex_pl",
@@ -6409,23 +6392,6 @@
     "5": 4
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18788505737",
-   "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18788505737",
-   "sku": "LN100 CLASSIC",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "50-99"
   },
   {
    "offerId": "18743965988",
@@ -6484,23 +6450,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075691511",
    "sku": "LN186",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17988728367",
-   "name": "Kołdra 220x240 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17988728367",
-   "sku": "LN178",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6666,6 +6615,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18618276010",
+   "name": "Kołdra LETNIA hotelowa KINGSIZE 240x220 antyalergiczna 100% bawełna TORA",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18618276010",
+   "sku": "LN178",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18358210515",
    "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
@@ -6698,6 +6664,23 @@
     "5": 5
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18788505737",
+   "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788505737",
+   "sku": "LN100 CLASSIC",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18486017245",
@@ -6773,6 +6756,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18032002215",
    "sku": "MS4",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17988728367",
+   "name": "Kołdra 220x240 LETNIA 100% bawełna ANTYALERGICZNA delikatna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17988728367",
+   "sku": "LN178",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -8788,7 +8788,7 @@
     "4": 2,
     "5": 64
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17508413425",
