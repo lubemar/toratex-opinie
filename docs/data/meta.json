@@ -1,15 +1,15 @@
 {
- "lastSuccess": "2026-09-28T18:21:22Z",
- "lastRun": "2026-09-28T18:18:27Z",
- "offersChecked": 531,
- "lastDeltas": 3,
- "lastNewReviews": 1,
+ "lastSuccess": "2026-09-29T10:18:00Z",
+ "lastRun": "2026-09-29T10:14:57Z",
+ "offersChecked": 530,
+ "lastDeltas": 2,
+ "lastNewReviews": 0,
  "apifyUsage": [
   {
    "token": 1,
-   "usedUsd": 1.8,
+   "usedUsd": 1.85,
    "limitUsd": 5.0,
-   "pct": 36.0
+   "pct": 36.9
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T18:21:22Z",
+ "updated": "2026-09-29T10:18:00Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4113,7 +4113,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18499912149",
@@ -5408,23 +5408,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18357323015",
-   "name": "Materac 120x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357323015",
-   "sku": "MTP2",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18354920344",
    "name": "Materac 160x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
    "shop": "tora_official",
@@ -5643,7 +5626,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034807609",
@@ -8091,7 +8074,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18744050657",
@@ -8414,7 +8397,7 @@
     "4": 1,
     "5": 26
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17649575093",
@@ -9001,13 +8984,13 @@
    "url": "https://allegro.pl/oferta/18932235606",
    "sku": "",
    "avg": 4.73,
-   "reviews": 551,
+   "reviews": 552,
    "dist": {
     "1": 27,
     "2": 5,
     "3": 7,
     "4": 14,
-    "5": 498
+    "5": 499
    },
    "salesBand": "1-9"
   },
@@ -9018,13 +9001,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3032,
+   "reviews": 3034,
    "dist": {
     "1": 97,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2811
+    "5": 2813
    },
    "salesBand": "1-9"
   }
