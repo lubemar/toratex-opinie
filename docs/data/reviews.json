@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-30T10:09:46Z",
+ "updated": "2026-09-30T16:37:38Z",
  "reviews": [
+  {
+   "id": "6abcf529d5203882dd452205",
+   "offerId": "17705687515",
+   "offerName": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "rating": 5.0,
+   "content": "Poduszka super wygodna. Idealna na wysokość, miękka, lekka, dla mnie najlepsza z dotychczasowych.",
+   "author": "C...1",
+   "date": "2026-09-30T11:40:25.935Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN017",
+   "ean": "",
+   "firstSeen": "2026-09-30T16:37:38Z"
+  },
   {
    "id": "6abaadeb3c778f03c21acc27",
    "offerId": "18529989637",
@@ -768,6 +784,22 @@
    "sku": "LN018 CLASSIC",
    "ean": "",
    "firstSeen": "2026-08-18T11:19:14Z"
+  },
+  {
+   "id": "6a820bd4b5cb3908d957ddbc",
+   "offerId": "17649517391",
+   "offerName": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "rating": 5.0,
+   "content": "Szczerze polecam po kilku tygodniach użytkowania. Poduszka nie jest pusta w środku ani wkład się nie kulkuje.",
+   "author": "C...4",
+   "date": "2026-08-16T19:13:24.616Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN099",
+   "ean": "",
+   "firstSeen": "2026-09-30T16:37:38Z"
   },
   {
    "id": "6a819541c3795ed9522199ba",
