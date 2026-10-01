@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T10:37:06Z",
+ "updated": "2026-10-01T17:15:08Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5507,7 +5507,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18141905984",
@@ -6476,7 +6476,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17668190356",
@@ -7139,7 +7139,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18527475001",
@@ -7292,7 +7292,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18952596143",
@@ -8117,13 +8117,13 @@
    "url": "https://allegro.pl/oferta/17668561952",
    "sku": "ZEST-LN112",
    "avg": 5.0,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "10-49"
   },
@@ -8134,13 +8134,13 @@
    "url": "https://allegro.pl/oferta/17629561930",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "1-9"
   },
@@ -8151,13 +8151,13 @@
    "url": "https://allegro.pl/oferta/17626892622",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "10-49"
   },
@@ -8168,13 +8168,13 @@
    "url": "https://allegro.pl/oferta/17622515513",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "10-49"
   },
@@ -8185,13 +8185,13 @@
    "url": "https://allegro.pl/oferta/17503922152",
    "sku": "ZEST-LN112",
    "avg": 5.0,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "0"
   },
@@ -8202,13 +8202,13 @@
    "url": "https://allegro.pl/oferta/17220075486",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 20
+    "5": 21
    },
    "salesBand": "1-9"
   },
@@ -8315,23 +8315,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 27
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18260334434",
    "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
    "shop": "tora_official",
@@ -8381,6 +8364,23 @@
     "5": 27
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 28,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 28
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256405995",
@@ -9001,13 +9001,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3040,
+   "reviews": 3041,
    "dist": {
     "1": 97,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2819
+    "5": 2820
    },
    "salesBand": "1-9"
   }

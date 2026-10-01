@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T10:37:06Z",
+ "updated": "2026-10-01T17:15:07Z",
  "reviews": [
   {
    "id": "6abcf529d5203882dd452205",
@@ -146,6 +146,22 @@
    "firstSeen": "2026-09-22T17:53:25Z"
   },
   {
+   "id": "6aafe2aa913b6df1b99e4149",
+   "offerId": "17668561952",
+   "offerName": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668561952",
+   "rating": 5.0,
+   "content": "Poduszki jak dla mnie dość twarde, ale dlatego że są pełne pierza i plusem jest wyjęcie części pierza co uczyniłam. Ta możliwość na plus.",
+   "author": "a...s",
+   "date": "2026-09-20T13:42:02.829Z",
+   "pros": "",
+   "cons": "",
+   "sku": "ZEST-LN112",
+   "ean": "",
+   "firstSeen": "2026-10-01T17:15:07Z"
+  },
+  {
    "id": "6aae3d79ac6d8c70a2611bfd",
    "offerId": "18466561803",
    "offerName": "Poszewka 70x80 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
@@ -160,6 +176,22 @@
    "sku": "LN106B",
    "ean": "",
    "firstSeen": "2026-09-19T08:26:12Z"
+  },
+  {
+   "id": "6aab120bc2d5e2cf7d58f266",
+   "offerId": "17817794007",
+   "offerName": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "rating": 5.0,
+   "content": "bardzo dobry produkt , super gatunek tkaniny",
+   "author": "b...A",
+   "date": "2026-09-16T22:02:51.427Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN195",
+   "ean": "",
+   "firstSeen": "2026-10-01T17:15:07Z"
   },
   {
    "id": "6aab11d8ac6d8c70a2605870",
