@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T10:13:57Z",
+ "updated": "2026-10-02T16:29:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -636,6 +636,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18690994684",
    "sku": "",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18638233463",
+   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 500 GSM barberskie 10 sztuk SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18638233463",
+   "sku": "LN032-ZEST-BARB",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -7088,7 +7105,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003556744",
@@ -8363,7 +8380,7 @@
     "4": 1,
     "5": 27
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215776241",
@@ -8514,6 +8531,23 @@
     "2": 0,
     "3": 0,
     "4": 1,
+    "5": 30
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 32,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
     "5": 30
    },
    "salesBand": "1-9"
