@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T22:10:21Z",
+ "updated": "2026-10-02T10:13:57Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -425,23 +425,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18823861784",
-   "name": "Komplet pościeli 180x200 2x50x70 ZESTAW adamaszek 100% BAWEŁNA koperta TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18823861784",
-   "sku": "LN192",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18823817869",
@@ -1362,23 +1345,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18500004422",
-   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18500004422",
-   "sku": "LN101Z",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18499978579",
    "name": "Kołdra 200x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -2005,7 +1971,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18142366381",
@@ -3453,6 +3419,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18823861784",
+   "name": "Komplet pościeli 180x200 2x50x70 ZESTAW adamaszek 100% BAWEŁNA koperta TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18823861784",
+   "sku": "LN192",
+   "avg": 4.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18505455735",
    "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
@@ -3526,23 +3509,6 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18529995021",
    "sku": "MR6",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18529969081",
-   "name": "Materac ROYAL 140x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529969081",
-   "sku": "MR3",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -4063,6 +4029,23 @@
     "5": 1
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18500004422",
+   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18500004422",
+   "sku": "LN101Z",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18499961986",
@@ -4597,23 +4580,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17988539895",
    "sku": "LN167",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17960874210",
-   "name": "Materac 140x200 Twardy H5 kieszeniowy sprężynowy Antyalergiczny TORA 30 cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17960874210",
-   "sku": "MR3",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -6020,23 +5986,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18488887868",
-   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488887868",
-   "sku": "LN003B",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18091150199",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -6187,7 +6136,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17737134155",
@@ -6382,6 +6331,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18488893245",
    "sku": "LN004B",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18488887868",
+   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "sku": "LN003B",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7887,7 +7853,7 @@
     "4": 0,
     "5": 14
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17736860426",
@@ -8366,23 +8332,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 28,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 28
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18256405995",
    "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
    "shop": "tora_official",
@@ -8414,7 +8363,7 @@
     "4": 1,
     "5": 27
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17215776241",
@@ -8432,6 +8381,23 @@
     "5": 27
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 29,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 29
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256894763",
@@ -8984,13 +8950,13 @@
    "url": "https://allegro.pl/oferta/18932235606",
    "sku": "",
    "avg": 4.73,
-   "reviews": 552,
+   "reviews": 553,
    "dist": {
     "1": 27,
     "2": 5,
     "3": 7,
     "4": 14,
-    "5": 499
+    "5": 500
    },
    "salesBand": "1-9"
   },
@@ -9001,13 +8967,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3041,
+   "reviews": 3039,
    "dist": {
-    "1": 97,
+    "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2820
+    "5": 2819
    },
    "salesBand": "1-9"
   }
