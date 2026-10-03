@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T09:34:06Z",
+ "updated": "2026-10-03T14:30:39Z",
  "reviews": [
   {
    "id": "6abf7e925db169534602de38",
@@ -192,6 +192,22 @@
    "sku": "LN106B",
    "ean": "",
    "firstSeen": "2026-09-19T08:26:12Z"
+  },
+  {
+   "id": "6aad4a5f5174705e7d2f3678",
+   "offerId": "18699913720",
+   "offerName": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "rating": 5.0,
+   "content": "Miękki, gruby. Dobra jakość. Polecam",
+   "author": "K...s",
+   "date": "2026-09-18T14:27:43.269Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN032",
+   "ean": "",
+   "firstSeen": "2026-10-03T14:30:39Z"
   },
   {
    "id": "6aab120bc2d5e2cf7d58f266",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T09:34:07Z",
+ "updated": "2026-10-03T14:30:39Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -4606,7 +4606,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17943063136",
@@ -5575,7 +5575,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034816945",
@@ -8536,6 +8536,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 32,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 30
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17607027219",
    "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
    "shop": "toratex_pl",
@@ -8966,12 +8983,12 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/18932235606",
    "sku": "",
-   "avg": 4.73,
-   "reviews": 554,
+   "avg": 4.72,
+   "reviews": 555,
    "dist": {
     "1": 27,
     "2": 5,
-    "3": 7,
+    "3": 8,
     "4": 14,
     "5": 501
    },
