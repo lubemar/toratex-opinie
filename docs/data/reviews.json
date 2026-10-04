@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-03T18:28:27Z",
+ "updated": "2026-10-04T10:22:01Z",
  "reviews": [
+  {
+   "id": "6ac10e8c04dceb7f873d6d56",
+   "offerId": "18932235606",
+   "offerName": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18932235606",
+   "rating": 3.0,
+   "content": "Może i kostka ma 45 w ale kabel to dramat niestety, telefon ładuje się kilka godzin. Co ciekawe po podłączeniu pokazuję się info że pełne ładowanie potrwa załóżmy 45 min poczym trwa 4h.",
+   "author": "m...x",
+   "date": "2026-10-03T14:17:48.259Z",
+   "pros": "",
+   "cons": "Bardzo długie ładowanie",
+   "sku": "",
+   "ean": "",
+   "firstSeen": "2026-10-04T10:22:01Z"
+  },
   {
    "id": "6abf7e925db169534602de38",
    "offerId": "18500004422",
@@ -4554,6 +4570,22 @@
    "sku": "",
    "ean": "",
    "firstSeen": "2026-08-12T14:16:49Z"
+  },
+  {
+   "id": "69fa0f128af7fcaaa229af55",
+   "offerId": "17619126647",
+   "offerName": "Bambosze kapcie pantofle męskie twarda podeszwa wsuwane hotel certyfikowane",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17619126647",
+   "rating": 5.0,
+   "content": "Ogólnie ok, mógłby być ciut dłuższe wkładki.",
+   "author": "t...n",
+   "date": "2026-05-05T15:38:58.946Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN126",
+   "ean": "",
+   "firstSeen": "2026-10-04T10:22:01Z"
   },
   {
    "id": "69f7547b990aedbaf2374d1b",
