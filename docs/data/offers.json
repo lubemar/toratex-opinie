@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T10:22:02Z",
+ "updated": "2026-10-04T15:35:56Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -360,7 +360,7 @@
   },
   {
    "offerId": "18915603169",
-   "name": "Zestaw KOŁDRA 200x220 + 2xPODUSZKA 50x70 puch pierze gęsi 100% bawełna TORA",
+   "name": "Zestaw KOŁDRA 200x220 2x PODUSZKA 50x70 puch pierze gęsi 100% bawełna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915603169",
    "sku": "LN114",
@@ -1350,6 +1350,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18499978579",
    "sku": "LN025Z",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18499943307",
+   "name": "Kołdra 160x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499943307",
+   "sku": "LN024Z",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -6391,7 +6408,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17943125982",
