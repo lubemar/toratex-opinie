@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T18:55:51Z",
+ "updated": "2026-10-05T11:04:22Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -258,7 +258,7 @@
   },
   {
    "offerId": "18918691518",
-   "name": "Szlafrok MĘSKI DAMSKI Bawełniany 100% Hotelowy SPA antyalergiczny UNISEX L",
+   "name": "Szlafrok DAMSKI Bawełniany 100% Hotelowy SPA antyalergiczny MĘSKI UNISEX L",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18918691518",
    "sku": "LN130 ",
@@ -275,7 +275,7 @@
   },
   {
    "offerId": "18916376346",
-   "name": "Szlafrok DAMSKI MĘSKI Bawełniany 100% Hotelowy SPA antyalergiczny UNISEX M",
+   "name": "Szlafrok DAMSKI Bawełniany 100% Hotelowy SPA antyalergiczny MĘSKI UNISEX M",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18916376346",
    "sku": "LN129 ",
@@ -631,23 +631,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18638233463",
-   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 500 GSM barberskie 10 sztuk SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18638233463",
-   "sku": "LN032-ZEST-BARB",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18580968394",
    "name": "Kosz na śmieci podwójny MIEJSKI 70L z popielnicą PREMIUM wytrzymały TORA",
    "shop": "toratex_pl",
@@ -738,23 +721,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18577834131",
    "sku": "MAT-DUB-200-H5",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18577829584",
-   "name": "Materac 180x200 H5 twardy sprężynowo kieszeniowy z TOPPEREM vip 32cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18577829584",
-   "sku": "MAT-DUB-180-H5",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1350,23 +1316,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18499978579",
    "sku": "LN025Z",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18499943307",
-   "name": "Kołdra 160x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18499943307",
-   "sku": "LN024Z",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2620,23 +2569,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18738956159",
-   "name": "Materac 180x200 BARDZO TWARDY H5 Sprężynowy kieszeniowy Topper WYSOKI 32 cm",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18738956159",
-   "sku": "MAT-DUB-180-H5",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18738855360",
    "name": "Materac 180x200 H3 ŚREDNIO TWARDY Sprężynowy Kieszeniowy z TOPPEREM 32 cm",
    "shop": "TORATEX",
@@ -3722,7 +3654,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18060331493",
@@ -3883,6 +3815,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18580906124",
    "sku": "LN007KP",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18577829584",
+   "name": "Materac 180x200 H5 twardy sprężynowo kieszeniowy z TOPPEREM vip 32cm TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18577829584",
+   "sku": "MAT-DUB-180-H5",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -4487,7 +4436,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18031586195",
@@ -4743,6 +4692,23 @@
     "5": 1
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18738956159",
+   "name": "Materac 180x200 BARDZO TWARDY H5 Sprężynowy kieszeniowy Topper WYSOKI 32 cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738956159",
+   "sku": "MAT-DUB-180-H5",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18738917440",
@@ -6085,7 +6051,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17993906139",
@@ -7091,23 +7057,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17814933003",
-   "name": "Pościel 200x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17814933003",
-   "sku": "LN193",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "16003556744",
    "name": "RĘCZNIK 30X30 DO RĄK TWARZY BAWEŁNIANY CHŁONNY BIAŁY HOTELOWY",
    "shop": "TORATEX",
@@ -7329,23 +7278,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18354950161",
-   "name": "Materac 90x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18354950161",
-   "sku": "MT1",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18256249740",
    "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
    "shop": "tora_official",
@@ -7378,23 +7310,6 @@
     "5": 9
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18034882348",
-   "name": "Materac 90x200 cm TWARDY H4 sprężynowy kieszeniowy Antyalergiczny TORA 20cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034882348",
-   "sku": "MT1",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17649517391",
@@ -7496,7 +7411,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16440523108",
@@ -7703,23 +7618,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17817853435",
-   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817853435",
-   "sku": "LN196",
-   "avg": 4.92,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 12
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17702973302",
    "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
    "shop": "toratex_pl",
@@ -7733,6 +7631,23 @@
     "3": 0,
     "4": 1,
     "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17817853435",
+   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817853435",
+   "sku": "LN196",
+   "avg": 4.93,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 13
    },
    "salesBand": "10-49"
   },
@@ -8536,23 +8451,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18699913720",
-   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18699913720",
-   "sku": "LN032",
-   "avg": 4.94,
-   "reviews": 32,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 30
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17607027219",
    "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
    "shop": "toratex_pl",
@@ -8899,13 +8797,13 @@
    "url": "https://allegro.pl/oferta/17898750810",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 76,
+   "reviews": 77,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 73
+    "5": 74
    },
    "salesBand": "10-49"
   },
@@ -8916,13 +8814,13 @@
    "url": "https://allegro.pl/oferta/17898747895",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 76,
+   "reviews": 77,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 73
+    "5": 74
    },
    "salesBand": "0"
   },
@@ -8933,13 +8831,13 @@
    "url": "https://allegro.pl/oferta/17899261156",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 76,
+   "reviews": 77,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 73
+    "5": 74
    },
    "salesBand": "1-9"
   },
@@ -8950,13 +8848,13 @@
    "url": "https://allegro.pl/oferta/17899259297",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 76,
+   "reviews": 77,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 73
+    "5": 74
    },
    "salesBand": "1-9"
   },
@@ -8967,13 +8865,13 @@
    "url": "https://allegro.pl/oferta/17899257378",
    "sku": "LN001KP",
    "avg": 4.96,
-   "reviews": 76,
+   "reviews": 77,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 73
+    "5": 74
    },
    "salesBand": "1-9"
   },
@@ -9001,13 +8899,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3041,
+   "reviews": 3042,
    "dist": {
     "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2821
+    "5": 2822
    },
    "salesBand": "1-9"
   }
