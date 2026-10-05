@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T11:04:22Z",
+ "updated": "2026-10-05T19:33:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2056,7 +2056,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18121281080",
@@ -4385,7 +4385,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034633986",
@@ -6221,7 +6221,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18357689701",
@@ -6972,23 +6972,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18529989637",
-   "name": "Materac ROYAL 180x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529989637",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527563402",
    "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
    "shop": "tora_official",
@@ -7038,23 +7021,6 @@
     "5": 7
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17945784134",
-   "name": "Materac 180x200cm Twardy H5 sprężynowo kieszeniowy ANTYALERGICZNY 30cm TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17945784134",
-   "sku": "MR5",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "16003556744",
@@ -7309,7 +7275,7 @@
     "4": 0,
     "5": 9
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17649517391",
@@ -7360,7 +7326,7 @@
     "4": 0,
     "5": 9
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17616123601",
@@ -8383,23 +8349,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 30,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 30
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18253741536",
    "name": "Poduszka hotelowa 40x40 jasiek dekoracyjna do spania 350g",
    "shop": "tora_official",
@@ -8449,6 +8398,23 @@
     "5": 30
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 31,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 31
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17607027219",
