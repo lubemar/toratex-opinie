@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T17:02:49Z",
+ "updated": "2026-10-06T21:30:24Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -500,23 +500,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18813609780",
    "sku": "LN01KPG",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18803958066",
-   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18803958066",
-   "sku": "LN101B",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2277,7 +2260,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18006618799",
@@ -3725,6 +3708,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18803958066",
+   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18803958066",
+   "sku": "LN101B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18788951911",
    "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -4997,7 +4997,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16369379143",
@@ -5745,7 +5745,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18057347746",
@@ -7862,13 +7862,13 @@
    "url": "https://allegro.pl/oferta/18789000876",
    "sku": "LN097",
    "avg": 4.95,
-   "reviews": 20,
+   "reviews": 21,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 19
+    "5": 20
    },
    "salesBand": "10-49"
   },
@@ -8516,7 +8516,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17508413425",
