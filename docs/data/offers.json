@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:58:31Z",
+ "updated": "2026-10-06T17:02:49Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -296,23 +296,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915967200",
    "sku": "ZEST-X2LN037-X2LN035",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18915846787",
-   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915846787",
-   "sku": "ZEST-X2LN037L-X2LN035L",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1091,7 +1074,7 @@
   },
   {
    "offerId": "18523767660",
-   "name": "Poszwa na kołdrę 160x200 100% BAWEŁNA hotelowa BIAŁA 200TC zakładka",
+   "name": "Poszewka na kołdrę 160x200 BAWEŁNA 100% Poszwa hotelowa BIAŁA 200TC TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18523767660",
    "sku": "LN200B",
@@ -1108,7 +1091,7 @@
   },
   {
    "offerId": "18523737210",
-   "name": "Poszwa na kołdrę 140x200 100% BAWEŁNA hotelowa BIAŁA 200TC zakładka",
+   "name": "Posezwka na kołdrę 140x200 100% BAWEŁNA Poszwa hotelowa Gęstość 200TC TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18523737210",
    "sku": "LN108B",
@@ -1716,7 +1699,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18207387648",
@@ -2162,7 +2145,7 @@
   },
   {
    "offerId": "18059669773",
-   "name": "Poszwa na kołdrę 140x200 hotelowa jakość trwała komfortowa na zakładkę",
+   "name": "Poszwa na kołdrę Poszewka 140x200 Bawełna Mikrofibra Koperta Gęstość 250 TC",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18059669773",
    "sku": "LN109",
@@ -2345,7 +2328,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17988401796",
@@ -4270,7 +4253,7 @@
   },
   {
    "offerId": "18057303557",
-   "name": "Poszwa 140x200 na kołdrę 100% BAWEŁNA certyfikowana hotelowa zakładka",
+   "name": "Poszewka na kołdrę 140x20 100% BAWEŁNA Poszwa hotelowa Antyalergiczna 300TC",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18057303557",
    "sku": "LN108",
@@ -4491,7 +4474,7 @@
   },
   {
    "offerId": "17993406851",
-   "name": "Poszwa 220x240 na kołdrę 100% BAWEŁNA certyfikowana hotelowa zakładka",
+   "name": "Poszewka na kołdrę 220x240 BAWEŁNA 100% Gęstość 300 TC Poszwa Hotelowa TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17993406851",
    "sku": "LN180",
@@ -5290,7 +5273,7 @@
   },
   {
    "offerId": "18949799334",
-   "name": "Poszwa na kołdrę 140x200 HOTELOWA bawełna/mikrofibra TORA",
+   "name": "Poszewka na kołdrę 140x200 Poszwa HOTELOWA Zamek Bawełna Mikrofibra TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18949799334",
    "sku": "LN111",
@@ -5443,7 +5426,7 @@
   },
   {
    "offerId": "18059476620",
-   "name": "Poszwa 140x200 na kołdrę biała jakość hotelowa 100% bawełna na zamek",
+   "name": "Poszewka 140x200 na kołdrę 100% BAWEŁNA ZAMEK 300TC Poszwa Hotelowa",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18059476620",
    "sku": "LN110",
@@ -5766,7 +5749,7 @@
   },
   {
    "offerId": "18057347746",
-   "name": "Poszwa 220x200 na kołdrę 100% BAWEŁNA certyfikowana hotelowa zakładka",
+   "name": "Poszewka 220x200 Poszwa na kołdrę 100% BAWEŁNA Antyalergiczna 300 TC",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18057347746",
    "sku": "LN102",
@@ -6513,23 +6496,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18358210515",
-   "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358210515",
-   "sku": "MCP4",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18357698062",
    "name": "Materac 160x200 Kieszeniowy Sprężynowy Średnio Twardy Antyalergiczny",
    "shop": "tora_official",
@@ -6586,23 +6552,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075547708",
    "sku": "LN001",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034399556",
-   "name": "Materac 160x200 H4 Średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034399556",
-   "sku": "MCP4",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -6717,19 +6666,36 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18618247638",
-   "name": "Poduszka Hotelowa 70x80 900g 100% Mikrofibra Antyalergiczna Komfortowa",
+   "offerId": "18358210515",
+   "name": "Materac 160x200 Kieszeniowy 25cm Średnio Twardy z Topperem Kaszmir",
    "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18618247638",
-   "sku": "LN021",
-   "avg": 5.0,
+   "url": "https://allegro.pl/oferta/18358210515",
+   "sku": "MCP4",
+   "avg": 4.83,
    "reviews": 6,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 0,
-    "5": 6
+    "4": 1,
+    "5": 5
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034399556",
+   "name": "Materac 160x200 H4 Średnio twardy KIESZENIOWY z TOPEREM Kaszmir wysoki 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034399556",
+   "sku": "MCP4",
+   "avg": 4.83,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 5
    },
    "salesBand": "1-9"
   },
@@ -6766,40 +6732,6 @@
     "5": 6
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18724257399",
-   "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18724257399",
-   "sku": "ZEST-X10LN037L",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18587623655",
-   "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587623655",
-   "sku": "LN021",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18034680307",
@@ -6904,6 +6836,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18618247638",
+   "name": "Poduszka Hotelowa 70x80 900g 100% Mikrofibra Antyalergiczna Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18618247638",
+   "sku": "LN021",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18527563402",
    "name": "Ręcznik TORA 30x30 100% Bawełna GRANAT zestaw 10x do twarzy rąk SPA 600GSM",
    "shop": "tora_official",
@@ -6926,6 +6875,23 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18364264225",
    "sku": "LN032",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18587623655",
+   "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587623655",
+   "sku": "LN021",
    "avg": 5.0,
    "reviews": 7,
    "dist": {
@@ -8244,7 +8210,7 @@
     "4": 1,
     "5": 27
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215773823",
@@ -8668,74 +8634,6 @@
     "3": 0,
     "4": 4,
     "5": 67
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17899261156",
-   "name": "KOSZO-POPIELNICA 30L KOSZ NA ŚMIECI POPIELNICA POPIELNICZKA Z WIADERKIEM",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17899261156",
-   "sku": "LN001KP",
-   "avg": 4.96,
-   "reviews": 77,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 74
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17899259297",
-   "name": "POPIELNICA ZEWNĘTRZNA STOJĄCA KOSZ ŚMIETNIK METALOWY OGRODOWY 30L 2W1",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17899259297",
-   "sku": "LN001KP",
-   "avg": 4.96,
-   "reviews": 77,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 74
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17899257378",
-   "name": "POPIELNICA METALOWY ŚMIETNIK KOSZ OGRODOWY STAL NIERDZEWNA POPIELNICZKA 30L",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17899257378",
-   "sku": "LN001KP",
-   "avg": 4.96,
-   "reviews": 77,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 74
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18932235606",
-   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18932235606",
-   "sku": "",
-   "avg": 4.72,
-   "reviews": 556,
-   "dist": {
-    "1": 28,
-    "2": 5,
-    "3": 8,
-    "4": 14,
-    "5": 501
    },
    "salesBand": "1-9"
   },
