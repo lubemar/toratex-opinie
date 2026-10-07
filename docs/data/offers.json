@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:30:24Z",
+ "updated": "2026-10-07T10:44:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5320,7 +5320,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521670335",
@@ -7785,7 +7785,7 @@
     "4": 1,
     "5": 18
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18188079725",
@@ -7973,40 +7973,6 @@
     "5": 21
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18527282249",
-   "name": "Ręcznik TORA 70x140 100% Bawełna GRUBY do ciała KĄPIELOWY 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527282249",
-   "sku": "LN037L",
-   "avg": 4.78,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 3,
-    "5": 19
-   },
-   "salesBand": "50-99"
-  },
-  {
-   "offerId": "18457325725",
-   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18457325725",
-   "sku": "LN037L",
-   "avg": 4.78,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 3,
-    "5": 19
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18931396451",
@@ -8516,7 +8482,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17508413425",
