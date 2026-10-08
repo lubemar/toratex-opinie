@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:28:19Z",
+ "updated": "2026-10-08T11:05:35Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1138,7 +1138,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18505544190",
@@ -6326,23 +6326,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17943125982",
-   "name": "Materac 160x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17943125982",
-   "sku": "MP4",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17780718452",
    "name": "Pokrowiec na materac 90x200 ochraniacz WODOODPORNY nakładka pikowana",
    "shop": "toratex_pl",
@@ -7819,7 +7802,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17615651795",
@@ -7938,7 +7921,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17503922152",
@@ -8022,23 +8005,6 @@
     "3": 0,
     "4": 1,
     "5": 24
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
    },
    "salesBand": "10-49"
   },
@@ -8434,6 +8400,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18999698439",
+   "name": "POPIELNICA ZEWNĘTRZNA STOJĄCA KOSZ ŚMIETNIK METALOWY OGRODOWY 30L 2W1",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18999698439",
+   "sku": "LN001KP",
+   "avg": 4.95,
+   "reviews": 55,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 52
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17668946883",
    "name": "Kapcie pantofle damskie domowe twarda podeszwa odporna na ścieranie 35-38",
    "shop": "toratex_pl",
@@ -8610,13 +8593,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3043,
+   "reviews": 3044,
    "dist": {
     "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2823
+    "5": 2824
    },
    "salesBand": "1-9"
   }
