@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:05:35Z",
+ "updated": "2026-10-08T18:15:26Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3708,23 +3708,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18803958066",
-   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18803958066",
-   "sku": "LN101B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18788951911",
    "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -4453,7 +4436,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17993463878",
@@ -5255,23 +5238,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18354920344",
-   "name": "Materac 160x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18354920344",
-   "sku": "MT4",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18949799334",
    "name": "Poszewka na kołdrę 140x200 Poszwa HOTELOWA Zamek Bawełna Mikrofibra TORA",
    "shop": "toratex_pl",
@@ -5294,6 +5260,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18928291232",
    "sku": "LN006B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18803958066",
+   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18803958066",
+   "sku": "LN101B",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5498,23 +5481,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034816945",
    "sku": "MTP4",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034685396",
-   "name": "Materac 160x200 TWARDY H5 SPRĘŻYNOWO KIESZENIOWY Hotelowy Tora 20cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034685396",
-   "sku": "MT4",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5867,6 +5833,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18354920344",
+   "name": "Materac 160x200 Sprężynowy Kieszeniowy TWARDY 7 Stref PREMIUM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18354920344",
+   "sku": "MT4",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18222666218",
    "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Plażowy SPA Hotelowy",
    "shop": "tora_official",
@@ -5974,6 +5957,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034801370",
    "sku": "MTP1",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034685396",
+   "name": "Materac 160x200 TWARDY H5 SPRĘŻYNOWO KIESZENIOWY Hotelowy Tora 20cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034685396",
+   "sku": "MT4",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -6459,7 +6459,7 @@
     "4": 1,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18618276010",
@@ -6663,7 +6663,7 @@
     "4": 1,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034399556",
@@ -7072,6 +7072,23 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18154623891",
+   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18154623891",
+   "sku": "LN033-ZEST-BARB",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17665514390",
@@ -8593,13 +8610,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3044,
+   "reviews": 3046,
    "dist": {
     "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2824
+    "5": 2826
    },
    "salesBand": "1-9"
   }
