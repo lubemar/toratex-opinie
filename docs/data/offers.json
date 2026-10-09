@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:46:37Z",
+ "updated": "2026-10-09T22:05:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -530,7 +530,7 @@
   },
   {
    "offerId": "18813609780",
-   "name": "Kołdra 160x200 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
+   "name": "Kołdra 160x200 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna 100% 350 g/m2 TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18813609780",
    "sku": "LN01KPG",
@@ -4708,7 +4708,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18738956159",
@@ -5524,7 +5524,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18141905984",
@@ -8295,7 +8295,7 @@
     "4": 1,
     "5": 27
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17702908317",
@@ -8780,13 +8780,13 @@
    "url": "https://allegro.pl/oferta/17668996138",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 67
+    "5": 68
    },
    "salesBand": "10-49"
   },
@@ -8797,13 +8797,13 @@
    "url": "https://allegro.pl/oferta/17619126647",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 67
+    "5": 68
    },
    "salesBand": "1-9"
   },
@@ -8814,13 +8814,13 @@
    "url": "https://allegro.pl/oferta/17533061215",
    "sku": "ZEST-LN126-10",
    "avg": 4.9,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 67
+    "5": 68
    },
    "salesBand": "10-49"
   },
@@ -8831,13 +8831,13 @@
    "url": "https://allegro.pl/oferta/17393327828",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 67
+    "5": 68
    },
    "salesBand": "10-49"
   },
@@ -8848,13 +8848,13 @@
    "url": "https://allegro.pl/oferta/17235708662",
    "sku": "LN126",
    "avg": 4.9,
-   "reviews": 72,
+   "reviews": 73,
    "dist": {
     "1": 0,
     "2": 1,
     "3": 0,
     "4": 4,
-    "5": 67
+    "5": 68
    },
    "salesBand": "1-9"
   },
