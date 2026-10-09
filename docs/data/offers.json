@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:15:26Z",
+ "updated": "2026-10-09T11:05:12Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -254,7 +254,41 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19003226916",
+   "name": "Prześcieradło z gumką 180x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19003226916",
+   "sku": "LN215",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19002914133",
+   "name": "Materac 140x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19002914133",
+   "sku": "MD3",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18918691518",
@@ -1326,6 +1360,23 @@
     "5": 0
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18489115804",
+   "name": "Prześcieradło z gumką 90x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489115804",
+   "sku": "LN211",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18488840499",
@@ -3640,6 +3691,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19002974964",
+   "name": "Materac 140x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19002974964",
+   "sku": "MV3",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18952606211",
    "name": "Poszewka 70x80 na poduszkę HOTELOWA bawełna/mikrofibra TORA",
    "shop": "toratex_pl",
@@ -3832,6 +3900,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18524523918",
    "sku": "LN239S",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18523941895",
+   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18523941895",
+   "sku": "LN208B",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5238,6 +5323,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19003001331",
+   "name": "Materac 140x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19003001331",
+   "sku": "MP3",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19002983599",
+   "name": "Materac 180x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19002983599",
+   "sku": "MV5",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18949799334",
    "name": "Poszewka na kołdrę 140x200 Poszwa HOTELOWA Zamek Bawełna Mikrofibra TORA",
    "shop": "toratex_pl",
@@ -5340,6 +5459,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18489156027",
+   "name": "Prześcieradło z gumką 160x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489156027",
+   "sku": "LN214",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18488925598",
    "name": "Prześcieradło gumka 4 rogi 200x220x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -5439,7 +5575,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034883741",
@@ -6003,6 +6139,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18031413625",
+   "name": "Materac 120x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 strefowy Z TOPPEREM",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031413625",
+   "sku": "MSP2",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17993906139",
    "name": "Pokrowiec na materac 180x200 ochraniacz nakładka wodoodporna pikowana",
    "shop": "toratex_pl",
@@ -6017,7 +6170,24 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17955527193",
+   "name": "Materac 200x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17955527193",
+   "sku": "MV6",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17814959525",
@@ -7074,11 +7244,11 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18154623891",
-   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
+   "offerId": "17955486486",
+   "name": "Materac 160x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18154623891",
-   "sku": "LN033-ZEST-BARB",
+   "url": "https://allegro.pl/oferta/17955486486",
+   "sku": "MV4",
    "avg": 5.0,
    "reviews": 8,
    "dist": {
@@ -7088,24 +7258,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17665514390",
-   "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17665514390",
-   "sku": "LN132",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17626682772",
@@ -7123,23 +7276,6 @@
     "5": 8
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220235700",
-   "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220235700",
-   "sku": "LN132",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18256249740",
@@ -7176,6 +7312,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17665514390",
+   "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17665514390",
+   "sku": "LN132",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17649517391",
    "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
    "shop": "toratex_pl",
@@ -7191,6 +7344,23 @@
     "5": 9
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17220235700",
+   "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220235700",
+   "sku": "LN132",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17220034861",
@@ -7344,6 +7514,23 @@
     "5": 10
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "19003255628",
+   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19003255628",
+   "sku": "LN238L",
+   "avg": 4.83,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 10
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18489030107",
@@ -7584,6 +7771,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18485608818",
+   "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485608818",
+   "sku": "LN033B-zestaw",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17871717400",
    "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
    "shop": "toratex_pl",
@@ -7650,6 +7854,23 @@
     "5": 14
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17736860426",
@@ -7856,23 +8077,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18789000876",
-   "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18789000876",
-   "sku": "LN097",
-   "avg": 4.95,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 20
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17668561952",
    "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
    "shop": "toratex_pl",
@@ -7891,7 +8095,7 @@
   },
   {
    "offerId": "17629561930",
-   "name": "Poduszka 50x70 z gęsim pierzem puchowa gęsto tkana profilowana przciwbólowa",
+   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17629561930",
    "sku": "LN112",
@@ -7938,7 +8142,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17503922152",
@@ -7955,7 +8159,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17220075486",
@@ -7973,6 +8177,23 @@
     "5": 21
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18789000876",
+   "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18789000876",
+   "sku": "LN097",
+   "avg": 4.95,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 21
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18931396451",
@@ -8022,6 +8243,23 @@
     "3": 0,
     "4": 1,
     "5": 24
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 27,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 26
    },
    "salesBand": "10-49"
   },
@@ -8125,7 +8363,7 @@
     "4": 1,
     "5": 27
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18256894763",
@@ -8431,7 +8669,7 @@
     "4": 3,
     "5": 52
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668946883",
@@ -8550,7 +8788,7 @@
     "4": 4,
     "5": 67
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17533061215",

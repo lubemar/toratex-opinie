@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-08T18:15:26Z",
+ "updated": "2026-10-09T11:05:12Z",
  "reviews": [
+  {
+   "id": "6ac7f45f8621cc5e939a372e",
+   "offerId": "17220235700",
+   "offerName": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220235700",
+   "rating": 5.0,
+   "content": "Supper miękki...idealny strój wieczorowy...po kąpieli...polecam",
+   "author": "R...7",
+   "date": "2026-10-08T19:51:59.646Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN132",
+   "ean": "",
+   "firstSeen": "2026-10-09T11:05:12Z"
+  },
   {
    "id": "6ac7ce1a8621cc5e939a23fc",
    "offerId": "18803958066",
@@ -1361,6 +1377,22 @@
    "sku": "MD6",
    "ean": "",
    "firstSeen": "2026-07-28T16:01:06Z"
+  },
+  {
+   "id": "6a64c1f0dc32dfc6fa5a7ae4",
+   "offerId": "18485608818",
+   "offerName": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485608818",
+   "rating": 5.0,
+   "content": "Super produkt.Miekka prawdziwa bawełna.Polecam serdecznie.",
+   "author": "C...4",
+   "date": "2026-07-25T14:02:24.738Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN033B-zestaw",
+   "ean": "",
+   "firstSeen": "2026-10-09T11:05:12Z"
   },
   {
    "id": "6a6246600bb6abae2ba1c76b",
@@ -3588,6 +3620,22 @@
    "firstSeen": "2026-07-07T16:20:51Z"
   },
   {
+   "id": "6a1549fc0df6be4ff58a7f5e",
+   "offerId": "19002983599",
+   "offerName": "Materac 180x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19002983599",
+   "rating": 5.0,
+   "content": "Materac hotelowy Premium Toratex spełnił moje oczekiwania w 100%. Jest niezwykle wygodny, a jednocześnie zapewnia bardzo dobre podparcie dla całego ciała. Śpi się na nim jak w wysokiej klasy hotelu – komfortowo, stabilnie i naprawdę regenerująco. Od kiedy go używam, budzę się bardziej wypoczęta i bez uczucia napięcia w plecach.\n\nNa duży plus zasługuje również jakość wykonania. Materac jest solidny, estetyczny i sprawia wrażenie produktu z najwyższej półki. To zakup, który realnie wpłynął na jakość mojego snu. Zdecydowanie polecam materace Toratex osobom, które cenią komfort, trwałość i hotelowy standard we własnej sypialni.",
+   "author": "S...1",
+   "date": "2026-05-26T07:21:32.763Z",
+   "pros": "",
+   "cons": "",
+   "sku": "MV5",
+   "ean": "",
+   "firstSeen": "2026-10-09T11:05:12Z"
+  },
+  {
    "id": "6a146efa44755a060ad42a69",
    "offerId": "17700905931",
    "offerName": "Kołdra 200x220 letnia ODDYCHAJĄCA z cyrkulacją powietrza lekka TORA",
@@ -5404,6 +5452,22 @@
    "ean": ""
   },
   {
+   "id": "69cab81d9bb098007787cddd",
+   "offerId": "19003001331",
+   "offerName": "Materac 140x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19003001331",
+   "rating": 5.0,
+   "content": "Bardzo dobry materac. Polecam",
+   "author": "v...a",
+   "date": "2026-03-30T17:51:24.993Z",
+   "pros": "",
+   "cons": "",
+   "sku": "MP3",
+   "ean": "",
+   "firstSeen": "2026-10-09T11:05:12Z"
+  },
+  {
    "id": "69c965109bb0980077b45a1a",
    "offerId": "18154623891",
    "offerName": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
@@ -6471,6 +6535,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN105",
    "ean": ""
+  },
+  {
+   "id": "698de2f88bd48e74015070bd",
+   "offerId": "19002974964",
+   "offerName": "Materac 140x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19002974964",
+   "rating": 5.0,
+   "content": "Rewelacja miałem już kilka materacy ale ten jest super ,pod 120kg nie ugina się jest naprawdę stabilny i twardy polecam",
+   "author": "r...w",
+   "date": "2026-02-12T14:26:00.216Z",
+   "pros": "Sztywny, twardy zgodny z opisem",
+   "cons": "Brak",
+   "sku": "MV3",
+   "ean": "",
+   "firstSeen": "2026-10-09T11:05:12Z"
   },
   {
    "id": "698cf0468bd48e7401a3e446",
@@ -7655,6 +7735,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "MS4",
    "ean": ""
+  },
+  {
+   "id": "694115fb316c1bd9d840554f",
+   "offerId": "19003001331",
+   "offerName": "Materac 140x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19003001331",
+   "rating": 5.0,
+   "content": "",
+   "author": "C...3",
+   "date": "2025-12-16T08:19:07.742Z",
+   "pros": "Bardzo wygodny materac",
+   "cons": "",
+   "sku": "MP3",
+   "ean": "",
+   "firstSeen": "2026-10-09T11:05:12Z"
   },
   {
    "id": "69406064316c1bd9d8bf0739",
