@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:05:38Z",
+ "updated": "2026-10-10T10:17:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3900,23 +3900,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18524523918",
    "sku": "LN239S",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18523941895",
-   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18523941895",
-   "sku": "LN208B",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -8260,23 +8243,6 @@
     "3": 0,
     "4": 1,
     "5": 24
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
    },
    "salesBand": "10-49"
   },
