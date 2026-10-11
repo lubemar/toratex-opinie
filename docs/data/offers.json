@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T10:29:28Z",
+ "updated": "2026-10-11T16:29:39Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -415,23 +415,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915548810",
    "sku": "LN113",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18893820451",
-   "name": "Koszo popielnica klasyczna na ŚMIECI odpady do domu biura TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18893820451",
-   "sku": "K15",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -7805,23 +7788,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17871717400",
-   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17871717400",
-   "sku": "MR4",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17770335698",
    "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
    "shop": "toratex_pl",
@@ -8159,7 +8125,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17503922152",
