@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T20:25:13Z",
+ "updated": "2026-10-11T10:29:28Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -415,6 +415,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915548810",
    "sku": "LN113",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18893820451",
+   "name": "Koszo popielnica klasyczna na ŚMIECI odpady do domu biura TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18893820451",
+   "sku": "K15",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -6493,7 +6510,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17698345947",
@@ -7683,7 +7700,7 @@
     "4": 1,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17817853435",
@@ -8831,13 +8848,13 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3048,
+   "reviews": 3049,
    "dist": {
     "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2828
+    "5": 2829
    },
    "salesBand": "1-9"
   }
