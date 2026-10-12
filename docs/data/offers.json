@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T11:38:33Z",
+ "updated": "2026-10-12T20:38:08Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5167,7 +5167,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18013693211",
@@ -6173,23 +6173,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17814959525",
-   "name": "Pościel 200x220 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17814959525",
-   "sku": "LN194",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17811861924",
    "name": "Pościel 140x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
    "shop": "toratex_pl",
@@ -7071,7 +7054,7 @@
     "4": 0,
     "5": 7
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18527475001",
@@ -7802,7 +7785,7 @@
     "4": 0,
     "5": 16
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17736860426",
@@ -7819,7 +7802,7 @@
     "4": 0,
     "5": 17
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18187585355",
@@ -8193,7 +8176,7 @@
     "4": 0,
     "5": 23
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18931396451",
@@ -8638,74 +8621,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18999698439",
-   "name": "POPIELNICA ZEWNĘTRZNA STOJĄCA KOSZ ŚMIETNIK METALOWY OGRODOWY 30L 2W1",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18999698439",
-   "sku": "LN001KP",
-   "avg": 4.95,
-   "reviews": 55,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 52
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17899261156",
-   "name": "KOSZO-POPIELNICA 30L KOSZ NA ŚMIECI POPIELNICA POPIELNICZKA Z WIADERKIEM",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17899261156",
-   "sku": "LN001KP",
-   "avg": 4.95,
-   "reviews": 55,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 52
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17899259297",
-   "name": "POPIELNICA ZEWNĘTRZNA STOJĄCA KOSZ ŚMIETNIK METALOWY OGRODOWY 30L 2W1",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17899259297",
-   "sku": "LN001KP",
-   "avg": 4.95,
-   "reviews": 55,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 52
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17899257378",
-   "name": "POPIELNICA METALOWY ŚMIETNIK KOSZ OGRODOWY STAL NIERDZEWNA POPIELNICZKA 30L",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17899257378",
-   "sku": "LN001KP",
-   "avg": 4.95,
-   "reviews": 55,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 52
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17668946883",
    "name": "Kapcie pantofle damskie domowe twarda podeszwa odporna na ścieranie 35-38",
    "shop": "toratex_pl",
@@ -8874,23 +8789,6 @@
     "5": 68
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18819015512",
-   "name": "Ładowarka Apple ZASILACZ USB typ C do Apple 3000 mA 20W biały SZYBKA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18819015512",
-   "sku": "",
-   "avg": 4.81,
-   "reviews": 3048,
-   "dist": {
-    "1": 96,
-    "2": 18,
-    "3": 26,
-    "4": 80,
-    "5": 2828
-   },
-   "salesBand": "10-49"
   }
  ]
 }
