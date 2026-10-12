@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:44:30Z",
+ "updated": "2026-10-12T11:38:33Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2362,7 +2362,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17988401796",
@@ -2379,7 +2379,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17988281424",
@@ -4317,7 +4317,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034874929",
@@ -5677,7 +5677,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17700930382",
@@ -7703,62 +7703,11 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18529976226",
-   "name": "Materac ROYAL 160x200 H5 Premium 30cm +TOPPER kieszeniowy jednostronny TORA",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18529976226",
-   "sku": "MR4",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18527105244",
-   "name": "Ręcznik TORA 40x40 100% Bawełna GRUBY do twarzy rąk 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527105244",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18256566314",
    "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256566314",
    "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "18485802417",
-   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485802417",
-   "sku": "LN237L",
    "avg": 5.0,
    "reviews": 14,
    "dist": {
@@ -8177,6 +8126,74 @@
     "5": 21
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18602651799",
+   "name": "Kosz na śmieci Popielnica zewnętrzna STAL NIERDZEWNA Wiaderko 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18602651799",
+   "sku": "LN001KP",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18602647349",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18602647349",
+   "sku": "LN001KP",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17898750810",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17898750810",
+   "sku": "LN001KP",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17898747895",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17898747895",
+   "sku": "LN001KP",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18931396451",
@@ -8638,6 +8655,57 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17899261156",
+   "name": "KOSZO-POPIELNICA 30L KOSZ NA ŚMIECI POPIELNICA POPIELNICZKA Z WIADERKIEM",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17899261156",
+   "sku": "LN001KP",
+   "avg": 4.95,
+   "reviews": 55,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 52
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17899259297",
+   "name": "POPIELNICA ZEWNĘTRZNA STOJĄCA KOSZ ŚMIETNIK METALOWY OGRODOWY 30L 2W1",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17899259297",
+   "sku": "LN001KP",
+   "avg": 4.95,
+   "reviews": 55,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 52
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17899257378",
+   "name": "POPIELNICA METALOWY ŚMIETNIK KOSZ OGRODOWY STAL NIERDZEWNA POPIELNICZKA 30L",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17899257378",
+   "sku": "LN001KP",
+   "avg": 4.95,
+   "reviews": 55,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 52
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17668946883",
    "name": "Kapcie pantofle damskie domowe twarda podeszwa odporna na ścieranie 35-38",
    "shop": "toratex_pl",
@@ -8814,15 +8882,15 @@
    "url": "https://allegro.pl/oferta/18819015512",
    "sku": "",
    "avg": 4.81,
-   "reviews": 3049,
+   "reviews": 3048,
    "dist": {
     "1": 96,
     "2": 18,
     "3": 26,
     "4": 80,
-    "5": 2829
+    "5": 2828
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   }
  ]
 }
