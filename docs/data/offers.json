@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:26:55Z",
+ "updated": "2026-10-13T18:50:31Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2464,7 +2464,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17770590243",
@@ -4538,7 +4538,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17988539895",
@@ -6527,7 +6527,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17220149347",
@@ -7071,7 +7071,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18358113183",
@@ -7479,7 +7479,7 @@
     "4": 1,
     "5": 10
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17533083897",
@@ -7777,13 +7777,13 @@
    "url": "https://allegro.pl/oferta/18587705200",
    "sku": "LN096",
    "avg": 5.0,
-   "reviews": 16,
+   "reviews": 17,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 16
+    "5": 17
    },
    "salesBand": "10-49"
   },
@@ -7819,7 +7819,7 @@
     "4": 0,
     "5": 18
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17649443987",
@@ -7992,108 +7992,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17668561952",
-   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668561952",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 21
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17629561930",
-   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17629561930",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 21
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17626892622",
-   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626892622",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 21
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17622515513",
-   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17622515513",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 21
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17503922152",
-   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17503922152",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 21
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220075486",
-   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220075486",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 21,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 21
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18789000876",
    "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
    "shop": "toratex_pl",
@@ -8109,6 +8007,108 @@
     "5": 21
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17668561952",
+   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668561952",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 22
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17629561930",
+   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17629561930",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 22
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17626892622",
+   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17626892622",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 22
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17622515513",
+   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17622515513",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 22
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17503922152",
+   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17503922152",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 22
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220075486",
+   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220075486",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 22,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 22
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18931396451",
@@ -8167,10 +8167,10 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18260334434",
    "sku": "LN018",
-   "avg": 4.96,
-   "reviews": 28,
+   "avg": 4.83,
+   "reviews": 29,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
@@ -8184,10 +8184,10 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
-   "avg": 4.96,
-   "reviews": 28,
+   "avg": 4.83,
+   "reviews": 29,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
@@ -8201,16 +8201,16 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
-   "avg": 4.96,
-   "reviews": 28,
+   "avg": 4.83,
+   "reviews": 29,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
     "5": 27
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18256894763",
