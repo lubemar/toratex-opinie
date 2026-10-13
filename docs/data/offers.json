@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T20:38:08Z",
+ "updated": "2026-10-13T11:26:55Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6221,7 +6221,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18466285425",
@@ -6459,7 +6459,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17780718452",
@@ -7394,24 +7394,7 @@
     "4": 1,
     "5": 8
    },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17626812160",
-   "name": "Kapcie pantofle męskie twarda podeszwa oddychające wytrzymałe hotelowe x10",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626812160",
-   "sku": "ZEST-LN126-10",
-   "avg": 4.9,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 9
-   },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17700847628",
@@ -7444,6 +7427,23 @@
     "3": 0,
     "4": 0,
     "5": 10
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17626812160",
+   "name": "Kapcie pantofle męskie twarda podeszwa oddychające wytrzymałe hotelowe x10",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17626812160",
+   "sku": "ZEST-LN126-10",
+   "avg": 4.82,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 9
    },
    "salesBand": "1-9"
   },
@@ -7632,7 +7632,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215773602",
@@ -8109,74 +8109,6 @@
     "5": 21
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18602651799",
-   "name": "Kosz na śmieci Popielnica zewnętrzna STAL NIERDZEWNA Wiaderko 2w1 30L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18602651799",
-   "sku": "LN001KP",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18602647349",
-   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18602647349",
-   "sku": "LN001KP",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17898750810",
-   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17898750810",
-   "sku": "LN001KP",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17898747895",
-   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17898747895",
-   "sku": "LN001KP",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18931396451",
@@ -8771,7 +8703,7 @@
     "4": 4,
     "5": 68
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17235708662",
@@ -8787,6 +8719,74 @@
     "3": 0,
     "4": 4,
     "5": 68
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18602651799",
+   "name": "Kosz na śmieci Popielnica zewnętrzna STAL NIERDZEWNA Wiaderko 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18602651799",
+   "sku": "LN001KP",
+   "avg": 4.96,
+   "reviews": 78,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 75
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18602647349",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18602647349",
+   "sku": "LN001KP",
+   "avg": 4.96,
+   "reviews": 78,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 75
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17898750810",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17898750810",
+   "sku": "LN001KP",
+   "avg": 4.96,
+   "reviews": 78,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 75
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17898747895",
+   "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17898747895",
+   "sku": "LN001KP",
+   "avg": 4.96,
+   "reviews": 78,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 75
    },
    "salesBand": "1-9"
   }
