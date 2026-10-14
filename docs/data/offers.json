@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:50:31Z",
+ "updated": "2026-10-14T09:12:03Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -560,7 +560,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18741096955",
@@ -815,7 +815,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18577633214",
@@ -4640,7 +4640,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17773637109",
@@ -6459,7 +6459,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17780718452",
@@ -6649,23 +6649,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18075547708",
    "name": "Prześcieradło z gumką 90x200x25 SOLIDNE100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -6697,7 +6680,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17988728367",
@@ -6851,6 +6834,23 @@
     "5": 6
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18034680307",
@@ -7244,23 +7244,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256249740",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "19003863746",
    "name": "Poszewka na poduszkę 40x40 HOTELOWA jasiek bawełna/mikrofibra TORA",
    "shop": "toratex_pl",
@@ -7312,23 +7295,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17649517391",
-   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649517391",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17220235700",
    "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
    "shop": "TORATEX",
@@ -7344,23 +7310,6 @@
     "5": 9
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220034861",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "15608258485",
@@ -7397,6 +7346,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18256249740",
+   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256249740",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17700847628",
    "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
    "shop": "toratex_pl",
@@ -7412,6 +7378,40 @@
     "5": 10
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17649517391",
+   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17220034861",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220034861",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "16440523108",
@@ -8406,13 +8406,13 @@
    "url": "https://allegro.pl/oferta/17607027219",
    "sku": "LN032",
    "avg": 4.94,
-   "reviews": 32,
+   "reviews": 33,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 30
+    "5": 31
    },
    "salesBand": "100+"
   },
