@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T08:51:17Z",
+ "updated": "2026-10-15T13:57:10Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -7346,23 +7346,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256249740",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17700847628",
    "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
    "shop": "toratex_pl",
@@ -7378,40 +7361,6 @@
     "5": 10
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17649517391",
-   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649517391",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220034861",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "16440523108",
@@ -7497,6 +7446,57 @@
     "5": 10
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18256249740",
+   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256249740",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649517391",
+   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17220034861",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220034861",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "19003255628",
