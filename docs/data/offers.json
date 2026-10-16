@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:38:36Z",
+ "updated": "2026-10-16T13:41:44Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -580,23 +580,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18724093975",
-   "name": "Poszwa 200x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18724093975",
-   "sku": "LN251",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18723884337",
    "name": "Komplet pościeli 160X200CM + 2 poszewki 50X70CM 100% BAWEŁNA troczki TORA",
    "shop": "toratex_pl",
@@ -619,6 +602,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18690994684",
    "sku": "",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18638233463",
+   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 500 GSM barberskie 10 sztuk SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18638233463",
+   "sku": "LN032-ZEST-BARB",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1138,7 +1138,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18520803483",
@@ -1342,7 +1342,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18489136387",
@@ -2431,23 +2431,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17780180598",
-   "name": "Pokrowiec na materac 140x200 ochraniacz nakładka wodoodporna pikowana",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17780180598",
-   "sku": "LN174",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17770590243",
@@ -4626,6 +4609,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17780180598",
+   "name": "Pokrowiec na materac 140x200 ochraniacz nakładka wodoodporna pikowana",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17780180598",
+   "sku": "LN174",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17773739832",
    "name": "Poszwa na kołdrę 160x200 oddychająca hotelowa bawełna antyalergiczna zamek",
    "shop": "toratex_pl",
@@ -4675,6 +4675,23 @@
     "5": 1
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17736747631",
+   "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736747631",
+   "sku": "LN107 SIMPLE",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17736747034",
@@ -7006,6 +7023,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "17814933003",
+   "name": "Pościel 200x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17814933003",
+   "sku": "LN193",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "16003556744",
    "name": "RĘCZNIK 30X30 DO RĄK TWARZY BAWEŁNIANY CHŁONNY BIAŁY HOTELOWY",
    "shop": "TORATEX",
@@ -7157,6 +7191,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18154623891",
+   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18154623891",
+   "sku": "LN033-ZEST-BARB",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17955486486",
@@ -8400,6 +8451,23 @@
    "salesBand": "50-99"
   },
   {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 33,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 31
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17607027219",
    "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
    "shop": "toratex_pl",
@@ -8669,7 +8737,7 @@
     "4": 4,
     "5": 68
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17533061215",
