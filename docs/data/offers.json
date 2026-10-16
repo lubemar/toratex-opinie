@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:46:46Z",
+ "updated": "2026-10-16T20:18:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -799,23 +799,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18577753233",
-   "name": "Materac 160x200 H3 średnio twardy sprężynowo kieszeniowy 32cm premium TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18577753233",
-   "sku": "MAT-DOH-160-H3",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18577633214",
@@ -3827,6 +3810,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18577753233",
+   "name": "Materac 160x200 H3 średnio twardy sprężynowo kieszeniowy 32cm premium TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18577753233",
+   "sku": "MAT-DOH-160-H3",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18569690998",
    "name": "Materac 160x200 H4 TWARDY kieszeniowy z Topperem 32cm jednostronny TORA",
    "shop": "toratex_pl",
@@ -4283,7 +4283,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18057303557",
@@ -4963,7 +4963,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16371600149",
@@ -8380,7 +8380,7 @@
     "4": 3,
     "5": 27
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18253741536",
