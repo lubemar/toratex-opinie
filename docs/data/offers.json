@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T20:18:27Z",
+ "updated": "2026-10-17T08:12:48Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2030,23 +2030,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18121489577",
    "sku": "LN051",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18121281080",
-   "name": "POŚCIEL 160x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zakładka",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18121281080",
-   "sku": "LN049",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4206,6 +4189,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18158327925",
    "sku": "LN060",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18121281080",
+   "name": "POŚCIEL 160x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18121281080",
+   "sku": "LN049",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -7499,57 +7499,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256249740",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649517391",
-   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649517391",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220034861",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 11,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 11
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "19003255628",
    "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar L",
    "shop": "toratex_pl",
@@ -7618,6 +7567,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18256249740",
+   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256249740",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18615114100",
    "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -7652,6 +7618,40 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17649517391",
+   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17220034861",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220034861",
+   "sku": "LN099",
+   "avg": 5.0,
+   "reviews": 12,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18253512780",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 500g Antyalergiczna",
    "shop": "tora_official",
@@ -7683,7 +7683,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17215773602",
@@ -7839,23 +7839,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18187585355",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
    "shop": "tora_official",
@@ -7941,23 +7924,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 4.89,
-   "reviews": 19,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "18188079725",
    "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Miękki SPA Hotelowy",
    "shop": "tora_official",
@@ -7992,6 +7958,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17615651795",
    "name": "Ręcznik kąpielowy 50x100 plażowy 100% BAWEŁNA mega gruby MIĘKKI trwały SPA",
    "shop": "toratex_pl",
@@ -8024,6 +8007,23 @@
     "5": 19
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 4.9,
+   "reviews": 20,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "18952633104",
@@ -8434,23 +8434,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 32,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 32
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18699913720",
    "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
    "shop": "toratex_pl",
@@ -8483,6 +8466,23 @@
     "5": 31
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 33,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 33
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17615562738",
