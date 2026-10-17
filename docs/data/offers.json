@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:36:57Z",
+ "updated": "2026-10-17T16:04:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1122,23 +1122,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18520803483",
-   "name": "Pokrowiec OCHRANIACZ na materac 120x200x30 WODOODPORNY pikowany TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18520803483",
-   "sku": "LN239SS",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18505634333",
@@ -2515,7 +2498,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18738855360",
@@ -3895,6 +3878,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18520803483",
+   "name": "Pokrowiec OCHRANIACZ na materac 120x200x30 WODOODPORNY pikowany TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18520803483",
+   "sku": "LN239SS",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18505439489",
    "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
@@ -4606,7 +4606,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17780180598",
@@ -4742,7 +4742,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18738520264",
@@ -6663,7 +6663,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18075547708",
@@ -8584,7 +8584,7 @@
     "4": 2,
     "5": 46
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668277180",
