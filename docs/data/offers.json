@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:29:34Z",
+ "updated": "2026-10-19T16:52:23Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -483,57 +483,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18823601749",
    "sku": "LN175",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18816008438",
-   "name": "Kołdra 260x240 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18816008438",
-   "sku": "LN03KPG",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18815997717",
-   "name": "Kołdra 200x220 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna Naturalna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18815997717",
-   "sku": "LN02KPG",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18813609780",
-   "name": "Kołdra 160x200 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna 100% 350 g/m2 TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18813609780",
-   "sku": "LN01KPG",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -2399,23 +2348,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17770569647",
-   "name": "Prześcieradło bez gumki 160x200 HOTELOWE klasyczne białe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17770569647",
-   "sku": "LN138",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "17742274287",
    "name": "Pościel 180x200 50x70 KOMPLET POŚCIELI zestaw miła i miękka w dotyku ZAMEK",
    "shop": "toratex_pl",
@@ -2744,23 +2676,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17220197219",
    "sku": "LN129",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17189578067",
-   "name": "PRZEŚCIERADŁO 220x260 TRADYCYJNE KLASYCZNE GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17189578067",
-   "sku": "LN138",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4660,6 +4575,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17770569647",
+   "name": "Prześcieradło bez gumki 160x200 HOTELOWE klasyczne białe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17770569647",
+   "sku": "LN138",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17737134291",
    "name": "Prześcieradło bez gumki 180x200 HOTELOWE tradycyjne białe TORA",
    "shop": "toratex_pl",
@@ -4869,6 +4801,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17244359659",
    "sku": "LN102",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17189578067",
+   "name": "PRZEŚCIERADŁO 220x260 TRADYCYJNE KLASYCZNE GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17189578067",
+   "sku": "LN138",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -6493,7 +6442,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17220149347",
@@ -7275,7 +7224,7 @@
     "4": 0,
     "5": 9
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18952596143",
@@ -7822,91 +7771,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18187585355",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18187585355",
-   "sku": "LN092",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649443987",
-   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649443987",
-   "sku": "LN092",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17637712571",
-   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17637712571",
-   "sku": "LN092",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17507401035",
-   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17507401035",
-   "sku": "ZEST-LN092",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17346712602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346712602",
-   "sku": "LN092 SUPREME",
-   "avg": 4.79,
-   "reviews": 19,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18188079725",
    "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Miękki SPA Hotelowy",
    "shop": "tora_official",
@@ -7992,6 +7856,91 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18187585355",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18187585355",
+   "sku": "LN092",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649443987",
+   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649443987",
+   "sku": "LN092",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17637712571",
+   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17637712571",
+   "sku": "LN092",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17507401035",
+   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17507401035",
+   "sku": "ZEST-LN092",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17346712602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346712602",
+   "sku": "LN092 SUPREME",
+   "avg": 4.8,
+   "reviews": 20,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18466527307",
    "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
    "shop": "toratex_pl",
@@ -8074,7 +8023,7 @@
     "4": 0,
     "5": 22
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17622515513",
@@ -8417,40 +8366,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18699913720",
-   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18699913720",
-   "sku": "LN032",
-   "avg": 4.94,
-   "reviews": 33,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 31
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17607027219",
-   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17607027219",
-   "sku": "LN032",
-   "avg": 4.94,
-   "reviews": 33,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 31
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "17817794007",
    "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
    "shop": "toratex_pl",
@@ -8466,6 +8381,40 @@
     "5": 33
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "18699913720",
+   "name": "Ręcznik 30x30 cm do rąk twarzy hotelowy SPA 100% bawełna TORA 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18699913720",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 34,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 32
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17607027219",
+   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17607027219",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 34,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 32
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "17615562738",
@@ -8491,13 +8440,13 @@
    "url": "https://allegro.pl/oferta/18364435450",
    "sku": "LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "1-9"
   },
@@ -8508,13 +8457,13 @@
    "url": "https://allegro.pl/oferta/18932156647",
    "sku": "ZEST-X50LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "0"
   },
@@ -8525,13 +8474,13 @@
    "url": "https://allegro.pl/oferta/18932152363",
    "sku": "ZEST-X40LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "0"
   },
@@ -8542,13 +8491,13 @@
    "url": "https://allegro.pl/oferta/18932141660",
    "sku": "ZEST-X30LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "0"
   },
@@ -8559,13 +8508,13 @@
    "url": "https://allegro.pl/oferta/18929393968",
    "sku": "ZEST-X20LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "1-9"
   },
@@ -8576,13 +8525,13 @@
    "url": "https://allegro.pl/oferta/17668277180",
    "sku": "LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "10-49"
   },
@@ -8593,13 +8542,13 @@
    "url": "https://allegro.pl/oferta/17602949491",
    "sku": "LN033",
    "avg": 4.96,
-   "reviews": 48,
+   "reviews": 49,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 46
+    "5": 47
    },
    "salesBand": "10-49"
   },
