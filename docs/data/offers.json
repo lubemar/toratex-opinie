@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:08:00Z",
+ "updated": "2026-10-19T09:29:34Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3824,7 +3824,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18524523918",
@@ -4249,7 +4249,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18093990578",
@@ -6377,23 +6377,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18488893245",
-   "name": "Prześcieradło gumka 4 rogi 180x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488893245",
-   "sku": "LN004B",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18488887868",
    "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -7737,23 +7720,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18256566314",
-   "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256566314",
-   "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18485608818",
    "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
    "shop": "toratex_pl",
@@ -7769,23 +7735,6 @@
     "5": 14
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17770335698",
-   "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17770335698",
-   "sku": "LN020",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "17700905931",
@@ -7820,6 +7769,40 @@
     "5": 14
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18256566314",
+   "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256566314",
+   "sku": "LN020",
+   "avg": 5.0,
+   "reviews": 15,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 15
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17770335698",
+   "name": "Poduszka 50x70 hotelowa jakość niskie podparcie TORA 750g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17770335698",
+   "sku": "LN020",
+   "avg": 5.0,
+   "reviews": 15,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 15
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17736860426",
@@ -8091,7 +8074,7 @@
     "4": 0,
     "5": 22
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17622515513",
