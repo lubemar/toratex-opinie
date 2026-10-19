@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:52:23Z",
+ "updated": "2026-10-19T21:27:49Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6255,7 +6255,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003584463",
@@ -7856,91 +7856,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18187585355",
-   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18187585355",
-   "sku": "LN092",
-   "avg": 4.8,
-   "reviews": 20,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649443987",
-   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649443987",
-   "sku": "LN092",
-   "avg": 4.8,
-   "reviews": 20,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17637712571",
-   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17637712571",
-   "sku": "LN092",
-   "avg": 4.8,
-   "reviews": 20,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17507401035",
-   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17507401035",
-   "sku": "ZEST-LN092",
-   "avg": 4.8,
-   "reviews": 20,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17346712602",
-   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17346712602",
-   "sku": "LN092 SUPREME",
-   "avg": 4.8,
-   "reviews": 20,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18466527307",
    "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
    "shop": "toratex_pl",
@@ -7973,6 +7888,91 @@
     "5": 19
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18187585355",
+   "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18187585355",
+   "sku": "LN092",
+   "avg": 4.81,
+   "reviews": 21,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649443987",
+   "name": "Poduszka 40x40 JASIEK 100% bawełna antyalergiczna hotelowa KOMFORT SNU 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649443987",
+   "sku": "LN092",
+   "avg": 4.81,
+   "reviews": 21,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17637712571",
+   "name": "Jasiek 40x40 poduszka mała ANTYALERGICZNA wygodna profilowana 330g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17637712571",
+   "sku": "LN092",
+   "avg": 4.81,
+   "reviews": 21,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17507401035",
+   "name": "PODUSZKA 40X40 jasiek ANTYALERGICZNA bawełna PIKOWANA premium HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17507401035",
+   "sku": "ZEST-LN092",
+   "avg": 4.81,
+   "reviews": 21,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17346712602",
+   "name": "PODUSZKA 40x40 ANTYALERGICZNA BAWEŁNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17346712602",
+   "sku": "LN092 SUPREME",
+   "avg": 4.81,
+   "reviews": 21,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668561952",
@@ -8253,64 +8253,13 @@
    "url": "https://allegro.pl/oferta/17739542007",
    "sku": "LN009",
    "avg": 4.9,
-   "reviews": 30,
+   "reviews": 31,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 3,
-    "5": 27
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18256405995",
-   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256405995",
-   "sku": "LN093",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649306642",
-   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649306642",
-   "sku": "LN093",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
-   },
-   "salesBand": "50-99"
-  },
-  {
-   "offerId": "17215776241",
-   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215776241",
-   "sku": "LN093",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
+    "5": 28
    },
    "salesBand": "1-9"
   },
@@ -8366,21 +8315,55 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 33,
+   "offerId": "18256405995",
+   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256405995",
+   "sku": "LN093",
+   "avg": 4.84,
+   "reviews": 32,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
-    "4": 0,
-    "5": 33
+    "4": 1,
+    "5": 30
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649306642",
+   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "sku": "LN093",
+   "avg": 4.84,
+   "reviews": 32,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 30
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "17215776241",
+   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215776241",
+   "sku": "LN093",
+   "avg": 4.84,
+   "reviews": 32,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 30
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18699913720",
@@ -8415,6 +8398,23 @@
     "5": 32
    },
    "salesBand": "100+"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 34,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 34
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17615562738",
