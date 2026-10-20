@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:03:56Z",
+ "updated": "2026-10-20T14:15:36Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -67,7 +67,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18358219089",
@@ -5578,23 +5578,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17988539895",
-   "name": "POŚCIEL 200x220 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17988539895",
-   "sku": "LN167",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17942947468",
    "name": "Materac 90x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
    "shop": "toratex_pl",
@@ -6120,6 +6103,23 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17988539895",
+   "name": "POŚCIEL 200x220 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17988539895",
+   "sku": "LN167",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17955527193",
@@ -6714,7 +6714,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18358210515",
@@ -7873,23 +7873,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 20,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 20
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18187585355",
    "name": "Poduszka 40x40 Bawełna 100% Pikowana SoftCloud 330g Antyalergiczna",
    "shop": "tora_official",
@@ -7973,6 +7956,23 @@
     "5": 20
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 5.0,
+   "reviews": 21,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 21
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17668561952",
@@ -8406,13 +8406,13 @@
    "url": "https://allegro.pl/oferta/17817794007",
    "sku": "LN195",
    "avg": 5.0,
-   "reviews": 35,
+   "reviews": 36,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 35
+    "5": 36
    },
    "salesBand": "50-99"
   },
