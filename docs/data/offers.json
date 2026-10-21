@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:01:29Z",
+ "updated": "2026-10-21T14:25:01Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -500,23 +500,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18723884337",
    "sku": "LN073",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18690994684",
-   "name": "Usługa Wykonania Haftu",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18690994684",
-   "sku": "",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3572,23 +3555,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18803864962",
-   "name": "Kołdra 200x200 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18803864962",
-   "sku": "LN025B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18788951911",
    "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -3808,23 +3774,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18502461517",
-   "name": "Kołdra 260x240 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18502461517",
-   "sku": "LN179Z",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18502412451",
@@ -5289,6 +5238,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18803864962",
+   "name": "Kołdra 200x200 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18803864962",
+   "sku": "LN025B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18521727361",
    "name": "Kołdra 140x200 CAŁOROCZNA 100% mikrofibra ANTYALERGICZNA hotelowa TORA",
    "shop": "toratex_pl",
@@ -5612,23 +5578,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17668236910",
-   "name": "Szlafrok MĘSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668236910",
-   "sku": "LN128",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17346757025",
    "name": "PRZEŚCIERADŁO 150x260 TRADYCYJNE KLASYCZNE GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
    "shop": "TORATEX",
@@ -5668,23 +5617,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17247001143",
    "sku": "LN110",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17220148174",
-   "name": "SZLAFROK MĘSKI Z PASKIEM PREMIUM HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220148174",
-   "sku": "LN128",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5949,7 +5881,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18524167685",
@@ -6190,6 +6122,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17668236910",
+   "name": "Szlafrok MĘSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668236910",
+   "sku": "LN128",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18466285425",
    "name": "PRZEŚCIERADŁO 220x250 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
    "shop": "TORATEX",
@@ -6229,6 +6178,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17314982520",
    "sku": "LN034",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17220148174",
+   "name": "SZLAFROK MĘSKI Z PASKIEM PREMIUM HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220148174",
+   "sku": "LN128",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -7261,40 +7227,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17665514390",
-   "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17665514390",
-   "sku": "LN132",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220235700",
-   "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220235700",
-   "sku": "LN132",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "15608258485",
    "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
    "shop": "TORATEX",
@@ -7334,6 +7266,40 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17700847628",
    "sku": "LN028",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17665514390",
+   "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17665514390",
+   "sku": "LN132",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220235700",
+   "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220235700",
+   "sku": "LN132",
    "avg": 5.0,
    "reviews": 10,
    "dist": {
@@ -7839,23 +7805,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 4.9,
-   "reviews": 20,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "18952633104",
    "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -7887,7 +7836,7 @@
     "4": 0,
     "5": 20
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17649443987",
@@ -7958,6 +7907,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 4.9,
+   "reviews": 21,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "100+"
+  },
+  {
    "offerId": "18587705200",
    "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
    "shop": "toratex_pl",
@@ -7975,108 +7941,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17668561952",
-   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668561952",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17629561930",
-   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17629561930",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17626892622",
-   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626892622",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17622515513",
-   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17622515513",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17503922152",
-   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17503922152",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220075486",
-   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220075486",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18789000876",
    "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
    "shop": "toratex_pl",
@@ -8092,6 +7956,108 @@
     "5": 22
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17668561952",
+   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668561952",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17629561930",
+   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17629561930",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17626892622",
+   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17626892622",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17622515513",
+   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17622515513",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17503922152",
+   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17503922152",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220075486",
+   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220075486",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18931396451",
