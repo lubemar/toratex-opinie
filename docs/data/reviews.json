@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:25:01Z",
+ "updated": "2026-10-21T19:06:42Z",
  "reviews": [
   {
    "id": "6ad8839cd2054787d33acef2",
@@ -64,6 +64,22 @@
    "sku": "LN105",
    "ean": "",
    "firstSeen": "2026-10-14T19:07:00Z"
+  },
+  {
+   "id": "6ace5de7b12761d54bc6b70e",
+   "offerId": "17702908317",
+   "offerName": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702908317",
+   "rating": 1.0,
+   "content": "Bardzo słaba poduszka Bardzo płaska za taką cenę to beznadiejna poduszka a jest napisane gruba kłamstwo",
+   "author": "a...3",
+   "date": "2026-10-13T16:35:51.772Z",
+   "pros": "Brak",
+   "cons": "Bardzo płaska",
+   "sku": "LN018",
+   "ean": "",
+   "firstSeen": "2026-10-21T19:06:42Z"
   },
   {
    "id": "6aca14e5b8183766912eb1ae",
@@ -288,6 +304,22 @@
    "sku": "LN005B",
    "ean": "",
    "firstSeen": "2026-09-23T08:58:50Z"
+  },
+  {
+   "id": "6ab2ca2535876eba9eae6465",
+   "offerId": "17702908317",
+   "offerName": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702908317",
+   "rating": 5.0,
+   "content": "Produkt godny polecenia jakość na szostke",
+   "author": "C...2",
+   "date": "2026-09-22T18:34:13.135Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN018",
+   "ean": "",
+   "firstSeen": "2026-10-21T19:06:42Z"
   },
   {
    "id": "6ab27abf913b6df1b99eedd0",
