@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:59:31Z",
+ "updated": "2026-10-23T09:01:41Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -476,6 +476,40 @@
     "5": 0
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18815997717",
+   "name": "Kołdra 200x220 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna Naturalna TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18815997717",
+   "sku": "LN02KPG",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18813609780",
+   "name": "Kołdra 160x200 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna 100% 350 g/m2 TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18813609780",
+   "sku": "LN01KPG",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18741096955",
@@ -4011,7 +4045,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18121281080",
@@ -4079,7 +4113,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18075807993",
@@ -4368,7 +4402,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17925400605",
@@ -5677,7 +5711,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16005167544",
@@ -7414,23 +7448,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18256249740",
-   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256249740",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18615114100",
    "name": "Kołdra 260x240 Letnia 100% bawełna ANTYALERGICZNA delikatna TORA",
    "shop": "toratex_pl",
@@ -7463,40 +7480,6 @@
     "5": 12
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649517391",
-   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649517391",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17220034861",
-   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220034861",
-   "sku": "LN099",
-   "avg": 5.0,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 12
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18253512780",
@@ -7550,6 +7533,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18256249740",
+   "name": "Poduszka Hotelowa 50x70 1250g Antyalergiczna Gruba Wysoka Jakość",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256249740",
+   "sku": "LN099",
+   "avg": 4.92,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 12
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17702973302",
    "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
    "shop": "toratex_pl",
@@ -7565,6 +7565,40 @@
     "5": 12
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649517391",
+   "name": "Poduszka 50x70 hotelowa 100% mikrofibra miękka puszysta komfort 1250g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649517391",
+   "sku": "LN099",
+   "avg": 4.92,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 12
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17220034861",
+   "name": "PODUSZKA 50x70 ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220034861",
+   "sku": "LN099",
+   "avg": 4.92,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 12
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17817853435",
@@ -7878,13 +7912,13 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18587705200",
    "sku": "LN096",
-   "avg": 5.0,
-   "reviews": 21,
+   "avg": 4.95,
+   "reviews": 22,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 0,
+    "4": 1,
     "5": 21
    },
    "salesBand": "1-9"
