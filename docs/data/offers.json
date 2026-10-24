@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:49:56Z",
+ "updated": "2026-10-24T08:34:05Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3926,7 +3926,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18485667441",
@@ -5660,7 +5660,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "16416008504",
@@ -7703,23 +7703,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17736860426",
-   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736860426",
-   "sku": "LN106",
-   "avg": 5.0,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 18
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18188079725",
    "name": "Ręcznik kąpielowy 50x100 100% Bawełna Gruby Miękki SPA Hotelowy",
    "shop": "tora_official",
@@ -7752,6 +7735,23 @@
     "5": 19
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17736860426",
+   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736860426",
+   "sku": "LN106",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17615651795",
@@ -8090,23 +8090,6 @@
     "3": 0,
     "4": 1,
     "5": 24
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
    },
    "salesBand": "1-9"
   },
