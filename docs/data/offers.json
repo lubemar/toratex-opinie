@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:32:57Z",
+ "updated": "2026-10-26T16:25:01Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -546,6 +546,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18638233463",
+   "name": "Komplet ręczników bawełna 30x30 cm hotelowe 500 GSM barberskie 10 sztuk SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18638233463",
+   "sku": "LN032-ZEST-BARB",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18580968394",
    "name": "Kosz na śmieci podwójny MIEJSKI 70L z popielnicą PREMIUM wytrzymały TORA",
    "shop": "toratex_pl",
@@ -1002,7 +1019,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18523737210",
@@ -5184,7 +5201,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18928291232",
@@ -6459,7 +6476,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18357689701",
@@ -7635,6 +7652,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17871717400",
+   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17871717400",
+   "sku": "MR4",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17700905931",
    "name": "Kołdra 200x220 letnia ODDYCHAJĄCA z cyrkulacją powietrza lekka TORA",
    "shop": "toratex_pl",
@@ -8094,6 +8128,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 27,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 26
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18256894763",
    "name": "Poduszka Hotelowa 70x80 1200g 100% Bawełna Antyalergiczna Komfortowa",
    "shop": "tora_official",
@@ -8313,6 +8364,23 @@
     "5": 32
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17607027219",
+   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17607027219",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 34,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 32
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17817794007",
