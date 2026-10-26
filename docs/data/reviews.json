@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-25T20:11:18Z",
+ "updated": "2026-10-26T09:32:56Z",
  "reviews": [
+  {
+   "id": "6adf0da95a4883b29df64bf0",
+   "offerId": "18499961986",
+   "offerName": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499961986",
+   "rating": 5.0,
+   "content": "Kołderka zimowa super, cieplutka, lekka, polecam",
+   "author": "E...1",
+   "date": "2026-10-26T08:22:02.014Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN103Z",
+   "ean": "",
+   "firstSeen": "2026-10-26T09:32:56Z"
+  },
+  {
+   "id": "6adf0978163383737427578d",
+   "offerId": "18488887868",
+   "offerName": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "rating": 5.0,
+   "content": "Prześcieradło świetnej jakości, grube i konkretne. Super rozwiązanie z gumkami tylko na rogach - jedyne sensowne w przypadku nietypowego kształtu łóżka.",
+   "author": "c...o",
+   "date": "2026-10-26T08:04:08.610Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN003B",
+   "ean": "",
+   "firstSeen": "2026-10-26T09:32:56Z"
+  },
   {
    "id": "6adbb2a8e6806d55ff8db76d",
    "offerId": "17736860426",
@@ -50,6 +82,22 @@
    "firstSeen": "2026-10-23T09:01:41Z"
   },
   {
+   "id": "6ad8e76ed2054787d33afa45",
+   "offerId": "18488887868",
+   "offerName": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "rating": 5.0,
+   "content": "Prześcieradło rewelacja, jak w latach dzieciństwa. Prawdziwa bawełna, po założeniu jak wyprasowane.",
+   "author": "g...8",
+   "date": "2026-10-21T16:25:18.459Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN003B",
+   "ean": "",
+   "firstSeen": "2026-10-26T09:32:56Z"
+  },
+  {
    "id": "6ad8839cd2054787d33acef2",
    "offerId": "18803864962",
    "offerName": "Kołdra 200x200 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
@@ -82,6 +130,22 @@
    "firstSeen": "2026-10-21T14:25:01Z"
   },
   {
+   "id": "6ad78e0d5a4883b29df437a6",
+   "offerId": "18488887868",
+   "offerName": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "rating": 5.0,
+   "content": "Extra jakość",
+   "author": "d...2",
+   "date": "2026-10-20T15:51:41.595Z",
+   "pros": "Idealny materiał",
+   "cons": "Brak",
+   "sku": "LN003B",
+   "ean": "",
+   "firstSeen": "2026-10-26T09:32:56Z"
+  },
+  {
    "id": "6ad72b5faa836aeb05cc12b3",
    "offerId": "18587705200",
    "offerName": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
@@ -96,6 +160,22 @@
    "sku": "LN096",
    "ean": "",
    "firstSeen": "2026-10-23T09:01:41Z"
+  },
+  {
+   "id": "6ad72b3989470b8b8770c0e6",
+   "offerId": "17817794007",
+   "offerName": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "rating": 5.0,
+   "content": "Super jakość. Polecam",
+   "author": "m...7",
+   "date": "2026-10-20T08:50:01.775Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN195",
+   "ean": "",
+   "firstSeen": "2026-10-26T09:32:56Z"
   },
   {
    "id": "6ad13777d3e77ad8a2e4126d",
@@ -304,6 +384,22 @@
    "sku": "LN101Z",
    "ean": "",
    "firstSeen": "2026-10-02T10:13:57Z"
+  },
+  {
+   "id": "6abf7c074d49194d227d8be1",
+   "offerId": "18488887868",
+   "offerName": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "rating": 5.0,
+   "content": "Łatwo się zakłada i jest przyjemne w kontakcie z ciałem! Jak najbardziej POLECAM 👌😎",
+   "author": "m...3",
+   "date": "2026-10-02T09:40:23.446Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN003B",
+   "ean": "",
+   "firstSeen": "2026-10-26T09:32:56Z"
   },
   {
    "id": "6abd3cad2510c77a4f45443d",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:11:18Z",
+ "updated": "2026-10-26T09:32:57Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2056,7 +2056,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034627806",
@@ -3810,23 +3810,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18499961986",
-   "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18499961986",
-   "sku": "LN103Z",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18499912149",
    "name": "Kołdra 140x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -5323,6 +5306,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18499961986",
+   "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499961986",
+   "sku": "LN103Z",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18489156027",
    "name": "Prześcieradło z gumką 160x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
    "shop": "toratex_pl",
@@ -5711,7 +5711,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16005167544",
@@ -6751,23 +6751,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18488887868",
-   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488887868",
-   "sku": "LN003B",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18466466102",
    "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
    "shop": "toratex_pl",
@@ -6902,6 +6885,23 @@
     "5": 7
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18488887868",
+   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "sku": "LN003B",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18459736436",
@@ -7819,7 +7819,7 @@
     "4": 0,
     "5": 20
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17649443987",
@@ -8321,13 +8321,13 @@
    "url": "https://allegro.pl/oferta/17817794007",
    "sku": "LN195",
    "avg": 5.0,
-   "reviews": 36,
+   "reviews": 37,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 36
+    "5": 37
    },
    "salesBand": "50-99"
   },
