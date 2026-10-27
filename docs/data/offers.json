@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:29:45Z",
+ "updated": "2026-10-27T15:38:56Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -427,6 +427,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18893783258",
+   "name": "Koszo popielnica na ŚMIECI odpady do domu biura kosz",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18893783258",
+   "sku": "K13",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18824172660",
    "name": "Komplet pościeli 200x220 2 x 70x80 100% bawełna HOTELOWA zamek TORA",
    "shop": "toratex_pl",
@@ -517,6 +534,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18741096955",
    "sku": "K10",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18737969280",
+   "name": "Koszo popielnica na ŚMIECI odpady do domu biura kosz",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18737969280",
+   "sku": "K12",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1036,7 +1070,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18521494603",
@@ -4538,7 +4572,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17736747034",
@@ -7530,7 +7564,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17215773602",
@@ -7904,7 +7938,7 @@
     "4": 0,
     "5": 20
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17346712602",
@@ -7938,7 +7972,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18587705200",
