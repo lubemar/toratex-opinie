@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:56:32Z",
+ "updated": "2026-10-28T21:28:28Z",
  "reviews": [
   {
    "id": "6ae1a7a9825e36a3ba8b72eb",
@@ -4544,6 +4544,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN112",
    "ean": ""
+  },
+  {
+   "id": "6a0382d5ac18010b757f7715",
+   "offerId": "18006705428",
+   "offerName": "POŚCIEL 200x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18006705428",
+   "rating": 4.0,
+   "content": "Starannie wykonana. Firma zdecydowanie dba o swój wizerunek",
+   "author": "C...8",
+   "date": "2026-05-12T19:43:17.166Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN043",
+   "ean": "",
+   "firstSeen": "2026-10-28T21:28:28Z"
   },
   {
    "id": "6a032a3144755a060acf3674",

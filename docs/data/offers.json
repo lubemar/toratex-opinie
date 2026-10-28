@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:56:32Z",
+ "updated": "2026-10-28T21:28:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3484,7 +3484,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18354746214",
@@ -5850,23 +5850,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18006705428",
-   "name": "POŚCIEL 200x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18006705428",
-   "sku": "LN043",
-   "avg": 4.67,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18364501983",
    "name": "Prześcieradło 220x250 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -5949,7 +5932,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18952598357",
@@ -6338,6 +6321,23 @@
     "2": 0,
     "3": 0,
     "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18006705428",
+   "name": "POŚCIEL 200x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18006705428",
+   "sku": "LN043",
+   "avg": 4.75,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
     "5": 3
    },
    "salesBand": "1-9"
@@ -7142,23 +7142,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18488887868",
-   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488887868",
-   "sku": "LN003B",
-   "avg": 5.0,
-   "reviews": 8,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 8
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18154623891",
    "name": "Komplet ręczników bawełna 30x30 cm hotelowe 610 GSM barberskie 10 sztuk SPA",
    "shop": "toratex_pl",
@@ -7283,6 +7266,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18587623655",
    "sku": "LN021",
+   "avg": 5.0,
+   "reviews": 9,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 9
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18488887868",
+   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "sku": "LN003B",
    "avg": 5.0,
    "reviews": 9,
    "dist": {
@@ -7992,23 +7992,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 4.91,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 22
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18789000876",
    "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
    "shop": "toratex_pl",
@@ -8143,6 +8126,23 @@
     "5": 23
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 4.92,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 23
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18931396451",
@@ -8423,13 +8423,13 @@
    "url": "https://allegro.pl/oferta/17607027219",
    "sku": "LN032",
    "avg": 4.94,
-   "reviews": 34,
+   "reviews": 35,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 32
+    "5": 33
    },
    "salesBand": "50-99"
   },
