@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-27T20:20:39Z",
+ "updated": "2026-10-28T10:12:45Z",
  "reviews": [
+  {
+   "id": "6ae1a7a9825e36a3ba8b72eb",
+   "offerId": "18466561803",
+   "offerName": "Poszewka 70x80 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466561803",
+   "rating": 5.0,
+   "content": "Bardzo dobry materiał i bardzo ładnie uszyte.",
+   "author": "C...5",
+   "date": "2026-10-28T07:43:37.282Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN106B",
+   "ean": "",
+   "firstSeen": "2026-10-28T10:12:45Z"
+  },
+  {
+   "id": "6ae1125d6f011de3c8f25227",
+   "offerId": "18587705200",
+   "offerName": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "rating": 5.0,
+   "content": "Jestem wybredna Szukam poduszki wysokiej  Postanowilam sprobowac hotelowej Ta nie jest jeszcze idealna ale najlepsza jaka udalo mi na razie znalezc Grubsza niz przecietne poduszki choc ja dalej uzywam na niej jaska \nSzybka przesylka",
+   "author": "m...3",
+   "date": "2026-10-27T21:06:37.419Z",
+   "pros": "Grubsza od powszechnie dostepnych",
+   "cons": "",
+   "sku": "LN096",
+   "ean": "",
+   "firstSeen": "2026-10-28T10:12:45Z"
+  },
   {
    "id": "6ae03029187617c6e1daa288",
    "offerId": "17666054578",
@@ -80,6 +112,22 @@
    "sku": "LN106",
    "ean": "",
    "firstSeen": "2026-10-23T14:03:42Z"
+  },
+  {
+   "id": "6adb151f5a4883b29df559ec",
+   "offerId": "18587705200",
+   "offerName": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "rating": 4.0,
+   "content": "Poduszka jest wygodna (super wypełnienie) i bardzo przyjemnie się na niej leży - takie mam wrażenia po 3 miesiącach użytkowania. Na mój gust mogłaby być trochę twardsza (ten problem rozwiązałem pakując ją do najtańszej poszewki na ten rozmiar zakupionej w YISK, która wydaje się być nieco za mała na tak wielką poduchę, zatem  wepchnięta w nieco za małe \"ubranko\" poduszka staje się nieco bardziej zbita). Jedną gwiazdę ujmuję jednak za brak możliwości zakupu dodatkowego wypełnienia, jednym słowem poduszkę można samodzielnie zrobić jedynie bardziej miękką. Po 3 miesiącach nie widać śladów zużycia wypełnienia. Reasumując jestem zadowolony z zakupu i mogę ją zdecydowanie polecić większości potencjalnych użytkowników.",
+   "author": "p...s",
+   "date": "2026-10-23T08:04:47.549Z",
+   "pros": "Wygoda, trwałość",
+   "cons": "Brak możliwości dokupienia wypełnienia",
+   "sku": "LN096",
+   "ean": "",
+   "firstSeen": "2026-10-28T10:12:45Z"
   },
   {
    "id": "6adb14ec39a0c63cb3dc19f6",
@@ -6362,6 +6410,22 @@
    "firstSeen": "2026-06-06T00:00:31Z",
    "sku": "LN036",
    "ean": ""
+  },
+  {
+   "id": "69a9b8548bd48e7401f6efc1",
+   "offerId": "17814959525",
+   "offerName": "Pościel 200x220 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17814959525",
+   "rating": 5.0,
+   "content": "Piękna pościel👌elegancka i dobra gatunkowo. Bardzo schludnie zapakowana. Z pewnością zakupię kolejny komplet.",
+   "author": "m...6",
+   "date": "2026-03-05T17:07:32.491Z",
+   "pros": "",
+   "cons": "",
+   "sku": "LN194",
+   "ean": "",
+   "firstSeen": "2026-10-28T10:12:45Z"
   },
   {
    "id": "69a9b7b98bd48e7401efcff3",

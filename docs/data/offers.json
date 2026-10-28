@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:20:39Z",
+ "updated": "2026-10-28T10:12:46Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1057,7 +1057,7 @@
   },
   {
    "offerId": "18523737210",
-   "name": "Posezwka na kołdrę 140x200 100% BAWEŁNA Poszwa hotelowa Gęstość 200TC TORA",
+   "name": "Poszewka na kołdrę 140x200 100% BAWEŁNA Poszwa hotelowa Gęstość 200TC TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18523737210",
    "sku": "LN108B",
@@ -2294,7 +2294,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17871702301",
@@ -3606,6 +3606,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18816008438",
+   "name": "Kołdra 260x240 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18816008438",
+   "sku": "LN03KPG",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18788951911",
    "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -3722,7 +3739,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18564172670",
@@ -6139,6 +6156,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17814959525",
+   "name": "Pościel 200x220 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17814959525",
+   "sku": "LN194",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17811861924",
    "name": "Pościel 140x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
    "shop": "toratex_pl",
@@ -6302,23 +6336,6 @@
    "dist": {
     "1": 0,
     "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18466561803",
-   "name": "Poszewka 70x80 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466561803",
-   "sku": "LN106B",
-   "avg": 4.25,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 1,
     "3": 0,
     "4": 0,
     "5": 3
@@ -6540,6 +6557,23 @@
    "dist": {
     "1": 1,
     "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466561803",
+   "name": "Poszewka 70x80 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466561803",
+   "sku": "LN106B",
+   "avg": 4.4,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 1,
     "3": 0,
     "4": 0,
     "5": 4
@@ -6986,7 +7020,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358113183",
@@ -7686,23 +7720,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17871717400",
-   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17871717400",
-   "sku": "MR4",
-   "avg": 5.0,
-   "reviews": 14,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 14
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17700905931",
    "name": "Kołdra 200x220 letnia ODDYCHAJĄCA z cyrkulacją powietrza lekka TORA",
    "shop": "toratex_pl",
@@ -7964,32 +7981,15 @@
    "url": "https://allegro.pl/oferta/18466527307",
    "sku": "LN104B",
    "avg": 4.91,
-   "reviews": 22,
+   "reviews": 23,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 1,
     "4": 0,
-    "5": 21
+    "5": 22
    },
    "salesBand": "50-99"
-  },
-  {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 4.95,
-   "reviews": 22,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 21
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18789000876",
@@ -8007,6 +8007,23 @@
     "5": 22
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 4.96,
+   "reviews": 23,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 22
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668561952",
@@ -8160,23 +8177,6 @@
     "5": 24
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18256894763",
@@ -8363,7 +8363,7 @@
     "4": 1,
     "5": 32
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17649306642",
