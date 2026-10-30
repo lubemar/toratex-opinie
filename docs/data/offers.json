@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:55:20Z",
+ "updated": "2026-10-30T21:16:56Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -458,7 +458,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18824131559",
@@ -2651,7 +2651,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17244480819",
@@ -8026,108 +8026,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17668561952",
-   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668561952",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17629561930",
-   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17629561930",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17626892622",
-   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17626892622",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17622515513",
-   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17622515513",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17503922152",
-   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17503922152",
-   "sku": "ZEST-LN112",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220075486",
-   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220075486",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18466527307",
    "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
    "shop": "toratex_pl",
@@ -8143,6 +8041,108 @@
     "5": 23
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "17668561952",
+   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668561952",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17629561930",
+   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17629561930",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17626892622",
+   "name": "Poduszka 50x70 puchowa z gęsim pierzem puszysta wygodna profilowana haft",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17626892622",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17622515513",
+   "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17622515513",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17503922152",
+   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17503922152",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17220075486",
+   "name": "PODUSZKA 50X70 Z GĘSIM PUCHEM HOTELOWA BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17220075486",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18931396451",
