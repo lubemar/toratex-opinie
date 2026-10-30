@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:37:11Z",
+ "updated": "2026-10-30T16:55:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -6632,6 +6632,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19068909539",
+   "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19068909539",
+   "sku": "LN100 CLASSIC",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18486017245",
    "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
    "shop": "toratex_pl",
@@ -7193,23 +7210,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18618247638",
-   "name": "Poduszka Hotelowa 70x80 900g 100% Mikrofibra Antyalergiczna Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18618247638",
-   "sku": "LN021",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "19003863746",
    "name": "Poszewka na poduszkę 40x40 HOTELOWA jasiek bawełna/mikrofibra TORA",
    "shop": "toratex_pl",
@@ -7261,23 +7261,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18587623655",
-   "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587623655",
-   "sku": "LN021",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18488887868",
    "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
    "shop": "toratex_pl",
@@ -7327,6 +7310,40 @@
     "5": 8
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18618247638",
+   "name": "Poduszka Hotelowa 70x80 900g 100% Mikrofibra Antyalergiczna Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18618247638",
+   "sku": "LN021",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18587623655",
+   "name": "Poduszka hotelowa 70x80 CERTYFIKOWANA mikrofibra sprężysta 900g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587623655",
+   "sku": "LN021",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17700847628",
@@ -7615,7 +7632,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215773602",
@@ -8007,23 +8024,6 @@
     "5": 22
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 4.96,
-   "reviews": 23,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 22
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17668561952",
