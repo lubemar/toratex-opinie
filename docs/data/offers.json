@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:05:01Z",
+ "updated": "2026-10-31T15:57:32Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -292,7 +292,7 @@
   },
   {
    "offerId": "18918691518",
-   "name": "Szlafrok DAMSKI Bawełniany 100% Hotelowy SPA antyalergiczny MĘSKI UNISEX L",
+   "name": "Szlafrok bawełniany 100% rozmiar L Klasyczny Antyalergiczny SPA UNISEX",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18918691518",
    "sku": "LN130 ",
@@ -3861,23 +3861,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18500004422",
-   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18500004422",
-   "sku": "LN101Z",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18499912149",
    "name": "Kołdra 140x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -5372,6 +5355,23 @@
     "5": 2
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18500004422",
+   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18500004422",
+   "sku": "LN101Z",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18499961986",
