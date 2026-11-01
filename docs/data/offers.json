@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T17:02:18Z",
+ "updated": "2026-11-01T20:59:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2311,7 +2311,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17780242984",
@@ -6137,6 +6137,23 @@
     "5": 3
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "17814959525",
+   "name": "Pościel 200x220 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17814959525",
+   "sku": "LN194",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17811861924",
