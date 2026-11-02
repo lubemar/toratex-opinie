@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:56:59Z",
+ "updated": "2026-11-02T21:11:10Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -339,7 +339,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18915765016",
@@ -415,23 +415,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915548810",
    "sku": "LN113",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18893783258",
-   "name": "Koszo popielnica na ŚMIECI odpady do domu biura kosz",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18893783258",
-   "sku": "K13",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -4453,7 +4436,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17884281794",
@@ -5660,7 +5643,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17346757025",
@@ -6527,7 +6510,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18466561803",
@@ -6561,7 +6544,7 @@
     "4": 1,
     "5": 4
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18618276010",
@@ -6596,23 +6579,6 @@
     "5": 5
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "19068909539",
-   "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/19068909539",
-   "sku": "LN100 CLASSIC",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18486017245",
@@ -7139,7 +7105,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17955486486",
@@ -8060,6 +8026,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17668561952",
+   "name": "Poduszka 50x70 poduszki 2 SZT. puchowa z gęsim pierzem wygodna puszysta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668561952",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 25
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17629561930",
    "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
    "shop": "toratex_pl",
@@ -8109,6 +8092,23 @@
     "5": 25
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17503922152",
+   "name": "PODUSZKA 50X70 Bawełna Z gęsi puchowa GRUBA miękka WYGODNA hotelowa BIAŁA",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17503922152",
+   "sku": "ZEST-LN112",
+   "avg": 5.0,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 25
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17220075486",
