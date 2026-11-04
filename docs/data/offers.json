@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:47:55Z",
+ "updated": "2026-11-04T19:15:35Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -339,7 +339,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18915765016",
@@ -364,57 +364,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18915714999",
    "sku": "LN116",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18915630651",
-   "name": "Zestaw KOŁDRA 260x240 + 2 PODUSZKI 50x70 puch pierze gęsi 100% bawełna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915630651",
-   "sku": "LN115",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18915603169",
-   "name": "Zestaw KOŁDRA 200x220 2x PODUSZKA 50x70 puch pierze gęsi 100% bawełna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915603169",
-   "sku": "LN114",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18915548810",
-   "name": "Zestaw KOŁDRA 160x200 + PODUSZKA 50x70 puch pierze gęsi 100% bawełna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915548810",
-   "sku": "LN113",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -546,11 +495,45 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18724002626",
+   "name": "Poszwa 180x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18724002626",
+   "sku": "LN250",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18723884337",
    "name": "Komplet pościeli 160X200CM + 2 poszewki 50X70CM 100% BAWEŁNA troczki TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18723884337",
    "sku": "LN073",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18723828816",
+   "name": "Poszwa 140x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18723828816",
+   "sku": "LN248",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3487,6 +3470,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19084698252",
+   "name": "Poszwa 160x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19084698252",
+   "sku": "LN249",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "19002974964",
    "name": "Materac 140x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
@@ -4215,7 +4215,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034633986",
@@ -6289,7 +6289,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18006705428",
@@ -8414,7 +8414,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17532987937",
