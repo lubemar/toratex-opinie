@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:50:14Z",
+ "updated": "2026-11-05T19:18:14Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -245,6 +245,40 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354928059",
    "sku": "MT5",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19088691670",
+   "name": "Poszwa 200x200 na kołdrę BAWEŁNA mikrofibra HOTELOWA zamek TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19088691670",
+   "sku": "LN166",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19088636598",
+   "name": "Poszwa 200x200 na kołdrę BAWEŁNA mikrofibra HOTELOWA zakładka TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19088636598",
+   "sku": "LN158",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -1244,7 +1278,7 @@
   },
   {
    "offerId": "18486204960",
-   "name": "Poszwa na kołdrę 200x220 pościel bawełniana biała hotelowa 300TC zamek",
+   "name": "Poszwa na kołdrę 200x220 hotelowa 100% BAWEŁNA zamek TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18486204960",
    "sku": "LN208",
@@ -1363,7 +1397,7 @@
   },
   {
    "offerId": "18316022354",
-   "name": "Poszwa na kołdrę 180x200 hotelowa jakość trwała komfortowa zakładka",
+   "name": "Poszwa na kołdrę 180x200 hotelowa 100% BAWEŁNA zakładka biała TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18316022354",
    "sku": "LN153",
@@ -1397,7 +1431,7 @@
   },
   {
    "offerId": "18315843491",
-   "name": "Poszwa na kołdrę 180x200 hotelowa jakość trwała komfortowa troczki",
+   "name": "Poszwa na kołdrę 180x200 hotelowa BAWEŁNA mikrofibra troczki TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18315843491",
    "sku": "LN149",
@@ -1580,7 +1614,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18207387648",
@@ -2179,7 +2213,7 @@
   },
   {
    "offerId": "17989127004",
-   "name": "Poszwa 220x240 na kołdrę 100% BAWEŁNA certyfikowana hotelowa na zamek",
+   "name": "Poszwa na kołdrę 220x240 hotelowa 100% BAWEŁNA na zamek TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17989127004",
    "sku": "LN182",
@@ -3056,6 +3090,23 @@
     "1": 0,
     "2": 1,
     "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19088743006",
+   "name": "Poszwa 180x200 na kołdrę BAWEŁNA mikrofibra HOTELOWA zakładka TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19088743006",
+   "sku": "LN157",
+   "avg": 3.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
     "4": 0,
     "5": 0
    },
@@ -4304,7 +4355,7 @@
   },
   {
    "offerId": "17993463878",
-   "name": "Poszwa 260x240 na kołdrę 100% BAWEŁNA certyfikowana hotelowa zakładka",
+   "name": "Poszwa na kołdrę 260x240 hotelowa 100% BAWEŁNA zakładka TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17993463878",
    "sku": "LN181",
@@ -4321,7 +4372,7 @@
   },
   {
    "offerId": "17993406851",
-   "name": "Poszewka na kołdrę 220x240 BAWEŁNA 100% Gęstość 300 TC Poszwa Hotelowa TORA",
+   "name": "Poszwa na kołdrę 220x240 hotelowa 100% BAWEŁNA zakładka TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17993406851",
    "sku": "LN180",
@@ -5085,23 +5136,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357340671",
-   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357340671",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18357334870",
    "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -5408,23 +5442,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18225408392",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18225408392",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18141905984",
    "name": "Pościel bawełniana komplet 140X200CM + 2 POSZEWKI 50X70CM hotelowa troczki",
    "shop": "toratex_pl",
@@ -5610,23 +5627,6 @@
     "5": 2
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18738520264",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18738520264",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "17346757025",
@@ -5833,6 +5833,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357340671",
+   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357340671",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18357289988",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -5916,6 +5933,23 @@
     "5": 3
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18225408392",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18225408392",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18091150199",
@@ -6068,7 +6102,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17955527193",
@@ -6106,7 +6140,7 @@
   },
   {
    "offerId": "17777505702",
-   "name": "Poszwa na kołdrę 160x200 hotelowa jakość trwała komfortowa w użytkowaniu",
+   "name": "Poszwa na kołdrę 160x200 HOTELOWA zamek BAWEŁNA mikrofibra TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17777505702",
    "sku": "LN164",
@@ -6154,6 +6188,23 @@
     "5": 3
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18738520264",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738520264",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18466285425",
@@ -6547,23 +6598,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18486017245",
-   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18486017245",
-   "sku": "LN038B",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18075547708",
    "name": "Prześcieradło z gumką 90x200x25 SOLIDNE100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -6715,6 +6749,23 @@
     "5": 6
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18486017245",
+   "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18486017245",
+   "sku": "LN038B",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18466466102",
@@ -6905,7 +6956,7 @@
   },
   {
    "offerId": "17814933003",
-   "name": "Pościel 200x200 50x70 x2 KOMPLET POŚCIELI zestaw adamaszek BAWEŁNA koperta",
+   "name": "Komplet pościeli zestaw 200x200 50x70x2 adamaszek 100% BAWEŁNA koperta TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17814933003",
    "sku": "LN193",
@@ -7071,7 +7122,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17626682772",
@@ -7224,7 +7275,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17700847628",
@@ -7551,7 +7602,7 @@
   },
   {
    "offerId": "17702973302",
-   "name": "Poduszka 40x40 jasiek do spania hotelowa jakość antyalergiczna GRUBA 260g",
+   "name": "Poduszka 40x40 jasiek do spania HOTELOWA jakość antyalergiczna 260g TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17702973302",
    "sku": "LN022",
@@ -8196,23 +8247,6 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 37,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 37
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17615562738",
    "name": "Ręcznik kąpielowy 70x140 duży plażowy 100% bawełna SPA hotelowy grubyTRWAŁY",
    "shop": "toratex_pl",
@@ -8585,23 +8619,6 @@
     "5": 76
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18932235606",
-   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18932235606",
-   "sku": "",
-   "avg": 4.71,
-   "reviews": 518,
-   "dist": {
-    "1": 26,
-    "2": 5,
-    "3": 9,
-    "4": 13,
-    "5": 465
-   },
-   "salesBand": "0"
   }
  ]
 }
