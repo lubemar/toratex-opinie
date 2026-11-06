@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:18:14Z",
+ "updated": "2026-11-06T11:47:02Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2175,7 +2175,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18006618799",
@@ -2192,7 +2192,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17994251488",
@@ -3331,7 +3331,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18358206136",
@@ -5833,23 +5833,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357340671",
-   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357340671",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18357289988",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -5933,23 +5916,6 @@
     "5": 3
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18225408392",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18225408392",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18091150199",
@@ -6190,23 +6156,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18738520264",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18738520264",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18466285425",
    "name": "PRZEŚCIERADŁO 220x250 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
    "shop": "TORATEX",
@@ -6326,6 +6275,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18357340671",
+   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357340671",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18788977600",
    "name": "Prześcieradło 180x200 z gumką HOTELOWE gładkie TORA",
    "shop": "toratex_pl",
@@ -6358,6 +6324,23 @@
     "5": 4
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18225408392",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18225408392",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18093892606",
@@ -6443,6 +6426,23 @@
     "5": 4
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18738520264",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738520264",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17220149347",
@@ -7275,7 +7275,7 @@
     "4": 0,
     "5": 10
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17700847628",
