@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:47:02Z",
+ "updated": "2026-11-06T18:44:16Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5269,7 +5269,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18521727361",
@@ -5935,23 +5935,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18075645076",
-   "name": "Prześcieradło z gumką 140x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18075645076",
-   "sku": "LN002",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18034879758",
    "name": "Materac 90x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 25cm",
    "shop": "toratex_pl",
@@ -6068,7 +6051,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17955527193",
@@ -6224,23 +6207,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "16333775682",
-   "name": "PRZEŚCIERADŁO 140x200+25 CM Z GUMKĄ BAWEŁNA GŁADKIE SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16333775682",
-   "sku": "LN002 SUPREME",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "16003584463",
    "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
    "shop": "TORATEX",
@@ -6348,6 +6314,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18093892606",
    "sku": "LN135",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18075645076",
+   "name": "Prześcieradło z gumką 140x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075645076",
+   "sku": "LN002",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6477,6 +6460,23 @@
     "5": 4
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "16333775682",
+   "name": "PRZEŚCIERADŁO 140x200+25 CM Z GUMKĄ BAWEŁNA GŁADKIE SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16333775682",
+   "sku": "LN002 SUPREME",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "16179378133",
@@ -8026,6 +8026,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17629561930",
+   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17629561930",
+   "sku": "LN112",
+   "avg": 5.0,
+   "reviews": 26,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 26
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18256894763",
    "name": "Poduszka Hotelowa 70x80 1200g 100% Bawełna Antyalergiczna Komfortowa",
    "shop": "tora_official",
@@ -8184,13 +8201,13 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256405995",
    "sku": "LN093",
-   "avg": 4.85,
-   "reviews": 34,
+   "avg": 4.83,
+   "reviews": 35,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
-    "4": 1,
+    "4": 2,
     "5": 32
    },
    "salesBand": "1-9"
@@ -8201,13 +8218,13 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649306642",
    "sku": "LN093",
-   "avg": 4.85,
-   "reviews": 34,
+   "avg": 4.83,
+   "reviews": 35,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
-    "4": 1,
+    "4": 2,
     "5": 32
    },
    "salesBand": "50-99"
@@ -8218,13 +8235,13 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17215776241",
    "sku": "LN093",
-   "avg": 4.85,
-   "reviews": 34,
+   "avg": 4.83,
+   "reviews": 35,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
-    "4": 1,
+    "4": 2,
     "5": 32
    },
    "salesBand": "1-9"
