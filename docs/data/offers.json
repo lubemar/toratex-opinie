@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:43:01Z",
+ "updated": "2026-11-07T20:38:51Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -462,7 +462,7 @@
   },
   {
    "offerId": "18815997717",
-   "name": "Kołdra 200x220 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna Naturalna TORA",
+   "name": "Kołdra 200x220 PUCHOWA 100% bawełna ANTYALERGICZNA naturalna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18815997717",
    "sku": "LN02KPG",
@@ -479,7 +479,7 @@
   },
   {
    "offerId": "18813609780",
-   "name": "Kołdra 160x200 CAŁOROCZNA Antyalergiczna PUCHOWA Bawełna 100% 350 g/m2 TORA",
+   "name": "Kołdra 160x200 PUCHOWA 100% bawełna ANTYALERGICZNA naturalna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18813609780",
    "sku": "LN01KPG",
@@ -1615,23 +1615,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18207387648",
-   "name": "Komplet pościeli 260x240 + 2 poszewki 50x70 100% bawełna hotelowa zakładka",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18207387648",
-   "sku": "LN243",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18207329950",
@@ -3607,7 +3590,7 @@
   },
   {
    "offerId": "18816008438",
-   "name": "Kołdra 260x240 CAŁOROCZNA antyalergiczna PUCHOWA 100% BAWEŁNA jakość TORA",
+   "name": "Kołdra 260x240 BAWEŁNA 100% antyalergiczna PUCHOWA naturalna TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18816008438",
    "sku": "LN03KPG",
@@ -4019,6 +4002,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18225371983",
    "sku": "MSP5",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18207387648",
+   "name": "Komplet pościeli 260x240 + 2 poszewki 50x70 100% bawełna hotelowa zakładka",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18207387648",
+   "sku": "LN243",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -5681,7 +5681,7 @@
   },
   {
    "offerId": "17189209371",
-   "name": "KOŁDRA 180x200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
+   "name": "KOŁDRA 180x200 BAWEŁNA 100% CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17189209371",
    "sku": "LN103",
@@ -7704,7 +7704,7 @@
   },
   {
    "offerId": "17188965317",
-   "name": "KOŁDRA 200x220 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
+   "name": "KOŁDRA 200x220 BAWEŁNA 100% CAŁOROCZNA ANTYALERGICZNA HOTELOWA SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17188965317",
    "sku": "LN101",
