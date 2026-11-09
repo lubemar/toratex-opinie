@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:55:00Z",
+ "updated": "2026-11-09T12:25:09Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3827,23 +3827,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18502412451",
-   "name": "Kołdra 240x220 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18502412451",
-   "sku": "LN178Z",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18499912149",
    "name": "Kołdra 140x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -3943,7 +3926,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485667441",
@@ -5269,7 +5252,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18521727361",
@@ -7227,23 +7210,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18488887868",
-   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488887868",
-   "sku": "LN003B",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "17700847628",
    "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
    "shop": "toratex_pl",
@@ -7429,6 +7395,23 @@
     "5": 10
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18488887868",
+   "name": "Prześcieradło gumka 4 rogi 160x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488887868",
+   "sku": "LN003B",
+   "avg": 5.0,
+   "reviews": 11,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 11
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "19003255628",
@@ -7958,23 +7941,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 4.92,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 23
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18931396451",
    "name": "Pokrowiec OCHRANIACZ na materac WODOODPORNY 90x200 100% mikrofibra TORA",
    "shop": "toratex_pl",
@@ -8007,6 +7973,23 @@
     "5": 24
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 4.92,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 24
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17931116022",
