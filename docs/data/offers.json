@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:25:09Z",
+ "updated": "2026-11-09T22:50:32Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3453,23 +3453,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18354746214",
-   "name": "Materac 80x200 Sprężynowy Kieszeniowy TWARDY 7 Stref Premium",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18354746214",
-   "sku": "MT0",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18060331493",
    "name": "Prześcieradło 150x220 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -3960,7 +3943,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18316135328",
@@ -4165,23 +4148,6 @@
     "5": 1
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034867111",
-   "name": "Materac 80x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY premium",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034867111",
-   "sku": "MT0",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18034692104",
@@ -5136,6 +5102,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18354746214",
+   "name": "Materac 80x200 Sprężynowy Kieszeniowy TWARDY 7 Stref Tora",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18354746214",
+   "sku": "MT0",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "19003001331",
    "name": "Materac 140x200 sprężynowo kieszeniowy DWUSTRONNY H3 i H4 Prestige",
    "shop": "toratex_pl",
@@ -5498,6 +5481,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034873119",
    "sku": "MS0",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18034867111",
+   "name": "Materac 80x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY premium",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034867111",
+   "sku": "MT0",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5932,7 +5932,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18034801370",
@@ -6510,7 +6510,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18466561803",
@@ -7921,7 +7921,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18789000876",
@@ -8007,23 +8007,6 @@
     "5": 24
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "17629561930",
-   "name": "Poduszka 50x70z gęsim pierzem puchowa gęsto tkana profilowana przeciwbólowa",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17629561930",
-   "sku": "LN112",
-   "avg": 5.0,
-   "reviews": 26,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 26
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18256894763",
@@ -8414,7 +8397,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17532987937",
