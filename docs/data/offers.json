@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:06:35Z",
+ "updated": "2026-11-10T19:23:48Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1716,7 +1716,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18158356363",
@@ -1835,7 +1835,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18135218984",
@@ -5068,23 +5068,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357334870",
-   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357334870",
-   "sku": "MTP4",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18354746214",
    "name": "Materac 80x200 Sprężynowy Kieszeniowy TWARDY 7 Stref Tora",
    "shop": "tora_official",
@@ -5493,23 +5476,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18034816945",
-   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034816945",
-   "sku": "MTP4",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18034611177",
    "name": "Materac 90x200 średnio twardy KIESZENIOWY wysoki 20cm komfortowy Kaszmirowy",
    "shop": "toratex_pl",
@@ -5799,6 +5765,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357334870",
+   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357334870",
+   "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18357289988",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -5906,6 +5889,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034879758",
    "sku": "MTP1",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034816945",
+   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034816945",
+   "sku": "MTP4",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -6105,6 +6105,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17668190356",
+   "name": "Szlafrok DAMSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar M",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668190356",
+   "sku": "LN127",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18466285425",
    "name": "PRZEŚCIERADŁO 220x250 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
    "shop": "TORATEX",
@@ -6136,7 +6153,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17314982520",
@@ -6144,23 +6161,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17314982520",
    "sku": "LN034",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17220148174",
-   "name": "SZLAFROK MĘSKI Z PASKIEM PREMIUM HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220148174",
-   "sku": "LN128",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -6343,23 +6343,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17668190356",
-   "name": "Szlafrok DAMSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar M",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668190356",
-   "sku": "LN127",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17619514619",
    "name": "Ręcznik 50x100 do rąk 100% bawełna mega chłonny miękki trwały 300 prań",
    "shop": "toratex_pl",
@@ -6382,23 +6365,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/18738520264",
    "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17220149347",
-   "name": "SZLAFROK DAMSKI Z PASKIEM PREMIUM HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220149347",
-   "sku": "LN127",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6697,7 +6663,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18486017245",
@@ -6904,23 +6870,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17220236808",
-   "name": "SZLAFROK DAMSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220236808",
-   "sku": "LN131",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18527475001",
    "name": "Ręcznik TORA 50x100 100% Bawełna BALANCE do rąk SPA 400GSM",
    "shop": "tora_official",
@@ -7074,6 +7023,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17665514390",
+   "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17665514390",
+   "sku": "LN132",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17626682772",
    "name": "Kapcie damskie ZESTAW 10 szt. SPA 35–38 TRWAŁE pantofle z twardą podeszwą",
    "shop": "toratex_pl",
@@ -7181,40 +7147,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17700847628",
    "sku": "LN028",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17665514390",
-   "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17665514390",
-   "sku": "LN132",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17220235700",
-   "name": "SZLAFROK MĘSKI WAFEL VIP PASEK WZOREK BIAŁY HOTELOWY SUPREME",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17220235700",
-   "sku": "LN132",
    "avg": 5.0,
    "reviews": 10,
    "dist": {
@@ -7598,7 +7530,7 @@
     "4": 1,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17817853435",
@@ -7785,7 +7717,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18952633104",
