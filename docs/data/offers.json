@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:23:48Z",
+ "updated": "2026-11-11T11:44:42Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1087,7 +1087,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18505544190",
@@ -2345,7 +2345,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17666182540",
@@ -4028,7 +4028,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18121151901",
@@ -4113,7 +4113,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034874929",
@@ -4980,7 +4980,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18527078837",
@@ -5765,23 +5765,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357334870",
-   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357334870",
-   "sku": "MTP4",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18357289988",
    "name": "Materac 90x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -5889,23 +5872,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034879758",
    "sku": "MTP1",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034816945",
-   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034816945",
-   "sku": "MTP4",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -6088,23 +6054,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17668236910",
-   "name": "Szlafrok MĘSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17668236910",
-   "sku": "LN128",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17668190356",
    "name": "Szlafrok DAMSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar M",
    "shop": "toratex_pl",
@@ -6224,6 +6173,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357334870",
+   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357334870",
+   "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18788977600",
    "name": "Prześcieradło 180x200 z gumką HOTELOWE gładkie TORA",
    "shop": "toratex_pl",
@@ -6309,6 +6275,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18034816945",
+   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034816945",
+   "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17780718452",
    "name": "Pokrowiec na materac 90x200 ochraniacz WODOODPORNY nakładka pikowana",
    "shop": "toratex_pl",
@@ -6331,6 +6314,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17698345947",
    "sku": "LN026",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17668236910",
+   "name": "Szlafrok MĘSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17668236910",
+   "sku": "LN128",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7275,7 +7275,7 @@
     "4": 0,
     "5": 11
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18618247638",
@@ -7310,57 +7310,6 @@
     "5": 10
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "19003255628",
-   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar L",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/19003255628",
-   "sku": "LN238L",
-   "avg": 4.83,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18489030107",
-   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar M",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489030107",
-   "sku": "LN238M",
-   "avg": 4.83,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 10
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18488951909",
-   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar S",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488951909",
-   "sku": "LN238S",
-   "avg": 4.83,
-   "reviews": 12,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 10
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17755357163",
@@ -7429,6 +7378,57 @@
     "5": 12
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "19003255628",
+   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar L",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19003255628",
+   "sku": "LN238L",
+   "avg": 4.85,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 11
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18489030107",
+   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar M",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489030107",
+   "sku": "LN238M",
+   "avg": 4.85,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 11
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18488951909",
+   "name": "Szlafrok MĘSKI DAMSKI 100% BAWEŁNA Hotelowy SPA wafel unisex TORA rozmiar S",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488951909",
+   "sku": "LN238S",
+   "avg": 4.85,
+   "reviews": 13,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 11
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17649347245",
