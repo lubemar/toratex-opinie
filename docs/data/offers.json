@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:44:42Z",
+ "updated": "2026-11-11T19:02:29Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1036,7 +1036,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18523737210",
@@ -1394,23 +1394,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18315892942",
-   "name": "Poszwa na kołdrę 180x200 hotelowa jakość trwała komfortowa zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18315892942",
-   "sku": "LN165",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18315843491",
@@ -4232,7 +4215,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18013717234",
@@ -7785,7 +7768,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17507401035",
@@ -8142,7 +8125,7 @@
     "4": 2,
     "5": 47
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18932156647",
