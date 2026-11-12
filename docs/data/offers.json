@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:02:29Z",
+ "updated": "2026-11-12T12:04:48Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1394,6 +1394,23 @@
     "5": 0
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18315892942",
+   "name": "Poszwa na kołdrę 180x200 hotelowa jakość trwała komfortowa zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18315892942",
+   "sku": "LN165",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18315843491",
@@ -3722,7 +3739,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18521696309",
@@ -5238,23 +5255,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18500004422",
-   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18500004422",
-   "sku": "LN101Z",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18499961986",
    "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -5337,7 +5337,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485739957",
@@ -5833,6 +5833,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18500004422",
+   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18500004422",
+   "sku": "LN101Z",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18091150199",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -5966,7 +5983,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17955527193",
@@ -6034,7 +6051,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17668190356",
@@ -6102,7 +6119,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003584463",
@@ -6649,6 +6666,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19112777117",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen 2 szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19112777117",
+   "sku": "LN009B",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18486017245",
    "name": "MATA łazienkowa DYWANIK stopka hotelowa stopki 50x60cm",
    "shop": "toratex_pl",
@@ -6688,23 +6722,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18034680307",
    "sku": "MT3",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "17774211097",
-   "name": "Ręcznik do kąpieli Ręczniki GRUBE BAWEŁNA 600GSM 3 ROZMIARY 8 SZT",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17774211097",
-   "sku": "ZEST-X2LN037-X2LN035-X4LN033",
    "avg": 5.0,
    "reviews": 6,
    "dist": {
@@ -7258,7 +7275,7 @@
     "4": 0,
     "5": 11
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18618247638",
@@ -7635,6 +7652,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "19112755300",
+   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA bawełna 100%koperta 2 sztuki",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19112755300",
+   "sku": "LN106",
+   "avg": 5.0,
+   "reviews": 19,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 19
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18744050657",
    "name": "Ręcznik do rąk Ręczniki kąpielowe 50x100 BAWEŁNA 100% 600GSM HOTELOWE 10 sz",
    "shop": "toratex_pl",
@@ -7666,7 +7700,7 @@
     "4": 0,
     "5": 19
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17615651795",
@@ -8026,6 +8060,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "19112780161",
+   "name": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu 2 sz",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19112780161",
+   "sku": "LN009",
+   "avg": 4.9,
+   "reviews": 31,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 28
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17739542007",
    "name": "Poszewka na poduszkę 40x40 jasiek oddychający materiał przeciw poceniu",
    "shop": "toratex_pl",
@@ -8109,6 +8160,23 @@
     "5": 33
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 38,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 38
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18364435450",
@@ -8295,7 +8363,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17235708456",
@@ -8380,7 +8448,7 @@
     "4": 4,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17235708662",
@@ -8466,6 +8534,40 @@
     "5": 76
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "19112737115",
+   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna 2 sztuki",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/19112737115",
+   "sku": "",
+   "avg": 4.71,
+   "reviews": 519,
+   "dist": {
+    "1": 26,
+    "2": 5,
+    "3": 9,
+    "4": 13,
+    "5": 466
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18932235606",
+   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18932235606",
+   "sku": "",
+   "avg": 4.71,
+   "reviews": 519,
+   "dist": {
+    "1": 26,
+    "2": 5,
+    "3": 9,
+    "4": 13,
+    "5": 466
+   },
+   "salesBand": "0"
   }
  ]
 }
