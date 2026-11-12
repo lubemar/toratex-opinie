@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:04:48Z",
+ "updated": "2026-11-12T19:40:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -866,7 +866,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18547508499",
@@ -1394,23 +1394,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18315892942",
-   "name": "Poszwa na kołdrę 180x200 hotelowa jakość trwała komfortowa zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18315892942",
-   "sku": "LN165",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18315843491",
@@ -8040,7 +8023,7 @@
     "4": 1,
     "5": 29
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "16003245395",
@@ -8160,23 +8143,6 @@
     "5": 33
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 38,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 38
-   },
-   "salesBand": "50-99"
   },
   {
    "offerId": "18364435450",
@@ -8536,36 +8502,36 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "19113070814",
+   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/19113070814",
+   "sku": "",
+   "avg": 4.71,
+   "reviews": 520,
+   "dist": {
+    "1": 26,
+    "2": 5,
+    "3": 9,
+    "4": 13,
+    "5": 467
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "19112737115",
    "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna 2 sztuki",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/19112737115",
    "sku": "",
    "avg": 4.71,
-   "reviews": 519,
+   "reviews": 520,
    "dist": {
     "1": 26,
     "2": 5,
     "3": 9,
     "4": 13,
-    "5": 466
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18932235606",
-   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18932235606",
-   "sku": "",
-   "avg": 4.71,
-   "reviews": 519,
-   "dist": {
-    "1": 26,
-    "2": 5,
-    "3": 9,
-    "4": 13,
-    "5": 466
+    "5": 467
    },
    "salesBand": "0"
   }
