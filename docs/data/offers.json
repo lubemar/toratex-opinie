@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:19:06Z",
+ "updated": "2026-11-16T12:19:28Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2209,7 +2209,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17988281424",
@@ -3518,7 +3518,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18946562153",
@@ -3671,7 +3671,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18569690998",
@@ -5171,7 +5171,7 @@
   },
   {
    "offerId": "18803958066",
-   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "name": "Kołdra 200x220 CAŁOROCZNA antyalergiczna hotelowa do domu TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18803958066",
    "sku": "LN101B",
@@ -5188,7 +5188,7 @@
   },
   {
    "offerId": "18803864962",
-   "name": "Kołdra 200x200 CAŁOROCZNA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "name": "Kołdra 200x200 CAŁOROCZNA antyalergiczna hotelowa do domu TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18803864962",
    "sku": "LN025B",
@@ -5337,7 +5337,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18485739957",
@@ -5817,7 +5817,7 @@
   },
   {
    "offerId": "18524167685",
-   "name": "Kołdra 160x200 LETNIA antyalergiczna hotelowa MIESZANKA PUCHÓW TORA",
+   "name": "Kołdra 160x200 LETNIA antyalergiczna hotelowa do domu TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18524167685",
    "sku": "LN024B",
@@ -7428,7 +7428,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17215773602",
@@ -7941,62 +7941,11 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18260334434",
-   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18260334434",
-   "sku": "LN018",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17702945906",
    "name": "Poduszka 40x40 jasiek mała profilowana hotelowa KOMFORT SNU puszysta 330g",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17702945906",
    "sku": "LN019",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17702908317",
-   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702908317",
-   "sku": "LN018",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "16003362238",
-   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003362238",
-   "sku": "LN018 CLASSIC",
    "avg": 4.84,
    "reviews": 31,
    "dist": {
@@ -8039,6 +7988,57 @@
     "3": 0,
     "4": 3,
     "5": 28
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18260334434",
+   "name": "Poduszka do Spania 70x80 Hotelowa 1200g Miękka Sprężysta Komfortowa",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18260334434",
+   "sku": "LN018",
+   "avg": 4.84,
+   "reviews": 32,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 30
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17702908317",
+   "name": "Poduszka 70x80 antyalergiczna hotelowa komfortowa średnie podparcie 1200g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17702908317",
+   "sku": "LN018",
+   "avg": 4.84,
+   "reviews": 32,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 30
+   },
+   "salesBand": "50-99"
+  },
+  {
+   "offerId": "16003362238",
+   "name": "PODUSZKA 70X80CM ANTYALERGICZNA HOTELOWA GRUBA CLASSIC",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003362238",
+   "sku": "LN018 CLASSIC",
+   "avg": 4.84,
+   "reviews": 32,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 30
    },
    "salesBand": "10-49"
   },
@@ -8111,23 +8111,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 38,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 38
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "18364435450",
    "name": "Ręcznik do twarzy 30x30 100% Bawełna Gruby Miękki SPA Hotelowy",
    "shop": "tora_official",
@@ -8193,7 +8176,7 @@
     "4": 2,
     "5": 47
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18929393968",
@@ -8244,7 +8227,7 @@
     "4": 2,
     "5": 47
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17668946883",
@@ -8499,7 +8482,7 @@
     "4": 13,
     "5": 467
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "19112737115",
