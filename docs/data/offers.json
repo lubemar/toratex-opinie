@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:19:28Z",
+ "updated": "2026-11-16T22:42:16Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1172,7 +1172,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18505423253",
@@ -3178,7 +3178,7 @@
     "4": 1,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18505455735",
@@ -4385,7 +4385,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17780180598",
@@ -8380,7 +8380,7 @@
     "4": 4,
     "5": 68
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17235708662",
@@ -8468,19 +8468,36 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "19126473132",
+   "name": "Oryginalna szybka ładowarka Samsung Super Fast Charging 45W USB-C czarna",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/19126473132",
+   "sku": "",
+   "avg": 4.89,
+   "reviews": 95,
+   "dist": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 91
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "19113070814",
    "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/19113070814",
    "sku": "",
    "avg": 4.71,
-   "reviews": 520,
+   "reviews": 521,
    "dist": {
     "1": 26,
     "2": 5,
     "3": 9,
     "4": 13,
-    "5": 467
+    "5": 468
    },
    "salesBand": "10-49"
   },
@@ -8491,13 +8508,13 @@
    "url": "https://allegro.pl/oferta/19112737115",
    "sku": "Zest-8806090134654",
    "avg": 4.71,
-   "reviews": 520,
+   "reviews": 521,
    "dist": {
     "1": 26,
     "2": 5,
     "3": 9,
     "4": 13,
-    "5": 467
+    "5": 468
    },
    "salesBand": "1-9"
   }
