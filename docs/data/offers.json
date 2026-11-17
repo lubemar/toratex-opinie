@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:42:16Z",
+ "updated": "2026-11-17T12:41:34Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -662,7 +662,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18577834131",
@@ -1240,7 +1240,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18489136387",
@@ -3470,23 +3470,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "19002974964",
-   "name": "Materac 140x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/19002974964",
-   "sku": "MV3",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18952606211",
    "name": "Poszewka 70x80 na poduszkę HOTELOWA bawełna/mikrofibra TORA",
    "shop": "toratex_pl",
@@ -5119,6 +5102,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "19002974964",
+   "name": "Materac 140x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19002974964",
+   "sku": "MV3",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18949799334",
    "name": "Poszewka na kołdrę 140x200 Poszwa HOTELOWA Zamek Bawełna Mikrofibra TORA",
    "shop": "toratex_pl",
@@ -6748,7 +6748,7 @@
     "4": 0,
     "5": 6
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18253571561",
@@ -7598,7 +7598,7 @@
     "4": 0,
     "5": 17
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17615562738",
@@ -8210,7 +8210,7 @@
     "4": 2,
     "5": 47
    },
-   "salesBand": "10-49"
+   "salesBand": "0"
   },
   {
    "offerId": "17602949491",
