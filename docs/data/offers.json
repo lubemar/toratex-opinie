@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:41:34Z",
+ "updated": "2026-11-17T21:31:58Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3164,23 +3164,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18823861784",
-   "name": "Komplet pościeli 180x200 2x50x70 ZESTAW adamaszek 100% BAWEŁNA koperta TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18823861784",
-   "sku": "LN192",
-   "avg": 4.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18505455735",
    "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
@@ -4932,6 +4915,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18823861784",
+   "name": "Komplet pościeli 180x200 2x50x70 ZESTAW adamaszek 100% BAWEŁNA koperta TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18823861784",
+   "sku": "LN192",
+   "avg": 4.5,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18013693211",
    "name": "POŚCIEL 160x200 KOMPLET + 2 POSZEWKI 70X80 SUPER JAKOŚĆ HOTELOWA zamek",
    "shop": "toratex_pl",
@@ -5243,23 +5243,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18521487700",
    "sku": "MTP0",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18499961986",
-   "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18499961986",
-   "sku": "LN103Z",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5850,6 +5833,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18499961986",
+   "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499961986",
+   "sku": "LN103Z",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18091150199",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -6051,7 +6051,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17668190356",
@@ -6664,6 +6664,23 @@
     "5": 6
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "19068909539",
+   "name": "Poduszka 70x80 antyalergiczna HOTELOWA 100% mikrofibra 1600g do domu TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19068909539",
+   "sku": "LN100 CLASSIC",
+   "avg": 5.0,
+   "reviews": 6,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18486017245",
@@ -7805,19 +7822,36 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18457325725",
+   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18457325725",
+   "sku": "LN037L",
+   "avg": 4.79,
+   "reviews": 24,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 3,
+    "5": 20
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18789000876",
    "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18789000876",
    "sku": "LN097",
    "avg": 4.96,
-   "reviews": 23,
+   "reviews": 24,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 22
+    "5": 23
    },
    "salesBand": "10-49"
   },
@@ -7871,6 +7905,23 @@
     "5": 24
    },
    "salesBand": "50-99"
+  },
+  {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931116022",
