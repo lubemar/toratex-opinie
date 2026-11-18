@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:34:33Z",
+ "updated": "2026-11-18T21:03:48Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3300,23 +3300,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18358142176",
-   "name": "Materac 200x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18358142176",
-   "sku": "MSP6",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18358129296",
    "name": "Materac 180x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
    "shop": "tora_official",
@@ -3492,23 +3475,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18816008438",
    "sku": "LN03KPG",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18788951911",
-   "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18788951911",
-   "sku": "LN003",
    "avg": 5.0,
    "reviews": 1,
    "dist": {
@@ -4080,23 +4046,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18031586195",
-   "name": "Materac 200x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 strefowy Z TOPPEREM",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18031586195",
-   "sku": "MSP6",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18013717234",
@@ -4898,6 +4847,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18358142176",
+   "name": "Materac 200x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18358142176",
+   "sku": "MSP6",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18357774837",
    "name": "Materac 90x200 Kieszeniowy Sprężynowy 7 Stref Średnio Twardy z Topperem",
    "shop": "tora_official",
@@ -5073,6 +5039,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18803864962",
    "sku": "LN025B",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18788951911",
+   "name": "Prześcieradło z gumką 160x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18788951911",
+   "sku": "LN003",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5321,6 +5304,23 @@
     "5": 2
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18031586195",
+   "name": "Materac 200x200 średnio twardy SPRĘŻYNOWO KIESZENIOWY 7 strefowy Z TOPPEREM",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18031586195",
+   "sku": "MSP6",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17942947468",
@@ -5680,23 +5680,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18500004422",
-   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18500004422",
-   "sku": "LN101Z",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18499961986",
    "name": "Kołdra 180x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -5986,6 +5969,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18500004422",
+   "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18500004422",
+   "sku": "LN101Z",
+   "avg": 4.0,
+   "reviews": 4,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18006705428",
    "name": "POŚCIEL 200x200 KOMPLET + 2 POSZEWKI 50X70 SUPER JAKOŚĆ HOTELOWA zamek",
    "shop": "toratex_pl",
@@ -6190,23 +6190,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "17698345947",
-   "name": "Kołdra 140x200 LETNIA antyalergiczna oddychająca SUPER jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17698345947",
-   "sku": "LN026",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17668236910",
    "name": "Szlafrok MĘSKI Hotelowy SPA miękki puszysty długi z kieszeniami rozmiar L",
    "shop": "toratex_pl",
@@ -6290,23 +6273,6 @@
     "5": 4
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "16179378133",
-   "name": "KOŁDRA 140X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SIMPLE",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16179378133",
-   "sku": "LN026 SIMPLE",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18357689701",
@@ -6513,6 +6479,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17698345947",
+   "name": "Kołdra 140x200 LETNIA antyalergiczna oddychająca SUPER jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17698345947",
+   "sku": "LN026",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "16333838885",
    "name": "PRZEŚCIERADŁO 90x200 Z GUMKĄ 100% BAWEŁNA GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
    "shop": "TORATEX",
@@ -6528,6 +6511,23 @@
     "5": 5
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "16179378133",
+   "name": "KOŁDRA 140X200 BAWEŁNIANA CAŁOROCZNA ANTYALERGICZNA HOTELOWA SIMPLE",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16179378133",
+   "sku": "LN026 SIMPLE",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18358210515",
