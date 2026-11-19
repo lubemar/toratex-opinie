@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:03:48Z",
+ "updated": "2026-11-19T12:24:15Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -900,7 +900,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18523937814",
@@ -4779,23 +4779,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18527316505",
-   "name": "Ręcznik TORA 50x100 100% Bawełna GRUBY do rąk SPA premium 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527316505",
-   "sku": "LN035L",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18527078837",
    "name": "Prześcieradło 150x260 Białe Hotelowe 100% Bawełna 300TC Tradycyjne TORA",
    "shop": "tora_official",
@@ -5168,23 +5151,6 @@
     "5": 2
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18485739957",
-   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485739957",
-   "sku": "LN035P",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18141905984",
@@ -5561,6 +5527,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18527316505",
+   "name": "Ręcznik TORA 50x100 100% Bawełna GRUBY do rąk SPA premium 700GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527316505",
+   "sku": "LN035L",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18364501983",
    "name": "Prześcieradło 220x250 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -5685,6 +5668,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18499961986",
    "sku": "LN103Z",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18485739957",
+   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485739957",
+   "sku": "LN035P",
    "avg": 5.0,
    "reviews": 3,
    "dist": {
@@ -5847,7 +5847,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17777505702",
@@ -7822,23 +7822,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18457325725",
-   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18457325725",
-   "sku": "LN037L",
-   "avg": 4.79,
-   "reviews": 24,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 3,
-    "5": 20
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18789000876",
    "name": "Poduszka 70x80 100% bawełna 1600g HOTELOWA wysoka biała TORA",
    "shop": "toratex_pl",
@@ -8006,7 +7989,7 @@
     "4": 1,
     "5": 29
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003245395",
@@ -8431,7 +8414,7 @@
     "4": 4,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17235708662",
@@ -8482,7 +8465,7 @@
     "4": 3,
     "5": 76
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17898750810",
