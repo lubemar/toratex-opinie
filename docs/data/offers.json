@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:24:15Z",
+ "updated": "2026-11-19T21:09:52Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -407,7 +407,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18824131559",
@@ -3212,7 +3212,7 @@
     "4": 1,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18529995021",
@@ -4267,23 +4267,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "17736747631",
-   "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736747631",
-   "sku": "LN107 SIMPLE",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "17736747034",
@@ -5643,7 +5626,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18524167685",
@@ -5813,7 +5796,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17955527193",
@@ -6751,23 +6734,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17814933003",
-   "name": "Komplet pościeli zestaw 200x200 50x70x2 adamaszek 100% BAWEŁNA koperta TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17814933003",
-   "sku": "LN193",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17666054578",
    "name": "Szlafrok DAMSKI MĘSKI Bawełna 100% Długi Miękki Wiązany Kieszenie rozmiar M",
    "shop": "toratex_pl",
@@ -7385,16 +7351,33 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18256249740",
    "sku": "LN099",
-   "avg": 4.92,
-   "reviews": 13,
+   "avg": 4.93,
+   "reviews": 14,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 12
+    "5": 13
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17817853435",
+   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817853435",
+   "sku": "LN196",
+   "avg": 4.93,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 13
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "17649517391",
@@ -7402,14 +7385,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17649517391",
    "sku": "LN099",
-   "avg": 4.92,
-   "reviews": 13,
+   "avg": 4.93,
+   "reviews": 14,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 12
+    "5": 13
    },
    "salesBand": "10-49"
   },
@@ -7419,23 +7402,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/17220034861",
    "sku": "LN099",
-   "avg": 4.92,
-   "reviews": 13,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 12
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "17817853435",
-   "name": "Poszewka na poduszkę 70x80 ADAMASZEK paski bawełna jakość hotelowa koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817853435",
-   "sku": "LN196",
    "avg": 4.93,
    "reviews": 14,
    "dist": {
@@ -7989,7 +7955,7 @@
     "4": 1,
     "5": 29
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "16003245395",
@@ -8077,57 +8043,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18256405995",
-   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18256405995",
-   "sku": "LN093",
-   "avg": 4.83,
-   "reviews": 35,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 32
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17649306642",
-   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17649306642",
-   "sku": "LN093",
-   "avg": 4.83,
-   "reviews": 35,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 32
-   },
-   "salesBand": "50-99"
-  },
-  {
-   "offerId": "17215776241",
-   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/17215776241",
-   "sku": "LN093",
-   "avg": 4.83,
-   "reviews": 35,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 32
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17607027219",
    "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
    "shop": "toratex_pl",
@@ -8143,6 +8058,57 @@
     "5": 33
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18256405995",
+   "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18256405995",
+   "sku": "LN093",
+   "avg": 4.78,
+   "reviews": 36,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 2,
+    "5": 32
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17649306642",
+   "name": "Poduszka 50x70 antyalergiczna hotelowa na zamek KOMFORT SNU BAWEŁNA 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17649306642",
+   "sku": "LN093",
+   "avg": 4.78,
+   "reviews": 36,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 2,
+    "5": 32
+   },
+   "salesBand": "50-99"
+  },
+  {
+   "offerId": "17215776241",
+   "name": "PODUSZKA 50x70 BAWEŁNA ANTYALERGICZNA PIKOWANA PREMIUM HOTELOWA ZAMEK",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/17215776241",
+   "sku": "LN093",
+   "avg": 4.78,
+   "reviews": 36,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 2,
+    "5": 32
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18364435450",
@@ -8295,7 +8261,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17532987937",
@@ -8414,7 +8380,7 @@
     "4": 4,
     "5": 68
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17235708662",
@@ -8482,7 +8448,7 @@
     "4": 3,
     "5": 76
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17898747895",
@@ -8525,13 +8491,13 @@
    "url": "https://allegro.pl/oferta/19113070814",
    "sku": "",
    "avg": 4.71,
-   "reviews": 521,
+   "reviews": 522,
    "dist": {
     "1": 26,
     "2": 5,
     "3": 9,
     "4": 13,
-    "5": 468
+    "5": 469
    },
    "salesBand": "10-49"
   },
@@ -8542,13 +8508,13 @@
    "url": "https://allegro.pl/oferta/19112737115",
    "sku": "Zest-8806090134654",
    "avg": 4.71,
-   "reviews": 521,
+   "reviews": 522,
    "dist": {
     "1": 26,
     "2": 5,
     "3": 9,
     "4": 13,
-    "5": 468
+    "5": 469
    },
    "salesBand": "1-9"
   }
