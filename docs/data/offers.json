@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:09:52Z",
+ "updated": "2026-11-20T12:23:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -347,6 +347,40 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18916376346",
    "sku": "LN129 ",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18915967200",
+   "name": "Zestaw ręczników SUPREME 600GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915967200",
+   "sku": "ZEST-X2LN037-X2LN035",
+   "avg": 0,
+   "reviews": 0,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "18915846787",
+   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18915846787",
+   "sku": "ZEST-X2LN037L-X2LN035L",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -3606,6 +3640,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18523941895",
+   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18523941895",
+   "sku": "LN208B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18505439489",
    "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
@@ -5068,6 +5119,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18489186187",
+   "name": "Prześcieradło z gumką 200x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18489186187",
+   "sku": "LN216",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18489156027",
    "name": "Prześcieradło z gumką 160x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
    "shop": "toratex_pl",
@@ -5612,6 +5680,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "19140289504",
+   "name": "Poszwa na kołdrę 260x240 hotelowa 100% BAWEŁNA zamek TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19140289504",
+   "sku": "LN183",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18952598357",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
    "shop": "toratex_pl",
@@ -5626,7 +5711,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18524167685",
@@ -6103,6 +6188,23 @@
     "5": 4
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18075755413",
+   "name": "Prześcieradło 160x200 z gumką bawełna solidne trwałe hotelowe gładkie",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075755413",
+   "sku": "LN007",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18075645076",
@@ -6717,6 +6819,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19140322558",
+   "name": "Prześcieradło z gumką 180x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19140322558",
+   "sku": "LN004",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18459736436",
    "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
    "shop": "toratex_pl",
@@ -7019,40 +7138,6 @@
     "3": 1,
     "4": 1,
     "5": 8
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17700847628",
-   "name": "Kołdra 200x200 LETNIA hotelowa lekka miękka antyalergiczna TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17700847628",
-   "sku": "LN028",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "16440523108",
-   "name": "KOŁDRA 200X200 BAWEŁNIANA CAŁOROCZNA ODDYCHAJĄCA ANTYALERGICZNA HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16440523108",
-   "sku": "LN028 SIMPLE",
-   "avg": 5.0,
-   "reviews": 10,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 10
    },
    "salesBand": "1-9"
   },
@@ -7465,6 +7550,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18256566314",
    "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
    "shop": "tora_official",
@@ -7497,6 +7599,40 @@
     "5": 17
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "18724257399",
+   "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18724257399",
+   "sku": "ZEST-X10LN037L",
+   "avg": 4.83,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 15
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17774211097",
+   "name": "Ręcznik do kąpieli Ręczniki GRUBE BAWEŁNA 600GSM 3 ROZMIARY 8 SZT",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17774211097",
+   "sku": "ZEST-X2LN037-X2LN035-X4LN033",
+   "avg": 4.83,
+   "reviews": 18,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 15
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "17615562738",
@@ -7632,7 +7768,7 @@
     "4": 0,
     "5": 21
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17649443987",
@@ -7805,6 +7941,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "18457325725",
+   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18457325725",
+   "sku": "LN037L",
+   "avg": 4.8,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 3,
+    "5": 21
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18931396451",
    "name": "Pokrowiec OCHRANIACZ na materac WODOODPORNY 90x200 100% mikrofibra TORA",
    "shop": "toratex_pl",
@@ -7856,6 +8009,23 @@
    "salesBand": "50-99"
   },
   {
+   "offerId": "18587705200",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18587705200",
+   "sku": "LN096",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -7869,6 +8039,23 @@
     "3": 0,
     "4": 1,
     "5": 24
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "17705687515",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17705687515",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 27,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 26
    },
    "salesBand": "1-9"
   },
@@ -8043,23 +8230,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "17607027219",
-   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17607027219",
-   "sku": "LN032",
-   "avg": 4.94,
-   "reviews": 35,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 2,
-    "5": 33
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18256405995",
    "name": "Poduszka Hotelowa 50x70 1000g 100% Bawełna Antyalergiczna",
    "shop": "tora_official",
@@ -8109,6 +8279,40 @@
     "5": 32
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "17607027219",
+   "name": "Ręcznik 30x30 cm biały do rąk twarzy ciała 100% bawełna chłonny miękki SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17607027219",
+   "sku": "LN032",
+   "avg": 4.94,
+   "reviews": 36,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 34
+   },
+   "salesBand": "10-49"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 38,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 38
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "18364435450",
@@ -8482,7 +8686,7 @@
     "4": 2,
     "5": 91
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "19113070814",
