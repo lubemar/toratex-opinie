@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:23:38Z",
+ "updated": "2026-11-20T20:55:08Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -374,23 +374,6 @@
     "5": 0
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18915846787",
-   "name": "Zestaw ręczników LUXURY 700GSM hotelowa jakość 4 szt TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18915846787",
-   "sku": "ZEST-X2LN037L-X2LN035L",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18915765016",
@@ -3640,23 +3623,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18523941895",
-   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18523941895",
-   "sku": "LN208B",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18505439489",
    "name": "Prześcieradło bez gumki 200x200 cm tradycyjne 100% BAWEŁNA hotelowe TORA",
    "shop": "toratex_pl",
@@ -4385,7 +4351,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17336623740",
@@ -5119,23 +5085,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18489186187",
-   "name": "Prześcieradło z gumką 200x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18489186187",
-   "sku": "LN216",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18489156027",
    "name": "Prześcieradło z gumką 160x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
    "shop": "toratex_pl",
@@ -5697,23 +5646,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18952598357",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18952598357",
-   "sku": "LN039",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18524167685",
    "name": "Kołdra 160x200 LETNIA antyalergiczna hotelowa do domu TORA",
    "shop": "toratex_pl",
@@ -5847,7 +5779,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18031413625",
@@ -6020,23 +5952,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "16003584463",
-   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003584463",
-   "sku": "LN039",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18500004422",
    "name": "Kołdra 220x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -6103,6 +6018,23 @@
     "5": 4
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18952598357",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952598357",
+   "sku": "LN039",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18823601749",
@@ -6188,23 +6120,6 @@
     "5": 4
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18075755413",
-   "name": "Prześcieradło 160x200 z gumką bawełna solidne trwałe hotelowe gładkie",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18075755413",
-   "sku": "LN007",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "18075645076",
@@ -6348,6 +6263,23 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16333775682",
    "sku": "LN002 SUPREME",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "16003584463",
+   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003584463",
+   "sku": "LN039",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7091,40 +7023,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18952596143",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18952596143",
-   "sku": "LN038",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "15608258485",
-   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/15608258485",
-   "sku": "LN038  ",
-   "avg": 5.0,
-   "reviews": 9,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 9
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17616123601",
    "name": "Popielniczka śmietnik kosz ogrodowy stal nierdzewna z WIADERKIEM 2w1 30L x2",
    "shop": "toratex_pl",
@@ -7138,6 +7036,40 @@
     "3": 1,
     "4": 1,
     "5": 8
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18952596143",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18952596143",
+   "sku": "LN038",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "15608258485",
+   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/15608258485",
+   "sku": "LN038  ",
+   "avg": 5.0,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 10
    },
    "salesBand": "1-9"
   },
@@ -7550,23 +7482,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18485802417",
-   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485802417",
-   "sku": "LN237L",
-   "avg": 5.0,
-   "reviews": 16,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 16
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18256566314",
    "name": "Poduszka do Spania 50x70 Hotelowa 750g Miękka Sprężysta Komfortowa",
    "shop": "tora_official",
@@ -7599,23 +7514,6 @@
     "5": 17
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18724257399",
-   "name": "Ręcznik kąpielowy 70x140 biały 100% bawełna SPA zestaw hotelowy 10szt",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18724257399",
-   "sku": "ZEST-X10LN037L",
-   "avg": 4.83,
-   "reviews": 18,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 3,
-    "5": 15
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "17774211097",
@@ -8009,23 +7907,6 @@
    "salesBand": "50-99"
   },
   {
-   "offerId": "18587705200",
-   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18587705200",
-   "sku": "LN096",
-   "avg": 4.96,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 24
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -8039,23 +7920,6 @@
     "3": 0,
     "4": 1,
     "5": 24
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17705687515",
-   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17705687515",
-   "sku": "LN017",
-   "avg": 4.96,
-   "reviews": 27,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 26
    },
    "salesBand": "1-9"
   },
@@ -8296,23 +8160,6 @@
     "5": 34
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "17817794007",
-   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17817794007",
-   "sku": "LN195",
-   "avg": 5.0,
-   "reviews": 38,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 38
-   },
-   "salesBand": "50-99"
   },
   {
    "offerId": "18364435450",
