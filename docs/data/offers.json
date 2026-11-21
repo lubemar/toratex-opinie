@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:55:08Z",
+ "updated": "2026-11-21T11:56:57Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -169,7 +169,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358155345",
@@ -2481,7 +2481,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18590846291",
@@ -3977,7 +3977,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18034692104",
@@ -7428,7 +7428,7 @@
     "4": 1,
     "5": 13
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485608818",
@@ -7890,23 +7890,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 4.92,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 24
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17931116022",
    "name": "Kapcie klapki pantofle unisex rozm 40-43 przepuszczające powietrze otwarte",
    "shop": "toratex_pl",
@@ -7922,6 +7905,23 @@
     "5": 24
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 4.92,
+   "reviews": 26,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 25
+   },
+   "salesBand": "50-99"
   },
   {
    "offerId": "17622515513",
@@ -8159,7 +8159,7 @@
     "4": 2,
     "5": 34
    },
-   "salesBand": "10-49"
+   "salesBand": "0"
   },
   {
    "offerId": "18364435450",
