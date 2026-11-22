@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:31:11Z",
+ "updated": "2026-11-22T12:13:43Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1241,23 +1241,6 @@
     "5": 0
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18499978579",
-   "name": "Kołdra 200x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18499978579",
-   "sku": "LN025Z",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18489136387",
@@ -3640,6 +3623,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18499978579",
+   "name": "Kołdra 200x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18499978579",
+   "sku": "LN025Z",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18499912149",
    "name": "Kołdra 140x200 ZIMOWA antyalergiczna 100% BAWEŁNA super jakość TORA",
    "shop": "toratex_pl",
@@ -3926,7 +3926,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18075807993",
@@ -4266,7 +4266,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17737134291",
@@ -4946,7 +4946,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18949799334",
@@ -5134,23 +5134,6 @@
     "5": 2
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18488840499",
-   "name": "Prześcieradło gumka 4 rogi 140x200x25 hotelowe 100% bawełna wytrzymałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18488840499",
-   "sku": "LN002B",
-   "avg": 5.0,
-   "reviews": 2,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 2
-   },
-   "salesBand": "10-49"
   },
   {
    "offerId": "18141905984",
@@ -5680,6 +5663,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18488840499",
+   "name": "Prześcieradło gumka 4 rogi 140x200x25 hotelowe 100% bawełna wytrzymałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18488840499",
+   "sku": "LN002B",
+   "avg": 5.0,
+   "reviews": 3,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18485739957",
    "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
    "shop": "toratex_pl",
@@ -5813,7 +5813,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17955527193",
@@ -7837,23 +7837,6 @@
     "5": 23
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18457325725",
-   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18457325725",
-   "sku": "LN037L",
-   "avg": 4.8,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 3,
-    "5": 21
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18931396451",
