@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:04:53Z",
+ "updated": "2026-11-23T13:58:27Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -2311,7 +2311,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17666240436",
@@ -3402,6 +3402,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19148283448",
+   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148283448",
+   "sku": "LN208B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "19084698252",
    "name": "Poszwa 160x200 na kołdrę 100% BAWEŁNA paski ADAMASZEK hotelowa zakładka",
    "shop": "toratex_pl",
@@ -3433,7 +3450,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18946565230",
@@ -3604,6 +3621,23 @@
     "5": 1
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18523941895",
+   "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18523941895",
+   "sku": "LN208B",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18505439489",
@@ -4286,6 +4320,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "17736747631",
+   "name": "Poszewka 70x80 na poduszkę hotelowa wytrzymała oddychający materiał koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736747631",
+   "sku": "LN107 SIMPLE",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "17736747034",
    "name": "Prześcieradło bez gumki 160x200 tradycyjne białe HOTELOWE 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -4886,6 +4937,40 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18354746214",
    "sku": "MT0",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19148287961",
+   "name": "Materac 160x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148287961",
+   "sku": "MD4",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "19148284388",
+   "name": "Prześcieradło z gumką 200x200x30 białe 100% BAWEŁNA hotelowe trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148284388",
+   "sku": "LN216",
    "avg": 5.0,
    "reviews": 2,
    "dist": {
@@ -5813,7 +5898,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17955527193",
@@ -6008,6 +6093,23 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18357334870",
    "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "19148286010",
+   "name": "Prześcieradło 160x200 z gumką bawełna solidne trwałe hotelowe gładkie",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148286010",
+   "sku": "LN007",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -7040,6 +7142,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "19148287359",
+   "name": "Materac 90x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148287359",
+   "sku": "MV1",
+   "avg": 4.9,
+   "reviews": 10,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 9
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18952596143",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna gładki 50x80cm",
    "shop": "toratex_pl",
@@ -7343,7 +7462,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17215773602",
@@ -7431,6 +7550,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "19148288505",
+   "name": "Materac 160x200cm Twardy H5 sprężynowy kieszeniowy ANTYALERGICZNY TORA 30cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148288505",
+   "sku": "MR4",
+   "avg": 5.0,
+   "reviews": 14,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 14
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18485608818",
    "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 400GSM SPA ZESTAW x10 TORA",
    "shop": "toratex_pl",
@@ -7480,6 +7616,40 @@
     "5": 14
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "19148284830",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148284830",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18485802417",
+   "name": "Ręcznik 40x40 cm 100% BAWEŁNA do rąk twarzy 700GSM premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485802417",
+   "sku": "LN237L",
+   "avg": 5.0,
+   "reviews": 16,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 16
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18256566314",
@@ -7785,7 +7955,7 @@
     "4": 0,
     "5": 23
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18521670335",
@@ -7839,6 +8009,23 @@
    "salesBand": "10-49"
   },
   {
+   "offerId": "19148285134",
+   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148285134",
+   "sku": "LN037L",
+   "avg": 4.8,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 3,
+    "5": 21
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18931396451",
    "name": "Pokrowiec OCHRANIACZ na materac WODOODPORNY 90x200 100% mikrofibra TORA",
    "shop": "toratex_pl",
@@ -7871,6 +8058,23 @@
     "5": 24
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "19148281910",
+   "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148281910",
+   "sku": "LN096",
+   "avg": 4.96,
+   "reviews": 25,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 24
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "17931116022",
@@ -7907,19 +8111,36 @@
    "salesBand": "50-99"
   },
   {
+   "offerId": "19148290022",
+   "name": "Poduszka 50x70 hotelowa gładka ANTYALERGICZNA średnie podparcie 1000g",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148290022",
+   "sku": "LN017",
+   "avg": 4.96,
+   "reviews": 27,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 26
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "17622515513",
    "name": "Poduszka puchowa 50x70 z gęsim pierzem regulowana wysokość naturalna GRUBA",
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17622515513",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 28,
+   "reviews": 29,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 28
+    "5": 29
    },
    "salesBand": "10-49"
   },
@@ -7989,7 +8210,7 @@
     "4": 1,
     "5": 29
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "16003245395",
@@ -8031,14 +8252,14 @@
    "shop": "tora_official",
    "url": "https://allegro.pl/oferta/18260334434",
    "sku": "LN018",
-   "avg": 4.84,
-   "reviews": 32,
+   "avg": 4.85,
+   "reviews": 33,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 30
+    "5": 31
    },
    "salesBand": "1-9"
   },
@@ -8048,14 +8269,14 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/17702908317",
    "sku": "LN018",
-   "avg": 4.84,
-   "reviews": 32,
+   "avg": 4.85,
+   "reviews": 33,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 30
+    "5": 31
    },
    "salesBand": "50-99"
   },
@@ -8065,14 +8286,14 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16003362238",
    "sku": "LN018 CLASSIC",
-   "avg": 4.84,
-   "reviews": 32,
+   "avg": 4.85,
+   "reviews": 33,
    "dist": {
     "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 30
+    "5": 31
    },
    "salesBand": "10-49"
   },
@@ -8143,6 +8364,40 @@
     "5": 34
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "19148289151",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148289151",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 38,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 38
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "17817794007",
+   "name": "Poszewka na poduszkę 50x70 100% bawełna ADAMASZEK piękne paski hotelowe",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17817794007",
+   "sku": "LN195",
+   "avg": 5.0,
+   "reviews": 38,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 38
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18364435450",
@@ -8525,32 +8780,15 @@
    "url": "https://allegro.pl/oferta/19113070814",
    "sku": "",
    "avg": 4.71,
-   "reviews": 524,
+   "reviews": 525,
    "dist": {
     "1": 26,
     "2": 5,
     "3": 9,
     "4": 13,
-    "5": 471
+    "5": 472
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "19112737115",
-   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna 2 sztuki",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/19112737115",
-   "sku": "Zest-8806090134654",
-   "avg": 4.71,
-   "reviews": 524,
-   "dist": {
-    "1": 26,
-    "2": 5,
-    "3": 9,
-    "4": 13,
-    "5": 471
-   },
-   "salesBand": "1-9"
   }
  ]
 }
