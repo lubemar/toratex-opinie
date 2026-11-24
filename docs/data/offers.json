@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:27:04Z",
+ "updated": "2026-11-24T14:34:59Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5595,23 +5595,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18527316505",
-   "name": "Ręcznik TORA 50x100 100% Bawełna GRUBY do rąk SPA premium 700GSM",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18527316505",
-   "sku": "LN035L",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18364501983",
    "name": "Prześcieradło 220x250 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
    "shop": "tora_official",
@@ -5763,23 +5746,6 @@
     "5": 3
    },
    "salesBand": "10-49"
-  },
-  {
-   "offerId": "18485739957",
-   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18485739957",
-   "sku": "LN035P",
-   "avg": 5.0,
-   "reviews": 3,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 3
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18091150199",
@@ -6071,6 +6037,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "18527316505",
+   "name": "Ręcznik TORA 50x100 100% Bawełna GRUBY do rąk SPA premium 700GSM",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18527316505",
+   "sku": "LN035L",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
+  },
+  {
    "offerId": "18357340671",
    "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -6188,6 +6171,23 @@
     "5": 4
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18485739957",
+   "name": "Ręcznik 50x100 cm do rąk ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18485739957",
+   "sku": "LN035P",
+   "avg": 5.0,
+   "reviews": 4,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 4
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18225408392",
@@ -7003,7 +7003,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17955486486",
@@ -7326,7 +7326,7 @@
     "4": 1,
     "5": 11
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18615114100",
@@ -8009,23 +8009,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "19148285134",
-   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/19148285134",
-   "sku": "LN037L",
-   "avg": 4.8,
-   "reviews": 25,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 3,
-    "5": 21
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18931396451",
    "name": "Pokrowiec OCHRANIACZ na materac WODOODPORNY 90x200 100% mikrofibra TORA",
    "shop": "toratex_pl",
@@ -8092,6 +8075,23 @@
     "5": 24
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "19148285134",
+   "name": "Ręcznik 70x140 cm do ciała 100% bawełna 700GSM gruby MIĘKKI premium SPA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/19148285134",
+   "sku": "LN037L",
+   "avg": 4.81,
+   "reviews": 26,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 3,
+    "5": 22
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "18466527307",
@@ -8244,7 +8244,7 @@
     "4": 3,
     "5": 28
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18260334434",
