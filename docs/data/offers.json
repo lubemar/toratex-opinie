@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:46:39Z",
+ "updated": "2026-11-25T22:55:45Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -3368,23 +3368,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18060331493",
-   "name": "Prześcieradło 150x220 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18060331493",
-   "sku": "LN011",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "19148283448",
    "name": "Poszwa na kołdrę 200x220 100% BAWEŁNA hotelowa BIAŁA 200TC zamek",
    "shop": "toratex_pl",
@@ -3603,7 +3586,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18523941895",
@@ -3961,23 +3944,6 @@
     "5": 1
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18075807993",
-   "name": "Prześcieradło bez gumki 90x200 tradycyjne hotelowe BIAŁE 100% bawełna",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18075807993",
-   "sku": "LN011",
-   "avg": 5.0,
-   "reviews": 1,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 1
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18057303557",
@@ -4949,6 +4915,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18060331493",
+   "name": "Prześcieradło 150x220 Białe Hotelowe 100% Bawełna Wysoka Jakość Tradycyjne",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18060331493",
+   "sku": "LN011",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "19148287961",
    "name": "Materac 160x200 H3 H4 Dwustronny Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
@@ -5236,6 +5219,23 @@
     "5": 2
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18075807993",
+   "name": "Prześcieradło bez gumki 90x200 tradycyjne hotelowe BIAŁE 100% bawełna",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075807993",
+   "sku": "LN011",
+   "avg": 5.0,
+   "reviews": 2,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18059476620",
@@ -5575,7 +5575,7 @@
     "4": 0,
     "5": 2
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17923269029",
@@ -7054,7 +7054,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18358113183",
@@ -7360,7 +7360,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "10-49"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17993397850",
@@ -7632,7 +7632,7 @@
     "4": 0,
     "5": 16
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18485802417",
@@ -8077,23 +8077,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18466527307",
-   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466527307",
-   "sku": "LN104B",
-   "avg": 4.92,
-   "reviews": 26,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 1,
-    "4": 0,
-    "5": 25
-   },
-   "salesBand": "100+"
-  },
-  {
    "offerId": "19148281910",
    "name": "Poduszka hotelowa 50x70 CERTYFIKOWANA antyalergiczna BAWEŁNA 1300g TORA",
    "shop": "toratex_pl",
@@ -8109,6 +8092,23 @@
     "5": 25
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18466527307",
+   "name": "Poszewka 50x70 – 100% Bawełna Certyfikowana, Antyalergiczna BALANCE",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466527307",
+   "sku": "LN104B",
+   "avg": 4.93,
+   "reviews": 27,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 26
+   },
+   "salesBand": "100+"
   },
   {
    "offerId": "19148290022",
@@ -8210,7 +8210,7 @@
     "4": 3,
     "5": 28
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18260334434",
