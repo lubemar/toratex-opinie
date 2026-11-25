@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:45:07Z",
+ "updated": "2026-11-25T13:46:39Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -5864,7 +5864,7 @@
     "4": 0,
     "5": 3
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17955527193",
@@ -6054,23 +6054,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18357340671",
-   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357340671",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "18357334870",
    "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -6190,23 +6173,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18225408392",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18225408392",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18093892606",
    "name": "Prześcieradło bez gumki 140x200 tradycyjne białe hotelowe 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -6324,23 +6290,6 @@
     "5": 4
    },
    "salesBand": "1-9"
-  },
-  {
-   "offerId": "18738520264",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18738520264",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
   },
   {
    "offerId": "17189498153",
@@ -6496,6 +6445,40 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357340671",
+   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357340671",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
+   "offerId": "18225408392",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18225408392",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "18075547708",
    "name": "Prześcieradło z gumką 90x200x25 SOLIDNE100% bawełna HOTELOWE trwałe TORA",
    "shop": "toratex_pl",
@@ -6613,6 +6596,23 @@
     "5": 5
    },
    "salesBand": "1-9"
+  },
+  {
+   "offerId": "18738520264",
+   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/18738520264",
+   "sku": "MTP5",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
   },
   {
    "offerId": "16333838885",
@@ -7360,7 +7360,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "50-99"
+   "salesBand": "10-49"
   },
   {
    "offerId": "17993397850",
@@ -7377,7 +7377,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18253512780",
@@ -8142,7 +8142,7 @@
     "4": 0,
     "5": 29
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18256894763",
@@ -8192,40 +8192,6 @@
     "3": 1,
     "4": 1,
     "5": 28
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "17702945906",
-   "name": "Poduszka 40x40 jasiek mała profilowana hotelowa KOMFORT SNU puszysta 330g",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17702945906",
-   "sku": "LN019",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "16003245395",
-   "name": "PODUSZKA 40X40 ANTYALERGICZNA DO SPANIA DEKORACYJNA HOTELOWA",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003245395",
-   "sku": "LN019 CLASSIC",
-   "avg": 4.84,
-   "reviews": 31,
-   "dist": {
-    "1": 1,
-    "2": 0,
-    "3": 0,
-    "4": 1,
-    "5": 29
    },
    "salesBand": "1-9"
   },
@@ -8363,7 +8329,7 @@
     "4": 2,
     "5": 34
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "19148289151",
@@ -8550,7 +8516,7 @@
     "4": 2,
     "5": 68
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "17532987937",
