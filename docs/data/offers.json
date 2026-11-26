@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:25:07Z",
+ "updated": "2026-11-26T22:45:20Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -1444,7 +1444,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18225356081",
@@ -1955,23 +1955,6 @@
     "5": 0
    },
    "salesBand": "0"
-  },
-  {
-   "offerId": "18075748254",
-   "name": "Prześcieradło z gumką 140x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18075748254",
-   "sku": "LN006",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "1-9"
   },
   {
    "offerId": "18059669773",
@@ -2960,23 +2943,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "16334016794",
-   "name": "PRZEŚCIERADŁO 140x200 Z GUMKĄ GŁADKIE MEGA WYTRZYMAŁE HOTELOWE 300 PRAŃ",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16334016794",
-   "sku": "LN006 SIMPLE",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "16179380593",
    "name": "PRZEŚCIERADŁO 250x260 TRADYCYJNE KLASYCZNE PREMIUM BAWEŁNA GŁADKIE SUPREME",
    "shop": "TORATEX",
@@ -3552,7 +3518,7 @@
     "4": 0,
     "5": 1
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18564172670",
@@ -3927,6 +3893,23 @@
     "5": 1
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18075748254",
+   "name": "Prześcieradło z gumką 140x200x25 gładkie 100% bawełna HOTELOWE trwałe TORA",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18075748254",
+   "sku": "LN006",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18057303557",
@@ -4711,6 +4694,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "16334016794",
+   "name": "PRZEŚCIERADŁO 140x200 Z GUMKĄ GŁADKIE MEGA WYTRZYMAŁE HOTELOWE 300 PRAŃ",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16334016794",
+   "sku": "LN006 SIMPLE",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18357328957",
    "name": "Materac 140x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
    "shop": "tora_official",
@@ -4776,7 +4776,7 @@
     "4": 1,
     "5": 1
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18527078837",
@@ -6666,23 +6666,6 @@
    "salesBand": "10-49"
   },
   {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
-   "avg": 5.0,
-   "reviews": 6,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 6
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18034680307",
    "name": "Materac 140x200 SPRĘŻYNOWO KIESZENIOWY twardy 7 stref ANTYALERGICZNY 20cm",
    "shop": "toratex_pl",
@@ -6800,6 +6783,23 @@
     "5": 7
    },
    "salesBand": "0"
+  },
+  {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
+   "avg": 5.0,
+   "reviews": 7,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+   },
+   "salesBand": "10-49"
   },
   {
    "offerId": "18459736436",
@@ -7275,7 +7275,7 @@
     "4": 0,
     "5": 12
    },
-   "salesBand": "1-9"
+   "salesBand": "10-49"
   },
   {
    "offerId": "18488887868",
@@ -7686,23 +7686,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "17736860426",
-   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/17736860426",
-   "sku": "LN106",
-   "avg": 5.0,
-   "reviews": 19,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 19
-   },
-   "salesBand": "50-99"
-  },
-  {
    "offerId": "17615651795",
    "name": "Ręcznik kąpielowy 50x100 plażowy 100% BAWEŁNA mega gruby MIĘKKI trwały SPA",
    "shop": "toratex_pl",
@@ -7737,6 +7720,23 @@
    "salesBand": "1-9"
   },
   {
+   "offerId": "17736860426",
+   "name": "Poszewka na poduszkę 70x80 ANTYALERGICZNA certyfikowana bawełna 100%koperta",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/17736860426",
+   "sku": "LN106",
+   "avg": 5.0,
+   "reviews": 20,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+   },
+   "salesBand": "50-99"
+  },
+  {
    "offerId": "18952633104",
    "name": "Poszewka na poduszkę 50x70 ANTYALERGICZNA 100% bawełna TORA",
    "shop": "toratex_pl",
@@ -7751,7 +7751,7 @@
     "4": 1,
     "5": 20
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "18187585355",
@@ -8227,7 +8227,7 @@
     "4": 2,
     "5": 32
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17215776241",
@@ -8661,13 +8661,13 @@
    "url": "https://allegro.pl/oferta/19126473132",
    "sku": "",
    "avg": 4.9,
-   "reviews": 96,
+   "reviews": 97,
    "dist": {
     "1": 2,
     "2": 0,
     "3": 0,
     "4": 2,
-    "5": 92
+    "5": 93
    },
    "salesBand": "10-49"
   }
