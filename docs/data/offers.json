@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:55:45Z",
+ "updated": "2026-11-26T13:25:07Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -500,23 +500,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18741096955",
    "sku": "K10",
-   "avg": 0,
-   "reviews": 0,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18737969280",
-   "name": "Koszo popielnica na ŚMIECI odpady do domu biura kosz",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18737969280",
-   "sku": "K12",
    "avg": 0,
    "reviews": 0,
    "dist": {
@@ -6088,23 +6071,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18952598357",
-   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18952598357",
-   "sku": "LN039",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
    "offerId": "18823601749",
    "name": "Pokrowiec na materac 160x200 ochraniacz nakładka wodoodporna pikowana",
    "shop": "toratex_pl",
@@ -6289,7 +6255,7 @@
     "4": 0,
     "5": 4
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "17189498153",
@@ -6314,23 +6280,6 @@
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16333775682",
    "sku": "LN002 SUPREME",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "16003584463",
-   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/16003584463",
-   "sku": "LN039",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6445,28 +6394,11 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18357340671",
-   "name": "Materac 180x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357340671",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
-   "offerId": "18225408392",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowo sprężynowy ANTYALERGICZNY 25cm",
+   "offerId": "18952598357",
+   "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
    "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18225408392",
-   "sku": "MTP5",
+   "url": "https://allegro.pl/oferta/18952598357",
+   "sku": "LN039",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -6476,7 +6408,7 @@
     "4": 0,
     "5": 5
    },
-   "salesBand": "10-49"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18075547708",
@@ -6598,23 +6530,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18738520264",
-   "name": "Materac 180x200 H5 BARDZO TWARDY Kieszeniowy sprężynowy ANTYALERGICZNY 25cm",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/18738520264",
-   "sku": "MTP5",
-   "avg": 5.0,
-   "reviews": 5,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 5
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "16333838885",
    "name": "PRZEŚCIERADŁO 90x200 Z GUMKĄ 100% BAWEŁNA GŁADKIE MEGA WYTRZYMAŁE 300 PRAŃ",
    "shop": "TORATEX",
@@ -6647,6 +6562,23 @@
     "5": 5
    },
    "salesBand": "10-49"
+  },
+  {
+   "offerId": "16003584463",
+   "name": "MATA ŁAZIENKOWA 50x80 BAWEŁNA MIĘKKA XXL DYWANIK BARDZO CHŁONNY 875GM2",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/16003584463",
+   "sku": "LN039",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358210515",
@@ -8736,23 +8668,6 @@
     "3": 0,
     "4": 2,
     "5": 92
-   },
-   "salesBand": "10-49"
-  },
-  {
-   "offerId": "19113070814",
-   "name": "Ładowarka sieciowa Samsung 45W USB typ C czarna",
-   "shop": "TORATEX",
-   "url": "https://allegro.pl/oferta/19113070814",
-   "sku": "",
-   "avg": 4.71,
-   "reviews": 525,
-   "dist": {
-    "1": 26,
-    "2": 5,
-    "3": 9,
-    "4": 13,
-    "5": 472
    },
    "salesBand": "10-49"
   }
