@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:45:20Z",
+ "updated": "2026-11-27T13:23:38Z",
  "offers": [
   {
    "offerId": "18530073766",
@@ -917,7 +917,7 @@
     "4": 0,
     "5": 0
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18523934131",
@@ -4286,6 +4286,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "19165069628",
+   "name": "POŚCIEL BAWEŁNIANA 200x200 KOMPLET + 2 poszewki 50x70 hotelowa SUPREME",
+   "shop": "TORATEX",
+   "url": "https://allegro.pl/oferta/19165069628",
+   "sku": "LN043",
+   "avg": 5.0,
+   "reviews": 1,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18738956159",
    "name": "Materac 180x200 BARDZO TWARDY H5 Sprężynowy kieszeniowy Topper WYSOKI 32 cm",
    "shop": "TORATEX",
@@ -4661,7 +4678,7 @@
   },
   {
    "offerId": "16360431242",
-   "name": "POŚCIEL 180x200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
+   "name": "POŚCIEL BAWEŁNIANA 180X200 KOMPLET + 2 poszewki 50x70 hotelowa SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16360431242",
    "sku": "LN042",
@@ -4678,7 +4695,7 @@
   },
   {
    "offerId": "16360352523",
-   "name": "POŚCIEL 160X200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
+   "name": "POŚCIEL BAWEŁNIANA 160X200 KOMPLET + 2 poszewki 50x70 hotelowa SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16360352523",
    "sku": "LN041",
@@ -6037,23 +6054,6 @@
    "salesBand": "1-9"
   },
   {
-   "offerId": "18357334870",
-   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
-   "shop": "tora_official",
-   "url": "https://allegro.pl/oferta/18357334870",
-   "sku": "MTP4",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "0"
-  },
-  {
    "offerId": "19148286010",
    "name": "Prześcieradło 160x200 z gumką bawełna solidne trwałe hotelowe gładkie",
    "shop": "toratex_pl",
@@ -6161,23 +6161,6 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075645076",
    "sku": "LN002",
-   "avg": 5.0,
-   "reviews": 4,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 4
-   },
-   "salesBand": "1-9"
-  },
-  {
-   "offerId": "18034816945",
-   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18034816945",
-   "sku": "MTP4",
    "avg": 5.0,
    "reviews": 4,
    "dist": {
@@ -6394,6 +6377,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18357334870",
+   "name": "Materac 160x200 Sprężynowy Kieszeniowy Twardy 25cm 7 Stref Zdrowy Sen",
+   "shop": "tora_official",
+   "url": "https://allegro.pl/oferta/18357334870",
+   "sku": "MTP4",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "0"
+  },
+  {
    "offerId": "18952598357",
    "name": "MATA ŁAZIENKOWA dywanik stopka hotelowa chłonna 50x80cm",
    "shop": "toratex_pl",
@@ -6416,6 +6416,23 @@
    "shop": "toratex_pl",
    "url": "https://allegro.pl/oferta/18075547708",
    "sku": "LN001",
+   "avg": 5.0,
+   "reviews": 5,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 5
+   },
+   "salesBand": "1-9"
+  },
+  {
+   "offerId": "18034816945",
+   "name": "Materac 160x200 H5 TWARDY Sprężynowy Kieszeniowy ANTYALERGICZNY Tora 25cm",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18034816945",
+   "sku": "MTP4",
    "avg": 5.0,
    "reviews": 5,
    "dist": {
@@ -6701,7 +6718,7 @@
   },
   {
    "offerId": "16179331733",
-   "name": "POŚCIEL 140x200 KOMPLET + 2 POSZEWKI 50X70 BAWEŁNIANA HOTELOWA SUPREME",
+   "name": "POŚCIEL BAWEŁNIANA 140X200 KOMPLET + 2 poszewki 50x70 hotelowa SUPREME",
    "shop": "TORATEX",
    "url": "https://allegro.pl/oferta/16179331733",
    "sku": "LN040",
@@ -6785,23 +6802,6 @@
    "salesBand": "0"
   },
   {
-   "offerId": "18466466102",
-   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
-   "shop": "toratex_pl",
-   "url": "https://allegro.pl/oferta/18466466102",
-   "sku": "LN009B",
-   "avg": 5.0,
-   "reviews": 7,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 7
-   },
-   "salesBand": "10-49"
-  },
-  {
    "offerId": "18459736436",
    "name": "Ręczniki 30x30 cm 100% BAWEŁNA do rąk twarzy 600GSM ZESTAW x10 premium SPA",
    "shop": "toratex_pl",
@@ -6850,7 +6850,7 @@
     "4": 1,
     "5": 7
    },
-   "salesBand": "1-9"
+   "salesBand": "0"
   },
   {
    "offerId": "18357646068",
@@ -6938,6 +6938,23 @@
    "salesBand": "0"
   },
   {
+   "offerId": "18466466102",
+   "name": "Poszewka 40x40 Jasiek – Oddychająca, Antypotowa, Komfortowy Sen",
+   "shop": "toratex_pl",
+   "url": "https://allegro.pl/oferta/18466466102",
+   "sku": "LN009B",
+   "avg": 5.0,
+   "reviews": 8,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 8
+   },
+   "salesBand": "10-49"
+  },
+  {
    "offerId": "17955486486",
    "name": "Materac 160x200 H4 H5 DWUSTRONNY Sprężynowo kieszeniowy Antyalergiczny 30cm",
    "shop": "toratex_pl",
@@ -6986,7 +7003,7 @@
     "4": 0,
     "5": 8
    },
-   "salesBand": "0"
+   "salesBand": "1-9"
   },
   {
    "offerId": "18358113183",
@@ -7751,7 +7768,7 @@
     "4": 1,
     "5": 20
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "18187585355",
@@ -8066,13 +8083,13 @@
    "url": "https://allegro.pl/oferta/17622515513",
    "sku": "LN112",
    "avg": 5.0,
-   "reviews": 29,
+   "reviews": 30,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 0,
-    "5": 29
+    "5": 30
    },
    "salesBand": "1-9"
   },
@@ -8227,7 +8244,7 @@
     "4": 2,
     "5": 32
    },
-   "salesBand": "100+"
+   "salesBand": "50-99"
   },
   {
    "offerId": "17215776241",
@@ -8414,7 +8431,7 @@
     "4": 2,
     "5": 47
    },
-   "salesBand": "50-99"
+   "salesBand": "100+"
   },
   {
    "offerId": "17668946883",
